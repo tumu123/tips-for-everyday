@@ -76,7 +76,7 @@ export const CATEGORIES = {
     title: 'Organize',
     description:
       'Practical home organization systems for kitchens, closets, small spaces, and paperwork — designed to stay organized long term.',
-    subcategories: ['Kitchen', 'Closet', 'Small Spaces'],
+    subcategories: ['Kitchen', 'Closet', 'Small Spaces', 'Home Systems'],
   },
   'kitchen-tips': {
     title: 'Kitchen Tips',
@@ -88,7 +88,7 @@ export const CATEGORIES = {
     title: 'Fix It',
     description:
       'Fix common household problems yourself — plumbing, doors, walls, and small repairs — without calling a professional for jobs that take minutes.',
-    subcategories: ['Home Repair', 'Maintenance'],
+    subcategories: ['Home Repair', 'Maintenance', 'Plumbing'],
   },
 };
 
@@ -122,6 +122,8 @@ export const SUBCATEGORY_DESCRIPTIONS: Record<string, string> = {
     'Closet, wardrobe, and paper organization that holds up over time — zoning by frequency, seasonal storage, and document retention rules.',
   'Small Spaces':
     'Make tight spaces functional — under-sink cabinets, small kitchens, and storage that uses vertical space instead of buying more bins.',
+  'Home Systems':
+    'Organize the recurring systems of a home — cleaning supplies, household stock, and the routines that keep them from drifting back into clutter.',
   // Kitchen Tips
   'Food Storage':
     'How long food actually lasts, how to store it so it keeps, and how to tell when it has genuinely gone bad — with real shelf-life windows.',
@@ -132,6 +134,8 @@ export const SUBCATEGORY_DESCRIPTIONS: Record<string, string> = {
     'Fix sticking doors, squeaky hinges and floors, and drywall holes yourself — with the diagnosis-first approach that avoids unnecessary damage.',
   Maintenance:
     'Seasonal and annual maintenance that prevents expensive repairs — home checklists, frozen pipe prevention, and water heater care.',
+  Plumbing:
+    'Diagnose and fix common plumbing problems yourself — running toilets, leaks, and clogs — without a service call.',
 };
 
 /** 子栏目 → 所属主栏目 的反查映射 */
