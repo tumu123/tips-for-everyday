@@ -30,6 +30,7 @@ howToTools:
 relatedSlugs:
   - "remove-mold-bathroom-caulk"
   - "remove-hard-water-stains-shower-door"
+  - "remove-soap-scum"
   - "clean-stainless-steel-appliances"
 draft: false
 ---

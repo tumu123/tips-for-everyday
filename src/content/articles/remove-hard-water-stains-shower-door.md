@@ -27,6 +27,7 @@ howToTools:
 relatedSlugs:
   - "clean-grout-keep-white"
   - "clean-stainless-steel-appliances"
+  - "remove-soap-scum"
   - "remove-mold-bathroom-caulk"
 draft: false
 ---

@@ -31,6 +31,7 @@ relatedSlugs:
   - "how-to-clean-washing-machine"
   - "save-money-on-laundry"
   - "remove-red-wine-stains"
+  - "remove-ink-stains-fabric"
 draft: false
 ---
 

@@ -32,6 +32,7 @@ relatedSlugs:
   - "remove-hard-water-stains-shower-door"
   - "how-to-clean-washing-machine"
   - "clean-range-hood-filters"
+  - "remove-burnt-food-stovetop"
 draft: false
 ---
 
