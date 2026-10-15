@@ -3,71 +3,63 @@
 **项目：** tips-for-everyday.com
 **技术栈：** Astro 5 + Cloudflare Pages（纯静态）
 **成本：** $0/月（免费版：无限带宽、500 次构建/月）
+**仓库：** https://github.com/tumu123/tips-for-everyday
 
 ---
 
-## 一、部署前必做：替换 4 处占位值
+## 一、配置状态（2026-10-15 更新）
 
-这些值集中在一个文件里，改完即可部署。
+### 已完成
 
-### 文件：`src/utils/site-config.ts`
+| 项目 | 值 | 位置 |
+|---|---|---|
+| AdSense 发布商 ID | `ca-pub-4150144052388028` | `src/utils/site-config.ts` |
+| AdSense 广告单元（横向） | `3840545729` | `AD_SLOTS.articleTop` / `AD_SLOTS.categoryTop` |
+| AdSense 广告单元（方形） | `7304313863` | `AD_SLOTS.articleInline` |
+| ads.txt | 真实内容，含 `pub-4150144052388028` | `public/ads.txt` |
+| OG 分享图 | 1200×630 品牌图 | `public/images/og-default.jpg` |
+| 内容 | 44 篇文章 / 110,195 词 | `src/content/articles/` |
 
-| 字段 | 当前值 | 需替换为 | 获取位置 |
-|---|---|---|---|
-| `adsenseClient` | `ca-pub-XXXXXXXXXXXXXXXX` | 你的真实发布商 ID | AdSense 后台 → 账号 → 账号信息 |
-| `ga4MeasurementId` | `G-XXXXXXXXXX` | 你的 GA4 衡量 ID | Google Analytics → 管理 → 数据流 |
-| `domain` / `url` | `tips-for-everyday.com` | 已正确，无需改 | — |
-| `social.pinterest` | Pinterest 首页 | 你的 Pinterest 主页（可选） | — |
+### 待办（不阻塞部署）
 
-### 文件：`public/ads.txt`
+| 项目 | 说明 |
+|---|---|
+| `ga4MeasurementId` | 仍为 `G-XXXXXXXXXX`。未填时 gtag 脚本不注入，不会向站点发送脏数据。上线后补填即可，仅损失补填前的流量数据 |
+| `src/pages/contact.astro` 邮箱 | 当前 `contact@tips-for-everyday.com`，若该邮箱不存在请替换为实际可收信地址 |
+| `social.pinterest` | 当前指向 Pinterest 首页，可改为你的实际主页（可选） |
 
-从 AdSense 后台「网站 → ads.txt」复制实际内容，替换占位注释。格式：
-
-```
-google.com, pub-你的发布商ID, DIRECT, f08c47fec0942fa0
-```
-
-**这一步不能省。** 缺少或填写错误会导致部分广告主不投放，直接压低 RPM。
-
-### 文件：`src/pages/contact.astro`
-
-把 `contact@tips-for-everyday.com` 替换为你实际使用的邮箱。
-
-### 文件：`public/images/og-default.jpg`
-
-放置一张 1200×630 的社交分享图。没有的话社交平台分享时无缩略图。
+**GA4 ID 获取：** Google Analytics → 管理 → 数据流 → 选择网站数据流 → 衡量 ID（`G-` 开头）。
 
 ---
 
-## 二、部署方式二选一
+## 二、部署到 Cloudflare Pages
 
 ### 方式 A：Git 自动部署（推荐）
 
 **前置：** 一个 GitHub 账号。
 
-#### A1. 推送到 GitHub
+#### A1. 推送到 GitHub —— 已完成
+
+代码已在 https://github.com/tumu123/tips-for-everyday （分支 `main`，初始提交 `f68e697`）。
+
+后续更新只需：
 
 ```bash
 cd tips-for-everyday
-git init
 git add .
-git commit -m "Initial site: Astro + 5 guides"
-
-# 在 GitHub 上新建仓库后执行（替换为你的仓库地址）
-git remote add origin https://github.com/你的用户名/tips-for-everyday.git
-git branch -M main
-git push -u origin main
+git commit -m "描述本次改动"
+git push
 ```
 
 #### A2. 在 Cloudflare Pages 关联仓库
 
 1. 登录 Cloudflare Dashboard → **Workers & Pages** → **Create** → **Pages** → **Connect to Git**
-2. 授权 GitHub，选择刚才创建的仓库
-3. 构建设置保持默认（Astro 会被自动识别），确认三项：
+2. 授权 GitHub，选择仓库 `tumu123/tips-for-everyday`
+3. 构建设置确认三项：
    - **Framework preset:** `Astro`
    - **Build command:** `npm run build`
    - **Build output directory:** `dist`
-4. 展开 **Environment variables**，添加（可选但建议）：
+4. 展开 **Environment variables**，添加：
    - `NODE_VERSION` = `22`
 5. 点击 **Save and Deploy**
 
