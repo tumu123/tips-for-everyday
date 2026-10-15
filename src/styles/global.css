@@ -406,18 +406,51 @@ th {
 }
 
 /* ---------- 广告位 ---------- */
+/*
+ * 关键：父容器必须是 block，不可用 flex。
+ * display:flex 的主轴默认为水平方向，而 <ins> 在填充前内容为空，
+ * 作为 flex 子项会按 max-content 计算宽度 → 结果 0px。
+ * AdSense 见到 0 宽的广告位不会发起请求（实测 data-ad-status 始终不写入），
+ * 广告因此永久空白。改为 block 后 <ins> 自动撑满容器宽度。
+ */
 .ad-slot {
   margin: var(--space-6) 0;
   text-align: center;
+  display: block;
   min-height: 90px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   background: var(--color-bg-subtle);
   border: 1px dashed var(--color-border);
   border-radius: var(--radius);
   font-size: var(--text-xs);
   color: var(--color-text-muted);
+}
+
+/*
+ * 按广告形态预留最小高度，减少脚本执行前那段时间的页面跳动。
+ * 横向横幅约 90px；矩形单元常见 300×250，预留 250px。
+ *
+ * 重要：这个预留高度只在 adsbygoogle.js 处理之前生效。
+ * 一旦 AdSense 接管，它会给容器加上内联的
+ *   height: auto !important; min-height: 0px !important;
+ * 内联 !important 高于任何样式表规则，本文件里的 min-height 会被覆盖。
+ * 因此「预留高度」只能缓解首帧抖动，无法阻止填充瞬间的高变化
+ * （未填充时 AdSense 会主动把容器折叠为 0 高，这是它的设计行为，不要试图对抗）。
+ *
+ * 另外务必注意：历史上这里曾被组件内的 scoped 选择器写成 min-height:0，
+ * 属性选择器特异性更高，会把占位高度压回 0 —— 不要再出现这类覆盖。
+ */
+.ad-slot--horizontal {
+  min-height: 90px;
+}
+
+.ad-slot--rectangle {
+  min-height: 250px;
+}
+
+/* 兜底：确保 AdSense 插入的容器始终占满可用宽度 */
+.ad-slot > ins.adsbygoogle {
+  display: block;
+  width: 100%;
 }
 
 .ad-slot--label {

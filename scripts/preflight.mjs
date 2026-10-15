@@ -288,6 +288,47 @@ if (artTotal === 0) {
     : `${artTotal - artWithSchema}/${artTotal} 个含 FAQ 的页面缺 FAQPage schema ✗`);
 }
 
+// ── 15. AdSense 广告位容器布局（防止 width 塌陷回归） ──
+log('');
+log('═══ 预检 15：广告位容器布局 ═══');
+// 曾发生：.ad-slot 被设为 display:flex，导致内部空的 <ins> 作为 flex 子项
+// 宽度按 max-content 计算 → 0px → AdSense 不发起请求 → 全站广告永久空白。
+const cssFiles = [];
+(function walkCss(d) {
+  for (const f of fs.readdirSync(d)) {
+    const p2 = path.join(d, f);
+    if (fs.statSync(p2).isDirectory()) walkCss(p2);
+    else if (f.endsWith('.css')) cssFiles.push(p2);
+  }
+})('dist/_assets');
+const adCss = cssFiles.map((f) => fs.readFileSync(f, 'utf8')).join('\n');
+const baseRule = adCss.match(/\.ad-slot\s*\{([^}]*)\}/);
+if (!baseRule) {
+  fail('未找到 .ad-slot 基础规则 ✗');
+} else {
+  const body = baseRule[1];
+  const isFlex = /display\s*:\s*(inline-)?flex/.test(body);
+  log(isFlex
+    ? (fail('.ad-slot 仍为 display:flex —— <ins> 宽度会塌陷为 0，广告不会请求 ✗'), '')
+    : '.ad-slot 为 block 布局（<ins> 可撑满宽度）✓');
+}
+if (/min-height\s*:\s*0\b/.test(adCss)) {
+  log('检测到 min-height:0 声明，若为 .ad-slot 的规则会压掉占位高度 ⚠');
+}
+// 可持续主张：含广告位的页面数量
+let pagesWithSlot = 0;
+let contentPages = 0;
+for (const f of files) {
+  const rel = path.relative('dist', f).replace(/\\/g, '/');
+  if (/^(?:index|404)\.html$/.test(rel)) continue;
+  if (/^(?:about|contact|privacy-policy|terms|editorial-policy)\//.test(rel)) continue;
+  contentPages++;
+  if (fs.readFileSync(f, 'utf8').includes('class="ad-slot')) pagesWithSlot++;
+}
+log(contentPages === pagesWithSlot
+  ? `${contentPages} 个内容/栏目页全部带广告位（${pagesWithSlot}/${contentPages}）✓`
+  : `${contentPages - pagesWithSlot} 个内容页缺广告位（${pagesWithSlot}/${contentPages}）`);
+
 console.log(out.filter((l) => l !== '').join('\n'));
 console.log('');
 if (hardFail > 0) {
