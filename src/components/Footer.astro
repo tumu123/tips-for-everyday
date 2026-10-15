@@ -1,0 +1,55 @@
+---
+/**
+ * 页脚：栏目导航 + 法务链接 + 免责声明
+ */
+import { SITE, CATEGORIES } from '../utils/site-config';
+
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="site-footer__grid">
+    <div>
+      <h4>Categories</h4>
+      <ul>
+        {
+          Object.entries(CATEGORIES).map(([slug, cat]) => (
+            <li>
+              <a href={`/${slug}/`}>{cat.title}</a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+
+    <div>
+      <h4>About</h4>
+      <ul>
+        <li><a href="/about/">About Us</a></li>
+        <li><a href="/editorial-policy/">Editorial Policy</a></li>
+        <li><a href="/contact/">Contact</a></li>
+      </ul>
+    </div>
+
+    <div>
+      <h4>Legal</h4>
+      <ul>
+        <li><a href="/privacy-policy/">Privacy Policy</a></li>
+        <li><a href="/terms/">Terms of Use</a></li>
+        <li><a href="/sitemap-index.xml">Sitemap</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="site-footer__bottom">
+    <p>
+      © {year} {SITE.title}. All rights reserved.
+    </p>
+    <p>
+      {SITE.title} publishes general informational content about household care and
+      personal finance habits. It is not a substitute for professional advice from a
+      licensed plumber, electrician, contractor, or financial advisor. Always follow
+      product labels and local regulations.
+    </p>
+  </div>
+</footer>

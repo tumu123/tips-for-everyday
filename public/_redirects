@@ -1,0 +1,11 @@
+# Cloudflare Pages 重定向规则
+
+# www → 裸域名（保持单一规范域名，避免重复内容）
+https://www.tips-for-everyday.com/* https://tips-for-everyday.com/:splat 301
+
+# 常见错误路径纠正
+/home-hacks https://tips-for-everyday.com/home-hacks/ 301
+/save-money https://tips-for-everyday.com/save-money/ 301
+/organize https://tips-for-everyday.com/organize/ 301
+/kitchen-tips https://tips-for-everyday.com/kitchen-tips/ 301
+/fix-it https://tips-for-everyday.com/fix-it/ 301

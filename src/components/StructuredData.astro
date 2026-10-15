@@ -1,0 +1,86 @@
+---
+/**
+ * 结构化数据组件
+ * 根据文章的 schemaType 自动输出对应的 JSON-LD
+ */
+import { SITE } from '../utils/site-config';
+
+interface Props {
+  type: 'HowTo' | 'Article' | 'ItemList';
+  title: string;
+  description: string;
+  url: string;
+  pubDate: Date;
+  updatedDate?: Date;
+  author: string;
+  totalTime?: string;
+  supplies?: string[];
+  tools?: string[];
+  steps?: { name: string; text: string }[];
+  imageAlt?: string;
+}
+
+const {
+  type,
+  title,
+  description,
+  url,
+  pubDate,
+  updatedDate,
+  author,
+  totalTime,
+  supplies = [],
+  tools = [],
+  steps = [],
+  imageAlt,
+} = Astro.props;
+
+const base = {
+  '@context': 'https://schema.org',
+  name: title,
+  description,
+};
+
+let data: Record<string, unknown>;
+
+if (type === 'HowTo') {
+  data = {
+    ...base,
+    '@type': 'HowTo',
+    ...(totalTime ? { totalTime } : {}),
+    ...(supplies.length
+      ? { supply: supplies.map((s) => ({ '@type': 'HowToSupply', name: s })) }
+      : {}),
+    ...(tools.length ? { tool: tools.map((t) => ({ '@type': 'HowToTool', name: t })) } : {}),
+    ...(steps.length
+      ? {
+          step: steps.map((s) => ({
+            '@type': 'HowToStep',
+            name: s.name,
+            text: s.text,
+          })),
+        }
+      : {}),
+  };
+} else {
+  data = {
+    ...base,
+    '@type': 'Article',
+    headline: title,
+    author: { '@type': 'Person', name: author },
+    publisher: {
+      '@type': 'Organization',
+      name: SITE.title,
+      url: SITE.url,
+    },
+    datePublished: pubDate.toISOString().split('T')[0],
+    dateModified: (updatedDate ?? pubDate).toISOString().split('T')[0],
+    mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+    ...(imageAlt
+      ? { image: { '@type': 'ImageObject', url: `${SITE.url}/images/og-default.jpg`, caption: imageAlt } }
+      : {}),
+  };
+}
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(data)} />

@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# 禁止抓取构建产物与内部目录
+Disallow: /_assets/
+
+# 允许 Google 广告爬虫（AdSense 需要，用于 AdSense 匹配内容）
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+# Sitemap
+Sitemap: https://tips-for-everyday.com/sitemap-index.xml

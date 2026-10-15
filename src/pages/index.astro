@@ -1,0 +1,113 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE, CATEGORIES } from '../utils/site-config';
+import { getAllArticles, getArticleUrl } from '../utils/articles';
+
+const allArticles = await getAllArticles();
+const featured = allArticles.slice(0, 6);
+
+// 各栏目文章数量
+const categoryCounts = Object.fromEntries(
+  Object.entries(CATEGORIES).map(([slug, cat]) => [
+    slug,
+    allArticles.filter((a) => a.data.category === cat.title).length,
+  ])
+);
+
+// 各栏目取前 3 篇用于首页展示
+const categoryPreview = Object.entries(CATEGORIES)
+  .map(([slug, cat]) => ({
+    slug,
+    ...cat,
+    count: categoryCounts[slug],
+    articles: allArticles.filter((a) => a.data.category === cat.title).slice(0, 3),
+  }))
+  .filter((c) => c.articles.length > 0);
+---
+
+<BaseLayout
+  title={SITE.title}
+  description={SITE.description}
+  keywords={[
+    'everyday tips',
+    'home hacks',
+    'cleaning tips',
+    'save money at home',
+    'household tips',
+  ]}
+>
+  <section class="hero">
+    <div class="container">
+      <h1>Practical answers to everyday problems at home</h1>
+      <p>
+        Step-by-step guides with specific ratios, dwell times, and the mistakes that
+        waste your time. Cleaning, organizing, fixing, and cutting household costs —
+        written to be followed, not skimmed.
+      </p>
+    </div>
+  </section>
+
+  <div class="container">
+    {
+      featured.length > 0 && (
+        <>
+          <h2 class="section-title">Latest Guides</h2>
+          <div class="card-grid">
+            {featured.map((article) => (
+              <article class="card">
+                <a
+                  class="card__category"
+                  href={`/${Object.entries(CATEGORIES).find(([, c]) => c.title === article.data.category)?.[0]}/`}
+                >
+                  {article.data.category}
+                </a>
+                <h3 class="card__title">
+                  <a href={getArticleUrl(article)}>{article.data.title}</a>
+                </h3>
+                <p class="card__desc">{article.data.description}</p>
+              </article>
+            ))}
+          </div>
+        </>
+      )
+    }
+
+    {
+      categoryPreview.map((cat) => (
+        <>
+          <h2 class="section-title">
+            <a href={`/${cat.slug}/`} style="text-decoration:none;color:inherit;">
+              {cat.title}
+            </a>
+            <span
+              style="font-size:0.6em;font-weight:400;color:var(--color-text-muted);margin-left:0.5em;"
+            >
+              {cat.count} guides
+            </span>
+          </h2>
+          <div class="card-grid">
+            {cat.articles.map((article) => (
+              <article class="card">
+                <h3 class="card__title">
+                  <a href={getArticleUrl(article)}>{article.data.title}</a>
+                </h3>
+                <p class="card__desc">{article.data.description}</p>
+              </article>
+            ))}
+          </div>
+          <p style="font-size:var(--text-sm);">
+            <a href={`/${cat.slug}/`}>View all {cat.title} guides →</a>
+          </p>
+        </>
+      ))
+    }
+
+    {
+      allArticles.length === 0 && (
+        <p style="padding:var(--space-7) 0;color:var(--color-text-muted);">
+          Content is being published. Check back soon.
+        </p>
+      )
+    }
+  </div>
+</BaseLayout>

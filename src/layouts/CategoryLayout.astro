@@ -1,0 +1,135 @@
+---
+/**
+ * 栏目布局
+ * 用于栏目首页与子栏目页
+ */
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import AdSlot from '../components/AdSlot.astro';
+import { SITE, AD_SLOTS, subcategoryToSlug, SUBCATEGORY_DESCRIPTIONS } from '../utils/site-config';
+import { getArticleUrl, type Article } from '../utils/articles';
+
+interface Props {
+  categorySlug: string;
+  category: { title: string; description: string; subcategories: string[] };
+  allArticles: Article[];
+  activeSubcategory?: string;
+}
+
+const { categorySlug, category, allArticles, activeSubcategory } = Astro.props;
+
+// 筛选本栏目文章
+const catArticles = allArticles.filter((a) => a.data.category === category.title);
+
+// 子栏目筛选
+const visible = activeSubcategory
+  ? catArticles.filter(
+      (a) =>
+        a.data.subcategory &&
+        subcategoryToSlug(a.data.subcategory) === activeSubcategory
+    )
+  : catArticles;
+
+const activeSubName = activeSubcategory
+  ? category.subcategories.find((s) => subcategoryToSlug(s) === activeSubcategory)
+  : undefined;
+
+const crumbs = [
+  { label: 'Home', href: '/' },
+  ...(activeSubName
+    ? [
+        { label: category.title, href: `/${categorySlug}/` },
+        { label: activeSubName },
+      ]
+    : [{ label: category.title }]),
+];
+
+const pageTitle = activeSubName
+  ? `${activeSubName} — ${category.title}`
+  : category.title;
+
+// 子栏目优先使用专属描述，回退到栏目描述
+const pageDescription = activeSubName
+  ? SUBCATEGORY_DESCRIPTIONS[activeSubName] ?? category.description
+  : category.description;
+
+// 子栏目页的 meta description 带文章数；栏目页保持简洁
+const metaDescription = activeSubName
+  ? pageDescription
+  : `${category.description} Browse ${visible.length} practical guides.`;
+
+// 子栏目页的 H1 与页头文案使用专属描述
+const headerDescription = activeSubName ? pageDescription : category.description;
+---
+
+<BaseLayout
+  title={pageTitle}
+  description={metaDescription}
+  keywords={[category.title.toLowerCase(), ...category.subcategories.map((s) => s.toLowerCase())]}
+>
+  <div class="container">
+    <Breadcrumb items={crumbs} />
+
+    <header class="category-header">
+      <h1>{activeSubName ?? category.title}</h1>
+      <p>{headerDescription}</p>
+    </header>
+
+    {
+      !activeSubName && (
+        <div class="card-grid">
+          {category.subcategories.map((sub) => {
+            const count = catArticles.filter(
+              (a) => a.data.subcategory && subcategoryToSlug(a.data.subcategory) === subcategoryToSlug(sub)
+            ).length;
+            return (
+              <article class="card">
+                <a
+                  class="card__category"
+                  href={`/${categorySlug}/${subcategoryToSlug(sub)}/`}
+                >
+                  Subcategory
+                </a>
+                <h3 class="card__title">
+                  <a href={`/${categorySlug}/${subcategoryToSlug(sub)}/`}>{sub}</a>
+                </h3>
+                <p class="card__desc">{count} guide{count === 1 ? '' : 's'}</p>
+              </article>
+            );
+          })}
+        </div>
+      )
+    }
+
+    <AdSlot slot={AD_SLOTS.categoryTop} format="horizontal" />
+
+    <div class="card-grid">
+      {
+        visible.map((article) => (
+          <article class="card">
+            {article.data.subcategory && (
+              <a
+                class="card__category"
+                href={`/${categorySlug}/${subcategoryToSlug(article.data.subcategory)}/`}
+              >
+                {article.data.subcategory}
+              </a>
+            )}
+            <h3 class="card__title">
+              <a href={getArticleUrl(article)}>{article.data.title}</a>
+            </h3>
+            <p class="card__desc">{article.data.description}</p>
+          </article>
+        ))
+      }
+    </div>
+
+    {
+      visible.length === 0 && (
+        <p style="padding:var(--space-6) 0;color:var(--color-text-muted);">
+          No guides published in this section yet.
+        </p>
+      )
+    }
+  </div>
+</BaseLayout>

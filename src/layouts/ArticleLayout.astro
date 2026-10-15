@@ -1,0 +1,159 @@
+---
+/**
+ * 文章布局
+ * 组装：面包屑、标题元信息、广告位、正文、FAQ、相关阅读
+ */
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import AdSlot from '../components/AdSlot.astro';
+import FaqSection from '../components/FaqSection.astro';
+import RelatedPosts from '../components/RelatedPosts.astro';
+import StructuredData from '../components/StructuredData.astro';
+import { SITE, AD_SLOTS, articleUrl, categorySlug, subcategoryToSlug } from '../utils/site-config';
+
+interface FaqItem {
+  question: string;
+  answer: string;
+}
+
+interface RelatedItem {
+  slug: string;
+  title: string;
+  description: string;
+  url: string;
+}
+
+interface Props {
+  title: string;
+  description: string;
+  primaryKeyword: string;
+  secondaryKeywords?: string[];
+  category: string;
+  subcategory?: string;
+  pubDate: Date;
+  updatedDate?: Date;
+  author: string;
+  readingTime?: number;
+  featuredImageAlt?: string;
+  schemaType?: 'HowTo' | 'Article' | 'ItemList';
+  howToTotalTime?: string;
+  howToSupplies?: string[];
+  howToTools?: string[];
+  faq?: FaqItem[];
+  related?: RelatedItem[];
+  headings?: { depth: number; slug: string; text: string }[];
+}
+
+const {
+  title,
+  description,
+  primaryKeyword,
+  secondaryKeywords = [],
+  category,
+  subcategory,
+  pubDate,
+  updatedDate,
+  author,
+  readingTime,
+  featuredImageAlt,
+  schemaType = 'Article',
+  howToTotalTime,
+  howToSupplies = [],
+  howToTools = [],
+  faq = [],
+  related = [],
+  headings = [],
+} = Astro.props;
+
+const catSlug = categorySlug(category);
+
+// 面包屑
+const crumbs = [
+  { label: 'Home', href: '/' },
+  { label: category, href: `/${catSlug}/` },
+  ...(subcategory
+    ? [{ label: subcategory, href: `/${catSlug}/${subcategoryToSlug(subcategory)}/` }]
+    : []),
+  { label: title },
+];
+
+const postUrl = new URL(Astro.url.pathname, Astro.site).href;
+const dateFmt = (d: Date) =>
+  d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+
+// 从正文标题生成 HowTo 步骤（供结构化数据使用）
+const howToSteps = headings
+  .filter((h) => h.depth === 3 && /^Step \d+/i.test(h.text))
+  .map((h) => ({ name: h.text, text: h.text }));
+
+const keywords = [primaryKeyword, ...secondaryKeywords];
+---
+
+<BaseLayout
+  title={title}
+  description={`${description} Practical guide with specific ratios, steps, and common mistakes to avoid.`}
+  keywords={keywords}
+  type="article"
+  publishedTime={pubDate.toISOString()}
+  modifiedTime={(updatedDate ?? pubDate).toISOString()}
+>
+  <StructuredData
+    type={schemaType}
+    title={title}
+    description={description}
+    url={postUrl}
+    pubDate={pubDate}
+    updatedDate={updatedDate}
+    author={author}
+    totalTime={howToTotalTime}
+    supplies={howToSupplies}
+    tools={howToTools}
+    steps={howToSteps}
+    imageAlt={featuredImageAlt}
+  />
+
+  <div class="container--narrow">
+    <Breadcrumb items={crumbs} />
+
+    <article>
+      <header class="article-header">
+        <h1 class="article-title">{title}</h1>
+        <div class="article-meta">
+          <a class="article-meta__category" href={`/${catSlug}/`}>{category}</a>
+          {subcategory && <span>{subcategory}</span>}
+          <time datetime={pubDate.toISOString()}>Published {dateFmt(pubDate)}</time>
+          {
+            updatedDate && updatedDate.getTime() !== pubDate.getTime() && (
+              <time datetime={updatedDate.toISOString()}>
+                Updated {dateFmt(updatedDate)}
+              </time>
+            )
+          }
+          {readingTime && <span>{readingTime} min read</span>}
+        </div>
+      </header>
+
+      <!-- 首屏广告位（内容之后） -->
+      <AdSlot slot={AD_SLOTS.articleTop} format="horizontal" />
+
+      <div class="article-body">
+        <slot />
+      </div>
+
+      <!-- 正文中部广告位 -->
+      <AdSlot slot={AD_SLOTS.articleInline} format="rectangle" />
+
+      <FaqSection items={faq} />
+
+      <RelatedPosts items={related} />
+
+      <p class="disclaimer">
+        This guide provides general informational content based on commonly recommended
+        household methods. Results vary by material, product formulation, and technique.
+        Always test on a small hidden area first, follow product manufacturer instructions,
+        and consult a licensed professional for structural, electrical, or plumbing work
+        beyond routine maintenance.
+      </p>
+    </article>
+  </div>
+</BaseLayout>

@@ -1,0 +1,45 @@
+---
+/**
+ * FAQ 区块
+ * 同时输出可见内容和 FAQPage 结构化数据
+ */
+interface FaqItem {
+  question: string;
+  answer: string;
+}
+
+interface Props {
+  items: FaqItem[];
+}
+
+const { items } = Astro.props;
+
+const faqData = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: items.map((item) => ({
+    '@type': 'Question',
+    name: item.question,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: item.answer,
+    },
+  })),
+};
+---
+
+{
+  items.length > 0 && (
+    <section class="faq">
+      <h2>Frequently Asked Questions</h2>
+      {items.map((item) => (
+        <div class="faq__item">
+          <h3 class="faq__question">{item.question}</h3>
+          <p class="faq__answer">{item.answer}</p>
+        </div>
+      ))}
+    </section>
+  )
+}
+
+<script type="application/ld+json" set:html={JSON.stringify(faqData)} />

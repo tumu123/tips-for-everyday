@@ -1,0 +1,34 @@
+---
+/**
+ * 子栏目页路由
+ * 生成：/home-hacks/cleaning/  /home-hacks/stains/  等
+ */
+import type { GetStaticPaths } from 'astro';
+import CategoryLayout from '../../../layouts/CategoryLayout.astro';
+import { getAllArticles } from '../../../utils/articles';
+import { CATEGORIES, subcategoryToSlug } from '../../../utils/site-config';
+
+export const getStaticPaths = (async () => {
+  const paths: { params: { category: string; subcategory: string } }[] = [];
+
+  for (const [catSlug, cat] of Object.entries(CATEGORIES)) {
+    for (const sub of cat.subcategories) {
+      paths.push({
+        params: { category: catSlug, subcategory: subcategoryToSlug(sub) },
+      });
+    }
+  }
+  return paths;
+}) satisfies GetStaticPaths;
+
+const { category, subcategory } = Astro.params;
+const cat = CATEGORIES[category as keyof typeof CATEGORIES];
+const allArticles = await getAllArticles();
+---
+
+<CategoryLayout
+  categorySlug={category}
+  category={cat}
+  allArticles={allArticles}
+  activeSubcategory={subcategory}
+/>

@@ -1,0 +1,71 @@
+---
+/**
+ * 文章页路由（catch-all）
+ * 匹配：/home-hacks/cleaning/remove-hard-water-stains-shower-door/
+ *      /save-money/bills/cut-electricity-bill-without-spending-money/
+ *
+ * catch-all 路由优先级低于具体路由，因此不会与栏目页/子栏目页冲突。
+ */
+import type { GetStaticPaths } from 'astro';
+import { render } from 'astro:content';
+import ArticleLayout from '../layouts/ArticleLayout.astro';
+import {
+  getAllArticles,
+  getArticleUrl,
+  extractFaq,
+  extractHeadings,
+  resolveRelated,
+  type Article,
+} from '../utils/articles';
+
+export const getStaticPaths = (async () => {
+  const articles = await getAllArticles();
+
+  return articles.map((article) => {
+    const url = getArticleUrl(article);
+    // /home-hacks/cleaning/slug/ → 'home-hacks/cleaning/slug'
+    const path = url.replace(/^\/|\/$/g, '');
+    return {
+      params: { path },
+      props: { article },
+    };
+  });
+}) satisfies GetStaticPaths;
+
+interface Props {
+  article: Article;
+}
+
+const { article } = Astro.props;
+const { data } = article;
+
+const allArticles = await getAllArticles();
+const { Content } = await render(article);
+const body = article.body ?? '';
+const faq = extractFaq(body);
+const headings = extractHeadings(body);
+const related = resolveRelated(article, allArticles, 3);
+---
+
+<ArticleLayout
+  title={data.title}
+  description={data.description}
+  primaryKeyword={data.primaryKeyword}
+  secondaryKeywords={data.secondaryKeywords}
+  category={data.category}
+  subcategory={data.subcategory}
+  pubDate={data.pubDate}
+  updatedDate={data.updatedDate}
+  author={data.author}
+  readingTime={data.readingTime}
+  featuredImageAlt={data.featuredImageAlt}
+  schemaType={data.schemaType}
+  howToTotalTime={data.howToTotalTime}
+  howToSupplies={data.howToSupplies}
+  howToTools={data.howToTools}
+  faq={faq}
+  related={related}
+  headings={headings}
+>
+  <Content />
+</ArticleLayout>

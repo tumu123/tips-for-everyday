@@ -1,0 +1,56 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import { SITE } from '../utils/site-config';
+---
+
+<BaseLayout
+  title="Contact"
+  description="Contact us with corrections, questions, or feedback about our guides."
+>
+  <div class="container--narrow">
+    <Breadcrumb items={[{ label: 'Home', href: '/' }, { label: 'Contact' }]} />
+
+    <header class="page-header">
+      <h1>Contact</h1>
+    </header>
+
+    <div class="page-body">
+      <p>
+        We welcome corrections, questions, and feedback. If you spot an error in a guide,
+        please include the article URL and the specific issue you found.
+      </p>
+
+      <h2>Email</h2>
+      <p>
+        <strong>contact@tips-for-everyday.com</strong>
+      </p>
+      <p>
+        Replace this address with your operational inbox before launch. We aim to respond
+        to corrections within a few business days.
+      </p>
+
+      <h2>Reporting an error</h2>
+      <p>To help us respond quickly, please include:</p>
+      <ul>
+        <li>The full URL of the article</li>
+        <li>The specific sentence or section that is incorrect</li>
+        <li>What the correct information is, and a source if available</li>
+      </ul>
+
+      <h2>Editorial inquiries</h2>
+      <p>
+        We do not accept sponsored posts, paid link insertions, or guest content
+        submitted for promotional purposes. Inquiries of that nature will not receive a
+        response. See our <a href="/editorial-policy/">Editorial Policy</a> for details.
+      </p>
+
+      <h2>Advertising</h2>
+      <p>
+        Display advertising on this site is served through third-party networks. We do not
+        manage direct ad placements. Advertisers cannot influence editorial content under
+        any circumstances.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

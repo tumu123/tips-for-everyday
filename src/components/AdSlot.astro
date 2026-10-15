@@ -1,0 +1,52 @@
+---
+/**
+ * AdSense 广告位
+ * 只有当发布商 ID 与广告单元 ID 都已配置时才渲染，否则整块不输出。
+ *
+ * 注意：AdSense 加载器脚本（adsbygoogle.js）由 BaseLayout 统一注入一次，
+ * 此处只渲染广告单元与 push 调用，避免同页重复加载脚本。
+ * Google 官方在「同页多广告单元」示例中同样只引入一次加载器。
+ *
+ * 广告单元 ID 在 src/utils/site-config.ts 的 AD_SLOTS 中维护。
+ */
+import { SITE } from '../utils/site-config';
+
+interface Props {
+  slot?: string;
+  format?: 'auto' | 'horizontal' | 'rectangle';
+  label?: string;
+}
+
+const { slot = '', format = 'auto', label = 'Advertisement' } = Astro.props;
+
+// 发布商 ID 与广告单元 ID 必须都是真实值
+const hasClient = Boolean(SITE.adsenseClient) && !SITE.adsenseClient.includes('XXXX');
+const hasSlot = Boolean(slot) && !/^(\d)\1+$/.test(slot) && slot.length >= 6;
+const isConfigured = hasClient && hasSlot;
+---
+
+{
+  isConfigured && (
+    <div class="ad-slot" data-ad-slot={slot}>
+      <span class="visually-hidden">{label}</span>
+      <ins
+        class="adsbygoogle"
+        style="display:block"
+        data-ad-client={SITE.adsenseClient}
+        data-ad-slot={slot}
+        data-ad-format={format}
+        data-full-width-responsive="true"
+      />
+      <script is:inline>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </div>
+  )
+}
+
+<style>
+  .ad-slot {
+    margin: 2rem 0;
+    min-height: 0;
+  }
+</style>

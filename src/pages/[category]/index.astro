@@ -1,0 +1,21 @@
+---
+/**
+ * 栏目页路由（一级）
+ * 生成：/home-hacks/  /save-money/  /organize/  /kitchen-tips/  /fix-it/
+ */
+import type { GetStaticPaths } from 'astro';
+import CategoryLayout from '../../layouts/CategoryLayout.astro';
+import { getAllArticles } from '../../utils/articles';
+import { CATEGORIES } from '../../utils/site-config';
+
+export const getStaticPaths = (() =>
+  Object.keys(CATEGORIES).map((slug) => ({
+    params: { category: slug },
+  }))) satisfies GetStaticPaths;
+
+const { category } = Astro.params;
+const cat = CATEGORIES[category as keyof typeof CATEGORIES];
+const allArticles = await getAllArticles();
+---
+
+<CategoryLayout categorySlug={category} category={cat} allArticles={allArticles} />

@@ -1,0 +1,38 @@
+---
+/**
+ * 相关文章列表
+ * 从文章中提取第一个相关链接作为推荐，便于后续扩展
+ */
+import { articleUrl } from '../utils/site-config';
+
+interface RelatedItem {
+  slug: string;
+  title: string;
+  description: string;
+  url: string;
+}
+
+interface Props {
+  items: RelatedItem[];
+}
+
+const { items } = Astro.props;
+---
+
+{
+  items.length > 0 && (
+    <section class="related">
+      <h2>Related Reading</h2>
+      <ul class="related__list">
+        {items.map((item) => (
+          <li>
+            <a class="related__link" href={item.url}>
+              <span class="related__title">{item.title}</span>
+              <p class="related__desc">{item.description}</p>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )
+}

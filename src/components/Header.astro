@@ -1,0 +1,26 @@
+---
+/**
+ * 页头：Logo + 主导航
+ */
+import { SITE } from '../utils/site-config';
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a href="/" class="site-logo">{SITE.title}</a>
+    <nav class="site-nav" aria-label="Main navigation">
+      {
+        SITE.nav.map((item) => (
+          <a
+            href={`/${item.slug}/`}
+            aria-current={currentPath.startsWith(`/${item.slug}/`) ? 'page' : undefined}
+          >
+            {item.label}
+          </a>
+        ))
+      }
+    </nav>
+  </div>
+</header>

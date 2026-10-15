@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../utils/site-config';
+---
+
+<BaseLayout
+  title="Page Not Found"
+  description="The page you requested could not be found."
+  noindex={true}
+>
+  <div class="container--narrow">
+    <header class="page-header">
+      <h1>Page not found</h1>
+      <p style="font-size:var(--text-lg);color:var(--color-text-secondary);">
+        The page you requested does not exist or has been moved.
+      </p>
+    </header>
+
+    <div class="page-body">
+      <h2>Try one of these</h2>
+      <ul>
+        <li><a href="/">Home</a> — browse the latest guides</li>
+        <li><a href="/home-hacks/">Home Hacks</a> — cleaning, laundry, appliances, stains</li>
+        <li><a href="/save-money/">Save Money</a> — reduce household bills</li>
+        <li><a href="/organize/">Organize</a> — storage and space planning</li>
+        <li><a href="/kitchen-tips/">Kitchen Tips</a> — food storage and kitchen care</li>
+        <li><a href="/fix-it/">Fix It</a> — routine home repair</li>
+      </ul>
+      <p>
+        If you followed a link from another site and expected to find something here,
+        please <a href="/contact/">let us know</a>.
+      </p>
+    </div>
+  </div>
+</BaseLayout>
