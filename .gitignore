@@ -1,0 +1,5 @@
+# 源码在 source 分支
+# 本分支仅存放构建产物
+node_modules/
+dist/
+.astro/
