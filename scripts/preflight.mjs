@@ -4,6 +4,13 @@ import path from 'node:path';
 const out = [];
 const log = (s) => out.push(s);
 
+// 硬性失败计数：>0 时进程以非 0 退出，可用作构建门禁
+let hardFail = 0;
+const fail = (s) => {
+  hardFail++;
+  out.push(s);
+};
+
 // 产物 HTML 清单（多处检查共用）
 const files = [];
 (function walkDist(d) {
@@ -192,6 +199,41 @@ for (const f of files) {
 log(`JSON-LD 块总数: ${jsonTotal}`);
 log(jsonBad === 0 ? '全部 JSON-LD 可正常解析 ✓' : `${jsonBad} 个 JSON-LD 块解析失败 ✗`);
 
+// HowTo 完整性：Google 富媒体结果要求 step 非空
+// （曾出现 `## Step N` 因提取规则只认 `### Step N` 而全部丢失的缺陷，此处守门）
+let howToTotal = 0;
+let howToNoStep = [];
+let howToNoTime = [];
+let howToNoSupplyOrTool = [];
+for (const f of files) {
+  const html = fs.readFileSync(f, 'utf8');
+  for (const m of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) {
+    let j;
+    try {
+      j = JSON.parse(m[1]);
+    } catch (e) {
+      continue;
+    }
+    if (!j || j['@type'] !== 'HowTo') continue;
+    howToTotal++;
+    const rel = path.relative('dist', f).replace(/\\/g, '/');
+    if (!Array.isArray(j.step) || j.step.length === 0) howToNoStep.push(rel);
+    if (!j.totalTime) howToNoTime.push(rel);
+    if (!(j.supply?.length || j.tool?.length)) howToNoSupplyOrTool.push(rel);
+  }
+}
+log('');
+log(`--- HowTo 结构化数据完整性（共 ${howToTotal} 篇） ---`);
+log(howToNoStep.length === 0
+  ? '所有 HowTo 均含 step 数组 ✓'
+  : (fail(`${howToNoStep.length} 篇 HowTo 缺 step（富媒体结果会失效）✗ ${howToNoStep.slice(0, 8).join(', ')}${howToNoStep.length > 8 ? ' …' : ''}`), ''));
+log(howToNoTime.length === 0
+  ? '所有 HowTo 均含 totalTime ✓'
+  : `${howToNoTime.length} 篇 HowTo 缺 totalTime: ${howToNoTime.slice(0, 8).join(', ')}`);
+log(howToNoSupplyOrTool.length === 0
+  ? '所有 HowTo 均含 supply 或 tool ✓'
+  : `${howToNoSupplyOrTool.length} 篇 HowTo 缺 supply/tool: ${howToNoSupplyOrTool.slice(0, 8).join(', ')}`);
+
 // ── 13. 字数与内容体量 ──
 log('');
 log('═══ 预检 13：文章内容体量 ═══');
@@ -246,4 +288,11 @@ if (artTotal === 0) {
     : `${artTotal - artWithSchema}/${artTotal} 个含 FAQ 的页面缺 FAQPage schema ✗`);
 }
 
-console.log(out.join('\n'));
+console.log(out.filter((l) => l !== '').join('\n'));
+console.log('');
+if (hardFail > 0) {
+  console.log(`预检结果：${hardFail} 项硬性失败 ✗`);
+  process.exit(1);
+}
+console.log('预检结果：全部硬性检查通过 ✓');
+process.exit(0);

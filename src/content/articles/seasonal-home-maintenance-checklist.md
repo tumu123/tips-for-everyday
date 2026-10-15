@@ -14,7 +14,7 @@ updatedDate: 2026-10-14
 author: "Editorial Team"
 readingTime: 9
 featuredImageAlt: "Home maintenance checklist on a clipboard beside gutter cleaning tools and caulk"
-schemaType: "HowTo"
+schemaType: "Article"
 howToTotalTime: "PT120M"
 howToSupplies:
   - "Replacement air filters (correct size)"

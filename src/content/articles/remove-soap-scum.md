@@ -32,6 +32,7 @@ relatedSlugs:
   - "clean-grout-keep-white"
   - "remove-mold-bathroom-caulk"
   - "diy-all-purpose-cleaner"
+  - "clean-stainless-steel-appliances"
 draft: false
 ---
 

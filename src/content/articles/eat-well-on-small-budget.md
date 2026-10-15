@@ -19,6 +19,7 @@ relatedSlugs:
   - "save-money-on-groceries"
   - "store-food-to-reduce-waste"
   - "how-long-food-lasts-shelf-life-guide"
+  - "keep-bread-fresh-longer"
 draft: false
 ---
 

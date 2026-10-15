@@ -16,7 +16,7 @@ interface Props {
   totalTime?: string;
   supplies?: string[];
   tools?: string[];
-  steps?: { name: string; text: string }[];
+  steps?: { name: string; text: string; url?: string }[];
   imageAlt?: string;
 }
 
@@ -58,6 +58,7 @@ if (type === 'HowTo') {
             '@type': 'HowToStep',
             name: s.name,
             text: s.text,
+            ...(s.url ? { url: s.url } : {}),
           })),
         }
       : {}),

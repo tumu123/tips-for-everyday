@@ -31,6 +31,7 @@ relatedSlugs:
   - "remove-hard-water-stains-shower-door"
   - "clean-grout-keep-white"
   - "organize-under-sink"
+  - "remove-mold-bathroom-caulk"
 draft: false
 ---
 

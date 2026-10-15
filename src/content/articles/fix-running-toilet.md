@@ -31,6 +31,8 @@ relatedSlugs:
   - "lower-water-bill-checklist"
   - "extend-life-of-appliances"
   - "remove-rust-stains-sink"
+  - "fix-leaky-faucet"
+  - "unclog-toilet"
 draft: false
 ---
 

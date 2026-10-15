@@ -61,19 +61,28 @@ for (const f of files) {
   }
 }
 
-// 2. 补齐
+// 2. 正向链接表（本文章正文链向哪些文章）
+const outlinks = new Map();
+for (const f of files) {
+  const self = slugOf(f);
+  const src = fs.readFileSync(path.join(DIR, f), 'utf8');
+  outlinks.set(self, linkedSlugs(src, self));
+}
+
+// 3. 补齐：正向在前（作者主动选择的相关性更高），反向在后
 let changed = 0;
 const report = [];
 
 for (const f of files) {
   const self = slugOf(f);
-  const refs = backlinks.get(self);
-  if (!refs || refs.size === 0) continue;
+  const out = [...(outlinks.get(self) ?? [])];
+  const refs = [...(backlinks.get(self) ?? [])];
+  if (out.length === 0 && refs.length === 0) continue;
 
   const p = path.join(DIR, f);
   const src = fs.readFileSync(p, 'utf8');
   const existing = readRelated(src);
-  const missing = [...refs].filter((r) => !existing.includes(r));
+  const missing = [...out, ...refs].filter((r) => !existing.includes(r));
   if (missing.length === 0) continue;
 
   // 已有项优先，缺失项追加；过滤掉指向自身的无效项

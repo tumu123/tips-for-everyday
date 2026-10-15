@@ -19,6 +19,7 @@ relatedSlugs:
   - "repair-or-replace-appliance"
   - "track-household-spending"
   - "reuse-household-items"
+  - "remove-scratches-wood-furniture"
 draft: false
 ---
 

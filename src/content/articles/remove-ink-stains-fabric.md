@@ -31,6 +31,7 @@ relatedSlugs:
   - "remove-laundry-stains"
   - "remove-red-wine-stains"
   - "wash-delicates-wool-silk"
+  - "how-to-clean-washing-machine"
 draft: false
 ---
 

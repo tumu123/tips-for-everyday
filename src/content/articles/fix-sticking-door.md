@@ -31,6 +31,8 @@ relatedSlugs:
   - "fix-squeaky-door-hinge"
   - "quiet-squeaky-floors"
   - "extend-life-of-appliances"
+  - "fix-door-wont-latch"
+  - "fix-window-wont-open"
 draft: false
 ---
 

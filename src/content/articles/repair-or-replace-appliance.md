@@ -19,6 +19,7 @@ relatedSlugs:
   - "extend-life-of-appliances"
   - "buy-used-furniture-safely"
   - "save-on-heating-costs-winter"
+  - "water-heater-maintenance"
 draft: false
 ---
 

@@ -19,6 +19,8 @@ relatedSlugs:
   - "cheap-window-insulation"
   - "cut-electricity-bill-without-spending-money"
   - "seasonal-home-maintenance-checklist"
+  - "extend-life-of-appliances"
+  - "fix-window-wont-open"
 draft: false
 ---
 

@@ -19,6 +19,7 @@ relatedSlugs:
   - "save-money-on-laundry"
   - "wash-delicates-wool-silk"
   - "extend-life-of-appliances"
+  - "cut-electricity-bill-without-spending-money"
 draft: false
 ---
 

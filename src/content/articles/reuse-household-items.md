@@ -19,6 +19,7 @@ relatedSlugs:
   - "buy-used-furniture-safely"
   - "organize-cleaning-supplies"
   - "save-money-cleaning-supplies"
+  - "diy-all-purpose-cleaner"
 draft: false
 ---
 

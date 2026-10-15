@@ -82,9 +82,16 @@ const dateFmt = (d: Date) =>
   d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 
 // 从正文标题生成 HowTo 步骤（供结构化数据使用）
+// 兼容三种写法：`Step N` / `Part N` / `Method N`，二级或三级标题均可
+// 排除序数为 0 的标题（`Step 0` 一类通常是诊断/前置判断，不是执行步骤）
+const HOWTO_STEP_RE = /^(?:Step|Part|Method)\s+[1-9]\d*\b/i;
 const howToSteps = headings
-  .filter((h) => h.depth === 3 && /^Step \d+/i.test(h.text))
-  .map((h) => ({ name: h.text, text: h.text }));
+  .filter((h) => (h.depth === 2 || h.depth === 3) && HOWTO_STEP_RE.test(h.text))
+  .map((h) => ({
+    name: h.text,
+    text: h.text,
+    url: `${postUrl}#${h.slug}`,
+  }));
 
 const keywords = [primaryKeyword, ...secondaryKeywords];
 ---

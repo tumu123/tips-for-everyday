@@ -19,6 +19,8 @@ relatedSlugs:
   - "save-on-heating-costs-winter"
   - "cheap-window-insulation"
   - "cut-electricity-bill-without-spending-money"
+  - "led-vs-incandescent-cost"
+  - "fix-wobbly-ceiling-fan"
 draft: false
 ---
 

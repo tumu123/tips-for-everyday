@@ -20,6 +20,7 @@ relatedSlugs:
   - "fix-running-toilet"
   - "save-money-on-groceries"
   - "cheap-window-insulation"
+  - "fix-leaky-faucet"
 draft: false
 ---
 

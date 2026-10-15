@@ -32,6 +32,7 @@ relatedSlugs:
   - "clean-range-hood-filters"
   - "grease-stains-kitchen-cabinets"
   - "clean-stainless-steel-appliances"
+  - "remove-hard-water-stains-shower-door"
 draft: false
 ---
 

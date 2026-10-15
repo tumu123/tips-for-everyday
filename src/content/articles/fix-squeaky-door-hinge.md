@@ -29,6 +29,7 @@ relatedSlugs:
   - "quiet-squeaky-floors"
   - "fix-sticking-door"
   - "extend-life-of-appliances"
+  - "fix-door-wont-latch"
 draft: false
 ---
 

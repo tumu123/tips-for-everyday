@@ -31,6 +31,7 @@ relatedSlugs:
   - "fix-squeaky-door-hinge"
   - "fix-sticking-door"
   - "remove-adhesive-residue"
+  - "fix-hardwood-floor-scratches"
 draft: false
 ---
 

@@ -19,6 +19,8 @@ relatedSlugs:
   - "how-to-clean-washing-machine"
   - "deep-clean-mattress"
   - "clean-range-hood-filters"
+  - "remove-hard-water-stains-shower-door"
+  - "descale-kettle-coffee-maker"
 draft: false
 ---
 
