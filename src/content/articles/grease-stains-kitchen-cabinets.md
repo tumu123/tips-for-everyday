@@ -33,6 +33,7 @@ relatedSlugs:
   - "how-to-clean-washing-machine"
   - "clean-range-hood-filters"
   - "remove-burnt-food-stovetop"
+  - "diy-all-purpose-cleaner"
 draft: false
 ---
 

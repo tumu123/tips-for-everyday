@@ -29,6 +29,8 @@ relatedSlugs:
   - "grease-stains-kitchen-cabinets"
   - "clean-range-hood-filters"
   - "descale-kettle-coffee-maker"
+  - "diy-all-purpose-cleaner"
+  - "remove-burnt-food-stovetop"
 draft: false
 ---
 

@@ -29,6 +29,8 @@ relatedSlugs:
   - "remove-laundry-stains"
   - "store-off-season-clothes"
   - "how-to-clean-washing-machine"
+  - "air-dry-vs-dryer-cost"
+  - "remove-ink-stains-fabric"
 draft: false
 ---
 

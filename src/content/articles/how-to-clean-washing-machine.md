@@ -28,6 +28,8 @@ relatedSlugs:
   - "descale-kettle-coffee-maker"
   - "extend-life-of-appliances"
   - "save-money-on-laundry"
+  - "cleaning-frequency-chart"
+  - "remove-ink-stains-fabric"
 draft: false
 ---
 

@@ -27,6 +27,7 @@ relatedSlugs:
   - "clean-stainless-steel-appliances"
   - "how-to-clean-washing-machine"
   - "clean-range-hood-filters"
+  - "cleaning-frequency-chart"
 draft: false
 ---
 

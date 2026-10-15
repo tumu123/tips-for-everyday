@@ -19,6 +19,7 @@ relatedSlugs:
   - "how-to-clean-washing-machine"
   - "cut-electricity-bill-without-spending-money"
   - "extend-life-of-appliances"
+  - "air-dry-vs-dryer-cost"
 draft: false
 ---
 

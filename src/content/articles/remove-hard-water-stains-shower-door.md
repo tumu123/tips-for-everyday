@@ -29,6 +29,7 @@ relatedSlugs:
   - "clean-stainless-steel-appliances"
   - "remove-soap-scum"
   - "remove-mold-bathroom-caulk"
+  - "clean-blinds-without-removing"
 draft: false
 ---
 

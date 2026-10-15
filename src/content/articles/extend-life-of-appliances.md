@@ -19,6 +19,8 @@ relatedSlugs:
   - "how-to-clean-washing-machine"
   - "clean-range-hood-filters"
   - "cut-electricity-bill-without-spending-money"
+  - "air-dry-vs-dryer-cost"
+  - "cheap-window-insulation"
 draft: false
 ---
 

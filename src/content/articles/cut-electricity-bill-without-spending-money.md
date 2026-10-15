@@ -19,6 +19,8 @@ relatedSlugs:
   - "lower-water-bill-checklist"
   - "extend-life-of-appliances"
   - "save-money-on-laundry"
+  - "air-dry-vs-dryer-cost"
+  - "cheap-window-insulation"
 draft: false
 ---
 

@@ -31,6 +31,8 @@ relatedSlugs:
   - "extend-life-of-appliances"
   - "fix-sticking-door"
   - "patch-hole-in-drywall"
+  - "cheap-window-insulation"
+  - "save-on-heating-costs-winter"
 draft: false
 ---
 

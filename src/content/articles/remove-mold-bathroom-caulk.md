@@ -31,6 +31,8 @@ relatedSlugs:
   - "remove-hard-water-stains-shower-door"
   - "clean-grout-keep-white"
   - "deep-clean-mattress"
+  - "clean-blinds-without-removing"
+  - "remove-soap-scum"
 draft: false
 ---
 

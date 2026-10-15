@@ -29,6 +29,7 @@ relatedSlugs:
   - "how-long-food-lasts-shelf-life-guide"
   - "store-food-to-reduce-waste"
   - "how-to-tell-if-food-is-bad"
+  - "eat-well-on-small-budget"
 draft: false
 ---
 

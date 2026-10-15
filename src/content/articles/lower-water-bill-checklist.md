@@ -19,6 +19,7 @@ relatedSlugs:
   - "cut-electricity-bill-without-spending-money"
   - "fix-running-toilet"
   - "save-money-on-groceries"
+  - "cheap-window-insulation"
 draft: false
 ---
 

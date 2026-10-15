@@ -29,6 +29,7 @@ relatedSlugs:
   - "organize-small-kitchen"
   - "remove-mold-bathroom-caulk"
   - "organize-cleaning-supplies"
+  - "clean-blinds-without-removing"
 draft: false
 ---
 

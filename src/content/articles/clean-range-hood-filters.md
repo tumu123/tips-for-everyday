@@ -30,6 +30,8 @@ relatedSlugs:
   - "grease-stains-kitchen-cabinets"
   - "clean-stainless-steel-appliances"
   - "descale-kettle-coffee-maker"
+  - "cleaning-frequency-chart"
+  - "remove-burnt-food-stovetop"
 draft: false
 ---
 

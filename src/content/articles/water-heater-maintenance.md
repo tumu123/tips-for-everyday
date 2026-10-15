@@ -29,6 +29,8 @@ relatedSlugs:
   - "seasonal-home-maintenance-checklist"
   - "prevent-frozen-pipes"
   - "extend-life-of-appliances"
+  - "home-energy-audit-diy"
+  - "repair-or-replace-appliance"
 draft: false
 ---
 

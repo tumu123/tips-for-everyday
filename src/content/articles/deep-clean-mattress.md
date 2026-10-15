@@ -31,6 +31,7 @@ relatedSlugs:
   - "remove-pet-urine-stains-carpet"
   - "how-to-clean-washing-machine"
   - "remove-coffee-stains-mugs-carpet"
+  - "cleaning-frequency-chart"
 draft: false
 ---
 

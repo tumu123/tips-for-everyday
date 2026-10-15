@@ -31,6 +31,8 @@ relatedSlugs:
   - "remove-soap-scum"
   - "remove-hard-water-stains-shower-door"
   - "clean-stainless-steel-appliances"
+  - "reuse-household-items"
+  - "save-money-cleaning-supplies"
 draft: false
 ---
 

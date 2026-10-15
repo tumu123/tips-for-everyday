@@ -31,6 +31,7 @@ relatedSlugs:
   - "remove-hard-water-stains-shower-door"
   - "clean-grout-keep-white"
   - "remove-mold-bathroom-caulk"
+  - "diy-all-purpose-cleaner"
 draft: false
 ---
 

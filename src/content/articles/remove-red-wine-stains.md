@@ -32,6 +32,7 @@ relatedSlugs:
   - "remove-coffee-stains-mugs-carpet"
   - "remove-pet-urine-stains-carpet"
   - "clean-grout-keep-white"
+  - "remove-ink-stains-fabric"
 draft: false
 ---
 
