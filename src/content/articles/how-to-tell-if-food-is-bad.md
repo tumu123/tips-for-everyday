@@ -26,6 +26,8 @@ relatedSlugs:
   - "how-long-food-lasts-shelf-life-guide"
   - "store-food-to-reduce-waste"
   - "organize-pantry-beginner-guide"
+  - "store-cheese"
+  - "thaw-food-safely"
 draft: false
 ---
 

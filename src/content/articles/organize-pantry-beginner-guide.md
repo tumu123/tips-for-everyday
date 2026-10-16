@@ -31,6 +31,8 @@ relatedSlugs:
   - "organize-small-kitchen"
   - "store-food-to-reduce-waste"
   - "save-money-on-groceries"
+  - "store-flour-pest-free"
+  - "store-spices"
 draft: false
 ---
 

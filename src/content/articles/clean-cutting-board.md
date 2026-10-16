@@ -31,6 +31,8 @@ relatedSlugs:
   - "clean-stainless-steel-appliances"
   - "organize-small-kitchen"
   - "make-produce-last-longer"
+  - "clean-cast-iron-skillet"
+  - "remove-kitchen-odors"
 draft: false
 ---
 

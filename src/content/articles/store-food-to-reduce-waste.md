@@ -29,6 +29,8 @@ relatedSlugs:
   - "save-money-on-groceries"
   - "organize-pantry-beginner-guide"
   - "extend-life-of-appliances"
+  - "avoid-freezer-burn"
+  - "keep-herbs-fresh"
 draft: false
 ---
 

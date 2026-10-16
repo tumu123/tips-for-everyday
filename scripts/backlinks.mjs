@@ -82,7 +82,9 @@ for (const f of files) {
   const p = path.join(DIR, f);
   const src = fs.readFileSync(p, 'utf8');
   const existing = readRelated(src);
-  const missing = [...out, ...refs].filter((r) => !existing.includes(r));
+  // 候选 = 正向链接 + 反向链接，去重后排除已有项（否则报告里会出现同一 slug 多次）
+  const candidates = [...new Set([...out, ...refs])];
+  const missing = candidates.filter((r) => !existing.includes(r));
   if (missing.length === 0) continue;
 
   // 已有项优先，缺失项追加；过滤掉指向自身的无效项
@@ -110,7 +112,21 @@ for (const f of files) {
     // 没有块：插到 draft 之前
     next = src.replace(/^draft:/m, `${block}draft:`);
   } else {
-    next = src.replace(/\n---\n/, `\n${block}---\n`);
+    // 没有块也没有 draft：插到 frontmatter 结束标记之前。
+    // 必须兼容 CRLF，否则在 CRLF 文件上匹配失败、静默不写入（历史 bug）。
+    // 用「起始锚定 + 非贪婪」定位 frontmatter 的闭合分隔线，避免误伤正文里的 --- 分隔线。
+    const fmEnd = src.match(/^---\r?\n[\s\S]*?\r?\n---\r?\n/);
+    if (!fmEnd) {
+      console.log(`  ! ${self}: 找不到 frontmatter 结束标记，跳过`);
+      continue;
+    }
+    const idx = fmEnd[0].length - (nl === '\r\n' ? 5 : 4); // 回退到闭合 --- 之前
+    next = src.slice(0, idx) + block + src.slice(idx);
+  }
+
+  if (next === src) {
+    console.log(`  ! ${self}: 未产生实际变化，跳过（避免空写）`);
+    continue;
   }
 
   if (next.match(/^relatedSlugs:/gm)?.length > 1) {

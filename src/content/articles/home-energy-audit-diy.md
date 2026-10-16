@@ -27,6 +27,9 @@ howToTools:
   - "Non-contact voltage tester (optional)"
   - "Infrared thermometer (optional, for window and outlet comparison)"
   - "Flashlight"
+relatedSlugs:
+  - "water-heater-maintenance"
+  - "cheap-window-insulation"
 ---
 
 Most "DIY energy audit" checklists give you the same generic list: seal drafts, add insulation, change filters. The problem is that they're not ranked, and they're not derived from your actual data. A household with a huge baseload gets nothing from sealing windows, while a household with a leaky envelope gets very little from unplugging chargers.

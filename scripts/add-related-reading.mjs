@@ -69,6 +69,68 @@ const MAP = {
     'unclog-toilet',
     'fix-leaky-faucet',
   ],
+
+  // ---- Kitchen Tips 批次（第 9 批）----
+  'avoid-freezer-burn': [
+    'thaw-food-safely',
+    'store-food-to-reduce-waste',
+    'how-long-food-lasts-shelf-life-guide',
+    'organize-fridge-less-food-waste',
+  ],
+  'store-coffee-beans': [
+    'store-spices',
+    'store-flour-pest-free',
+    'store-cheese',
+    'how-long-food-lasts-shelf-life-guide',
+  ],
+  'keep-herbs-fresh': [
+    'organize-fridge-less-food-waste',
+    'make-produce-last-longer',
+    'store-food-to-reduce-waste',
+    'store-spices',
+  ],
+  'store-cheese': [
+    'organize-fridge-less-food-waste',
+    'how-long-food-lasts-shelf-life-guide',
+    'how-to-tell-if-food-is-bad',
+    'keep-bread-fresh-longer',
+  ],
+  'clean-cast-iron-skillet': [
+    'sharpen-kitchen-knives',
+    'clean-cutting-board',
+    'remove-burnt-food-stovetop',
+    'remove-kitchen-odors',
+  ],
+  'store-spices': [
+    'store-coffee-beans',
+    'store-flour-pest-free',
+    'how-long-food-lasts-shelf-life-guide',
+    'organize-pantry-beginner-guide',
+  ],
+  'thaw-food-safely': [
+    'avoid-freezer-burn',
+    'how-to-tell-if-food-is-bad',
+    'how-long-food-lasts-shelf-life-guide',
+    'store-food-to-reduce-waste',
+  ],
+  'store-flour-pest-free': [
+    'organize-pantry-beginner-guide',
+    'store-spices',
+    'store-coffee-beans',
+    'how-long-food-lasts-shelf-life-guide',
+  ],
+  'organize-fridge-less-food-waste': [
+    'store-food-to-reduce-waste',
+    'make-produce-last-longer',
+    'how-long-food-lasts-shelf-life-guide',
+    'keep-herbs-fresh',
+  ],
+  'remove-kitchen-odors': [
+    'clean-cast-iron-skillet',
+    'clean-cutting-board',
+    'fix-garbage-disposal',
+    'diy-all-purpose-cleaner',
+  ],
 };
 
 const files = fs.readdirSync(DIR).filter((f) => f.endsWith('.md'));

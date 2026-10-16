@@ -29,6 +29,8 @@ relatedSlugs:
   - "store-food-to-reduce-waste"
   - "how-long-food-lasts-shelf-life-guide"
   - "organize-pantry-beginner-guide"
+  - "keep-herbs-fresh"
+  - "organize-fridge-less-food-waste"
 draft: false
 ---
 

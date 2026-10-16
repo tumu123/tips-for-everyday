@@ -29,6 +29,8 @@ howToTools:
   - "Funnel"
   - "Labels and marker"
   - "Calculator or phone"
+relatedSlugs:
+  - "diy-all-purpose-cleaner"
 ---
 
 Cleaning supply spending rarely feels excessive because it's spread across many small purchases. A bottle here, a spray there. Then you open the cabinet and find four products that all clean glass.

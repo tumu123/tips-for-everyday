@@ -29,6 +29,7 @@ relatedSlugs:
   - "extend-life-of-appliances"
   - "organize-small-kitchen"
   - "clean-stainless-steel-appliances"
+  - "clean-cast-iron-skillet"
 draft: false
 ---
 

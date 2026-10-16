@@ -30,6 +30,7 @@ relatedSlugs:
   - "store-food-to-reduce-waste"
   - "how-to-tell-if-food-is-bad"
   - "eat-well-on-small-budget"
+  - "store-cheese"
 draft: false
 ---
 

@@ -30,6 +30,7 @@ relatedSlugs:
   - "unclog-slow-drain"
   - "unclog-toilet"
   - "fix-leaky-faucet"
+  - "remove-kitchen-odors"
 ---
 
 **Read this before anything else: never put your hand or fingers into a garbage disposal.** Not briefly, not "just to check," not even when it's switched off. Use tongs or pliers, and disconnect the power before reaching in. The impeller can move unexpectedly, and disposal injuries are severe.

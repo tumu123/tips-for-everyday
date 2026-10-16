@@ -33,6 +33,7 @@ relatedSlugs:
   - "grease-stains-kitchen-cabinets"
   - "clean-stainless-steel-appliances"
   - "remove-hard-water-stains-shower-door"
+  - "clean-cast-iron-skillet"
 draft: false
 ---
 

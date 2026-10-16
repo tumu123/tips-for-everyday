@@ -28,6 +28,8 @@ relatedSlugs:
   - "store-food-to-reduce-waste"
   - "how-to-tell-if-food-is-bad"
   - "organize-pantry-beginner-guide"
+  - "avoid-freezer-burn"
+  - "organize-fridge-less-food-waste"
 draft: false
 ---
 
