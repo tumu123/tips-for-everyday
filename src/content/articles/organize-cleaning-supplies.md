@@ -29,6 +29,7 @@ relatedSlugs:
   - "organize-under-sink"
   - "organize-small-kitchen"
   - "clean-grout-keep-white"
+  - "spring-cleaning-checklist-room-by-room"
 draft: false
 ---
 

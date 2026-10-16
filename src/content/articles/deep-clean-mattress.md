@@ -32,6 +32,7 @@ relatedSlugs:
   - "how-to-clean-washing-machine"
   - "remove-coffee-stains-mugs-carpet"
   - "cleaning-frequency-chart"
+  - "spring-cleaning-checklist-room-by-room"
 draft: false
 ---
 

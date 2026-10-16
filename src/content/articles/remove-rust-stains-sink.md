@@ -32,6 +32,8 @@ relatedSlugs:
   - "remove-hard-water-stains-shower-door"
   - "remove-adhesive-residue"
   - "clean-grout-keep-white"
+  - "get-garden-ready-for-spring"
+  - "protect-outdoor-furniture-summer"
 draft: false
 ---
 

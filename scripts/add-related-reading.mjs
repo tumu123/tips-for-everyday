@@ -189,6 +189,7 @@ const CAT_SLUGS = {
   Organize: 'organize',
   'Kitchen Tips': 'kitchen-tips',
   'Fix It': 'fix-it',
+  'Seasonal & Holiday': 'seasonal',
 };
 
 // 1. 建立 slug -> {title, url}

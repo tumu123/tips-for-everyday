@@ -31,6 +31,7 @@ relatedSlugs:
   - "keep-house-cool-summer"
   - "cut-electricity-bill-without-spending-money"
   - "seasonal-home-maintenance-checklist"
+  - "spring-cleaning-checklist-room-by-room"
 ---
 
 **Turn off the power at the breaker before you touch anything.** Not the wall switch — the breaker. Some fan installations keep the wiring live even with the switch off, and you'll be working on a ladder with your hands near a rotating assembly.

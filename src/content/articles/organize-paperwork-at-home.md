@@ -29,6 +29,8 @@ relatedSlugs:
   - "organize-a-closet"
   - "organize-small-kitchen"
   - "save-money-on-groceries"
+  - "prepare-home-for-spring-storms"
+  - "store-holiday-decorations"
 draft: false
 ---
 

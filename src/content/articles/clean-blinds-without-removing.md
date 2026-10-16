@@ -32,6 +32,7 @@ relatedSlugs:
   - "clean-grout-keep-white"
   - "organize-under-sink"
   - "remove-mold-bathroom-caulk"
+  - "spring-cleaning-checklist-room-by-room"
 draft: false
 ---
 

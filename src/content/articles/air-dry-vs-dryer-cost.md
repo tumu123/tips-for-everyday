@@ -20,6 +20,7 @@ relatedSlugs:
   - "wash-delicates-wool-silk"
   - "extend-life-of-appliances"
   - "cut-electricity-bill-without-spending-money"
+  - "spring-cleaning-checklist-room-by-room"
 draft: false
 ---
 

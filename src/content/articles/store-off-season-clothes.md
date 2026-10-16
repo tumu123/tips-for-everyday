@@ -29,6 +29,8 @@ relatedSlugs:
   - "organize-a-closet"
   - "how-to-clean-washing-machine"
   - "organize-small-kitchen"
+  - "clean-store-summer-gear"
+  - "protect-outdoor-furniture-summer"
 draft: false
 ---
 

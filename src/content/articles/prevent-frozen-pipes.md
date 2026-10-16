@@ -30,6 +30,8 @@ relatedSlugs:
   - "seasonal-home-maintenance-checklist"
   - "fix-running-toilet"
   - "extend-life-of-appliances"
+  - "fall-maintenance-checklist-homeowners"
+  - "prepare-home-for-fall"
 draft: false
 ---
 

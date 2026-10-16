@@ -31,6 +31,8 @@ relatedSlugs:
   - "organize-small-kitchen"
   - "organize-paperwork-at-home"
   - "organize-under-sink"
+  - "spring-cleaning-checklist-room-by-room"
+  - "store-holiday-decorations"
 draft: false
 ---
 

@@ -34,6 +34,7 @@ export const SITE = {
     { label: 'Organize', slug: 'organize' },
     { label: 'Kitchen Tips', slug: 'kitchen-tips' },
     { label: 'Fix It', slug: 'fix-it' },
+    { label: 'Seasonal', slug: 'seasonal' },
   ],
 };
 
@@ -90,6 +91,12 @@ export const CATEGORIES = {
       'Fix common household problems yourself — plumbing, doors, walls, and small repairs — without calling a professional for jobs that take minutes.',
     subcategories: ['Home Repair', 'Maintenance', 'Plumbing'],
   },
+  seasonal: {
+    title: 'Seasonal & Holiday',
+    description:
+      'Season-by-season home checklists, prep timelines, and holiday guides — what to do now so the next season does not catch you unprepared.',
+    subcategories: ['Seasons', 'Holidays'],
+  },
 };
 
 /**
@@ -136,6 +143,11 @@ export const SUBCATEGORY_DESCRIPTIONS: Record<string, string> = {
     'Seasonal and annual maintenance that prevents expensive repairs — home checklists, frozen pipe prevention, and water heater care.',
   Plumbing:
     'Diagnose and fix common plumbing problems yourself — running toilets, leaks, and clogs — without a service call.',
+  // Seasonal & Holiday
+  Seasons:
+    'Season-by-season home checklists — spring cleaning, storm prep, fall maintenance, and winterizing — sequenced in the order the work actually needs doing.',
+  Holidays:
+    'Holiday prep without the panic: hosting timelines, guest rooms on short notice, decoration storage, and getting back to routine afterward.',
 };
 
 /** 子栏目 → 所属主栏目 的反查映射 */
