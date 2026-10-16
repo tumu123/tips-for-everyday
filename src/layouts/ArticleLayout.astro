@@ -140,14 +140,14 @@ const keywords = [primaryKeyword, ...secondaryKeywords];
         </div>
       </header>
 
-      <!-- 首屏广告位（内容之后） -->
+      <!-- Above-the-fold ad slot (after the intro content) -->
       <AdSlot slot={AD_SLOTS.articleTop} format="horizontal" />
 
       <div class="article-body">
         <slot />
       </div>
 
-      <!-- 正文中部广告位 -->
+      <!-- Mid-article ad slot -->
       <AdSlot slot={AD_SLOTS.articleInline} format="rectangle" />
 
       <FaqSection items={faq} />
