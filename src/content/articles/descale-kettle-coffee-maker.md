@@ -28,6 +28,7 @@ relatedSlugs:
   - "how-to-clean-washing-machine"
   - "clean-range-hood-filters"
   - "cleaning-frequency-chart"
+  - "clean-coffee-maker-tastes-bad"
 draft: false
 ---
 

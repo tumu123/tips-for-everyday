@@ -20,6 +20,7 @@ relatedSlugs:
   - "store-food-to-reduce-waste"
   - "how-long-food-lasts-shelf-life-guide"
   - "keep-bread-fresh-longer"
+  - "revive-stale-bread-chips-crackers"
 draft: false
 ---
 

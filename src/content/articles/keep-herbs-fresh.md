@@ -29,6 +29,7 @@ relatedSlugs:
   - "store-spices"
   - "organize-fridge-less-food-waste"
   - "store-food-to-reduce-waste"
+  - "store-bananas-avocados-tomatoes"
 draft: false
 ---
 

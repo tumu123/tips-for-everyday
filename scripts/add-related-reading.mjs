@@ -131,6 +131,32 @@ const MAP = {
     'fix-garbage-disposal',
     'diy-all-purpose-cleaner',
   ],
+
+  // ---- Kitchen Tips 收尾批次（第 10 批）----
+  'revive-stale-bread-chips-crackers': [
+    'keep-bread-fresh-longer',
+    'store-food-to-reduce-waste',
+    'how-long-food-lasts-shelf-life-guide',
+    'eat-well-on-small-budget',
+  ],
+  'store-bananas-avocados-tomatoes': [
+    'make-produce-last-longer',
+    'organize-fridge-less-food-waste',
+    'store-food-to-reduce-waste',
+    'keep-herbs-fresh',
+  ],
+  'store-leftover-wine': [
+    'how-to-tell-if-food-is-bad',
+    'how-long-food-lasts-shelf-life-guide',
+    'organize-small-kitchen',
+    'save-money-on-groceries',
+  ],
+  'clean-coffee-maker-tastes-bad': [
+    'descale-kettle-coffee-maker',
+    'store-coffee-beans',
+    'clean-stainless-steel-appliances',
+    'remove-hard-water-stains-shower-door',
+  ],
 };
 
 const files = fs.readdirSync(DIR).filter((f) => f.endsWith('.md'));

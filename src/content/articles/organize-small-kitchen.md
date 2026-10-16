@@ -29,6 +29,7 @@ relatedSlugs:
   - "organize-pantry-beginner-guide"
   - "store-food-to-reduce-waste"
   - "organize-under-sink"
+  - "store-leftover-wine"
 draft: false
 ---
 

@@ -19,6 +19,7 @@ relatedSlugs:
   - "store-food-to-reduce-waste"
   - "lower-water-bill-checklist"
   - "cut-electricity-bill-without-spending-money"
+  - "store-leftover-wine"
 draft: false
 ---
 
