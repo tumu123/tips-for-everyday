@@ -175,16 +175,6 @@ Finally, grouping maintenance with cleaning works because both need the same con
 | Skipping the maintenance pass | Duplicates setup later | Do detectors and damage checks now |
 | Buying a full new supplies kit | Half of it won't get used | Inventory first, then buy only what's missing |
 
-## Related Reading
-
-- [Seasonal Home Maintenance Checklist](/fix-it/maintenance/seasonal-home-maintenance-checklist/)
-- [How to Clean Blinds Without Removing Them](/home-hacks/cleaning/clean-blinds-without-removing/)
-- [How to Deep Clean a Mattress](/home-hacks/cleaning/deep-clean-mattress/)
-- [How to Organize a Closet](/organize/closet/organize-a-closet/)
-- [How to Store Off-Season Clothes](/organize/closet/store-off-season-clothes/)
-
----
-
 ## Frequently Asked Questions
 
 **What order should I spring clean a house in?**

@@ -196,15 +196,6 @@ The reason baiting beats spraying for ants is colony structure. Indoor contact s
 | DIY for termites or bed bugs | Both need professional treatment and worsen with delay | Call a licensed professional |
 | Treating a persistent problem as seasonal | Usually indicates a moisture or food source | Find and fix the underlying source |
 
-## Related Reading
-
-- [Seasonal Home Maintenance Checklist](/fix-it/maintenance/seasonal-home-maintenance-checklist/)
-- [How to Organize a Fridge to Waste Less Food](/kitchen-tips/food-storage/organize-fridge-less-food-waste/)
-- [How to Remove Kitchen Odors](/kitchen-tips/cooking-hacks/remove-kitchen-odors/)
-- [Spring Cleaning Checklist: Room by Room](/seasonal/seasons/spring-cleaning-checklist-room-by-room/)
-
----
-
 ## Frequently Asked Questions
 
 **What is the most effective way to keep bugs out of the house?**

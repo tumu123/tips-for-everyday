@@ -192,13 +192,6 @@ These are moisture trapped in the finish, and they're a different problem from s
 
 ---
 
-## Related Reading
-
-- [How to Fix Scratches in Hardwood Floors](/fix-it/home-repair/fix-hardwood-floor-scratches/)
-- [How to Buy Used Furniture Without Bringing Home Problems](/save-money/shopping/buy-used-furniture-safely/)
-
----
-
 ## Frequently Asked Questions
 **How can I tell if a scratch is deep?**
 Drag a fingernail across it. If it catches, the wood is cut and needs filling. If it passes smoothly, it's in the finish.

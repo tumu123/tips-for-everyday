@@ -32,6 +32,7 @@ relatedSlugs:
   - "cut-electricity-bill-without-spending-money"
   - "seasonal-home-maintenance-checklist"
   - "spring-cleaning-checklist-room-by-room"
+  - "clean-ceiling-fan-blades-no-dust"
 ---
 
 **Turn off the power at the breaker before you touch anything.** Not the wall switch — the breaker. Some fan installations keep the wiring live even with the switch off, and you'll be working on a ladder with your hands near a rotating assembly.
@@ -200,14 +201,6 @@ If no blade adjustment helps, look at how the fan is attached.
 | Ignoring movement at the ceiling | Fall hazard | Stop using it; have the box replaced |
 | Using an unrated ceiling box | Box can pull free | Install a fan-rated brace |
 | Hanging objects from blades | Imbalance and damage | Don't |
-
----
-
-## Related Reading
-
-- [How to Keep a House Cool in Summer Without Running the AC More](/save-money/bills/keep-house-cool-summer/)
-- [15 Ways to Cut Your Electricity Bill Without Spending Money](/save-money/bills/cut-electricity-bill-without-spending-money/)
-- [The Seasonal Home Maintenance Checklist (All Four Seasons)](/fix-it/maintenance/seasonal-home-maintenance-checklist/)
 
 ---
 

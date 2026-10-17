@@ -141,15 +141,6 @@ The freezer case works because it attacks "energy" much harder than any cabinet 
 | Buying a big bag to save money | Loses more quality than the discount buys | Buy what you'll drink in 2–4 weeks |
 | Swearing at the machine when coffee tastes flat | Storage issues get misattributed to equipment | Check roast date and storage first |
 
-## Related Reading
-
-- [How to Store Spices So They Actually Keep Their Flavor](/kitchen-tips/food-storage/store-spices/)
-- [How to Store Flour and Grains So Bugs Never Show Up](/kitchen-tips/food-storage/store-flour-pest-free/)
-- [How to Store Cheese So It Lasts Instead of Molding](/kitchen-tips/food-storage/store-cheese/)
-- [How Long Food Actually Lasts: The Shelf Life Guide](/kitchen-tips/food-storage/how-long-food-lasts-shelf-life-guide/)
-
----
-
 ## Frequently Asked Questions
 **Should I store coffee beans in the fridge?**
 No. Refrigerators are humid and full of odors, and taking the bag in and out condenses moisture onto the beans. The only safe exception is an unopened, genuinely airtight package — which doesn't need refrigeration anyway.

@@ -92,6 +92,8 @@ Skip this entirely if the dry pass looks clean. The dry pass is the job; this is
 3. **Wipe each slat,** then immediately dry with a second dry cloth.
 4. **For wooden blinds,** dry within seconds and never let water sit in the grain.
 
+**Which types should never be damp-wiped:** fabric roman shades, paper or woven-wood shades, and any blind with a printed or flocked finish. Water marks these permanently, and a mark on a window covering is in the brightest part of the room. For those, stay with the dry pass and a vacuum brush, and accept a slightly less thorough result rather than risking a stain you cannot remove.
+
 ---
 
 ## Step 4: Clean the Cords and Head Rail
@@ -135,15 +137,6 @@ The parts people forget are also the parts that collect the most dust.
 | Kitchen | Every 2 weeks | Every 2–3 months |
 | Bathroom | Monthly | Quarterly |
 | Rarely used rooms | Quarterly | Annually |
-
----
-
-## Related Reading
-
-- [How to Remove Hard Water Stains from Glass Shower Doors](/home-hacks/cleaning/remove-hard-water-stains-shower-door/) — for windows with hard water spotting
-- [How to Clean Grout and Keep It White Longer](/home-hacks/cleaning/clean-grout-keep-white/) — the other bathroom surface that hides grime
-- [How to Remove Mold from Bathroom Caulk](/home-hacks/stains/remove-mold-bathroom-caulk/) — if the bathroom issue is biological
-- [How to Organize Under the Sink](/organize/small-spaces/organize-under-sink/) — where to keep the dusting tools
 
 ---
 

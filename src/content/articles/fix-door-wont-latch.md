@@ -194,14 +194,6 @@ If the latch bolt moves sluggishly or won't extend, the mechanism needs cleaning
 
 ---
 
-## Related Reading
-
-- [How to Fix a Sticking Door (Not by Sanding)](/fix-it/home-repair/fix-sticking-door/)
-- [How to Fix a Squeaky Door Hinge (Three Ways)](/fix-it/home-repair/fix-squeaky-door-hinge/)
-- [Cheap Ways to Insulate Windows and Doors for Winter](/save-money/bills/cheap-window-insulation/)
-
----
-
 ## Frequently Asked Questions
 **Why does my door close but not latch?**
 The latch bolt and the strike plate hole are no longer aligned — usually because the door has sagged slightly on its hinges.

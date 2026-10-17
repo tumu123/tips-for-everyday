@@ -157,15 +157,6 @@ Lawn overseeding works because seed-to-soil contact is the limiting factor, and 
 | Mowing short for the first cut | Stresses grass and opens space for weeds | Remove at most a third of blade height |
 | Turning the irrigation on at full pressure | Water hammer can crack fittings | Open valves slowly, zone by zone |
 
-## Related Reading
-
-- [Seasonal Home Maintenance Checklist](/fix-it/maintenance/seasonal-home-maintenance-checklist/)
-- [Spring Cleaning Checklist: Room by Room](/seasonal/seasons/spring-cleaning-checklist-room-by-room/)
-- [How to Keep Your Home Cool Without AC](/save-money/bills/keep-house-cool-summer/)
-- [How to Make Produce Last Longer](/kitchen-tips/cooking-hacks/make-produce-last-longer/)
-
----
-
 ## Frequently Asked Questions
 
 **When should I start getting my garden ready for spring?**

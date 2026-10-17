@@ -28,6 +28,7 @@ relatedSlugs:
   - "how-to-clean-washing-machine"
   - "remove-laundry-stains"
   - "save-money-on-laundry"
+  - "clean-upholstery-couch-stains"
 draft: false
 ---
 

@@ -184,15 +184,6 @@ Beyond the bill, a persistent drip in a bathroom or kitchen sink accelerates min
 
 ---
 
-## Related Reading
-
-- [How to Unclog a Slow Drain (and Find Where the Clog Actually Is)](/fix-it/plumbing/unclog-slow-drain/)
-- [How to Fix a Running Toilet (and What It Costs You)](/fix-it/plumbing/fix-running-toilet/)
-- [How to Lower Your Water Bill: A Room-by-Room Checklist](/save-money/bills/lower-water-bill-checklist/)
-- [How to Keep Your Water Heater Running Longer](/fix-it/maintenance/water-heater-maintenance/)
-
----
-
 ## Frequently Asked Questions
 **How do I know what type of faucet I have?**
 Two handles almost always means compression. One handle means a cartridge, ceramic disc, or ball design — you'll confirm which once the handle is off.

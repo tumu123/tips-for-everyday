@@ -162,15 +162,6 @@ Finally, grease film is the hidden multiplier. Airborne cooking grease coats far
 | Ignoring the sponge | It's the most contaminated item in many kitchens | Replace every one to two weeks |
 | Assuming the smell will air out on its own | The reservoir keeps producing | Clean it, then ventilate |
 
-## Related Reading
-
-- [How to Clean a Cast Iron Skillet Without Ruining It](/kitchen-tips/cooking-hacks/clean-cast-iron-skillet/)
-- [How to Clean a Cutting Board (Wood and Plastic)](/kitchen-tips/cooking-hacks/clean-cutting-board/)
-- [How to Fix a Garbage Disposal That Won't Run](/fix-it/plumbing/fix-garbage-disposal/)
-- [How to Make Your Own All-Purpose Cleaner (3 Recipes)](/home-hacks/cleaning/diy-all-purpose-cleaner/)
-
----
-
 ## Frequently Asked Questions
 **Why does my garbage disposal smell even after I clean it?**
 Almost always the splash guard. Food collects on its underside where nothing flushes through. Pull it out and scrub both sides, then scrub under the rim of the chamber itself. If it persists, move downstream to the drain pipe.

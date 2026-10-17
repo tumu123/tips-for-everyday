@@ -203,15 +203,6 @@ Exact figures depend heavily on climate, home size, current air leakage, and ene
 
 ---
 
-## Related Reading
-
-- [15 Ways to Cut Your Electricity Bill Without Spending Money](/save-money/bills/cut-electricity-bill-without-spending-money/) — the no-cost measures to do first
-- [The Seasonal Home Maintenance Checklist](/fix-it/maintenance/seasonal-home-maintenance-checklist/) — where air sealing fits in the annual cycle
-- [How to Extend the Life of Your Appliances](/save-money/shopping/extend-life-of-appliances/) — the repair-or-replace decision framework
-- [How to Lower Your Water Bill](/save-money/bills/lower-water-bill-checklist/) — the other utility line
-
----
-
 ## Frequently Asked Questions
 
 **Does window insulation film actually work?**

@@ -177,15 +177,6 @@ Freeze-thaw cycling drives concrete and pool plumbing damage. Water expands abou
 | Storing things against exterior walls | Coldest, dampest surface in a garage | Leave a gap, use interior shelving |
 | Storing pool chemicals near metal | Chlorine fumes corrode metal across the space | Separate, sealed, ventilated storage |
 
-## Related Reading
-
-- [How to Protect Outdoor Furniture in Summer](/seasonal/seasons/protect-outdoor-furniture-summer/)
-- [How to Prepare Your Home for Fall](/seasonal/seasons/prepare-home-for-fall/)
-- [How to Extend the Life of Your Appliances](/save-money/shopping/extend-life-of-appliances/)
-- [How to Store Off-Season Clothes](/organize/closet/store-off-season-clothes/)
-
----
-
 ## Frequently Asked Questions
 
 **How should I store my grill over winter?**

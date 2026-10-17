@@ -179,13 +179,6 @@ Floor damage is far easier to prevent than to fix, and the causes are a short li
 
 ---
 
-## Related Reading
-
-- [How to Remove Scratches From Wood Furniture](/fix-it/home-repair/remove-scratches-wood-furniture/)
-- [How to Quiet Squeaky Floors (Without Pulling Up Boards)](/fix-it/home-repair/quiet-squeaky-floors/)
-
----
-
 ## Frequently Asked Questions
 **Can I sand out a floor scratch?**
 On a polyurethane floor, no — a local patch of new finish will look different from the surrounding area. On an oil-finished floor, light sanding and re-oiling a small area blends well.

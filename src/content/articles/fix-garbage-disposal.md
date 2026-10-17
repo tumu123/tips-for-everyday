@@ -214,14 +214,6 @@ Use these as separate steps rather than simultaneously for maximum effect — th
 
 ---
 
-## Related Reading
-
-- [How to Unclog a Slow Drain (and Find Where the Clog Actually Is)](/fix-it/plumbing/unclog-slow-drain/)
-- [How to Unclog a Toilet Without Making It Worse](/fix-it/plumbing/unclog-toilet/)
-- [How to Fix a Leaky Faucet: Identify Your Type First](/fix-it/plumbing/fix-leaky-faucet/)
-
----
-
 ## Frequently Asked Questions
 **Why does my disposal hum but not grind?**
 The impeller is jammed. Turn off power, then use a hex wrench in the hole on the bottom to work the shaft back and forth until it frees.

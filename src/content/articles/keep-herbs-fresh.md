@@ -151,15 +151,6 @@ Freezing works by suspending the enzymes and microbes responsible for decay, tho
 | Expecting frozen herbs to garnish anything | Texture is destroyed by ice crystals | Use frozen herbs for cooking only |
 | Drying cilantro and basil | Lose nearly all character | Freeze them in oil or as cubes |
 
-## Related Reading
-
-- [How to Organize Your Fridge for Less Food Waste](/kitchen-tips/food-storage/organize-fridge-less-food-waste/)
-- [How to Make Produce Last Longer in the Fridge](/kitchen-tips/cooking-hacks/make-produce-last-longer/)
-- [How to Store Food So You Stop Throwing It Away](/save-money/groceries/store-food-to-reduce-waste/)
-- [How to Store Spices So They Actually Keep Their Flavor](/kitchen-tips/food-storage/store-spices/)
-
----
-
 ## Frequently Asked Questions
 **How long do fresh herbs last in the fridge?**
 Done properly: tender herbs in water last two to three weeks, hardy herbs wrapped damp last two to three weeks. Done poorly — tossed in the crisper in their plastic clamshell — both last three to five days.

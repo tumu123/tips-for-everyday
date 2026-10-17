@@ -198,15 +198,6 @@ Exact figures depend on local energy prices, dryer efficiency, load size, and ho
 
 ---
 
-## Related Reading
-
-- [How to Save Money on Laundry Without Noticing](/save-money/bills/save-money-on-laundry/) — the full laundry cost picture
-- [How to Wash Delicates, Wool, and Silk](/home-hacks/laundry/wash-delicates-wool-silk/) — where air drying is mandatory, not optional
-- [How to Extend the Life of Your Appliances](/save-money/shopping/extend-life-of-appliances/) — keeping the dryer itself running longer
-- [15 Ways to Cut Your Electricity Bill](/save-money/bills/cut-electricity-bill-without-spending-money/) — the bigger energy picture
-
----
-
 ## Frequently Asked Questions
 
 **How much does one dryer load cost?**

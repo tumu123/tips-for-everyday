@@ -204,15 +204,6 @@ Air exchange beats masking for post-party odor because the odor compounds are st
 | Scrubbing wax while warm | Smears it across the surface | Freeze with ice, then crack it off |
 | Deep-cleaning at midnight | Exhausting and mostly unnecessary | Three things tonight, rest tomorrow |
 
-## Related Reading
-
-- [How to Host Without Stressing: A Prep Timeline That Works](/seasonal/holidays/host-without-stressing-prep-timeline/)
-- [How to Remove Red Wine Stains](/home-hacks/stains/remove-red-wine-stains/)
-- [How to Remove Laundry Stains](/home-hacks/laundry/remove-laundry-stains/)
-- [How to Remove Kitchen Odors](/kitchen-tips/cooking-hacks/remove-kitchen-odors/)
-
----
-
 ## Frequently Asked Questions
 
 **What should I clean up immediately after a party?**

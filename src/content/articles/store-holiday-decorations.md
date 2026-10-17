@@ -181,15 +181,6 @@ Finally, labeling and photographs address the retrieval problem rather than the 
 | Storing inflatables while damp | Mildew and corroded blower motors | Dry completely, store indoors |
 | Keeping no record of what needs replacing | You rebuy duplicates or miss items | List it while packing |
 
-## Related Reading
-
-- [How to Organize a Closet](/organize/closet/organize-a-closet/)
-- [How to Store Off-Season Clothes](/organize/closet/store-off-season-clothes/)
-- [How to Organize Paperwork at Home](/organize/closet/organize-paperwork-at-home/)
-- [How to Clean and Store Summer Gear for Winter](/seasonal/seasons/clean-store-summer-gear/)
-
----
-
 ## Frequently Asked Questions
 
 **How do I stop Christmas lights from tangling in storage?**

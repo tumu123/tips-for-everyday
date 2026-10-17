@@ -157,15 +157,6 @@ The warming plate belongs in the list because coffee left hot continues to degra
 | Leaving coffee on the warming plate for hours | Continues degrading and bakes residue on | Decant into a thermos |
 | Cleaning the machine while blaming the beans | Stale beans make bad coffee in a clean machine | Check bean freshness and grind first |
 
-## Related Reading
-
-- [How to Descale a Kettle and Coffee Maker](/home-hacks/appliances/descale-kettle-coffee-maker/)
-- [How to Store Coffee Beans So They Stop Going Stale](/kitchen-tips/food-storage/store-coffee-beans/)
-- [How to Clean Stainless Steel Appliances Without Streaks](/home-hacks/appliances/clean-stainless-steel-appliances/)
-- [How to Remove Hard Water Stains from Glass Shower Doors](/home-hacks/cleaning/remove-hard-water-stains-shower-door/)
-
----
-
 ## Frequently Asked Questions
 **Why does my coffee suddenly taste bitter?**
 Most often rancid coffee oil coating the brew basket, carafe, and internal surfaces. Descaling won't fix it. Wash removable parts with dish soap and run a degreasing cycle using soap or a coffee equipment cleaner.

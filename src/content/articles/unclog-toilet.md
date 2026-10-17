@@ -193,15 +193,6 @@ This is where prevention actually lives. The great majority of recurring toilet 
 
 ---
 
-## Related Reading
-
-- [How to Fix a Running Toilet (and What It Costs You)](/fix-it/plumbing/fix-running-toilet/)
-- [How to Unclog a Slow Drain (and Find Where the Clog Actually Is)](/fix-it/plumbing/unclog-slow-drain/)
-- [How to Fix a Garbage Disposal That Won't Run](/fix-it/plumbing/fix-garbage-disposal/)
-- [How to Lower Your Water Bill: A Room-by-Room Checklist](/save-money/bills/lower-water-bill-checklist/)
-
----
-
 ## Frequently Asked Questions
 **Why won't my toilet unclog with a plunger?**
 Most often the wrong plunger or no seal. Use a flange plunger, soften it in hot water, and make sure the cup is submerged.

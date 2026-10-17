@@ -233,15 +233,6 @@ A plumber with a proper machine clears a main line in one visit. Repeated attemp
 
 ---
 
-## Related Reading
-
-- [How to Fix a Leaky Faucet: Identify Your Type First](/fix-it/plumbing/fix-leaky-faucet/)
-- [How to Unclog a Toilet Without Making It Worse](/fix-it/plumbing/unclog-toilet/)
-- [How to Fix a Garbage Disposal That Won't Run](/fix-it/plumbing/fix-garbage-disposal/)
-- [How to Lower Your Water Bill: A Room-by-Room Checklist](/save-money/bills/lower-water-bill-checklist/)
-
----
-
 ## Frequently Asked Questions
 **Why is my sink draining slowly but not clogged?**
 Partial buildup — usually grease coating in a kitchen line, or hair narrowing a bathroom line. It will keep getting worse without cleaning.

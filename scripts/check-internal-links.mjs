@@ -118,7 +118,9 @@ for (const [slug, a] of articles) {
   }
 
   // 3. Related reading titles match slugs
-  const section = a.body.match(/## Related reading\r?\n([\s\S]*?)(?=\r?\n---|\r?\n###)/);
+  //    Case-insensitive on purpose: an earlier cleanup only matched
+  //    "Related reading" and left 50 articles with "Related Reading" intact.
+  const section = a.body.match(/## Related reading\r?\n([\s\S]*?)(?=\r?\n---|\r?\n###)/i);
   if (section) {
     const titles = [...section[1].matchAll(/^\s*-\s+(.+?)\s*$/gm)].map((m) => m[1]);
     for (const t of titles) {

@@ -237,15 +237,6 @@ Testing equipment before you need it is about scheduling risk. Furnaces, snow bl
 | Pruning spring-flowering shrubs in fall | Removes next year's buds | Prune after spring bloom |
 | Ignoring the sump pump until it rains | You discover the failure during the flood | Test by pouring water into the pit |
 
-## Related Reading
-
-- [The Seasonal Home Maintenance Checklist (All Four Seasons)](/fix-it/maintenance/seasonal-home-maintenance-checklist/)
-- [How to Prepare Your Home for Fall](/seasonal/seasons/prepare-home-for-fall/)
-- [How to Prevent Frozen Pipes](/fix-it/maintenance/prevent-frozen-pipes/)
-- [Water Heater Maintenance](/fix-it/maintenance/water-heater-maintenance/)
-
----
-
 ## Frequently Asked Questions
 
 **What fall maintenance must be done before the first freeze?**

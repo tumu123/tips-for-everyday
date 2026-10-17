@@ -200,15 +200,6 @@ Removing price stickers addresses the clearest signal of all. A visible discount
 | A gift card with nothing else | Can read as no thought | Add a note or a small specific item |
 | Adding names to the list as you go | The largest overspend driver | Write the list and total before spending |
 
-## Related Reading
-
-- [How to Track Household Spending](/save-money/shopping/track-household-spending/)
-- [How to Buy Used Furniture Safely](/save-money/shopping/buy-used-furniture-safely/)
-- [How to Reuse Household Items](/save-money/shopping/reuse-household-items/)
-- [How to Save Money on Groceries](/save-money/groceries/save-money-on-groceries/)
-
----
-
 ## Frequently Asked Questions
 
 **How can I give gifts that don't look cheap on a small budget?**

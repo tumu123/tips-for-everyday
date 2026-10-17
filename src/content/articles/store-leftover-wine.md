@@ -145,15 +145,6 @@ Sparkling wine's short window is a different failure mode again. Dissolved CO₂
 | Pouring out wine that's merely dull | It's still good for cooking | Reduce into a sauce, braise, or make vinegar |
 | Expecting all wine to last the same | Fortified and sweet wines last weeks; delicate whites last days | Check the type-specific window |
 
-## Related Reading
-
-- [How to Tell If Food Has Gone Bad (Without Guessing)](/kitchen-tips/food-storage/how-to-tell-if-food-is-bad/)
-- [How Long Food Actually Lasts: The Shelf Life Guide](/kitchen-tips/food-storage/how-long-food-lasts-shelf-life-guide/)
-- [How to Organize a Small Kitchen with No Pantry](/organize/kitchen/organize-small-kitchen/)
-- [How to Save Money on Groceries Without Coupons](/save-money/groceries/save-money-on-groceries/)
-
----
-
 ## Frequently Asked Questions
 **How long does wine last after opening?**
 Refrigerated and recorked: 3 to 5 days for most still wines, 1 to 3 days for sparkling, and 2 to 4 weeks for fortified wines like port and sherry. Left on the counter, cut those roughly in half.

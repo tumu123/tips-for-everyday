@@ -187,15 +187,6 @@ The post-holiday dip has genuine physiological contributors: reduced daylight, d
 | Leaving gift cards untracked | Loss and expiry are the failure modes | Record them where you'll use them |
 | Ignoring a persistent low mood | Treatable, and delay doesn't help | Seek help if it persists beyond weeks |
 
-## Related Reading
-
-- [How to Store Holiday Decorations So They Last](/seasonal/holidays/store-holiday-decorations/)
-- [How to Track Household Spending](/save-money/shopping/track-household-spending/)
-- [How to Organize Cleaning Supplies](/organize/home-systems/organize-cleaning-supplies/)
-- [How to Organize Paperwork at Home](/organize/closet/organize-paperwork-at-home/)
-
----
-
 ## Frequently Asked Questions
 
 **How do I get back into a routine after the holidays?**

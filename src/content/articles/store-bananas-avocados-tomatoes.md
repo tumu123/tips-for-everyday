@@ -141,15 +141,6 @@ Banana skin blackening is the same category: cosmetic, not predictive. Cold dama
 | Leaving a cut avocado uncovered | Air oxidizes the surface quickly | Acid plus wrap pressed to the surface, then fridge |
 | Assuming all fruit ripens after picking | Berries, citrus and grapes never do | Ripen-only works for climacteric fruit |
 
-## Related Reading
-
-- [How to Make Produce Last Longer in the Fridge](/kitchen-tips/cooking-hacks/make-produce-last-longer/)
-- [How to Organize Your Fridge for Less Food Waste](/kitchen-tips/food-storage/organize-fridge-less-food-waste/)
-- [How to Store Food So You Stop Throwing It Away](/save-money/groceries/store-food-to-reduce-waste/)
-- [How to Keep Fresh Herbs Alive for Weeks](/kitchen-tips/food-storage/keep-herbs-fresh/)
-
----
-
 ## Frequently Asked Questions
 **How do I ripen an avocado faster?**
 Put it in a paper bag at room temperature, ideally with a ripe banana or apple, and close it loosely. Expect 1 to 3 days depending on how firm it started. Check daily — bagged avocados go from hard to overripe quickly.

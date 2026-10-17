@@ -181,15 +181,6 @@ And the leftovers system addresses what actually causes waste: invisibility. Foo
 | Leaving leftovers buried in opaque containers | Invisible food gets thrown away | Clear containers with dates, plus a use-first bin |
 | Overpacking the fridge | Blocks air circulation and creates warm spots | Leave space between items for airflow |
 
-## Related Reading
-
-- [How to Store Food So You Stop Throwing It Away](/save-money/groceries/store-food-to-reduce-waste/)
-- [How to Make Produce Last Longer in the Fridge](/kitchen-tips/cooking-hacks/make-produce-last-longer/)
-- [How Long Food Actually Lasts: The Shelf Life Guide](/kitchen-tips/food-storage/how-long-food-lasts-shelf-life-guide/)
-- [How to Keep Fresh Herbs Alive for Weeks](/kitchen-tips/food-storage/keep-herbs-fresh/)
-
----
-
 ## Frequently Asked Questions
 **What's the best temperature for a refrigerator?**
 At or below 40°F (4°C) at the warmest point. Most fridges are set warmer than that by default, so check with a thermometer placed in a few spots rather than trusting the dial.

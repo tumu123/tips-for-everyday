@@ -134,15 +134,6 @@ Dry with a microfiber cloth or squeegee. Water spots are mineral deposits — th
 
 ---
 
-## Related Reading
-
-- [How to Remove Hard Water Stains from Glass Shower Doors](/home-hacks/cleaning/remove-hard-water-stains-shower-door/) — when the buildup is mineral, not soap
-- [How to Clean Grout and Keep It White Longer](/home-hacks/cleaning/clean-grout-keep-white/) — the grout-specific method
-- [How to Remove Mold from Bathroom Caulk](/home-hacks/stains/remove-mold-bathroom-caulk/) — for pink or black growth
-- [How to Clean Stainless Steel Appliances Without Streaks](/home-hacks/appliances/clean-stainless-steel-appliances/) — if the fixtures are steel
-
----
-
 ## Frequently Asked Questions
 
 **Why does vinegar remove soap scum when soap itself doesn't?**

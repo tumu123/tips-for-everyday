@@ -116,15 +116,6 @@ The sequence is always: remove visible soil → rinse → then disinfect if disi
 
 ---
 
-## Related Reading
-
-- [How to Clean a Washing Machine](/home-hacks/appliances/how-to-clean-washing-machine/) — the full drum, drawer, and gasket procedure
-- [How to Deep Clean a Mattress at Home](/home-hacks/cleaning/deep-clean-mattress/) — what the quarterly mattress cleaning actually involves
-- [How to Clean Grimy Range Hood Filters](/home-hacks/appliances/clean-range-hood-filters/) — degreasing method for the highest-accumulation item in the kitchen
-- [How to Descale a Kettle and Coffee Maker](/home-hacks/appliances/descale-kettle-coffee-maker/) — how often descaling depends on your water
-
----
-
 ## Frequently Asked Questions
 
 **How often should I wash my bed sheets?**

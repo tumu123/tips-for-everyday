@@ -166,15 +166,6 @@ The refreezing rule isn't arbitrary either. Refreezing is safe when the food nev
 | Running hot water over a frozen steak | Uneven heating with real risks | Sear it straight from frozen instead |
 | Leaving thawing food in a sealed bag in the sun | Worst-case combination | Any of the three approved methods |
 
-## Related Reading
-
-- [How to Freeze Food Without Freezer Burn](/kitchen-tips/food-storage/avoid-freezer-burn/)
-- [How to Tell If Food Has Gone Bad (Without Guessing)](/kitchen-tips/food-storage/how-to-tell-if-food-is-bad/)
-- [How Long Food Actually Lasts: The Shelf Life Guide](/kitchen-tips/food-storage/how-long-food-lasts-shelf-life-guide/)
-- [How to Store Food So You Stop Throwing It Away](/save-money/groceries/store-food-to-reduce-waste/)
-
----
-
 ## Frequently Asked Questions
 **Can you refreeze thawed food?**
 If it was thawed in the refrigerator, yes — even without cooking, because it never entered the danger zone. Quality drops slightly. If it was thawed in cold water or the microwave, refreeze only after cooking it fully.

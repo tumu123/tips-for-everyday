@@ -166,15 +166,6 @@ Documentation matters because insurance claims are decided on evidence of prior 
 | Touching a downed line after the outage | Lines can be energized from another source | Stay back and call the utility |
 | Cleaning up damage before photographing | Loses evidence for the claim | Photograph first, then clean up |
 
-## Related Reading
-
-- [How to Prepare Your Home for Fall](/seasonal/seasons/prepare-home-for-fall/)
-- [The Seasonal Home Maintenance Checklist (All Four Seasons)](/fix-it/maintenance/seasonal-home-maintenance-checklist/)
-- [How to Prevent Frozen Pipes](/fix-it/maintenance/prevent-frozen-pipes/)
-- [How to Protect Outdoor Furniture in Summer](/seasonal/seasons/protect-outdoor-furniture-summer/)
-
----
-
 ## Frequently Asked Questions
 
 **What should I do to prepare my house for spring storms?**

@@ -183,15 +183,6 @@ Testing after the first cold day matters because winterizing failures are invisi
 | Assuming a new furnace needs no filter attention | Filters load fastest in peak season | Check monthly |
 | Trusting a thermostat schedule you never reviewed | Default setbacks often don't match your routine | Set it to your actual schedule |
 
-## Related Reading
-
-- [How to Prepare Your Home for Fall](/seasonal/seasons/prepare-home-for-fall/)
-- [How to Prevent Frozen Pipes](/fix-it/maintenance/prevent-frozen-pipes/)
-- [How to Save on Heating Costs in Winter](/save-money/bills/save-on-heating-costs-winter/)
-- [Cheap Window Insulation That Actually Works](/save-money/bills/cheap-window-insulation/)
-
----
-
 ## Frequently Asked Questions
 
 **What is the first thing to do when winterizing a home?**

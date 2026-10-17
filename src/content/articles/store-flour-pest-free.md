@@ -163,15 +163,6 @@ And the bay leaf caveat: there's no good evidence that bay leaves deter pantry p
 | Giving up when moths reappear after 2 weeks | Delayed emergence is expected after cleanup | Keep up vacuuming and trapping for another cycle |
 | Letting bulk whole-grain flours sit for a year | The germ oils go rancid long before then | Buy smaller amounts; freeze whole wheat flour |
 
-## Related Reading
-
-- [How to Organize a Pantry When You Have No Pantry](/organize/kitchen/organize-pantry-beginner-guide/)
-- [How to Store Spices So They Actually Keep Their Flavor](/kitchen-tips/food-storage/store-spices/)
-- [How to Store Coffee Beans So They Stop Going Stale](/kitchen-tips/food-storage/store-coffee-beans/)
-- [How Long Food Actually Lasts: The Shelf Life Guide](/kitchen-tips/food-storage/how-long-food-lasts-shelf-life-guide/)
-
----
-
 ## Frequently Asked Questions
 **Where do pantry moths come from?**
 Almost always inside the package. Flour, grains, cereal, nuts, and dried pasta aren't sterilized, so insect eggs from the mill or supply chain are already present when you buy them. They didn't get in through a window or a crack.

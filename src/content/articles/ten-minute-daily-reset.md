@@ -25,6 +25,7 @@ relatedSlugs:
   - "organize-a-closet"
   - "organize-small-kitchen"
   - "return-to-routine-after-holidays"
+  - "clean-baseboards-quickly"
 draft: false
 ---
 

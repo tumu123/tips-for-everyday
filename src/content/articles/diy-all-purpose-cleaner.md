@@ -150,14 +150,7 @@ Homemade cleaners are effective for general cleaning, degreasing, and descaling.
 
 If disinfection is the goal — during illness, after raw-meat contamination, or in a bathroom — use a registered disinfectant and follow the label contact time. Clean first to remove soil, then disinfect. Doing it in the other order means the disinfectant is consumed by the dirt instead of the germs.
 
----
-
-## Related Reading
-
-- [How to Get Rid of Grease Stains on Kitchen Cabinets](/home-hacks/cleaning/grease-stains-kitchen-cabinets/) — where the degreasing recipe earns its keep
-- [How to Remove Soap Scum Without Harsh Chemicals](/home-hacks/cleaning/remove-soap-scum/) — the acid chemistry in practice
-- [How to Remove Hard Water Stains from Glass Shower Doors](/home-hacks/cleaning/remove-hard-water-stains-shower-door/) — for mineral deposits specifically
-- [How to Clean Stainless Steel Appliances Without Streaks](/home-hacks/appliances/clean-stainless-steel-appliances/) — where to use (and not use) vinegar
+**Mix fresh, in small amounts.** A homemade spray has no preservative, so it is not shelf-stable in the way a commercial product is. A vinegar and water mix is stable enough for a couple of weeks, but anything containing soap, citrus juice, or a food-derived ingredient is a growth medium once it has been sitting at room temperature. Make a week's worth at a time, label it with the date, and discard anything that has gone cloudy or smells different from when it was made — that change is the signal, not a cosmetic issue.
 
 ---
 

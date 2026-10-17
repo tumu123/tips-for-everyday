@@ -158,15 +158,6 @@ On glass and stainless, a final wipe with a small amount of mineral oil or a ded
 
 ---
 
-## Related Reading
-
-- [How to Clean Grimy Range Hood Filters](/home-hacks/appliances/clean-range-hood-filters/) — the same grease, in the other place it accumulates
-- [How to Get Rid of Grease Stains on Kitchen Cabinets](/home-hacks/cleaning/grease-stains-kitchen-cabinets/) — for grease that has migrated upward
-- [How to Clean Stainless Steel Appliances Without Streaks](/home-hacks/appliances/clean-stainless-steel-appliances/) — working with the grain
-- [How to Remove Hard Water Stains from Glass Shower Doors](/home-hacks/cleaning/remove-hard-water-stains-shower-door/) — when the residue is mineral, not food
-
----
-
 ## Frequently Asked Questions
 
 **Can I use a razor blade on a glass stovetop?**

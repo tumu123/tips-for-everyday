@@ -176,15 +176,6 @@ Foam cushion cores can't be waterproofed effectively because water entering thro
 | Washing cushions then storing damp | Mildew in the foam | Dry fully in sun, then store |
 | Placing furniture under sprinkler heads | Constant moisture accelerates every failure mode | Move it or redirect the irrigation |
 
-## Related Reading
-
-- [How to Keep Your Home Cool Without AC](/save-money/bills/keep-house-cool-summer/)
-- [How to Remove Rust Stains from a Sink](/home-hacks/stains/remove-rust-stains-sink/)
-- [How to Clean Stainless Steel Appliances Without Streaks](/home-hacks/appliances/clean-stainless-steel-appliances/)
-- [How to Store Off-Season Clothes](/organize/closet/store-off-season-clothes/)
-
----
-
 ## Frequently Asked Questions
 
 **Should I cover outdoor furniture every night?**

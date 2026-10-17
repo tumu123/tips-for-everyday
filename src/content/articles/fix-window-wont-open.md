@@ -206,14 +206,6 @@ Wood absorbs moisture and expands. A window that works fine in winter may bind i
 
 ---
 
-## Related Reading
-
-- [Cheap Ways to Insulate Windows and Doors for Winter](/save-money/bills/cheap-window-insulation/)
-- [How to Fix a Sticking Door (Not by Sanding)](/fix-it/home-repair/fix-sticking-door/)
-- [How to Save on Heating Costs This Winter](/save-money/bills/save-on-heating-costs-winter/)
-
----
-
 ## Frequently Asked Questions
 **Why is my window suddenly hard to open?**
 Most often dirt in the track, or wood swelling from humidity. On older windows, a paint seal is the most common cause.

@@ -44,6 +44,13 @@ Typical heat loss distribution in an older, unimproved home:
 
 Two things follow. First, **air leakage is a major, cheaply-fixable slice** that no amount of glass upgrade will address. Second, **the attic matters as much or more than windows** — which is why the usual "buy new windows first" advice is usually wrong.
 
+**These are averages, and your house may not match them.** A 1950s house with uninsulated walls is a different problem from a 2005 house with poor attic insulation, and spending on the wrong one wastes the budget. Two cheap ways to find out where your heat actually goes:
+
+- **A thermal camera or an infrared thermometer** shows cold surfaces directly. On a cold day, the difference between an insulated and an uninsulated wall is obvious within seconds, and so is a cold band where insulation has slumped or was never installed.
+- **The incense or smoke test** finds air leakage. Move a lit incense stick along skirting boards, window frames, and ceiling penetrations on a windy day and watch the smoke. It bends where air is moving, which tells you exactly which gaps are worth sealing rather than which ones merely exist.
+
+An infrared thermometer costs less than a single replacement window and answers the question that determines how the rest of the budget should be spent.
+
 ---
 
 ## The Ranked List
@@ -144,15 +151,6 @@ An open damper is a large hole in the ceiling of your thermal envelope. If the f
 | Furnace filter | $10–20 | Moderate (avoiding problems) |
 | Attic insulation | $500–2,000+ | High |
 | New windows | $5,000–15,000+ | Moderate (slow payback) |
-
----
-
-## Related Reading
-
-- [Cheap Ways to Insulate Windows and Doors for Winter](/save-money/bills/cheap-window-insulation/) — the detailed sealing procedure
-- [15 Ways to Cut Your Electricity Bill Without Spending Money](/save-money/bills/cut-electricity-bill-without-spending-money/) — no-cost measures across the home
-- [The Seasonal Home Maintenance Checklist](/fix-it/maintenance/seasonal-home-maintenance-checklist/) — when to do each task
-- [How to Extend the Life of Your Appliances](/save-money/shopping/extend-life-of-appliances/) — protecting the furnace and other equipment
 
 ---
 

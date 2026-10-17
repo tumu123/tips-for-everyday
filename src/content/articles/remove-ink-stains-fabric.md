@@ -151,15 +151,6 @@ Rubbing drives ink deeper into the weave and spreads the stain outward. Blotting
 
 ---
 
-## Related Reading
-
-- [How to Remove Common Laundry Stains](/home-hacks/laundry/remove-laundry-stains/) — the full stain-family chart
-- [How to Remove Red Wine Stains](/home-hacks/stains/remove-red-wine-stains/) — the other common tannin and dye stain
-- [How to Wash Delicates, Wool, and Silk](/home-hacks/laundry/wash-delicates-wool-silk/) — when the fabric is the limiting factor
-- [How to Clean a Washing Machine](/home-hacks/appliances/how-to-clean-washing-machine/) — so the next load stays clean
-
----
-
 ## Frequently Asked Questions
 
 **Does hairspray really remove ink?**

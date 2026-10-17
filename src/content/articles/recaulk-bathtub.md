@@ -207,15 +207,6 @@ Use a caulk smoothing tool, a spoon, or a gloved finger. Two methods work well:
 
 ---
 
-## Related Reading
-
-- [How to Remove Mold from Bathroom Caulk](/home-hacks/stains/remove-mold-bathroom-caulk/)
-- [How to Remove Soap Scum Without Harsh Chemicals](/home-hacks/cleaning/remove-soap-scum/)
-- [How to Remove Hard Water Stains from Glass Shower Doors](/home-hacks/cleaning/remove-hard-water-stains-shower-door/)
-- [How to Clean Grout and Keep It White Longer](/home-hacks/cleaning/clean-grout-keep-white/)
-
----
-
 ## Frequently Asked Questions
 **Why fill the tub with water before caulking?**
 A tub sinks slightly under the weight of water. Caulking with it empty means the bead gets stretched the first time it's used and tears away.

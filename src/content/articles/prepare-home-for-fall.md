@@ -161,15 +161,6 @@ Lawn fertilization in fall works because the plant's priorities change. In sprin
 | Leaving outdoor cushions out over winter | Foam core mildews and doesn't recover | Store indoors, dry and ventilated |
 | Letting leaves mat on the lawn | Smothers grass, creates mold habitat | Rake or mulch them in |
 
-## Related Reading
-
-- [Seasonal Home Maintenance Checklist](/fix-it/maintenance/seasonal-home-maintenance-checklist/)
-- [How to Prevent Frozen Pipes](/fix-it/maintenance/prevent-frozen-pipes/)
-- [How to Save on Heating Costs in Winter](/save-money/bills/save-on-heating-costs-winter/)
-- [Water Heater Maintenance](/fix-it/maintenance/water-heater-maintenance/)
-
----
-
 ## Frequently Asked Questions
 
 **When should I start preparing my home for fall?**

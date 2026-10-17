@@ -193,15 +193,6 @@ The twenty-minute reset is about the chemistry of dried-on food. Starches and su
 | Leaving spills for tomorrow | Wine and grease set and become far harder | Treat spills immediately |
 | Overcooking the menu | Every extra dish is another oven conflict | Fewer dishes, done well |
 
-## Related Reading
-
-- [How to Deep Clean Before Hosting Guests](/seasonal/holidays/deep-clean-before-guests/)
-- [How to Set Up a Guest Room on Short Notice](/seasonal/holidays/set-up-guest-room-short-notice/)
-- [How to Clean Up After a Holiday Party Fast](/seasonal/holidays/clean-up-after-holiday-party/)
-- [How to Save Money on Groceries](/save-money/groceries/save-money-on-groceries/)
-
----
-
 ## Frequently Asked Questions
 
 **How far in advance should I start preparing to host?**

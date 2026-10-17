@@ -37,6 +37,7 @@ relatedSlugs:
   - "fix-window-wont-open"
   - "fix-door-wont-latch"
   - "fix-drafts-from-electrical-outlets"
+  - "clean-window-tracks"
 draft: false
 ---
 

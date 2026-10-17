@@ -177,15 +177,6 @@ Air exchange in a closed-up room addresses a real perception issue. Rooms kept s
 | Decorating instead of preparing | Doesn't affect comfort | Bed, light, surfaces, bathroom |
 | Leaving a closed-up room unaired | Stale air registers immediately | Open windows for 15 minutes |
 
-## Related Reading
-
-- [How to Deep Clean Before Hosting Guests](/seasonal/holidays/deep-clean-before-guests/)
-- [How to Host Without Stressing: A Prep Timeline That Works](/seasonal/holidays/host-without-stressing-prep-timeline/)
-- [How to Store Off-Season Clothes](/organize/closet/store-off-season-clothes/)
-- [How to Organize a Closet](/organize/closet/organize-a-closet/)
-
----
-
 ## Frequently Asked Questions
 
 **What does a guest room actually need?**

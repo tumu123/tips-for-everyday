@@ -166,15 +166,6 @@ The sensory tests work because the volatile compounds you're trying to preserve 
 | Leaving spices in half-empty paper packets | Permeable; they fade fast | Transfer to sealed jars |
 | Assuming old spices are unsafe | They lose potency, not safety — but there's also little reason to keep them | Judge by smell and replace when faded |
 
-## Related Reading
-
-- [How to Store Coffee Beans So They Stop Going Stale](/kitchen-tips/food-storage/store-coffee-beans/)
-- [How to Store Flour and Grains So Bugs Never Show Up](/kitchen-tips/food-storage/store-flour-pest-free/)
-- [How Long Food Actually Lasts: The Shelf Life Guide](/kitchen-tips/food-storage/how-long-food-lasts-shelf-life-guide/)
-- [How to Organize a Pantry When You Have No Pantry](/organize/kitchen/organize-pantry-beginner-guide/)
-
----
-
 ## Frequently Asked Questions
 **How long do spices actually last?**
 Whole spices keep real character for two to four years; ground spices for one to two; dried leafy herbs one to three. These are quality windows rather than safety deadlines — old spices are disappointing, not dangerous.

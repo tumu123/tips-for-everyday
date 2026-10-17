@@ -164,15 +164,6 @@ LED lights matter because incandescent bulbs convert most of their energy to hea
 | Using incandescent lights | Heat dries the tree and adds fire risk | LED lights, off when unattended |
 | Leaving a dry tree up | Extremely flammable | Remove once needles snap |
 
-## Related Reading
-
-- [How to Store Holiday Decorations So They Last](/seasonal/holidays/store-holiday-decorations/)
-- [How to Clean Up After a Holiday Party Fast](/seasonal/holidays/clean-up-after-holiday-party/)
-- [How to Return to Routine After the Holidays](/seasonal/holidays/return-to-routine-after-holidays/)
-- [How to Make Produce Last Longer](/kitchen-tips/cooking-hacks/make-produce-last-longer/)
-
----
-
 ## Frequently Asked Questions
 
 **How do I keep a real Christmas tree from dropping needles?**

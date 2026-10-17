@@ -159,15 +159,6 @@ The "no soap" rule survives not because it's correct but because people who foll
 | Scrubbing aggressively with steel wool every wash | Takes seasoning you worked to build | Brush or salt; steel wool only for rust |
 | Storing it wet or stacked without a barrier | Trapped moisture creates rust spots | Dry fully; use a paper towel between stacked pans |
 
-## Related Reading
-
-- [How to Sharpen Kitchen Knives (Without Ruining Them)](/kitchen-tips/cooking-hacks/sharpen-kitchen-knives/)
-- [How to Clean a Cutting Board (Wood and Plastic)](/kitchen-tips/cooking-hacks/clean-cutting-board/)
-- [How to Get Burnt Food Off a Stovetop](/home-hacks/cleaning/remove-burnt-food-stovetop/)
-- [How to Get Rid of Kitchen Odors for Good](/kitchen-tips/cooking-hacks/remove-kitchen-odors/)
-
----
-
 ## Frequently Asked Questions
 **Can you use soap on cast iron?**
 Yes. The no-soap rule dates from when soap contained lye, which does strip seasoning. Modern dish soap doesn't contain lye and won't damage a polymerized surface. Wash it with soap, then dry it thoroughly.

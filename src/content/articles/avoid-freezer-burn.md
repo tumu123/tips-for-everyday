@@ -156,15 +156,6 @@ Everything else — the labeling, the layout, the gasket check — serves those 
 | Assuming frost inside the bag means it's bad | Internal frost just means moisture redistributed | Judge by smell and trim, not by frost alone |
 | Tossing burned food out of caution | Texture loss is not a safety issue | Cook it in a moist preparation |
 
-## Related Reading
-
-- [How to Thaw Food Safely (and Faster Than You Think)](/kitchen-tips/food-storage/thaw-food-safely/)
-- [How to Store Food So You Stop Throwing It Away](/save-money/groceries/store-food-to-reduce-waste/)
-- [How Long Food Actually Lasts: The Shelf Life Guide](/kitchen-tips/food-storage/how-long-food-lasts-shelf-life-guide/)
-- [How to Organize Your Fridge for Less Food Waste](/kitchen-tips/food-storage/organize-fridge-less-food-waste/)
-
----
-
 ## Frequently Asked Questions
 **Is freezer-burned food safe to eat?**
 Yes. Freezer burn is dehydration, not contamination. If the food was safe when it went in and stayed frozen, it remains safe indefinitely. The problem is purely texture and flavor, which is why it's worth salvaging rather than discarding.

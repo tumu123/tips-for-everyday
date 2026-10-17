@@ -210,15 +210,6 @@ The 90-minute list works because it's sorted by marginal impact per minute. Clea
 | Skipping the entry | It's where the impression forms | Ten minutes on the entry and coats |
 | Cleaning while guests are arriving | You're flustered and it shows | Finish, then stop, fifteen minutes before |
 
-## Related Reading
-
-- [How to Host Without Stressing: A Prep Timeline That Works](/seasonal/holidays/host-without-stressing-prep-timeline/)
-- [How to Set Up a Guest Room on Short Notice](/seasonal/holidays/set-up-guest-room-short-notice/)
-- [Spring Cleaning Checklist: Room by Room](/seasonal/seasons/spring-cleaning-checklist-room-by-room/)
-- [How to Organize Cleaning Supplies](/organize/home-systems/organize-cleaning-supplies/)
-
----
-
 ## Frequently Asked Questions
 
 **What rooms should I clean before guests come?**
