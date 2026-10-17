@@ -26,6 +26,7 @@ relatedSlugs:
   - "organize-paperwork-at-home"
   - "reuse-household-items"
   - "ten-minute-daily-reset"
+  - "save-money-when-moving-house"
 draft: false
 ---
 

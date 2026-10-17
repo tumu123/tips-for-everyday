@@ -19,6 +19,8 @@ relatedSlugs:
   - "cut-electricity-bill-without-spending-money"
   - "lower-water-bill-checklist"
   - "home-energy-audit-diy"
+  - "lower-homeowners-insurance-premium"
+  - "lower-internet-bill-without-switching"
 draft: false
 ---
 

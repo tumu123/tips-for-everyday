@@ -34,6 +34,7 @@ relatedSlugs:
   - "organize-fridge-less-food-waste"
   - "remove-kitchen-odors"
   - "spring-cleaning-checklist-room-by-room"
+  - "save-money-on-pest-control-diy"
 draft: false
 ---
 

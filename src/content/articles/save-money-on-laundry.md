@@ -20,6 +20,7 @@ relatedSlugs:
   - "cut-electricity-bill-without-spending-money"
   - "extend-life-of-appliances"
   - "air-dry-vs-dryer-cost"
+  - "save-money-on-bedding-and-linens"
 draft: false
 ---
 

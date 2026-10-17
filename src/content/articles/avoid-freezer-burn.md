@@ -31,6 +31,7 @@ relatedSlugs:
   - "thaw-food-safely"
   - "store-food-to-reduce-waste"
   - "organize-fridge-less-food-waste"
+  - "batch-cooking-save-money-time"
 draft: false
 ---
 

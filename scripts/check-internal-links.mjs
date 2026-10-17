@@ -5,6 +5,9 @@
 //   1. Body markdown links (/category/sub/slug/) resolve to a real article.
 //   2. frontmatter relatedSlugs reference existing articles.
 //   3. "## Related reading" titles match the title of the referenced slug.
+//   4. frontmatter description stays inside the schema limits
+//      (src/content/config.ts caps it at 200 chars; very short ones are a
+//      sign of a truncated or placeholder value).
 //
 // Exit code 1 if any check fails. Safe to run repeatedly.
 
@@ -62,6 +65,7 @@ for (const file of fs.readdirSync(ART_DIR).filter((f) => f.endsWith('.md'))) {
   }
   articles.set(slug, {
     title: fm.title,
+    description: fm.description || '',
     url: `/${cat}/${slugify(fm.subcategory)}/${slug}/`,
     file,
     related: fm.relatedSlugs__list || [],
@@ -80,7 +84,19 @@ let errors = 0;
 let bodyLinks = 0;
 let relatedRefs = 0;
 
+const DESC_MAX = 200;
+const DESC_MIN = 80;
+
 for (const [slug, a] of articles) {
+  // 0. description length (schema caps it at DESC_MAX)
+  if (a.description.length > DESC_MAX) {
+    console.log(`[DESC TOO LONG] ${a.file}: ${a.description.length} chars (max ${DESC_MAX})`);
+    errors++;
+  } else if (a.description.length < DESC_MIN) {
+    console.log(`[DESC TOO SHORT] ${a.file}: ${a.description.length} chars (min ${DESC_MIN})`);
+    errors++;
+  }
+
   // 1. body links
   for (const m of a.body.matchAll(/\]\((\/[a-z0-9\-\/]+\/)\)?/g)) {
     const url = m[1];

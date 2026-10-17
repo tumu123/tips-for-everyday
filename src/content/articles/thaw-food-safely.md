@@ -29,6 +29,7 @@ relatedSlugs:
   - "avoid-freezer-burn"
   - "how-long-food-lasts-shelf-life-guide"
   - "store-food-to-reduce-waste"
+  - "batch-cooking-save-money-time"
 draft: false
 ---
 

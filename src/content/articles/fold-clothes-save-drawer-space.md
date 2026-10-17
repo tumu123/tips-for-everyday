@@ -26,6 +26,7 @@ relatedSlugs:
   - "store-off-season-clothes"
   - "wash-delicates-wool-silk"
   - "remove-mildew-smell-laundry"
+  - "save-money-on-bedding-and-linens"
 draft: false
 ---
 
