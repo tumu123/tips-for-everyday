@@ -246,11 +246,6 @@ Most small kitchens have enough volume; the problem is access and subdivision. T
 
 ---
 
-## Related reading
-
-- How to Organize a Pantry (Beginner Guide)
-- How to Store Food to Reduce Waste
-- How to Organize Under the Sink (and Keep It That Way)
 
 ---
 

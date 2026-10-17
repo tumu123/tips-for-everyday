@@ -249,11 +249,6 @@ Cooking vapors rise and spread outward. The cabinets nearest the cooking surface
 
 ---
 
-## Related reading
-
-- How to Clean Grimy Range Hood Filters
-- How to Remove Hard Water Stains from Glass Shower Doors
-- How to Clean Grout and Keep It White Longer
 
 ---
 

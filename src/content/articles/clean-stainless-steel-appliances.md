@@ -245,11 +245,6 @@ Wipe handles weekly for fingerprints. Clean the full surface every two to four w
 
 ---
 
-## Related reading
-
-- How to Get Rid of Grease Stains on Kitchen Cabinets
-- How to Clean Grimy Range Hood Filters
-- How to Descale a Kettle and Coffee Maker
 
 ---
 

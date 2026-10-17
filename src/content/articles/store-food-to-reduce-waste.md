@@ -234,11 +234,6 @@ Yes, but the effort is smaller than it sounds: clear containers, one eat-first s
 
 ---
 
-## Related reading
-
-- How to Save Money on Groceries Without Coupons
-- How to Organize a Pantry When You Have No Pantry
-- How to Extend the Life of Your Appliances
 
 ---
 

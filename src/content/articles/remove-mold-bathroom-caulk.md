@@ -216,11 +216,6 @@ For most healthy people, limited surface mold in a bathroom is a nuisance rather
 
 ---
 
-## Related reading
-
-- How to Remove Hard Water Stains from Glass Shower Doors
-- How to Clean Grout and Keep It White Longer
-- How to Remove Soap Scum Without Harsh Chemicals
 
 ---
 

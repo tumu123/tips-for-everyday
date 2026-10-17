@@ -209,11 +209,6 @@ Empty one cabinet, throw out anything expired, and put back only the everyday dr
 
 ---
 
-## Related reading
-
-- How to Organize a Small Kitchen with No Pantry
-- How to Store Food So You Stop Throwing It Away
-- How to Save Money on Groceries Without Coupons
 
 ---
 

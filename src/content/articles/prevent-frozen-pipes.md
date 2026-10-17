@@ -262,11 +262,6 @@ The pipe repair itself is usually modest. The water damage is what becomes expen
 
 ---
 
-## Related reading
-
-- The Seasonal Home Maintenance Checklist (All Four Seasons)
-- How to Fix a Running Toilet (and What It Costs You)
-- How to Extend the Life of Your Appliances
 
 ---
 

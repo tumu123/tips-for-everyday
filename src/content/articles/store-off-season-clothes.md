@@ -273,11 +273,6 @@ Clean them first — especially winter boots with road salt residue. Stuff them 
 
 ---
 
-## Related reading
-
-- How to Organize a Closet You Never Want to Reorganize
-- How to Clean a Washing Machine
-- How to Organize a Small Kitchen with No Pantry
 
 ---
 

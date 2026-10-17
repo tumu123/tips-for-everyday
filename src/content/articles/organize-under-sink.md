@@ -219,11 +219,6 @@ The same principles apply but the cavity is usually shallower with pipes at the 
 
 ---
 
-## Related reading
-
-- How to Organize a Small Kitchen with No Pantry
-- How to Remove Mold from Bathroom Caulk
-- How to Organize a Bathroom with No Cabinet Space
 
 ---
 

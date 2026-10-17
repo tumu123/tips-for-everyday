@@ -295,11 +295,6 @@ Water stains on ceilings or in the attic, a musty smell in a basement or crawlsp
 
 ---
 
-## Related reading
-
-- How to Extend the Life of Your Appliances
-- How to Fix a Sticking Door (Not by Sanding)
-- How to Patch a Hole in Drywall (Two Sizes of Repair)
 
 ---
 

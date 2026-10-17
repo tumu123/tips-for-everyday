@@ -239,11 +239,6 @@ Replace anything expired, separated, or discolored. Bleach degrades noticeably w
 
 ---
 
-## Related reading
-
-- How to Organize Under the Sink (and Keep It That Way)
-- How to Organize a Small Kitchen with No Pantry
-- How to Clean Grout and Keep It White
 
 ---
 

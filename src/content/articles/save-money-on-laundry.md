@@ -249,11 +249,6 @@ Cold water is fine for routine bedding and towel washing. Use hot water when som
 
 ---
 
-## Related reading
-
-- How to Clean a Washing Machine (Step by Step)
-- How to Cut Your Electricity Bill Without Spending Money
-- How to Extend the Life of Your Appliances (Save $100s)
 
 ---
 

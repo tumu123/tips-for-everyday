@@ -237,11 +237,6 @@ They react to produce mostly water and gas, so combining them largely cancels ea
 
 ---
 
-## Related reading
-
-- How to Clean a Washing Machine
-- How to Save Money on Laundry
-- How to Remove Red Wine Stains
 
 ---
 

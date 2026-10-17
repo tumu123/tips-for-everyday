@@ -249,11 +249,6 @@ Saturate the residue with rubbing alcohol and let it sit for several minutes, th
 
 ---
 
-## Related reading
-
-- How to Remove Coffee Stains from Mugs and Carpet
-- How to Clean Stainless Steel Appliances Without Streaks
-- How to Remove Rust Stains from Sinks and Tubs
 
 ---
 

@@ -233,11 +233,6 @@ Yes, if they are only limp. Wilting is water loss and is reversible. Anything sl
 
 ---
 
-## Related reading
-
-- How to Store Food So You Stop Throwing It Away
-- How Long Food Actually Lasts: The Shelf Life Guide
-- How to Organize a Pantry When You Have No Pantry
 
 ---
 

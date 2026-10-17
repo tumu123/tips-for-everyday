@@ -277,11 +277,6 @@ It depends. Extended warranties on major appliances typically cost 10–20% of t
 
 ---
 
-## Related reading
-
-- How to Clean a Washing Machine (Step by Step)
-- How to Clean Grimy Range Hood Filters
-- How to Cut Your Electricity Bill Without Spending Money
 
 ---
 

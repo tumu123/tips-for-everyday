@@ -230,11 +230,6 @@ Crack one into a separate bowl. A rotten egg has an unmistakable sulfurous smell
 
 ---
 
-## Related reading
-
-- How Long Food Actually Lasts: The Shelf Life Guide
-- How to Store Food So You Stop Throwing It Away
-- How to Organize a Pantry When You Have No Pantry
 
 ---
 

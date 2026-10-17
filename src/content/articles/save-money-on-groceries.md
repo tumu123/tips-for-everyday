@@ -260,11 +260,6 @@ Both have a place. Fresh is better for items you eat raw and will use within a f
 
 ---
 
-## Related reading
-
-- How to Store Food to Reduce Waste
-- How to Cut Your Electricity Bill Without Spending Money
-- How to Lower Your Water Bill: A Room-by-Room Checklist
 
 ---
 

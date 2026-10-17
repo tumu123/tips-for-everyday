@@ -237,11 +237,6 @@ Install wood backing by holding a piece slightly longer than the opening diagona
 
 ---
 
-## Related reading
-
-- How to Remove Adhesive Residue
-- How to Fix a Sticking Door (Not by Sanding)
-- How to Clean Grout and Keep It White
 
 ---
 

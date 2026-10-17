@@ -192,11 +192,6 @@ Sometimes, if the cause is seasonal humidity. If the door stuck evenly along an 
 
 ---
 
-## Related reading
-
-- How to Fix a Squeaky Door Hinge (Three Ways)
-- How to Quiet Squeaky Floors
-- How to Extend the Life of Your Appliances
 
 ---
 

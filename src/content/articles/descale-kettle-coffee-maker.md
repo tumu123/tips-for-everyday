@@ -204,11 +204,6 @@ Not when done correctly with the right acid for the material. Damage occurs from
 
 ---
 
-## Related reading
-
-- How to Clean Stainless Steel Appliances Without Streaks
-- How to Clean a Washing Machine (Step by Step)
-- How to Clean Grimy Range Hood Filters
 
 ---
 

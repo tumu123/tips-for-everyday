@@ -228,11 +228,6 @@ White flour is fine in the pantry for up to a year if sealed. Whole wheat flour 
 
 ---
 
-## Related reading
-
-- How to Store Food So You Stop Throwing It Away
-- How to Tell If Food Has Gone Bad
-- How to Organize a Pantry When You Have No Pantry
 
 ---
 

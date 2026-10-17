@@ -254,11 +254,6 @@ That is a quantity problem, not an organization problem. Either reduce the quant
 
 ---
 
-## Related reading
-
-- How to Organize a Small Kitchen with No Pantry
-- How to Organize Paperwork at Home
-- How to Organize Under the Sink (and Keep It That Way)
 
 ---
 

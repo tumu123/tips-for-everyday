@@ -231,11 +231,6 @@ Leave the machine door open after each use, wipe the gasket weekly on front-load
 
 ---
 
-## Related reading
-
-- How to Clean a Washing Machine
-- How to Remove Common Laundry Stains (A Fabric-Safe Chart)
-- How to Save Money on Laundry
 
 ---
 

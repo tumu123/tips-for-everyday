@@ -262,11 +262,6 @@ Not generally. The beads, thread, and any lining are usually the weak point rath
 
 ---
 
-## Related reading
-
-- How to Remove Common Laundry Stains (A Fabric-Safe Chart)
-- How to Store Off-Season Clothes (So They Last)
-- How to Clean a Washing Machine
 
 ---
 

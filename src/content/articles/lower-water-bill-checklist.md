@@ -264,11 +264,6 @@ Yes for the inexpensive ones. Faucet aerators and low-flow showerheads typically
 
 ---
 
-## Related reading
-
-- How to Cut Your Electricity Bill Without Spending Money
-- How to Fix a Running Toilet Step by Step
-- How to Save Money on Groceries Without Coupons
 
 ---
 

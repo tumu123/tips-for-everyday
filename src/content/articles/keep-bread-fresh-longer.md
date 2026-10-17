@@ -204,11 +204,6 @@ Use a cotton or linen bread bag, a bread box, or a paper bag inside a plastic ba
 
 ---
 
-## Related reading
-
-- How Long Food Actually Lasts: The Shelf Life Guide
-- How to Store Food So You Stop Throwing It Away
-- How to Tell If Food Has Gone Bad (Without Guessing)
 
 ---
 

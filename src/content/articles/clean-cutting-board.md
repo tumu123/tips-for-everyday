@@ -235,11 +235,6 @@ Glass is non-porous and easy to sanitize, but it is very hard on knife edges and
 
 ---
 
-## Related reading
-
-- How to Clean Stainless Steel Appliances
-- How to Organize a Small Kitchen with No Pantry
-- How to Make Produce Last Longer in the Fridge
 
 ---
 

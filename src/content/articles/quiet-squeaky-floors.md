@@ -205,11 +205,6 @@ Fix it as soon as you find it, since loose panels loosen their neighbors, and ke
 
 ---
 
-## Related reading
-
-- How to Fix a Squeaky Door Hinge (Three Ways)
-- How to Fix a Sticking Door (Not by Sanding)
-- How to Remove Adhesive Residue
 
 ---
 

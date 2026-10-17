@@ -249,11 +249,6 @@ In a location that is easy to grab and away from the most fire-prone areas. A cl
 
 ---
 
-## Related reading
-
-- How to Organize a Closet You Never Want to Reorganize
-- How to Organize a Small Kitchen with No Pantry
-- How to Save Money on Groceries Without Coupons
 
 ---
 

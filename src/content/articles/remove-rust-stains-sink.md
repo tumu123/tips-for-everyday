@@ -208,11 +208,6 @@ Melamine sponges are mild micro-abrasives. They help with light rust transfer ma
 
 ---
 
-## Related reading
-
-- How to Remove Hard Water Stains from Glass Shower Doors
-- How to Remove Adhesive Residue from Any Surface
-- How to Clean Grout and Keep It White Longer
 
 ---
 

@@ -233,11 +233,6 @@ Rotate 180 degrees (head to foot) every three months. Do not flip modern one-sid
 
 ---
 
-## Related reading
-
-- How to Remove Pet Urine Stains and Odor from Carpet
-- How to Clean a Washing Machine (Step by Step)
-- How to Remove Coffee Stains from Mugs and Carpet
 
 ---
 

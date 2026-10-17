@@ -205,11 +205,6 @@ Only after you have checked the flapper and the fill valve, which cover the over
 
 ---
 
-## Related reading
-
-- How to Lower Your Water Bill: A Room-by-Room Checklist
-- How to Extend the Life of Your Appliances
-- How to Remove Rust Stains from a Sink
 
 ---
 

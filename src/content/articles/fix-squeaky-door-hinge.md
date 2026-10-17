@@ -206,11 +206,6 @@ Yes. A latch bolt rubbing on the strike plate produces a noise that sounds ident
 
 ---
 
-## Related reading
-
-- How to Quiet Squeaky Floors
-- How to Fix a Sticking Door
-- How to Extend the Life of Your Appliances
 
 ---
 

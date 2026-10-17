@@ -239,11 +239,6 @@ Sometimes not by cleaning. Grout that has absorbed oil-based stains over years m
 
 ---
 
-## Related reading
-
-- How to Remove Mold from Bathroom Caulk
-- How to Remove Hard Water Stains from Glass Shower Doors
-- How to Remove Soap Scum Without Harsh Chemicals
 
 ---
 

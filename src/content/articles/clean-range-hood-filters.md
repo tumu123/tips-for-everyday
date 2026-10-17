@@ -228,11 +228,6 @@ No. Charcoal filters work by adsorption, capturing odor molecules in the carbon 
 
 ---
 
-## Related reading
-
-- How to Get Rid of Grease Stains on Kitchen Cabinets
-- How to Clean Stainless Steel Appliances Without Streaks
-- How to Descale a Kettle and Coffee Maker
 
 ---
 

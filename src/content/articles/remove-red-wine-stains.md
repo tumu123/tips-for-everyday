@@ -266,11 +266,6 @@ It can if untreated. Wine is acidic and also pigmented, so it both etches and st
 
 ---
 
-## Related reading
-
-- How to Remove Coffee Stains from Mugs and Carpet
-- How to Remove Pet Urine Stains and Odor from Carpet
-- How to Clean Grout and Keep It White Longer
 
 ---
 

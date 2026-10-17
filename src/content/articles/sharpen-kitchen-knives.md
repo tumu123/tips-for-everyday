@@ -191,11 +191,6 @@ Electric pull-through sharpeners vary widely. The better ones do a reasonable jo
 
 ---
 
-## Related reading
-
-- How to Extend the Life of Your Appliances
-- How to Organize a Small Kitchen with No Pantry
-- How to Clean Stainless Steel Appliances
 
 ---
 

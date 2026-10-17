@@ -281,11 +281,6 @@ Replace if the tank is leaking, if there is rust-colored water, if the tank body
 
 ---
 
-## Related reading
-
-- The Seasonal Home Maintenance Checklist (All Four Seasons)
-- How to Prevent Frozen Pipes (and What to Do If They Freeze)
-- How to Extend the Life of Your Appliances
 
 ---
 
