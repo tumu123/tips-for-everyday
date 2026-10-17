@@ -30,6 +30,7 @@ relatedSlugs:
   - "fix-sticking-door"
   - "extend-life-of-appliances"
   - "fix-door-wont-latch"
+  - "fix-loose-cabinet-hinges-drawers"
 draft: false
 ---
 

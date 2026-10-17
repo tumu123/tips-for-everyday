@@ -33,6 +33,7 @@ relatedSlugs:
   - "cheap-window-insulation"
   - "home-energy-audit-diy"
   - "fix-sticking-door"
+  - "fix-drafts-from-electrical-outlets"
 draft: false
 ---
 

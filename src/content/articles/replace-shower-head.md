@@ -32,6 +32,7 @@ relatedSlugs:
   - "unclog-shower-drain"
   - "remove-hard-water-stains-shower-door"
   - "water-heater-maintenance"
+  - "fix-dripping-shower-valve"
 draft: false
 ---
 
