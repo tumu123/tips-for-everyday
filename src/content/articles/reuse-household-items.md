@@ -20,6 +20,7 @@ relatedSlugs:
   - "organize-cleaning-supplies"
   - "save-money-cleaning-supplies"
   - "diy-all-purpose-cleaner"
+  - "save-on-holiday-gifts"
 draft: false
 ---
 

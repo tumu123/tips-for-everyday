@@ -24,6 +24,9 @@ howToTools:
   - "Spreadsheet software or paper and pen"
   - "Banking app with transaction export"
   - "Calendar reminder for a monthly review"
+relatedSlugs:
+  - "return-to-routine-after-holidays"
+  - "save-on-holiday-gifts"
 ---
 
 Almost everyone who has tried to track household spending has abandoned it. The failure is rarely a lack of discipline — it's that most systems require categorizing every transaction, every day, forever. That is genuinely unsustainable.

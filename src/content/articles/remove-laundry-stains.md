@@ -32,6 +32,7 @@ relatedSlugs:
   - "save-money-on-laundry"
   - "remove-red-wine-stains"
   - "remove-ink-stains-fabric"
+  - "clean-up-after-holiday-party"
 draft: false
 ---
 

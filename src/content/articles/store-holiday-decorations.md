@@ -30,6 +30,7 @@ relatedSlugs:
   - "store-off-season-clothes"
   - "organize-paperwork-at-home"
   - "clean-store-summer-gear"
+  - "keep-christmas-tree-fresh"
 draft: false
 ---
 

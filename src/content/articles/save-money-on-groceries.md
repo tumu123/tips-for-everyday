@@ -20,6 +20,7 @@ relatedSlugs:
   - "lower-water-bill-checklist"
   - "cut-electricity-bill-without-spending-money"
   - "store-leftover-wine"
+  - "host-without-stressing-prep-timeline"
 draft: false
 ---
 

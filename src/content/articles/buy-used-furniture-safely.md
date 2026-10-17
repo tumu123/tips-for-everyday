@@ -20,6 +20,7 @@ relatedSlugs:
   - "track-household-spending"
   - "reuse-household-items"
   - "remove-scratches-wood-furniture"
+  - "save-on-holiday-gifts"
 draft: false
 ---
 

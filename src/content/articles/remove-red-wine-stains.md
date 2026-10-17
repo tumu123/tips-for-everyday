@@ -33,6 +33,7 @@ relatedSlugs:
   - "remove-pet-urine-stains-carpet"
   - "clean-grout-keep-white"
   - "remove-ink-stains-fabric"
+  - "clean-up-after-holiday-party"
 draft: false
 ---
 

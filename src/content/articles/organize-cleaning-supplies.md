@@ -30,6 +30,7 @@ relatedSlugs:
   - "organize-small-kitchen"
   - "clean-grout-keep-white"
   - "spring-cleaning-checklist-room-by-room"
+  - "deep-clean-before-guests"
 draft: false
 ---
 
