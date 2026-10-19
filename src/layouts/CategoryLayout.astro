@@ -48,9 +48,13 @@ const pageTitle = activeSubName
   ? `${activeSubName} — ${category.title}`
   : category.title;
 
-// 子栏目优先使用专属描述，回退到栏目描述
+// 子栏目优先使用专属描述，回退到栏目描述。
+// 同名子栏目可被 "categorySlug/SubName" 复合键覆盖（如 Organize 与 Home Hacks 都有 Laundry）。
+const subOverride = activeSubName
+  ? SUBCATEGORY_DESCRIPTIONS[`${categorySlug}/${activeSubName}`]
+  : undefined;
 const pageDescription = activeSubName
-  ? SUBCATEGORY_DESCRIPTIONS[activeSubName] ?? category.description
+  ? subOverride ?? SUBCATEGORY_DESCRIPTIONS[activeSubName] ?? category.description
   : category.description;
 
 // 子栏目页的 meta description 带文章数；栏目页保持简洁

@@ -76,7 +76,7 @@ export const CATEGORIES = {
     title: 'Organize',
     description:
       'Practical home organization systems for kitchens, closets, small spaces, and paperwork — designed to stay organized long term.',
-    subcategories: ['Kitchen', 'Closet', 'Small Spaces', 'Home Systems'],
+    subcategories: ['Kitchen', 'Closet', 'Small Spaces', 'Laundry', 'Home Systems'],
   },
   'kitchen-tips': {
     title: 'Kitchen Tips',
@@ -105,11 +105,14 @@ export const CATEGORIES = {
  * 这避免了同一栏目下多个子栏目页输出完全相同的 description。
  */
 export const SUBCATEGORY_DESCRIPTIONS: Record<string, string> = {
+  // 栏目级覆盖（同名子栏目分属不同栏目时使用）
+  'organize/Laundry':
+    'A laundry room or laundry closet organized around the work flow — sorting, washing, drying, and folding each with a place, so nothing doubles back.',
   // Home Hacks
   Cleaning:
     'Deep-clean guides for floors, grout, mattresses, and hard surfaces — with the specific ratios, dwell times, and order of operations that get results.',
   Laundry:
-    'Laundry care that protects your clothes: stain removal by fabric and stain type, odor and mildew elimination, and safe washing for wool, silk, and delicates.',
+    'Laundry that works: a laundry room laid out so the work flows, plus care guides for stains, odors, delicates, and the machines themselves.',
   Appliances:
     'Keep appliances clean and running longer — washing machines, range hoods, kettles, and stainless steel — with maintenance that prevents expensive failures.',
   Stains:
