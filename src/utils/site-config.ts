@@ -12,7 +12,7 @@ export const SITE = {
 
   // ---- 上线前替换 ----
   adsenseClient: 'ca-pub-4150144052388028', // AdSense 发布商 ID（已填）
-  ga4MeasurementId: 'G-XXXXXXXXXX', // GA4 衡量 ID（待填，可后补；含 XXXX 时脚本不注入）
+  ga4MeasurementId: 'G-80WH4KR7T4', // GA4 衡量 ID（含 XXXX 时脚本不注入）
   // --------------------
   // 账号级 ID 已就绪。以下广告单元 ID 需在 AdSense 后台
   // 「广告 → 按广告单元 → 展示广告」创建后回填；全部留空则广告位不渲染。
