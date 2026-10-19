@@ -329,6 +329,27 @@ log(contentPages === pagesWithSlot
   ? `${contentPages} 个内容/栏目页全部带广告位（${pagesWithSlot}/${contentPages}）✓`
   : `${contentPages - pagesWithSlot} 个内容页缺广告位（${pagesWithSlot}/${contentPages}）`);
 
+// 文章页广告单元数与位置：
+//   - 正文内 2–4 个（按 H2 数量自适应）+ 侧栏 1 个 = 3–5 个
+//   - 任何一个广告位都不能出现在正文开始之前（曾出现「标题之上先看到广告」）
+const badAdCount = [];
+const badAdPos = [];
+for (const f of files) {
+  const html = fs.readFileSync(f, 'utf8');
+  const bodyAt = html.indexOf('<div class="article-body">');
+  if (bodyAt < 0) continue;
+  const units = (html.match(/<div class="ad-slot/g) || []).length;
+  if (units < 3 || units > 5) badAdCount.push(`${path.relative('dist', f)} (${units})`);
+  const firstAd = html.indexOf('<div class="ad-slot');
+  if (firstAd >= 0 && firstAd < bodyAt) badAdPos.push(path.relative('dist', f));
+}
+log(badAdCount.length === 0
+  ? '文章页广告单元 3–5 个（正文 2–4 + 侧栏 1）✓'
+  : fail(`广告单元数量异常：${badAdCount.slice(0, 3).join(', ')} ✗`));
+log(badAdPos.length === 0
+  ? '无广告位出现在正文之前 ✓'
+  : fail(`${badAdPos.length} 个页面广告位早于正文：${badAdPos.slice(0, 3).join(', ')} ✗`));
+
 // ── 16. 正文残留与 FAQ 唯一性 ──
 log('');
 log('═══ 预检 16：正文残留与 FAQ 唯一性 ═══');

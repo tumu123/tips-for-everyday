@@ -418,16 +418,15 @@ th {
   text-align: center;
   display: block;
   min-height: 90px;
-  background: var(--color-bg-subtle);
-  border: 1px dashed var(--color-border);
-  border-radius: var(--radius);
+  background: transparent;
+  border: 0;
   font-size: var(--text-xs);
   color: var(--color-text-muted);
 }
 
 /*
  * 按广告形态预留最小高度，减少脚本执行前那段时间的页面跳动。
- * 横向横幅约 90px；矩形单元常见 300×250，预留 250px。
+ * 横向横幅约 100px；正文内自适应单元常见 280px。
  *
  * 重要：这个预留高度只在 adsbygoogle.js 处理之前生效。
  * 一旦 AdSense 接管，它会给容器加上内联的
@@ -436,15 +435,28 @@ th {
  * 因此「预留高度」只能缓解首帧抖动，无法阻止填充瞬间的高变化
  * （未填充时 AdSense 会主动把容器折叠为 0 高，这是它的设计行为，不要试图对抗）。
  *
+ * 未填充时不再画虚线框和灰底：灰色空框会让读者看到「这里坏了」，
+ * 而 AdSense 之后补投时又不会自动恢复视觉，白占版面。
+ * 现在只留透明占位，填充后自然出现，未填充时读者几乎无感。
+ *
  * 另外务必注意：历史上这里曾被组件内的 scoped 选择器写成 min-height:0，
  * 属性选择器特异性更高，会把占位高度压回 0 —— 不要再出现这类覆盖。
  */
 .ad-slot--horizontal {
-  min-height: 90px;
+  min-height: 100px;
 }
 
 .ad-slot--rectangle {
   min-height: 250px;
+}
+
+.ad-slot--inline {
+  min-height: 280px;
+}
+
+/* 侧栏竖幅（300×600），只在 ≥1280px 渲染 */
+.ad-slot--vertical {
+  min-height: 600px;
 }
 
 /* 兜底：确保 AdSense 插入的容器始终占满可用宽度 */
@@ -453,13 +465,58 @@ th {
   width: 100%;
 }
 
-.ad-slot--label {
+/* 可见的广告标识（原先是 1×1 像素的隐藏文本） */
+.ad-slot__label {
   display: block;
   font-size: 0.6875rem;
   text-transform: uppercase;
   letter-spacing: 0.06em;
   color: var(--color-text-muted);
-  margin-bottom: var(--space-1);
+  margin-bottom: 4px;
+  text-align: center;
+}
+
+/* ---------- 文章页外壳 / 宽屏侧栏 ---------- */
+.article-shell {
+  display: block;
+}
+
+.article-rail {
+  display: none;
+}
+
+@media (min-width: 1280px) {
+  .article-shell {
+    display: grid;
+    grid-template-columns: minmax(0, var(--max-width)) 300px;
+    gap: var(--space-6);
+    justify-content: center;
+    align-items: start;
+    max-width: var(--max-width-wide);
+    margin: 0 auto;
+    padding: 0 var(--space-5);
+  }
+
+  /* 网格内不再需要自身居中，否则会与 gap 叠加出现偏移 */
+  .article-shell > .container--narrow {
+    max-width: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  /*
+   * 注意：这个 aside 及其所有祖先都不能有 overflow:hidden / auto，
+   * 否则 sticky 会失效（祖先一旦成为滚动容器，sticky 就相对它定位）。
+   */
+  .article-rail {
+    display: block;
+    position: sticky;
+    top: 96px;
+  }
+
+  .article-rail .ad-slot {
+    margin: 0;
+  }
 }
 
 /* ---------- FAQ ---------- */

@@ -119,48 +119,53 @@ const keywords = [primaryKeyword, ...secondaryKeywords];
     imageAlt={featuredImageAlt}
   />
 
-  <div class="container--narrow">
-    <Breadcrumb items={crumbs} />
+  <div class="article-shell">
+    <div class="container--narrow">
+      <Breadcrumb items={crumbs} />
 
-    <article>
-      <header class="article-header">
-        <h1 class="article-title">{title}</h1>
-        <div class="article-meta">
-          <a class="article-meta__category" href={`/${catSlug}/`}>{category}</a>
-          {subcategory && <span>{subcategory}</span>}
-          <time datetime={pubDate.toISOString()}>Published {dateFmt(pubDate)}</time>
-          {
-            updatedDate && updatedDate.getTime() !== pubDate.getTime() && (
-              <time datetime={updatedDate.toISOString()}>
-                Updated {dateFmt(updatedDate)}
-              </time>
-            )
-          }
-          {readingTime && <span>{readingTime} min read</span>}
+      <article>
+        <header class="article-header">
+          <h1 class="article-title">{title}</h1>
+          <div class="article-meta">
+            <a class="article-meta__category" href={`/${catSlug}/`}>{category}</a>
+            {subcategory && <span>{subcategory}</span>}
+            <time datetime={pubDate.toISOString()}>Published {dateFmt(pubDate)}</time>
+            {
+              updatedDate && updatedDate.getTime() !== pubDate.getTime() && (
+                <time datetime={updatedDate.toISOString()}>
+                  Updated {dateFmt(updatedDate)}
+                </time>
+              )
+            }
+            {readingTime && <span>{readingTime} min read</span>}
+          </div>
+        </header>
+
+        {/*
+          正文内的广告位由 rehype-ad-slots 插件按 H2 位置注入，
+          这里不再手工挂载，避免出现「标题之上」或「文末冒充正文中」的错位。
+        */}
+        <div class="article-body">
+          <slot />
         </div>
-      </header>
 
-      <!-- Above-the-fold ad slot (after the intro content) -->
-      <AdSlot slot={AD_SLOTS.articleTop} format="horizontal" />
+        <FaqSection items={faq} />
 
-      <div class="article-body">
-        <slot />
-      </div>
+        <RelatedPosts items={related} />
 
-      <!-- Mid-article ad slot -->
-      <AdSlot slot={AD_SLOTS.articleInline} format="rectangle" />
+        <p class="disclaimer">
+          This guide provides general informational content based on commonly recommended
+          household methods. Results vary by material, product formulation, and technique.
+          Always test on a small hidden area first, follow product manufacturer instructions,
+          and consult a licensed professional for structural, electrical, or plumbing work
+          beyond routine maintenance.
+        </p>
+      </article>
+    </div>
 
-      <FaqSection items={faq} />
-
-      <RelatedPosts items={related} />
-
-      <p class="disclaimer">
-        This guide provides general informational content based on commonly recommended
-        household methods. Results vary by material, product formulation, and technique.
-        Always test on a small hidden area first, follow product manufacturer instructions,
-        and consult a licensed professional for structural, electrical, or plumbing work
-        beyond routine maintenance.
-      </p>
-    </article>
+    {/* 宽屏侧栏：≥1280px 才显示，跟随滚动 */}
+    <aside class="article-rail" aria-label="Advertisement">
+      <AdSlot slot={AD_SLOTS.articleInline} format="vertical" />
+    </aside>
   </div>
 </BaseLayout>

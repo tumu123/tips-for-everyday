@@ -43,14 +43,13 @@ export const SITE = {
  * 在 AdSense 后台创建广告单元后，把 ID 填到这里即可全站生效。
  * 留空字符串 → 该广告位不渲染（不会报错，也不会留空白）。
  *
- * 建议在 AdSense 后台建 2 个广告单元（按位置复用，不必建 3 个）：
- *   1. "Horizontal Banner" → 展示广告 / 自适应 / 横向  → 填 articleTop + categoryTop
- *   2. "In-Article Square" → 展示广告 / 自适应 / 方形  → 填 articleInline
+ * 当前策略（方案 B）：文章页正文内的 4 个广告位全部复用同一个
+ * 「In-Article Square」单元，后台不区分位置，但省去新建单元的等待期。
+ * 想按位置看 RPM 时，把 articleInline 拆成多个 key 分别填 ID 即可，
+ * SiteLayout 与 rehype 插件都从这里读，不用改结构。
  */
 export const AD_SLOTS = {
-  /** 文章页正文前 · 横向横幅 */
-  articleTop: '3840545729',
-  /** 文章页正文后 · 方形 */
+  /** 文章页正文内 4 处（含侧栏）· 自适应 */
   articleInline: '7304313863',
   /** 栏目页列表前 · 横向横幅 */
   categoryTop: '3840545729',

@@ -2,6 +2,8 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import stripFaqSection from './src/plugins/remark-strip-faq.mjs';
+import rehypeAdSlots from './src/plugins/rehype-ad-slots.mjs';
+import { SITE, AD_SLOTS } from './src/utils/site-config.ts';
 
 // https://astro.build/config
 export default defineConfig({
@@ -28,8 +30,12 @@ export default defineConfig({
   },
 
   // 正文渲染前剥掉重复的 FAQ 段落（问答统一由 FaqSection 组件输出）
+  // 正文渲染后在 H2 之间注入广告位（位置随文章长度自适应）
   markdown: {
     remarkPlugins: [stripFaqSection],
+    rehypePlugins: [
+      [rehypeAdSlots, { client: SITE.adsenseClient, slot: AD_SLOTS.articleInline }],
+    ],
   },
 
   integrations: [

@@ -88,12 +88,35 @@ const ga4Configured =
 
     {
       adsenseConfigured && (
-        <script
-          is:inline
-          async
-          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsenseClient}`}
-          crossorigin="anonymous"
-        />
+        <>
+          <script
+            is:inline
+            async
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsenseClient}`}
+            crossorigin="anonymous"
+          />
+          {/*
+            每页只 push 一次：遍历页面上所有广告单元，逐个入队。
+            原先每个 AdSlot 各带一段 push，页内单元变多后容易出现漏 push
+            或重复 push；集中到一处后，增删广告位不用再动组件。
+          */}
+          <script is:inline>
+            (function () {
+              function fill() {
+                var units = document.querySelectorAll('ins.adsbygoogle');
+                for (var i = 0; i < units.length; i++) {
+                  if (units[i].getAttribute('data-adsbygoogle-status')) continue;
+                  (window.adsbygoogle = window.adsbygoogle || []).push({});
+                }
+              }
+              if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', fill);
+              } else {
+                fill();
+              }
+            })();
+          </script>
+        </>
       )
     }
 
