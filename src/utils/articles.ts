@@ -48,21 +48,43 @@ export function filterBySubcategory(
 /**
  * 从 Markdown 正文中提取 FAQ
  * 识别 "## FAQ" 或 "## Frequently Asked Questions" 之后的 "**Question?**" 段落
+ *
+ * 注意（踩过的坑）：源 md 是 CRLF，所有行级分隔必须是 `\r?\n`。
+ * 早期这里写成 `split(/\n---\n/)`，对 `\r\n---\r\n` 匹配失败，
+ * FAQ 块会一路吃到文件末尾，把正文尾部的 JSON-LD 代码块、
+ * Meta information 清单全吞进最后一条答案。
+ * 三道防线：统一行尾 → 多分隔符截断 → 单条答案长度兜底。
  */
+const FAQ_MAX_ANSWER = 700;
+
 export function extractFaq(body: string): { question: string; answer: string }[] {
-  const faqMatch = body.split(/^##\s+(?:FAQ|Frequently Asked Questions)\s*$/m)[1];
+  // 统一行尾，后续正则只需处理 \n
+  const normalized = (body ?? '').replace(/\r\n?/g, '\n');
+
+  const faqMatch = normalized.split(/^##\s+(?:FAQ|Frequently Asked Questions)\s*$/m)[1];
   if (!faqMatch) return [];
 
-  // FAQ 段落以 "---" 或下一个 "##" 结束
-  const faqBlock = faqMatch.split(/\n---\n|\n##\s/)[0];
+  // FAQ 段落以分隔线、下一个二级标题或任意三级标题结束
+  const faqBlock = faqMatch.split(/\n-{3,}\s*\n|\n#{2,3}\s/)[0];
 
   const items: { question: string; answer: string }[] = [];
-  const re = /\*\*(.+?)\*\*\s*\n([\s\S]*?)(?=\n\*\*|\s*$)/g;
+  const re = /\*\*(.+?)\*\*\s*\n([\s\S]*?)(?=\n\*\*|$)/g;
   let m: RegExpExecArray | null;
 
   while ((m = re.exec(faqBlock)) !== null) {
     const question = m[1].trim();
-    const answer = m[2].replace(/\s+/g, ' ').trim();
+    let answer = m[2].replace(/\s+/g, ' ').trim();
+
+    // 兜底：答案不该出现代码块或结构化数据，出现即视为解析越界，截断
+    const leak = answer.search(/```|@context|###\s|Meta information/);
+    if (leak >= 0) answer = answer.slice(0, leak).trim();
+
+    // 兜底：单条答案超长说明又吞进了后续内容，截到句末
+    if (answer.length > FAQ_MAX_ANSWER) {
+      const cut = answer.lastIndexOf('. ', FAQ_MAX_ANSWER);
+      answer = cut > 0 ? answer.slice(0, cut + 1) : answer.slice(0, FAQ_MAX_ANSWER);
+    }
+
     if (question && answer && question.endsWith('?')) {
       items.push({ question, answer });
     }

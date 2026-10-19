@@ -329,6 +329,61 @@ log(contentPages === pagesWithSlot
   ? `${contentPages} 个内容/栏目页全部带广告位（${pagesWithSlot}/${contentPages}）✓`
   : `${contentPages - pagesWithSlot} 个内容页缺广告位（${pagesWithSlot}/${contentPages}）`);
 
+// ── 16. 正文残留与 FAQ 唯一性 ──
+log('');
+log('═══ 预检 16：正文残留与 FAQ 唯一性 ═══');
+// 历史事故：71 篇正文尾部带着「### Structured data」JSON-LD 代码块和
+// 「### Meta information」清单，被当普通段落渲染成满屏代码；同时因
+// extractFaq 的 CRLF 截断失效，FAQ 最后一条答案把这些垃圾全吞了，
+// 连 FAQPage 结构化数据一起污染。以下三条守门防复发。
+// 正文里允许出现公式代码块（如 "3.0 kW × 0.75 h"），因此只把
+// JSON-LD 与工作稿小标题当作残留特征，不把 ``` 本身算作异常。
+const residueRe = /"@context"|@type"\s*:\s*"HowTo"|###\s+Meta information|###\s+Structured data/;
+const residueFiles = [];
+for (const f of mds) {
+  const t = fs.readFileSync(path.join(adir, f), 'utf8');
+  // 只检查正文（跳过 frontmatter）
+  const body = t.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, '');
+  const hit = body.match(residueRe);
+  if (hit) residueFiles.push(`${f} (${hit[0].trim()})`);
+}
+log(residueFiles.length === 0
+  ? '正文无 JSON-LD / Meta information 残留 ✓'
+  : (fail(`${residueFiles.length} 篇正文含工作稿残留 ✗ ${residueFiles.slice(0, 6).join(', ')}${residueFiles.length > 6 ? ' …' : ''}`), ''));
+
+// 每页 FAQ 只能出现一次（正文已由 remark 插件剥离，只剩组件区块）
+let faqDupPages = 0;
+let faqDirtyAnswer = 0;
+let articlePages = 0;
+const faqDupSample = [];
+for (const f of files) {
+  const rel = path.relative('dist', f).replace(/\\/g, '/');
+  if (!/^[a-z-]+\/[a-z-]+\/[a-z0-9-]+\/index\.html$/.test(rel)) continue;
+  articlePages++;
+  const html = fs.readFileSync(f, 'utf8');
+
+  const sectionCount = (html.match(/<section class="faq">/g) || []).length;
+  const bodyFaqHeading = (html.match(/<h2[^>]*>\s*FAQ\s*<\/h2>/g) || []).length;
+  if (sectionCount !== 1 || bodyFaqHeading > 0) {
+    faqDupPages++;
+    if (faqDupSample.length < 5) faqDupSample.push(`${rel} (section=${sectionCount}, 正文FAQ=${bodyFaqHeading})`);
+  }
+
+  for (const m of html.matchAll(/<p class="faq__answer">([\s\S]*?)<\/p>/g)) {
+    if (/@context|```|Meta information|Structured data/.test(m[1])) {
+      faqDirtyAnswer++;
+      break;
+    }
+  }
+}
+log(`文章页: ${articlePages}`);
+log(faqDupPages === 0
+  ? '每页 FAQ 仅渲染一次 ✓'
+  : (fail(`${faqDupPages} 页 FAQ 重复渲染 ✗ ${faqDupSample.join('; ')}`), ''));
+log(faqDirtyAnswer === 0
+  ? 'FAQ 答案无垃圾内容 ✓'
+  : (fail(`${faqDirtyAnswer} 页 FAQ 答案含代码块/结构化数据 ✗（会污染 FAQPage schema）`), ''));
+
 console.log(out.filter((l) => l !== '').join('\n'));
 console.log('');
 if (hardFail > 0) {

@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import stripFaqSection from './src/plugins/remark-strip-faq.mjs';
 
 // https://astro.build/config
 export default defineConfig({
@@ -24,6 +25,11 @@ export default defineConfig({
     service: {
       entrypoint: 'astro/assets/services/sharp',
     },
+  },
+
+  // 正文渲染前剥掉重复的 FAQ 段落（问答统一由 FaqSection 组件输出）
+  markdown: {
+    remarkPlugins: [stripFaqSection],
   },
 
   integrations: [
