@@ -173,3 +173,14 @@ export function categorySlug(categoryName) {
 export function subcategoryToSlug(subName) {
   return String(subName).toLowerCase().replace(/\s+/g, '-');
 }
+
+/**
+ * 文章首图路径。
+ * 按「子栏目」配图（18 张统一风格插画，scripts/process-heroes.mjs 生成），
+ * 同一子栏目的文章共用一张，alt 与 og:image 文案逐篇独立。
+ * 万一某篇文章没有子栏目，回落到 cleaning（图片必然存在）。
+ */
+export function heroImage(subcategory?: string): string {
+  if (!subcategory) return '/images/heroes/cleaning.webp';
+  return `/images/heroes/${subcategoryToSlug(subcategory)}.webp`;
+}

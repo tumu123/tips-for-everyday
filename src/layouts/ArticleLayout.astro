@@ -9,7 +9,7 @@ import AdSlot from '../components/AdSlot.astro';
 import FaqSection from '../components/FaqSection.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
 import StructuredData from '../components/StructuredData.astro';
-import { SITE, AD_SLOTS, articleUrl, categorySlug, subcategoryToSlug } from '../utils/site-config';
+import { SITE, AD_SLOTS, articleUrl, categorySlug, subcategoryToSlug, heroImage } from '../utils/site-config';
 
 interface FaqItem {
   question: string;
@@ -67,6 +67,10 @@ const {
 
 const catSlug = categorySlug(category);
 
+// 首图：同子栏目共用一张插画，alt 逐篇独立
+const hero = heroImage(subcategory);
+const heroAlt = `Flat illustration of ${(subcategory ?? category).toLowerCase()} supplies and tools — ${title}`;
+
 // 面包屑
 const crumbs = [
   { label: 'Home', href: '/' },
@@ -103,6 +107,7 @@ const keywords = [primaryKeyword, ...secondaryKeywords];
   type="article"
   publishedTime={pubDate.toISOString()}
   modifiedTime={(updatedDate ?? pubDate).toISOString()}
+  ogImage={hero}
 >
   <StructuredData
     type={schemaType}
@@ -140,6 +145,18 @@ const keywords = [primaryKeyword, ...secondaryKeywords];
             {readingTime && <span>{readingTime} min read</span>}
           </div>
         </header>
+
+        {/* 首图：宽高写死，避免图片加载造成 CLS */}
+        <img
+          class="article-hero"
+          src={hero}
+          alt={heroAlt}
+          width="1200"
+          height="736"
+          loading="eager"
+          decoding="async"
+          fetchpriority="high"
+        />
 
         {/*
           正文内的广告位由 rehype-ad-slots 插件按 H2 位置注入，

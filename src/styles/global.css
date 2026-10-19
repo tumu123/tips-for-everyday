@@ -364,6 +364,20 @@ th {
   margin-bottom: var(--space-4);
 }
 
+/*
+ * 首图：width/height 属性已写死 1200×736，
+ * 这里只负责自适应缩放与圆角，宽高比由属性保证，不会产生 CLS。
+ */
+.article-hero {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1200 / 736;
+  border-radius: var(--radius);
+  margin: 0 0 var(--space-6);
+  background: var(--color-bg-subtle);
+}
+
 .article-meta {
   font-size: var(--text-xs);
   color: var(--color-text-muted);

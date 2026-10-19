@@ -405,6 +405,59 @@ log(faqDirtyAnswer === 0
   ? 'FAQ 答案无垃圾内容 ✓'
   : (fail(`${faqDirtyAnswer} 页 FAQ 答案含代码块/结构化数据 ✗（会污染 FAQPage schema）`), ''));
 
+// ── 17. 文章首图与社交分享图 ──
+log('');
+log('═══ 预检 17：文章首图与 og:image ═══');
+let heroMissing = 0;
+let heroBroken = 0;
+const heroSample = [];
+const heroFiles = new Set(
+  fs.existsSync('dist/images/heroes')
+    ? fs.readdirSync('dist/images/heroes').map((f) => `/images/heroes/${f}`)
+    : []
+);
+for (const f of files) {
+  const html = fs.readFileSync(f, 'utf8');
+  if (!html.includes('article-body')) continue;
+  const hero = html.match(/<img class="article-hero" src="([^"]+)"/);
+  if (!hero) {
+    heroMissing++;
+    if (heroSample.length < 5) heroSample.push(path.relative('dist', f));
+    continue;
+  }
+  if (!heroFiles.has(hero[1])) {
+    heroBroken++;
+    if (heroSample.length < 5) heroSample.push(`${path.relative('dist', f)} → ${hero[1]}`);
+  }
+}
+log(heroMissing === 0
+  ? '每篇文章页都有首图 ✓'
+  : (fail(`${heroMissing} 篇文章页缺首图 ✗ ${heroSample.join('; ')}`), ''));
+log(heroBroken === 0
+  ? `首图文件全部存在（${heroFiles.size} 张）✓`
+  : (fail(`${heroBroken} 张首图指向不存在的文件 ✗ ${heroSample.join('; ')}`), ''));
+
+if (!fs.existsSync('dist/images/og-default.jpg')) {
+  fail('缺 dist/images/og-default.jpg（全站 og:image 会 404）✗');
+} else {
+  log('og-default.jpg 已就位 ✓');
+}
+
+// 文章页 og:image 必须指向本站存在的图片，且不能是 404 的默认图
+let ogBad = 0;
+for (const f of files) {
+  const html = fs.readFileSync(f, 'utf8');
+  if (!html.includes('article-body')) continue;
+  const m = html.match(/<meta property="og:image" content="([^"]+)"/);
+  if (!m) { ogBad++; continue; }
+  const rel = new URL(m[1]).pathname;
+  const local = path.join('dist', rel.replace(/^\//, ''));
+  if (!fs.existsSync(local)) ogBad++;
+}
+log(ogBad === 0
+  ? '文章页 og:image 全部可访问 ✓'
+  : fail(`${ogBad} 篇文章页 og:image 指向不存在的文件 ✗`));
+
 console.log(out.filter((l) => l !== '').join('\n'));
 console.log('');
 if (hardFail > 0) {
