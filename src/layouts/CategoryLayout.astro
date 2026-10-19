@@ -103,9 +103,36 @@ const headerDescription = activeSubName ? pageDescription : category.description
 
     <AdSlot slot={AD_SLOTS.categoryTop} format="horizontal" />
 
+    {/*
+      列表第 5 条之后插一个广告位。拆成两个 grid 而不是把广告塞进 grid 里：
+      广告作为 grid 子项会占一格，把卡片排布挤出空洞；拆开后两段各自成行。
+    */}
     <div class="card-grid">
       {
-        visible.map((article) => (
+        visible.slice(0, 5).map((article) => (
+          <article class="card">
+            {article.data.subcategory && (
+              <a
+                class="card__category"
+                href={`/${categorySlug}/${subcategoryToSlug(article.data.subcategory)}/`}
+              >
+                {article.data.subcategory}
+              </a>
+            )}
+            <h3 class="card__title">
+              <a href={getArticleUrl(article)}>{article.data.title}</a>
+            </h3>
+            <p class="card__desc">{article.data.description}</p>
+          </article>
+        ))
+      }
+    </div>
+
+    {visible.length > 5 && <AdSlot slot={AD_SLOTS.categoryTop} format="horizontal" />}
+
+    <div class="card-grid">
+      {
+        visible.slice(5).map((article) => (
           <article class="card">
             {article.data.subcategory && (
               <a

@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { SITE, CATEGORIES } from '../utils/site-config';
+import AdSlot from '../components/AdSlot.astro';
+import { SITE, CATEGORIES, AD_SLOTS } from '../utils/site-config';
 import { getAllArticles, getArticleUrl } from '../utils/articles';
 
 const allArticles = await getAllArticles();
@@ -48,6 +49,9 @@ const categoryPreview = Object.entries(CATEGORIES)
   </section>
 
   <div class="container">
+    {/* 首页唯一广告位：放在第一个内容区块之上，不打断卡片流 */}
+    <AdSlot slot={AD_SLOTS.categoryTop} format="horizontal" />
+
     {
       featured.length > 0 && (
         <>
