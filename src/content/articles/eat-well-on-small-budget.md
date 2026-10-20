@@ -127,6 +127,8 @@ Timing, not shopping, prevents most waste.
 
 **The general principle:** most food that's "about to go bad" is food that needs to be cooked today and eaten or frozen. Almost nothing needs to be thrown away while still edible.
 
+Cooking two or three components at once is the cheapest way to stop ordering out — [batch cooking to cut the grocery bill](/save-money/groceries/batch-cooking-save-money-time/) sets out the weekly rhythm.
+
 ---
 
 ## Step 5: Use the Freezer Properly

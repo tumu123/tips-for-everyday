@@ -178,6 +178,8 @@ A house needs some air exchange. This is not optional.
 
 The mechanism is **matching the seal to the joint**. A rigid seal on a moving joint tears; a compressible seal on a fixed joint is unnecessary and short-lived. Getting that match right is worth more than the quality of the product.
 
+Outlets and switches on exterior walls are the leaks most people miss; [sealing drafty outlets](/fix-it/maintenance/fix-drafts-from-electrical-outlets/) covers how to seal them safely.
+
 ---
 
 ## What NOT to Do

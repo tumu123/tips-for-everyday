@@ -74,6 +74,8 @@ Do not sort papers one at a time, thinking about each. Work in timed passes.
 
 **Why the timer:** sorting decisions are slow when you deliberate. Batching by type and moving fast gets through the volume, and the retention schedule in the next step handles the hard calls.
 
+The one-year test settles most of it — [dealing with kids' school papers and artwork](/organize/closet/organize-kids-school-papers-artwork/) covers the rest.
+
 ---
 
 ## Step 2: Apply the retention schedule

@@ -35,6 +35,7 @@ relatedSlugs:
   - "fix-dripping-shower-valve"
   - "unclog-slow-drain"
   - "water-heater-maintenance"
+  - "prevent-frozen-pipes"
 draft: false
 ---
 

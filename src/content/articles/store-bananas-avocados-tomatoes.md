@@ -58,6 +58,8 @@ It also explains why these foods shouldn't be stored next to ethylene-sensitive 
 
 And it explains the reverse: if you *want* something to ripen, put it near a banana. That's the oldest trick in the list and it works because the banana is a strong ethylene emitter.
 
+They need dry air and separation, not the fridge — [storing onions, potatoes and garlic](/kitchen-tips/food-storage/store-onions-potatoes-garlic/) covers the setup.
+
 ## Step 2: Slow bananas down
 
 Bananas are usually bought slightly green and ripen on the counter over several days — often faster than you can eat them. To stretch that window:

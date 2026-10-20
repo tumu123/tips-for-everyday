@@ -30,6 +30,7 @@ howToTools:
 relatedSlugs:
   - "water-heater-maintenance"
   - "cheap-window-insulation"
+  - "cut-standby-power-vampire-draw"
 ---
 
 Most "DIY energy audit" checklists give you the same generic list: seal drafts, add insulation, change filters. The problem is that they're not ranked, and they're not derived from your actual data. A household with a huge baseload gets nothing from sealing windows, while a household with a leaky envelope gets very little from unplugging chargers.
@@ -137,6 +138,8 @@ Standby consumption — power drawn by devices that are "off" or idle — typica
 **How to find yours.** Feel the power bricks. Warm when the device is off means it is drawing. Better: put a plug-in meter on a power strip and measure the whole entertainment centre at once.
 
 **Be honest about the savings.** Cutting 5–10% of a typical electricity bill is real money, but the individual numbers are small — a few dollars a year per device. The reason to bother is that it's cheap and takes one afternoon, not because it transforms your bill. Prioritize the entertainment centre; skip unplugging phone chargers, which draw almost nothing.
+
+Standby loads are small per device and large per house — [cutting standby power draw](/save-money/bills/cut-standby-power-vampire-draw/) shows which ones are worth unplugging.
 
 ---
 

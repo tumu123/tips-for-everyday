@@ -29,6 +29,7 @@ relatedSlugs:
   - "extend-life-of-appliances"
   - "reuse-household-items"
   - "organize-paperwork-at-home"
+  - "organize-tools-in-a-drawer"
 draft: false
 ---
 
@@ -145,6 +146,8 @@ Spare cables need identification more than anything else.
 3. **Coil each cable loosely and tie it** before putting it in, so compartments do not become tangled.
 4. **Put the label on the cable, not just the compartment.** Cables get moved between compartments.
 5. **Keep a travel pouch separate** with one of each type you actually travel with, so packing does not empty the home box.
+
+Sort by frequency rather than type — [organizing tools without a workshop](/organize/home-systems/organize-tools-in-a-drawer/) covers the three tiers.
 
 ---
 

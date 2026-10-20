@@ -53,6 +53,8 @@ With that established: most "broken" disposals aren't broken. Two conditions acc
 
 **The hum is diagnostic.** A humming disposal has power and a motor trying to turn — it's mechanically blocked. That's a jam, and it's the most common single failure.
 
+When water appears under the sink only after the disposal runs, the leak is in the unit itself — [fixing a leaking garbage disposal](/fix-it/plumbing/fix-garbage-disposal-leaking/) narrows down which joint it is.
+
 ---
 
 ## Step 1: Check Power and the Reset Button

@@ -104,6 +104,8 @@ Hand-washing is the default for wool, silk, cashmere, and lace. It takes about f
 
 This towel-roll method is how you remove water without the mechanical stress of wringing.
 
+Thread count is the least useful number on the label — [buying bedding that lasts](/save-money/shopping/save-money-on-bedding-and-linens/) covers what to check instead.
+
 ---
 
 ## Step 2: Machine-washing delicates (if the label allows)

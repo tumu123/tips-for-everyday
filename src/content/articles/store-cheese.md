@@ -86,6 +86,10 @@ The **crisper drawer** is usually the best all-purpose spot: it's the most humid
 
 Put a fridge thermometer in it and check: cheese wants roughly **35–45°F (2–7°C)**. A fridge running warmer than that shortens every timeline above.
 
+Salted, unsalted, and cultured butter keep on different clocks — [where butter belongs](/kitchen-tips/food-storage/store-butter-and-margarine/) sorts them out.
+
+Refrigerated eggs hold far longer than the carton date suggests — [how long eggs actually keep](/kitchen-tips/food-storage/store-eggs-how-long-they-last/) covers the float test and the limits.
+
 ## Step 4: Handle cut faces and cut sizes strategically
 
 How you cut affects how long things last:

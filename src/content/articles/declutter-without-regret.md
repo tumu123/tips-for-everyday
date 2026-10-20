@@ -113,6 +113,8 @@ Sentimental items are memory storage, not tools. Running them through a usefulne
 
 **Key insight:** an object you have not looked at in five years is not currently serving as memory storage — it is serving as a placeholder for the idea of the memory. The photograph does that job better and takes no space.
 
+Photograph it, keep one, and store by material — [storing sentimental items without keeping everything](/organize/closet/organize-sentimental-items/) covers the method.
+
 ---
 
 ## Step 5: Make Every Decision Reversible Enough to Live With
@@ -149,6 +151,8 @@ A declutter is not finished when the decisions are made — it is finished when 
 4. **Walk the relocate box to each room** in one loop, the same day or the next morning.
 
 **Why same-day matters:** a bag by the door becomes furniture within a week. Partial completion is also psychologically costly — the room looks no better, so the effort reads as wasted.
+
+Moves get expensive in the packing and the last trip, not the truck — [keeping a move cheap](/save-money/shopping/save-money-when-moving-house/) covers both.
 
 ---
 

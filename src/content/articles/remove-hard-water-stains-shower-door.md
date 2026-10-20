@@ -126,6 +126,8 @@ If the stain feels raised or textured with your fingernail, it is a thick minera
 2. Squeegee top to bottom in overlapping strokes.
 3. Dry the frame and tracks with a separate cloth — water sitting there will re-create the problem.
 
+Tracks hold water and grit against the frame — [cleaning window tracks](/home-hacks/cleaning/clean-window-tracks/) covers the extraction step most people skip.
+
 ---
 
 ## Why This Works

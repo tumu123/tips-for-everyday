@@ -31,6 +31,7 @@ relatedSlugs:
   - "organize-small-kitchen"
   - "store-off-season-clothes"
   - "organize-a-closet"
+  - "organize-craft-hobby-supplies"
 draft: false
 ---
 
@@ -85,6 +86,8 @@ Vertical surfaces cost no floor area, which is why they return the most in a sma
 5. **Anchor into studs** for anything heavy. Use a stud finder and a level; for light shelving, use appropriate drywall anchors rated above the intended load.
 
 **Shelf depth matters:** in a small room, shelves deeper than about 10 inches (25 cm) create dead space at the back. Shallow shelves keep everything visible and reachable.
+
+Half-finished projects are the real problem — [organizing craft supplies](/organize/small-spaces/organize-craft-hobby-supplies/) covers project boxes.
 
 ---
 

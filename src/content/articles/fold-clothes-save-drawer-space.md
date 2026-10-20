@@ -181,6 +181,8 @@ The system survives on one rule, not on refolding.
 
 The underlying constraint is that **a drawer is a box with a fixed height**, and any folded package taller than that height cannot stand. Every technique here reduces to producing a package shorter than the drawer side, which is why measuring in Step 0 comes before any folding.
 
+Sort, wash, dry, fold, and put away are five separate stations — [organizing a laundry room around the work flow](/organize/laundry/organize-laundry-room/) covers the layout.
+
 ---
 
 ## What NOT to Do

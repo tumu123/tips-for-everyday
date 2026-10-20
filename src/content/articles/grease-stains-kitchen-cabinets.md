@@ -138,6 +138,8 @@ If grease has hardened near the stovetop into a tacky, amber layer that resists 
 5. Wipe away the paste with a damp cloth, then do a clean-water rinse pass.
 6. **Do not use this paste on high-gloss painted cabinets** — baking soda is a mild abrasive and will dull the sheen.
 
+Self-clean runs are hard on elements and racks — [cleaning an oven without the self-clean cycle](/home-hacks/cleaning/clean-oven-without-self-clean/) covers the manual method.
+
 ---
 
 ## Step 6: Clean the Hardware and Grooves

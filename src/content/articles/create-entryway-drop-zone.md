@@ -32,6 +32,7 @@ relatedSlugs:
   - "ten-minute-daily-reset"
   - "organize-paperwork-at-home"
   - "small-space-storage-ideas"
+  - "organize-reusable-bags-and-wraps"
 draft: false
 ---
 
@@ -73,6 +74,8 @@ The zone works because each level handles a different kind of item.
 
 **Why three levels:** on arriving, people do three things in sequence — hang, drop, and stash. A zone that only offers one of those will be bypassed for the nearest chair.
 
+Six bags is the practical limit for most households — [keeping reusable bags under control](/organize/small-spaces/organize-reusable-bags-and-wraps/) covers the fold.
+
 ---
 
 ## Step 2: Put a Tray on the Surface for Keys and Wallet
@@ -108,6 +111,8 @@ Shoes are what make an entryway look chaotic. A tray fixes it by limiting quanti
 3. **Keep it washable** and easy to lift or wipe.
 4. **Everything else goes to a closet or a bedroom.** The tray is for what is being worn, not what is owned.
 5. **Put a bench nearby if people sit to remove shoes** — without somewhere to sit, shoes come off wherever the person happens to stop.
+
+Capacity depends on depth rather than width — [storing shoes without an entry closet](/organize/small-spaces/store-shoes-in-a-small-entry/) covers the measurements.
 
 ---
 

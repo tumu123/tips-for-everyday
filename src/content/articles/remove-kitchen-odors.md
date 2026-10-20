@@ -117,6 +117,8 @@ Cooking releases airborne grease that settles on **every** horizontal and vertic
 
 Also: **change frying oil** rather than reusing it indefinitely, since old oil smells distinctly and the smell clings.
 
+Ten minutes of steam does more than twenty minutes of scrubbing — [cleaning a microwave with steam](/home-hacks/cleaning/clean-microwave-easily/) has the sequence.
+
 ## Step 7: Stop the reverse-psychology mistakes
 
 A few popular beliefs actively make things worse or do nothing:

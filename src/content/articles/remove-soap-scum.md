@@ -109,6 +109,8 @@ Dry with a microfiber cloth or squeegee. Water spots are mineral deposits — th
 
 **Acid does not kill mold.** If the buildup is pink or black rather than white or gray, you are dealing with microbial growth, not soap scum. Acid will not remove it and you need a different approach — see [How to Remove Mold from Bathroom Caulk](/home-hacks/stains/remove-mold-bathroom-caulk/).
 
+The ring is mineral scale, so acid does the work — [removing a hard water ring from a toilet bowl](/home-hacks/cleaning/remove-toilet-bowl-hard-water-ring/) covers it safely.
+
 ---
 
 ## What NOT to Do

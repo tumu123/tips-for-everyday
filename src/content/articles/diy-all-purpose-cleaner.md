@@ -152,6 +152,8 @@ If disinfection is the goal — during illness, after raw-meat contamination, or
 
 **Mix fresh, in small amounts.** A homemade spray has no preservative, so it is not shelf-stable in the way a commercial product is. A vinegar and water mix is stable enough for a couple of weeks, but anything containing soap, citrus juice, or a food-derived ingredient is a growth medium once it has been sitting at room temperature. Make a week's worth at a time, label it with the date, and discard anything that has gone cloudy or smells different from when it was made — that change is the signal, not a cosmetic issue.
 
+Drying between uses matters more than any disinfecting trick — [keeping sponges and dishcloths sanitary](/kitchen-tips/cooking-hacks/keep-kitchen-sponges-clean/) covers the rest.
+
 ---
 
 ## Frequently Asked Questions

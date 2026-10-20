@@ -147,6 +147,8 @@ A washing machine uses roughly the same amount of water and energy per cycle reg
 
 **A note on sorting:** You do not need to sort as aggressively as older advice suggested, but do separate items that shed lint (towels, flannel) from items that attract it (dark knits), and wash new deeply colored items separately for the first few washes.
 
+The answer depends on how you heat water and how you run the tap — [whether the dishwasher or hand washing costs less](/save-money/bills/dishwasher-vs-hand-washing-cost/) does the arithmetic.
+
 ---
 
 ## 6. Maintain the Machine

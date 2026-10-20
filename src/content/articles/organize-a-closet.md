@@ -157,6 +157,8 @@ Closet capacity is usually vertical, not horizontal.
 
 **If a shelf sags under load**, add a support or move heavy items down. A shelf that sags is a shelf about to fail.
 
+Thread count is the least useful number on the label — [buying bedding that lasts](/save-money/shopping/save-money-on-bedding-and-linens/) covers what to check instead.
+
 ---
 
 ## Step 5: Solve the accessory problem

@@ -137,6 +137,8 @@ A freezer full of food after an outage raises the same question, and the same pr
 - **Judge by time and temperature, not appearance.** Anything above 40°F for more than two hours should go — particularly meat, poultry, fish, and anything cooked.
 - **When in doubt about a high-risk item, throw it out.** The cost of replacing it is much lower than the alternative.
 
+Surface dehydration and fat oxidation are the two failures — [preventing freezer burn on meat](/kitchen-tips/food-storage/prevent-freezer-burn-on-meat/) covers both.
+
 ---
 
 ## Why This Works

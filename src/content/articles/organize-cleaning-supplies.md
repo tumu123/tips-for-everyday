@@ -74,6 +74,8 @@ A typical audit turns up 3–5 bottles of all-purpose cleaner, 2–3 of glass cl
 - **Drain cleaners more than a year old** — they lose potency and are also the most hazardous item in the house
 - **Corroded metal cans or swollen plastic** — pressure buildup, dispose immediately
 
+Sort, wash, dry, fold, and put away are five separate stations — [organizing a laundry room around the work flow](/organize/laundry/organize-laundry-room/) covers the layout.
+
 ---
 
 ## Step 1: Build the central reserve

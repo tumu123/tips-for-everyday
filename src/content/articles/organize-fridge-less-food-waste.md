@@ -126,6 +126,8 @@ Three fixes:
 
 Also relevant: keep leftovers on an **upper shelf** where they're visible and above raw meat, and eat or freeze most cooked leftovers within **three to four days**. Cooked rice is the exception at roughly one day, because of a bacterium that survives reheating.
 
+Change the carrier, the temperature, or the cuisine — [turning leftovers into new meals](/kitchen-tips/cooking-hacks/get-more-out-of-grocery-leftovers/) shows the pattern.
+
 ## Step 6: Set up zones and actually use them
 
 A system only works if it fits how you already move. Keep it simple:

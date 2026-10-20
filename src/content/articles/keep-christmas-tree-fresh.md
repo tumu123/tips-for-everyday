@@ -31,6 +31,7 @@ relatedSlugs:
   - "clean-up-after-holiday-party"
   - "return-to-routine-after-holidays"
   - "make-produce-last-longer"
+  - "winter-holiday-safety-home-checks"
 draft: false
 ---
 
@@ -115,6 +116,8 @@ Water loss is driven by temperature and air movement as much as by uptake, and h
 5. **Keep the tree watered especially carefully if using incandescent lights**, because the drying rate is higher.
 
 **The fire-safety point is real and worth stating plainly:** a dry Christmas tree is extremely flammable. A tree kept well watered is dramatically less so. The same practices that keep needles on are the practices that keep the tree safe.
+
+Four ignition sources in one room compound — [holiday safety checks for lights, trees, candles and heaters](/seasonal/holidays/winter-holiday-safety-home-checks/) covers each.
 
 ## Step 7: Recognize when the tree is done
 

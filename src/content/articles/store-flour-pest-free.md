@@ -53,6 +53,8 @@ Different pests call for slightly different responses, so start here:
 
 The presence of webbing almost always means moths. If you see hard-shelled beetles marching around in dry rice, you're likely dealing with weevils. This distinction matters because moths will keep spreading through the air in a way that beetles largely won't.
 
+Perimeter work prevents more than spraying — [handling common household pests yourself](/save-money/bills/save-money-on-pest-control-diy/) also covers the cases worth paying a professional for.
+
 ## Step 2: Freeze every new bag before it goes in the pantry
 
 This is the step that actually breaks the cycle, and most people never do it.
@@ -120,6 +122,8 @@ Pests need time. Nothing will hatch in a bag you use within a month.
 - **First in, first out** — put new stock behind old.
 
 Note the parallel risk: these products don't just get buggy, they go off. Whole wheat flour, brown rice, oats, and nuts contain oils that oxidize. Brown rice and oats keep months; whole wheat flour shorter; white flour a year or more if dry and cool.
+
+The oils in nuts and whole grains go rancid at room temperature — [storing nuts, seeds and flour](/kitchen-tips/food-storage/store-nuts-seeds-and-flours/) covers the freezer cases.
 
 ## Step 7: Handle the "already infested" cases honestly
 

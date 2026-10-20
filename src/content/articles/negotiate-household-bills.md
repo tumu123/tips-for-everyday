@@ -141,6 +141,10 @@ Three moves, in order.
 
 **Subscriptions.** Cancel or downgrade through the account page and you'll often be offered a retention discount. Annual plans are usually cheaper per month — but only worth it if you'll actually use it for twelve months.
 
+Premiums move with the roof, the claims history, and the deductible — [lowering a homeowners insurance premium](/save-money/bills/lower-homeowners-insurance-premium/) lists what actually shifts the number.
+
+Retention pricing and equipment fees do most of the work — [cutting an internet bill without switching providers](/save-money/bills/lower-internet-bill-without-switching/) has the script and the order to ask in.
+
 ---
 
 ## When to Call

@@ -166,6 +166,8 @@ A dried wine stain is harder because the tannin and dye have bonded to the fiber
 
 **Note on old carpet stains:** If the wine soaked into the carpet padding, cleaning the surface will not resolve it. The padding must be treated or replaced. See the pet urine guide for the padding access method — the technique is the same.
 
+The fabric code decides which solvent you can use at all — [cleaning upholstery stains](/home-hacks/cleaning/clean-upholstery-couch-stains/) starts there.
+
 ---
 
 ## Step 8: Special Cases

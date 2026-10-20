@@ -61,6 +61,8 @@ Lift the tank lid and watch a full cycle. Each symptom points at a specific part
 
 **The shutoff test.** Turn the supply valve off at the wall. If the running stops, the problem is in the tank (flapper or fill valve) and you can fix it yourself. If water still runs into the bowl with the supply off, the leak is in the flush valve seat or below the tank, and the tank may need to come off.
 
+A rocking toilet stresses the wax seal until it leaks — [stopping a toilet that rocks](/fix-it/plumbing/fix-toilet-rocking-on-floor/) covers the flange and shim fix.
+
 ---
 
 ## Step 1: Turn off the water and drain the tank

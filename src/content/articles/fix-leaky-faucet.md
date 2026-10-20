@@ -56,6 +56,8 @@ The standard advice — "just replace the washer" — comes from an era when nea
 
 **If you're unsure which single-handle type you have,** you'll find out when you remove the handle and look inside. Take a photo at that point before disassembling further.
 
+Low pressure at one faucet is a different fault from low pressure everywhere — [restoring pressure at a single faucet](/fix-it/plumbing/fix-low-water-pressure-faucet/) separates the two.
+
 ---
 
 ## Step 1: Identify Where It's Leaking
@@ -119,6 +121,8 @@ Do this before disassembling anything.
 ### Mineral buildup
 
 If you're in a hard water area and parts are coated white or green, soak removable components in white vinegar for 30 minutes and scrub gently. Scale damages seals and makes reassembly difficult.
+
+If the drip continues with the handle fully off, the cartridge is worn — [replacing a dripping shower valve](/fix-it/plumbing/fix-dripping-shower-valve/) walks through the swap.
 
 ---
 

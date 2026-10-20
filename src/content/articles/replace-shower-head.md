@@ -78,6 +78,8 @@ This is the step that prevents expensive damage.
 4. **If it still will not move,** reapply penetrating oil and wait longer rather than increasing force. Force is what breaks the fitting behind the wall.
 5. **If the arm itself starts to turn, stop.** That means the joint behind the wall is taking the load — the arm needs to come out and be replaced properly.
 
+If the drip continues with the handle fully off, the cartridge is worn — [replacing a dripping shower valve](/fix-it/plumbing/fix-dripping-shower-valve/) walks through the swap.
+
 ---
 
 ## Step 3: Clean the Old Threads Completely

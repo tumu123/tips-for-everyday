@@ -184,6 +184,8 @@ This is the check people skip, and the one with the largest downside.
 
 **For upholstered items,** steam cleaning helps but does not reliably eliminate a pest problem. If you're unsure about an upholstered piece, don't buy it.
 
+Leather cracks because it dries, not because it is dirty — [cleaning and conditioning leather furniture](/home-hacks/cleaning/clean-leather-furniture/) covers both sides of that.
+
 ---
 
 ## Why This Works

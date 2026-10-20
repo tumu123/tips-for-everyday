@@ -32,6 +32,7 @@ relatedSlugs:
   - "remove-soap-scum"
   - "remove-mold-bathroom-caulk"
   - "remove-hard-water-stains-shower-door"
+  - "organize-medicine-cabinet"
 draft: false
 ---
 
@@ -80,6 +81,8 @@ If there is a mirrored cabinet, it is usually badly used. Shelf spacing is the c
 4. **Put daily items at eye level**, weekly items above, and rarely used items at the top.
 5. **Use the inside of the cabinet door** — magnetic strips hold tweezers, nail clippers, and bobby pins; small adhesive containers hold cotton rounds.
 6. **Do not store medication in a bathroom cabinet** if the room gets hot and humid. Temperature and humidity swings degrade it — use a bedroom drawer instead.
+
+The bathroom is the worst room in the house for most medicines — [organizing a medicine cabinet safely](/organize/small-spaces/organize-medicine-cabinet/) covers safer storage.
 
 ---
 

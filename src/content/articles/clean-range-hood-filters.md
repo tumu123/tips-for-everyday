@@ -83,6 +83,8 @@ Do this outside or over a trash bag, not in the sink.
 
 This step takes two minutes and prevents your sink drain from becoming the new problem.
 
+Self-clean runs are hard on elements and racks — [cleaning an oven without the self-clean cycle](/home-hacks/cleaning/clean-oven-without-self-clean/) covers the manual method.
+
 ---
 
 ## Step 3: The Boiling Water Method (Most Effective)

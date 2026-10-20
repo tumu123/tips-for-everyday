@@ -124,6 +124,8 @@ Showers account for roughly 17% of indoor water use.
 - **Fill the sink to wash hands or shave** rather than running the tap
 - **Fix dripping faucets promptly** — a slow drip wastes roughly 3,000 gallons per year
 
+Most tanks ship at 140°F, and 120°F is safe for an adult household — [setting the water heater temperature](/save-money/bills/water-heater-temperature-setting-savings/) covers the trade-offs.
+
 ---
 
 ## Room 2: The Kitchen
@@ -144,6 +146,8 @@ Showers account for roughly 17% of indoor water use.
 1. **Check for leaks** in the supply line — a common and invisible source of waste.
 2. **Do not run the dispenser longer than needed.**
 3. A leaking ice maker supply line is a common cause of unexpectedly high water bills.
+
+The answer depends on how you heat water and how you run the tap — [whether the dishwasher or hand washing costs less](/save-money/bills/dishwasher-vs-hand-washing-cost/) does the arithmetic.
 
 ---
 

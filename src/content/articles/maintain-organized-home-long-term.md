@@ -27,6 +27,7 @@ relatedSlugs:
   - "declutter-without-regret"
   - "organize-small-kitchen"
   - "create-entryway-drop-zone"
+  - "labeling-systems-that-last"
 draft: false
 ---
 
@@ -133,6 +134,8 @@ A system that only you understand will not survive shared use or a busy week.
 5. **Write down the few rules** — where the donation bag is, what full means, when the weekly reset happens.
 
 **Why this matters for other household members:** if putting something away requires asking you where it goes, the item will not be put away. Labels and visibility remove that dependency.
+
+Label only what needs a decision on the way back — [labeling so a system survives](/organize/home-systems/labeling-systems-that-last/) covers the rest.
 
 ---
 

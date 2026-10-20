@@ -161,6 +161,8 @@ This is where most storage fails, and it usually fails because the wrong product
 
 **For under-bed storage, measure the clearance first** — typically 6 to 10 inches. Flat bins fit where taller ones do not, and a bin that does not slide out cleanly will not get used.
 
+Sheets stay matched when they are stored as sets — [organizing a linen closet by set](/organize/closet/organize-linen-closet/) covers the fold.
+
 ---
 
 ## Step 5: Label and track

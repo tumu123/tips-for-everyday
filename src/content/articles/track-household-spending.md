@@ -27,6 +27,7 @@ howToTools:
 relatedSlugs:
   - "return-to-routine-after-holidays"
   - "save-on-holiday-gifts"
+  - "lower-internet-bill-without-switching"
 ---
 
 Almost everyone who has tried to track household spending has abandoned it. The failure is rarely a lack of discipline — it's that most systems require categorizing every transaction, every day, forever. That is genuinely unsustainable.
@@ -69,6 +70,8 @@ Pull up the last three months of bank and card statements. Highlight everything 
 **Mobile plan drift.** Plans creep upward through add-ons and tier changes that nobody consciously chose.
 
 **Once you have the number, note what share of your income it represents.** A common guideline is to keep fixed obligations under roughly half of take-home pay — below that you have room to maneuver; above it, most months feel tight regardless of how carefully you spend in the variable categories.
+
+Retention pricing and equipment fees do most of the work — [cutting an internet bill without switching providers](/save-money/bills/lower-internet-bill-without-switching/) has the script and the order to ask in.
 
 ---
 

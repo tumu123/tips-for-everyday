@@ -169,6 +169,8 @@ When you are standing in front of the fridge holding something uncertain, run th
 
 **When in doubt, throw it out is not a cliché — it is the correct rule of thumb.** Your nose is a genuinely good detector of spoilage, and the intuition that something is wrong is usually based on a real signal.
 
+Change the carrier, the temperature, or the cuisine — [turning leftovers into new meals](/kitchen-tips/cooking-hacks/get-more-out-of-grocery-leftovers/) shows the pattern.
+
 ---
 
 ## Why This Works

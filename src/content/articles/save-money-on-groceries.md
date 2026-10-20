@@ -55,6 +55,10 @@ The USDA estimates that food waste costs the average American household roughly 
 
 **The leftovers rule:** Designate one dinner per week as "leftover night." It sounds trivial, but it converts waste into a meal.
 
+Cooking two or three components at once is the cheapest way to stop ordering out — [batch cooking to cut the grocery bill](/save-money/groceries/batch-cooking-save-money-time/) sets out the weekly rhythm.
+
+Rice fails on ratio, lid, and rest — [cooking rice by ratio and rest time](/kitchen-tips/cooking-hacks/cook-rice-so-it-turns-out-right/) covers all three by grain type.
+
 ---
 
 ## 2. Shop From a Meal Plan, Not from the Aisles

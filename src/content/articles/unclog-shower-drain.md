@@ -33,6 +33,7 @@ relatedSlugs:
   - "replace-shower-head"
   - "remove-soap-scum"
   - "fix-running-toilet"
+  - "fix-low-water-pressure-faucet"
 draft: false
 ---
 
@@ -57,6 +58,8 @@ This determines whether you fix it yourself.
 2. **If only the shower is slow,** the clog is local to that drain and you can usually clear it.
 3. **Check whether water backs up elsewhere** when the shower runs. If running the shower backs up the sink, the blockage is past where the two lines join.
 4. **Do not use any drain cleaner** until you know it is a local clog. Adding chemicals to a main-line blockage makes the eventual professional job more hazardous.
+
+Low pressure at one faucet is a different fault from low pressure everywhere — [restoring pressure at a single faucet](/fix-it/plumbing/fix-low-water-pressure-faucet/) separates the two.
 
 ---
 

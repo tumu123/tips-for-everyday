@@ -91,6 +91,8 @@ This is where the biggest gains usually are, and it is often overlooked.
 
 **Why air sealing matters more than insulation in many homes:** cold outdoor air entering through a gap can be far more damaging than ambient cold. A single unsealed pipe penetration on a windy night can freeze a pipe that is otherwise well insulated.
 
+Outlets and switches on exterior walls are the leaks most people miss; [sealing drafty outlets](/fix-it/maintenance/fix-drafts-from-electrical-outlets/) covers how to seal them safely.
+
 ---
 
 ## Step 3: Add heat where insulation alone is not enough
@@ -179,6 +181,8 @@ A few habits during a cold snap prevent most problems.
 3. **Shut off the electricity** to affected areas if water is near outlets or the panel.
 4. **Call a plumber**, and contact your insurance if damage is significant.
 5. **Document the damage** with photos before cleanup, for the insurance claim.
+
+The bang when a tap closes is a pressure shock, not a loose pipe — [stopping water hammer](/fix-it/plumbing/stop-water-hammer-noisy-pipes/) covers the arrestor and the cheaper fixes.
 
 ---
 

@@ -87,6 +87,10 @@ Lawn work in spring is mostly about filling gaps before weeds do.
 5. **Pre-emergent herbicide goes down before weeds germinate, not after.** Timing is keyed to soil temperature (around 55°F / 13°C), which means it's often earlier than people expect.
 6. **Set the mower high for the first cuts.** Cutting low in spring stresses grass and invites weeds; remove no more than a third of the blade height at a time.
 
+Most lawn contracts bill for mowing and little else — [caring for a lawn without a service contract](/save-money/bills/cheaper-lawn-care-without-a-service/) covers what actually keeps grass healthy.
+
+Drainage comes first and washing comes second — [spring outdoor cleanup in the right order](/seasonal/seasons/spring-outdoor-cleanup-checklist/) covers the sequence.
+
 ## Step 5: Check the irrigation system before you need it
 
 An irrigation system that sat unused all winter has failure points, and finding them in July is expensive.

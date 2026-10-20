@@ -61,6 +61,8 @@ Before doing anything, confirm four things:
 
 **For electric heaters:** the power must be off at the breaker before draining, or the upper heating element will burn out.
 
+The bang when a tap closes is a pressure shock, not a loose pipe — [stopping water hammer](/fix-it/plumbing/stop-water-hammer-noisy-pipes/) covers the arrestor and the cheaper fixes.
+
 ---
 
 ## Step 1: Flush the tank (annually)

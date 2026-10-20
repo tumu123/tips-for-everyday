@@ -77,6 +77,8 @@ Vacuuming removes far more than most people expect — skin cells, dust mite all
 
 **Why vacuum first:** Any liquid applied to a dusty mattress creates a paste that pushes grime into the fabric. Vacuuming first is what makes the rest of the process work.
 
+Filtration helps and source control helps more — [reducing dust at the source](/home-hacks/cleaning/reduce-dust-in-home/) covers both.
+
 ---
 
 ## Step 2: Apply Baking Soda to Absorb Oils and Odor

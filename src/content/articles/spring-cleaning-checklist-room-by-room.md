@@ -105,6 +105,8 @@ Sequence matters more than effort. Start farthest from your exit so you never re
 
 **Entryway and hallway last.** Sweep, mop, and shake out mats. You finish here because this is the floor you'll walk on carrying everything out.
 
+Baseboards collect dust that then redistributes itself — [cleaning baseboards without crawling the floor](/home-hacks/cleaning/clean-baseboards-quickly/) has the tool and the order.
+
 ## Step 4: Handle the four things spring cleaning actually exists for
 
 Seasonal cleaning earns its name by doing what weekly cleaning never touches:
@@ -133,6 +135,8 @@ Spring cleaning is the natural time for the seasonal maintenance pass, and doing
 - **Inspect exterior for water damage** after the freeze-thaw cycle of winter.
 - **Service or at minimum clean the AC** before the first hot week, not during it.
 - **Check the water heater** — sediment settles over winter. See [Water Heater Maintenance](/fix-it/maintenance/water-heater-maintenance/).
+
+Drainage comes first and washing comes second — [spring outdoor cleanup in the right order](/seasonal/seasons/spring-outdoor-cleanup-checklist/) covers the sequence.
 
 ## Step 7: Know when you're done
 

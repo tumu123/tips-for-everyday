@@ -29,6 +29,7 @@ relatedSlugs:
   - "remove-coffee-stains-mugs-carpet"
   - "deep-clean-mattress"
   - "remove-red-wine-stains"
+  - "clean-upholstery-couch-stains"
 draft: false
 ---
 
@@ -151,6 +152,8 @@ If urine soaked through to the padding, cleaning the carpet surface cannot solve
 **For sealed hardwood or concrete subfloor:** clean with enzymatic cleaner, then seal with a shellac-based primer to lock in any residual odor.
 
 **Option C — Professional extraction:** for large areas or repeated marking, a professional with a UV-guided extraction system is usually cheaper than failed DIY attempts and possible carpet replacement. Typical cost ranges from roughly $100–300 for a single-room treatment, varying by market.
+
+The fabric code decides which solvent you can use at all — [cleaning upholstery stains](/home-hacks/cleaning/clean-upholstery-couch-stains/) starts there.
 
 ---
 

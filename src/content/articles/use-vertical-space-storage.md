@@ -31,6 +31,7 @@ relatedSlugs:
   - "organize-under-sink"
   - "organize-garage-one-weekend"
   - "create-entryway-drop-zone"
+  - "organize-tools-in-a-drawer"
 draft: false
 ---
 
@@ -71,6 +72,8 @@ This is the actual design decision. Do it before installing anything.
 5. **Write the assignment down**, then load to it.
 
 **The failure mode to avoid:** putting attractive but rarely used items in the prime band because they look good there. That displaces the things you actually reach for.
+
+Sort by frequency rather than type — [organizing tools without a workshop](/organize/home-systems/organize-tools-in-a-drawer/) covers the three tiers.
 
 ---
 

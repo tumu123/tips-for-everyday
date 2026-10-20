@@ -35,6 +35,7 @@ relatedSlugs:
   - "replace-shower-head"
   - "fix-dripping-shower-valve"
   - "unclog-slow-drain"
+  - "unclog-shower-drain"
 draft: false
 ---
 

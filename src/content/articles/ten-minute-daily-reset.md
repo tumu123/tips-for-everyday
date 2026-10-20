@@ -119,6 +119,8 @@ Not vacuuming. This is about tripping hazards and the visual line through the ro
 
 **Why the path and not the whole floor:** the path is the sightline you use constantly, so clutter there registers every time you cross the room. Areas outside the path can wait for the weekly clean.
 
+Capacity depends on depth rather than width — [storing shoes without an entry closet](/organize/small-spaces/store-shoes-in-a-small-entry/) covers the measurements.
+
 ---
 
 ## Step 6: Stop at Ten Minutes, Even If It Is Not Finished
@@ -143,6 +145,8 @@ The daily reset handles drift. A weekly pass handles the things that need more t
 4. **Do one surface wipe-down** and one floor clean, now that the clutter is already gone.
 
 **The diagnostic use of this step:** whatever you keep deferring tells you where your storage is misdesigned. Repeatedly failing to put something away is evidence about the home, not about you.
+
+The risk is the length of the absence, not the leaving — [the checklist for leaving a house empty](/seasonal/seasons/leave-home-for-vacation-checklist/) covers the shutdown.
 
 ---
 

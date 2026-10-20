@@ -119,6 +119,8 @@ A pin that has been bent by a slammed door will never run smoothly in the knuckl
 4. **Reuse the existing mortise** if the new hinge matches, which avoids chiseling. Most standard hinges match.
 5. **Install with the longest screws that fit** to maximize grip in the jamb.
 
+Doors that sag and drawers that rub are usually the same problem — [tightening loose cabinet hinges and drawer fronts](/fix-it/home-repair/fix-loose-cabinet-hinges-drawers/) covers the screw, anchor, and adjustment fixes.
+
 ---
 
 ## Step 4: Fix the other door noises

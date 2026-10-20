@@ -103,6 +103,8 @@ Sugar residues are water-soluble. Heat plus water does almost all the work, and 
 
 **If it's truly carbonized** (black and hard, not brown and glassy), move to Step 4B — at that point the sugar has carbonized and behaves more like grease.
 
+Ten minutes of steam does more than twenty minutes of scrubbing — [cleaning a microwave with steam](/home-hacks/cleaning/clean-microwave-easily/) has the sequence.
+
 ---
 
 ## Step 4B: Burnt Grease — Break It Down Chemically

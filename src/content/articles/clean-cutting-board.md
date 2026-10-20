@@ -73,6 +73,8 @@ If you only have two boards: one for raw meat and fish, one for everything else.
 
 **Never put a wooden board in the dishwasher.** Heat and prolonged water exposure crack, warp, and split wood. Some plastic boards are dishwasher safe, but check the manufacturer's guidance.
 
+Rinsing under the tap does less than most people assume — [washing produce properly](/kitchen-tips/cooking-hacks/wash-fruit-vegetables-properly/) covers the cases that need more.
+
 ---
 
 ## Step 2: Sanitize after raw meat

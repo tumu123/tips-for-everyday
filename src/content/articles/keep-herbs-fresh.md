@@ -124,6 +124,8 @@ Some herbs will reroot and give you more:
 
 Not everything regrows from a cut stem, but **rooted herb plants** from the grocery store are often worth repotting rather than harvesting into nothing.
 
+Ginger dries, garlic sprouts, and chilies mold — [keeping ginger, garlic and chilies usable](/kitchen-tips/food-storage/keep-ginger-garlic-fresh-longer/) covers a different setup for each.
+
 ---
 
 ## Why This Works

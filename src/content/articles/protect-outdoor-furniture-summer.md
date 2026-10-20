@@ -102,6 +102,8 @@ Before any product decision, confirm the material. Marketing names obscure this.
 2. **Apply UV protectant.** The weave cracks and fades under sun before anything else fails.
 3. **Check the frame underneath** — on cheap synthetic wicker, the aluminum frame is the weak point.
 
+Wind pressure and storm surge are separate problems — [preparing a house for hurricane season](/seasonal/seasons/prepare-home-for-hurricane-season/) covers both.
+
 ## Step 4: Cushions are the short-lived part — treat them that way
 
 Cushions typically outlive their usefulness long before the frames fail, and the failure is usually the foam core.

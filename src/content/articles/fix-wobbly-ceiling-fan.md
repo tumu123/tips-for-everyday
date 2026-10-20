@@ -100,6 +100,8 @@ Uneven dust and grease distribution genuinely causes wobble, and it's free to fi
 
 Clean before you start adding balance weights — otherwise you'll be balancing against dirt that comes off later.
 
+The pillowcase method contains the dust instead of spreading it — [cleaning fan blades without dust falling](/home-hacks/cleaning/clean-ceiling-fan-blades-no-dust/) covers the sequence.
+
 ---
 
 ## Step 4: Balance the Blades

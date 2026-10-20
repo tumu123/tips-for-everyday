@@ -92,6 +92,8 @@ Lower value than glass, but useful for specific jobs.
 
 **Paper products have a real limit:** they absorb moisture and can harbor pests. Don't store cardboard long-term in damp areas like basements or garages, and don't keep large quantities — boxes multiply astonishingly fast.
 
+Most lawn contracts bill for mowing and little else — [caring for a lawn without a service contract](/save-money/bills/cheaper-lawn-care-without-a-service/) covers what actually keeps grass healthy.
+
 ---
 
 ## Plastic Bottles — Be Honest About This One
@@ -116,6 +118,8 @@ Plastic bottles are the most over-recommended reuse item on the internet, and mo
 | Decorative organizers | Time cost exceeds the cost of buying a container |
 
 **The honest guidance:** reuse a plastic bottle when the job is temporary or rough. Don't invest real time in a permanent solution made from material that degrades in sunlight.
+
+Moves get expensive in the packing and the last trip, not the truck — [keeping a move cheap](/save-money/shopping/save-money-when-moving-house/) covers both.
 
 ---
 

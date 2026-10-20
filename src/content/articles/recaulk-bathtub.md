@@ -35,6 +35,7 @@ relatedSlugs:
   - "remove-soap-scum"
   - "remove-hard-water-stains-shower-door"
   - "clean-grout-keep-white"
+  - "fix-cracked-grout-regrout"
 ---
 
 Two things determine whether a recaulking job lasts for years or fails within months, and both are routinely skipped:
@@ -58,6 +59,8 @@ Get those two right and the rest is straightforward technique.
 | Black staining through the full thickness of the bead | Full replacement — surface cleaning won't reach it |
 
 **Rule of thumb:** if more than about a third of the bead is compromised, redo the whole thing. Patching produces visible joints, and those joints fail first.
+
+Once grout is cracked rather than stained, no amount of cleaning holds it — see [regrouting cracked grout](/fix-it/maintenance/fix-cracked-grout-regrout/) for the regrouting sequence.
 
 ---
 

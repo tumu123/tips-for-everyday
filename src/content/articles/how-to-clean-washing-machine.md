@@ -115,6 +115,8 @@ On many front-loaders, detergent is dispensed through a nozzle at the top of the
 2. If clogged, use a toothpick or small brush to clear the openings.
 3. Run a rinse cycle and watch whether water sprays evenly across the drum.
 
+A clogged filter is the usual reason glasses come out gritty — [cleaning the dishwasher filter](/home-hacks/appliances/clean-dishwasher-filter/) covers the monthly routine.
+
 ---
 
 ## Part 3: Deep Clean a Top-Loader

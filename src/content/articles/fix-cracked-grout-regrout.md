@@ -39,6 +39,7 @@ relatedSlugs:
   - "remove-mold-bathroom-caulk"
   - "remove-soap-scum"
   - "remove-hard-water-stains-shower-door"
+  - "recaulk-bathtub"
 draft: false
 ---
 

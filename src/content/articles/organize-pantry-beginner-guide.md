@@ -143,6 +143,8 @@ Three small habits turn the zones into a working pantry.
 
 **Label the shelf edge.** A strip of tape on the front edge reading "Everyday dry goods" or "Baking" means that anyone in the house can put a bag away correctly. A pantry that only one person understands is a pantry that decays.
 
+Label only what needs a decision on the way back — [labeling so a system survives](/organize/home-systems/labeling-systems-that-last/) covers the rest.
+
 ---
 
 ## Step 6: Build the inventory habit

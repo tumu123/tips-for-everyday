@@ -94,6 +94,8 @@ If you only have time for one room, make it this one. It's small, guests always 
 8. **Mop the floor**, including behind the toilet — a spot people notice more than you'd expect.
 9. **Check the door closes and latches.** A bathroom door that won't stay shut is genuinely embarrassing for a guest.
 
+Guests notice the route to the bathroom at two in the morning — [preparing a guest room and bath](/seasonal/holidays/prepare-guest-room-and-bath-for-visitors/) covers the details.
+
 ## Step 4: Handle the kitchen — visible parts only
 
 Guests see the counters, the sink, and the floor. They do not see inside the oven.

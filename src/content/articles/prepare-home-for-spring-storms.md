@@ -111,6 +111,10 @@ Falling branches cause more home damage in spring storms than anything else, and
 6. **Know where your utility shutoffs are:** water, gas, and electricity. Being able to shut off gas quickly matters after a storm.
 7. **Have a meeting point and an out-of-area contact** agreed in advance. Local phone networks congest during storms; a distant contact is easier to reach.
 
+The four-hour, eight-hour, and twenty-four-hour marks each break something different — [preparing for a power outage](/seasonal/seasons/prepare-for-power-outage-home/) covers all three.
+
+Wind pressure and storm surge are separate problems — [preparing a house for hurricane season](/seasonal/seasons/prepare-home-for-hurricane-season/) covers both.
+
 ## Step 7: Document everything before the season
 
 This is the step people skip and regret.

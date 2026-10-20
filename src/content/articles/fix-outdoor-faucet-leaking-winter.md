@@ -36,6 +36,7 @@ relatedSlugs:
   - "fix-leaky-faucet"
   - "fix-low-water-pressure-faucet"
   - "seal-gaps-doors-windows"
+  - "seasonal-home-maintenance-checklist"
 draft: false
 ---
 

@@ -33,6 +33,7 @@ relatedSlugs:
   - "clean-store-summer-gear"
   - "fall-maintenance-checklist-homeowners"
   - "extend-life-of-appliances"
+  - "organize-sentimental-items"
 draft: false
 ---
 
@@ -171,6 +172,8 @@ This is what keeps the garage organized after the weekend.
 2. **Outline the walking path** if the garage is shared with storage.
 3. **Mark a clear zone in front of the electrical panel, water heater, and furnace.**
 4. **Use the outline as the rule:** nothing crosses the line. A visible boundary is enforced far better than an intention.
+
+Photograph it, keep one, and store by material — [storing sentimental items without keeping everything](/organize/closet/organize-sentimental-items/) covers the method.
 
 ---
 

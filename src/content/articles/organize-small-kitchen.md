@@ -30,6 +30,7 @@ relatedSlugs:
   - "store-food-to-reduce-waste"
   - "organize-under-sink"
   - "store-leftover-wine"
+  - "organize-reusable-bags-and-wraps"
 draft: false
 ---
 
@@ -113,6 +114,8 @@ Most cabinets have dead space above the contents.
 - **Lazy Susans** in corner cabinets make the deep back space accessible.
 - **Pull-out drawers** dramatically improve deep base cabinets, if you are willing to install them.
 - Under-sink space holds cleaning supplies, which frees another cabinet for food.
+
+Six bags is the practical limit for most households — [keeping reusable bags under control](/organize/small-spaces/organize-reusable-bags-and-wraps/) covers the fold.
 
 ---
 

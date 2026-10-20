@@ -88,6 +88,8 @@ This is the step most people skip, and it's the reason clutter accumulates year 
 3. **Vacuum and mop the floors**, especially where the tree stood.
 4. **Take out all trash and recycling**, including packaging.
 
+Audit the systems, not the rooms — [a new year home reset that is not a declutter](/seasonal/holidays/new-year-home-reset/) covers the checklist.
+
 ## Step 3: Reset the food situation
 
 Holiday eating disrupts routines, and the leftover situation makes it worse.

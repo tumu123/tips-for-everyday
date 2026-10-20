@@ -25,6 +25,7 @@ relatedSlugs:
   - "extend-life-of-appliances"
   - "water-heater-maintenance"
   - "seasonal-home-maintenance-checklist"
+  - "prepare-for-power-outage-home"
 draft: false
 ---
 
@@ -73,6 +74,8 @@ This step is skipped constantly, and it is why breakers trip again immediately.
 5. **Note what you unplugged.** You will reconnect them one at a time in Step 4.
 
 **Why this matters:** resetting into a full load gives you no information. Resetting into an empty circuit tells you whether the fault is in the wiring or in something you plugged in.
+
+The four-hour, eight-hour, and twenty-four-hour marks each break something different — [preparing for a power outage](/seasonal/seasons/prepare-for-power-outage-home/) covers all three.
 
 ---
 

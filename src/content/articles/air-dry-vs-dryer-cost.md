@@ -119,6 +119,8 @@ High spin speeds remove far more water than low ones, and spinning costs a fract
 
 **Use the dryer's heat setting deliberately.** High heat is faster but harder on fabric. Medium heat is the usual sensible default — the time penalty is small and the wear reduction is real.
 
+Thread count is the least useful number on the label — [buying bedding that lasts](/save-money/shopping/save-money-on-bedding-and-linens/) covers what to check instead.
+
 ---
 
 ## A Strategy That Fits Your Situation

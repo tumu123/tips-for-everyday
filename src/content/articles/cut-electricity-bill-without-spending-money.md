@@ -149,6 +149,8 @@ Some electronics continue drawing power when "off" — game consoles, cable boxe
 
 **Practical approach:** Put entertainment centers and computer setups on a power strip you switch off at night. Do not put DVRs or anything with a scheduled recording or update cycle on a switched strip.
 
+Standby loads are small per device and large per house — [cutting standby power draw](/save-money/bills/cut-standby-power-vampire-draw/) shows which ones are worth unplugging.
+
 ---
 
 ## 9. Close Doors and Vents in Unused Rooms

@@ -29,6 +29,7 @@ relatedSlugs:
   - "store-off-season-clothes"
   - "organize-small-kitchen"
   - "ten-minute-daily-reset"
+  - "organize-linen-closet"
 draft: false
 ---
 
@@ -145,6 +146,8 @@ The top shelf is hard to reach, so whatever goes there must not be needed often.
 3. **Keep the bins light enough to lift down one-handed.**
 4. **Leave the front edge visible** so you can see the label without pulling the bin out.
 5. **Do not use the top shelf for overflow.** Overflow belongs in a different closet, not on a shelf nobody reaches.
+
+Sheets stay matched when they are stored as sets — [organizing a linen closet by set](/organize/closet/organize-linen-closet/) covers the fold.
 
 ---
 

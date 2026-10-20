@@ -102,6 +102,8 @@ If the door closes but the latch will not catch, or you have to push hard to mak
 
 **The bowing-the-hinge trick:** bending a hinge pin slightly is a traditional technique for adjusting a door's position. It works and it is reversible, but bending too far kinks the pin and creates a new problem. It is worth knowing and easy to overdo.
 
+Rollers, track, and alignment fail in that order — [getting a sliding patio door to glide again](/fix-it/home-repair/fix-sliding-patio-door-sticking/) has the test for each.
+
 ---
 
 ## Step 4: Sand, but only as a last resort

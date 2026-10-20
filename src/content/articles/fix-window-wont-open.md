@@ -32,6 +32,7 @@ relatedSlugs:
   - "cheap-window-insulation"
   - "fix-sticking-door"
   - "save-on-heating-costs-winter"
+  - "fix-sliding-patio-door-sticking"
 ---
 
 **Two problems get confused under "my window won't open":**
@@ -117,6 +118,8 @@ This is not a sticking problem. The counterbalancing mechanism has failed.
 **If cleaning doesn't help,** the rollers have likely worn out or seized. Rollers are replaceable — usually by removing the sash from the frame and swapping the assemblies. Take the old roller to match it.
 
 **If the track itself is bent,** that's a frame issue. Minor bends can sometimes be straightened carefully with pliers, but significant deformation means the window is near the end of its service life.
+
+Rollers, track, and alignment fail in that order — [getting a sliding patio door to glide again](/fix-it/home-repair/fix-sliding-patio-door-sticking/) has the test for each.
 
 ---
 

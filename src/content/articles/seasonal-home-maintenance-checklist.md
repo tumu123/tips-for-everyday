@@ -94,6 +94,8 @@ Autumn is the highest-value checklist, because water and freezing temperatures c
 | **Store or cover outdoor furniture** | Equipment life |
 | **Trim tree branches away from the roof** | Roof damage from ice and wind |
 
+A hose bib that drips indoors every spring has usually split behind the wall — see [an outdoor faucet that leaks after a freeze](/fix-it/plumbing/fix-outdoor-faucet-leaking-winter/) before the next freeze.
+
 ---
 
 ## Winter (during the season)
@@ -112,6 +114,8 @@ Winter tasks are mostly about monitoring rather than action.
 **The blocked furnace vent deserves emphasis.** A high-efficiency furnace vents outside, and a snowdrift over the vent can cause the system to shut down — or worse, cause carbon monoxide to enter the home. Clear vents after every significant snowfall.
 
 **Ice dam prevention:** ice dams form when heat escapes into the attic, melts snow on the roof, and the water refreezes at the colder eave. The prevention is attic insulation and ventilation, not roof work. If ice dams recur, the fix is above, in the attic.
+
+Snow load, ice dams, and heat loss are the three failures — [preparing for a winter storm](/seasonal/seasons/prepare-home-for-winter-storm/) covers them.
 
 ---
 

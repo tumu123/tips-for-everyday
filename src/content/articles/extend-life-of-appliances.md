@@ -42,6 +42,8 @@ Major appliances fail for predictable reasons, and most of those reasons are mai
 | Annually | Replace washer hoses if rubber, deep clean refrigerator gaskets, service HVAC, inspect dryer vent duct | 90 min |
 | As needed | Clean dryer vent exterior, replace refrigerator water filter | varies |
 
+The condensate line is the season’s biggest service call — [summer maintenance checks](/seasonal/seasons/summer-home-maintenance-checklist/) covers it.
+
 ---
 
 ## Category 1: Refrigeration
@@ -155,6 +157,8 @@ This is the highest-value appliance maintenance task in the home.
 2. **Inspect the drain hose** under the sink for kinks.
 3. **Test for proper draining** — water should be fully gone at the end of the cycle.
 4. **Run a cycle with a dishwasher cleaner** if mineral buildup is visible.
+
+A clogged filter is the usual reason glasses come out gritty — [cleaning the dishwasher filter](/home-hacks/appliances/clean-dishwasher-filter/) covers the monthly routine.
 
 ---
 

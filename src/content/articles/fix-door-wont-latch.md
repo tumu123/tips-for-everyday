@@ -33,6 +33,7 @@ relatedSlugs:
   - "fix-sticking-door"
   - "fix-squeaky-door-hinge"
   - "cheap-window-insulation"
+  - "fix-loose-cabinet-hinges-drawers"
 ---
 
 **First, distinguish this from a different problem.** If the door *rubs or jams as you close it*, that's a fitting problem, not a latching problem — see [How to Fix a Sticking Door](/fix-it/home-repair/fix-sticking-door/). If it makes noise when it swings, see [How to Fix a Squeaky Door Hinge](/fix-it/home-repair/fix-squeaky-door-hinge/).
@@ -127,6 +128,8 @@ If the door has dropped, adjusting the strike plate is treating the symptom. Fix
 This single screw is often enough to correct years of sag, and it's the most underused fix in this entire guide.
 
 **If the hinge itself is bent or worn,** replacing it is inexpensive and straightforward — swap one at a time so the door stays hung.
+
+Doors that sag and drawers that rub are usually the same problem — [tightening loose cabinet hinges and drawer fronts](/fix-it/home-repair/fix-loose-cabinet-hinges-drawers/) covers the screw, anchor, and adjustment fixes.
 
 ---
 

@@ -93,6 +93,8 @@ This is the window where the house work happens, so it isn't competing with cook
 
 For the room-by-room cleaning method, see [How to Deep Clean Before Hosting Guests](/seasonal/holidays/deep-clean-before-guests/). If guests are staying over, the room setup is covered in [How to Set Up a Guest Room on Short Notice](/seasonal/holidays/set-up-guest-room-short-notice/).
 
+Guests notice the route to the bathroom at two in the morning — [preparing a guest room and bath](/seasonal/holidays/prepare-guest-room-and-bath-for-visitors/) covers the details.
+
 ## Step 5: One to two days out — the flexible cooking
 
 Almost all the cooking that feels urgent can happen here.

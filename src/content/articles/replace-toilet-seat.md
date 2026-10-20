@@ -31,6 +31,7 @@ relatedSlugs:
   - "fix-leaky-faucet"
   - "recaulk-bathtub"
   - "organize-bathroom-no-cabinet-space"
+  - "fix-toilet-rocking-on-floor"
 draft: false
 ---
 
@@ -59,6 +60,8 @@ Do this first — it determines everything else.
 5. **Choose the shape to match the bowl, not the old seat.** If the previous owner fitted the wrong shape, buying the same one repeats the problem.
 
 **A quick visual check:** an elongated bowl is visibly oval; a round bowl is closer to circular. If you are between the two, measure — do not guess.
+
+A rocking toilet stresses the wax seal until it leaks — [stopping a toilet that rocks](/fix-it/plumbing/fix-toilet-rocking-on-floor/) covers the flange and shim fix.
 
 ---
 

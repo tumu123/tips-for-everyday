@@ -144,6 +144,8 @@ Residual cleaner left in grout attracts dirt and can leave a white haze.
 
 **Note on epoxy grout:** epoxy grout does not need sealing. It is non-porous by nature.
 
+Once grout is cracked rather than stained, no amount of cleaning holds it — see [regrouting cracked grout](/fix-it/maintenance/fix-cracked-grout-regrout/) for the regrouting sequence.
+
 ---
 
 ## Step 7: For Very Stubborn or Blackened Grout

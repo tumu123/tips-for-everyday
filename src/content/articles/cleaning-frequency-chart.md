@@ -81,6 +81,10 @@ Rather than memorizing 12 rows, it helps to see that these items fall into four 
 
 **Sponges, pillows, and to an extent mattresses.** Some items have a service life shorter than the time it takes to visibly wear out. A pillow can look fine and still be a third oils by weight. Cleaning extends life; it doesn't reverse it.
 
+Baseboards collect dust that then redistributes itself — [cleaning baseboards without crawling the floor](/home-hacks/cleaning/clean-baseboards-quickly/) has the tool and the order.
+
+Filtration helps and source control helps more — [reducing dust at the source](/home-hacks/cleaning/reduce-dust-in-home/) covers both.
+
 ---
 
 ## What Most Schedules Get Wrong

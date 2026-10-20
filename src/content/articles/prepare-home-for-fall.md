@@ -57,6 +57,8 @@ Everything else depends on water being directed away from the house.
 7. **Check the grading around the foundation.** Soil should slope away from the house. Add soil where it has settled toward the house.
 8. **Look at the roof from the ground** for damaged, lifted, or missing shingles — and check flashing around chimneys and vents.
 
+An inch of rain on a roof is hundreds of gallons — [fall gutter and yard cleanup](/seasonal/seasons/fall-yard-and-gutter-cleanup/) covers the drainage order.
+
 ## Step 2: Air-seal before you insulate
 
 Air sealing always comes first. Insulation slows heat conduction; air sealing stops the convective loss that moves far more heat.

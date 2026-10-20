@@ -29,6 +29,7 @@ relatedSlugs:
   - "how-long-food-lasts-shelf-life-guide"
   - "organize-small-kitchen"
   - "save-money-on-groceries"
+  - "get-more-out-of-grocery-leftovers"
 draft: false
 ---
 
@@ -59,6 +60,8 @@ Opened and refrigerated with the cork back in, these are the working ranges:
 Note that **fortified and sweet wines are in a different category entirely.** Port and sherry were built to survive exposure; a bottle of port left on the counter for weeks will be fine long after an open Cabernet has turned.
 
 The counterintuitive entry is sparkling wine, which has the *shortest* life for quality reasons rather than spoilage reasons. It rarely becomes unsafe — it just goes flat, and flat sparkling wine is a disappointment rather than a hazard.
+
+Change the carrier, the temperature, or the cuisine — [turning leftovers into new meals](/kitchen-tips/cooking-hacks/get-more-out-of-grocery-leftovers/) shows the pattern.
 
 ## Step 2: Recork immediately, every time
 

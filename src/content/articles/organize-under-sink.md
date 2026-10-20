@@ -30,6 +30,7 @@ relatedSlugs:
   - "remove-mold-bathroom-caulk"
   - "organize-cleaning-supplies"
   - "clean-blinds-without-removing"
+  - "organize-medicine-cabinet"
 draft: false
 ---
 
@@ -147,6 +148,8 @@ The door interior is usable and surprisingly high-value.
 4. **Never store cleaning chemicals and food in the same location.** Some cleaners release vapors that are absorbed by food.
 5. **Remove expired products.** Cleaning products do lose effectiveness over time, and expired items take up prime space.
 6. **Keep a small drip tray under any bottle that has leaked before** — glass bottles that have cracked before, or any that previously dripped.
+
+The bathroom is the worst room in the house for most medicines — [organizing a medicine cabinet safely](/organize/small-spaces/organize-medicine-cabinet/) covers safer storage.
 
 ---
 

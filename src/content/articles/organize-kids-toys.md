@@ -29,6 +29,7 @@ relatedSlugs:
   - "declutter-without-regret"
   - "organize-small-kitchen"
   - "small-space-storage-ideas"
+  - "organize-kids-school-papers-artwork"
 draft: false
 ---
 
@@ -138,6 +139,8 @@ Not everything belongs in a child-height open bin.
 2. **Keep art supplies that stain** — markers, paint, glitter — up high and dispense them.
 3. **Keep sentimental or breakable items out of the play area entirely.** Toy storage is for toys.
 4. **Secure tall shelving to the wall.** Any shelf a child can climb must be anchored.
+
+The one-year test settles most of it — [dealing with kids' school papers and artwork](/organize/closet/organize-kids-school-papers-artwork/) covers the rest.
 
 ---
 

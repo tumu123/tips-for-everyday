@@ -164,6 +164,8 @@ Pick a fixed night — Sunday, or the day before your usual shop. Open the fridg
 
 Keep three or four adaptable recipes in your head so the meal does not become a project. The point is consumption, not creativity.
 
+Rice fails on ratio, lid, and rest — [cooking rice by ratio and rest time](/kitchen-tips/cooking-hacks/cook-rice-so-it-turns-out-right/) covers all three by grain type.
+
 ---
 
 ## Step 6: Shop against your inventory, not your mood

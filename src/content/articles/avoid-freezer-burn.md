@@ -133,6 +133,8 @@ But it will eat badly as-is. Salvage it by moving it into preparations that add 
 
 If the burn is deep and the off flavors are strong, trim the affected areas before cooking and judge what's left honestly. As a rule of thumb, **trim any patch with a distinctly different color or texture**, then smell it — oxidized fat smells like old cooking oil or crayons, and that smell does not cook out.
 
+Surface dehydration and fat oxidation are the two failures — [preventing freezer burn on meat](/kitchen-tips/food-storage/prevent-freezer-burn-on-meat/) covers both.
+
 ---
 
 ## Why This Works

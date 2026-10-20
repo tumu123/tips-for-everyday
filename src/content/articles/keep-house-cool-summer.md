@@ -128,6 +128,8 @@ If you're running air conditioning, these are the things that actually change th
 
 **Keep interior doors open** and return air paths clear. Closing doors to unused rooms can create pressure imbalances that reduce overall system efficiency.
 
+The condensate line is the season’s biggest service call — [summer maintenance checks](/seasonal/seasons/summer-home-maintenance-checklist/) covers it.
+
 ---
 
 ## Priority 5: Cut the Heat You Generate Indoors

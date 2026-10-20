@@ -95,6 +95,8 @@ So treat the tables as **starting points for your own kitchen**, not guarantees.
 
 **The rule behind the table:** the wetter and more protein-rich the food, the shorter its window. Ground meat, fish, and cooked rice are the short windows. Cheese, eggs, and condiments are the long ones.
 
+Refrigerated eggs hold far longer than the carton date suggests — [how long eggs actually keep](/kitchen-tips/food-storage/store-eggs-how-long-they-last/) covers the float test and the limits.
+
 ---
 
 ## Step 3: Freezer shelf life
@@ -123,6 +125,8 @@ Freezing stops bacterial growth but does not stop quality loss. Food left in the
 **Fatty foods lose quality fastest** in the freezer. Salmon, mackerel, and ice cream all have short windows because fat oxidizes and turns rancid even when frozen.
 
 **A note on refreezing:** meat thawed in the refrigerator may be refrozen if it was thawed safely. Meat thawed on a counter or in warm water should be cooked, not refrozen.
+
+Salted, unsalted, and cultured butter keep on different clocks — [where butter belongs](/kitchen-tips/food-storage/store-butter-and-margarine/) sorts them out.
 
 ---
 

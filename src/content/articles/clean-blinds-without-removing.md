@@ -81,6 +81,8 @@ This two-pass approach covers both faces of every slat without disassembling any
 
 **Do the dry pass before anything wet.** This is the single most impactful step in the whole job.
 
+The pillowcase method contains the dust instead of spreading it — [cleaning fan blades without dust falling](/home-hacks/cleaning/clean-ceiling-fan-blades-no-dust/) covers the sequence.
+
 ---
 
 ## Step 3: Damp Clean Only If Needed
@@ -103,6 +105,8 @@ The parts people forget are also the parts that collect the most dust.
 1. **Run a cloth along the tilt wand and cords.**
 2. **Vacuum the head rail** with the brush attachment.
 3. **Wipe the window sill** afterward — everything you dislodged landed there.
+
+Tracks hold water and grit against the frame — [cleaning window tracks](/home-hacks/cleaning/clean-window-tracks/) covers the extraction step most people skip.
 
 ---
 

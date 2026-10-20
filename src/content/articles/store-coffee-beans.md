@@ -108,6 +108,8 @@ How to do it:
 
 One nuance: many specialty roasters now ship in sealed bags intended for freezing, and some argue frozen beans actually brew better because grinding frozen beans produces a more uniform particle distribution. That's a real effect, but it's a refinement for people who've already solved storage — not a reason to freeze a bag you're opening daily.
 
+The oils in nuts and whole grains go rancid at room temperature — [storing nuts, seeds and flour](/kitchen-tips/food-storage/store-nuts-seeds-and-flours/) covers the freezer cases.
+
 ## Step 7: Grind and dose from what you need
 
 A small practical habit that pays off more than most storage gear: **only open the canister for as long as you need to get beans out.** Every opening exchanges the CO₂-rich headspace for fresh oxygen.

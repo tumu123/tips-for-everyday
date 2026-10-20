@@ -79,6 +79,8 @@ Ethylene is a ripening hormone that plants release naturally. Produce that emits
 
 **The exception that uses the rule:** if you want to ripen an avocado or a firm peach faster, put it in a paper bag with an apple or a banana. Ethylene works for you when you want it.
 
+Ginger dries, garlic sprouts, and chilies mold — [keeping ginger, garlic and chilies usable](/kitchen-tips/food-storage/keep-ginger-garlic-fresh-longer/) covers a different setup for each.
+
 ---
 
 ## Step 1: Set the two crisper drawers correctly
@@ -112,6 +114,8 @@ Apply paper towels to:
 **Greens first, always:** wash and then **dry thoroughly** before storing. A salad spinner is the right tool. Wet greens in a sealed bag last about a day; dry greens last several. This is the most common produce mistake, and the most costly.
 
 **Berries: do not wash before storing.** Wash immediately before eating. Water on berries is the fastest route to mold.
+
+Rinsing under the tap does less than most people assume — [washing produce properly](/kitchen-tips/cooking-hacks/wash-fruit-vegetables-properly/) covers the cases that need more.
 
 ---
 

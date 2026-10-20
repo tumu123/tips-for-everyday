@@ -29,6 +29,7 @@ relatedSlugs:
   - "remove-laundry-stains"
   - "save-money-on-laundry"
   - "clean-upholstery-couch-stains"
+  - "keep-kitchen-sponges-clean"
 draft: false
 ---
 
@@ -132,6 +133,8 @@ Clean laundry can develop the smell again in storage if the conditions are wrong
 - **Avoid plastic bins for long-term storage.** Plastic traps moisture. Use breathable cotton bags or leave the bin slightly vented.
 - **Keep the closet dry.** A dehumidifier in a humid climate does more for laundry freshness than any product.
 - **Do not store laundry in a basement or damp garage** without moisture control.
+
+Drying between uses matters more than any disinfecting trick — [keeping sponges and dishcloths sanitary](/kitchen-tips/cooking-hacks/keep-kitchen-sponges-clean/) covers the rest.
 
 ---
 

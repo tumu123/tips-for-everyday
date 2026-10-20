@@ -92,6 +92,8 @@ If you do refrigerate anything, **seal it properly against moisture** and let th
 
 One often-repeated claim worth questioning: freezing is frequently recommended, but it rarely helps ground spices much, and repeated thawing introduces the same moisture problem. If you buy in bulk, freeze the portion you won't open for months, then store the rest normally.
 
+They need dry air and separation, not the fridge — [storing onions, potatoes and garlic](/kitchen-tips/food-storage/store-onions-potatoes-garlic/) covers the setup.
+
 ## Step 5: Buy whole spices where it matters
 
 This is the change with the biggest payoff, and it's not close.

@@ -31,6 +31,7 @@ relatedSlugs:
   - "remove-coffee-stains-mugs-carpet"
   - "remove-pet-urine-stains-carpet"
   - "grease-stains-kitchen-cabinets"
+  - "clean-leather-furniture"
 draft: false
 ---
 
@@ -133,6 +134,8 @@ Heat softens adhesive without any chemical risk. This should be your first move 
 3. Peel with your fingernail only.
 4. For remaining residue, use cooking oil or a commercial tar and adhesive remover labeled safe for clear coat.
 5. Wash and wax the area afterward.
+
+Leather cracks because it dries, not because it is dirty — [cleaning and conditioning leather furniture](/home-hacks/cleaning/clean-leather-furniture/) covers both sides of that.
 
 ---
 

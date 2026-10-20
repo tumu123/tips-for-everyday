@@ -34,6 +34,7 @@ relatedSlugs:
   - "prepare-home-for-fall"
   - "prevent-frozen-pipes"
   - "water-heater-maintenance"
+  - "lower-homeowners-insurance-premium"
 draft: false
 ---
 
@@ -100,6 +101,10 @@ Priorities: exterior window and door frames, utility penetrations, and any joint
 **Deadline:** before the first freeze.
 **Protects:** irrigation lines, valves, and backflow preventer.
 **If skipped:** buried lines crack and valves split — an expensive spring repair.
+
+Premiums move with the roof, the claims history, and the deductible — [lowering a homeowners insurance premium](/save-money/bills/lower-homeowners-insurance-premium/) lists what actually shifts the number.
+
+An inch of rain on a roof is hundreds of gallons — [fall gutter and yard cleanup](/seasonal/seasons/fall-yard-and-gutter-cleanup/) covers the drainage order.
 
 ---
 

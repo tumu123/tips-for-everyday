@@ -123,6 +123,8 @@ For heavy, long-standing rust stains, a commercial product containing **oxalic a
 
 **On availability:** Oxalic acid is the active ingredient in many commercial rust removers and is also sold as a powder (sometimes as "wood bleach"). It is effective and relatively safe when used as directed, but it is toxic if ingested — store it away from children and pets.
 
+The ring is mineral scale, so acid does the work — [removing a hard water ring from a toilet bowl](/home-hacks/cleaning/remove-toilet-bowl-hard-water-ring/) covers it safely.
+
 ---
 
 ## Method 5: Pumice Stick (For Porcelain Only)

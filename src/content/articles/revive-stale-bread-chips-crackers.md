@@ -30,6 +30,7 @@ relatedSlugs:
   - "store-food-to-reduce-waste"
   - "how-long-food-lasts-shelf-life-guide"
   - "eat-well-on-small-budget"
+  - "get-more-out-of-grocery-leftovers"
 draft: false
 ---
 
@@ -52,6 +53,8 @@ Before choosing a method, decide which of three situations you're in. They have 
 - **Chips or crackers that have gone soft.** Fully revivable, but by drying rather than by adding water.
 
 The distinction that trips people up: **staling and drying are different problems.** A bag of chips left open went soft because it absorbed moisture from the air. A loaf went hard because its starch reorganized. Same complaint — "it isn't right anymore" — opposite fixes.
+
+Change the carrier, the temperature, or the cuisine — [turning leftovers into new meals](/kitchen-tips/cooking-hacks/get-more-out-of-grocery-leftovers/) shows the pattern.
 
 ## Step 2: Revive a whole loaf with the water-and-oven method
 

@@ -34,6 +34,7 @@ relatedSlugs:
   - "prevent-frozen-pipes"
   - "save-on-heating-costs-winter"
   - "cheap-window-insulation"
+  - "fix-outdoor-faucet-leaking-winter"
 draft: false
 ---
 
@@ -92,6 +93,8 @@ A burst pipe is the most expensive common winter failure, and prevention is chea
 
 For the full method including what to do if a pipe has already frozen, see [How to Prevent Frozen Pipes](/fix-it/maintenance/prevent-frozen-pipes/).
 
+A hose bib that drips indoors every spring has usually split behind the wall — see [an outdoor faucet that leaks after a freeze](/fix-it/plumbing/fix-outdoor-faucet-leaking-winter/) before the next freeze.
+
 ## Step 4: Deal with the roof and attic heat
 
 This is the ice dam sequence, and it must be done in order.
@@ -138,6 +141,8 @@ Be skeptical of claims about how much window treatment saves. Air leakage and at
 7. **Service the snow equipment** and store ice melt where it's accessible.
 8. **Trim branches overhanging the house** — ice load brings them down.
 9. **Protect tender plants** with mulch or wraps.
+
+The risk is the length of the absence, not the leaving — [the checklist for leaving a house empty](/seasonal/seasons/leave-home-for-vacation-checklist/) covers the shutdown.
 
 ## Step 8: Prove it holds with a cold-weather test
 

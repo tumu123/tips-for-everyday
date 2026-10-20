@@ -154,6 +154,8 @@ Some entry points can't be fully sealed.
 - Seal soffit and vent gaps so they can't nest in the structure.
 - For ground nests or large nests near doors, use a professional — the risk isn't worth it.
 
+Perimeter work prevents more than spraying — [handling common household pests yourself](/save-money/bills/save-money-on-pest-control-diy/) also covers the cases worth paying a professional for.
+
 ## Step 7: Verify and maintain
 
 Exclusion is a repair, and repairs need re-checking.

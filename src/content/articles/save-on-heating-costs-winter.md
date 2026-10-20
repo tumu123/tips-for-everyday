@@ -51,6 +51,8 @@ Two things follow. First, **air leakage is a major, cheaply-fixable slice** that
 
 An infrared thermometer costs less than a single replacement window and answers the question that determines how the rest of the budget should be spent.
 
+Snow load, ice dams, and heat loss are the three failures — [preparing for a winter storm](/seasonal/seasons/prepare-home-for-winter-storm/) covers them.
+
 ---
 
 ## The Ranked List
@@ -111,6 +113,8 @@ Closing vents in unused rooms saves money, but:
 ### 7. Seal the fireplace damper
 
 An open damper is a large hole in the ceiling of your thermal envelope. If the fireplace is unused, keep the damper closed and consider an inflatable chimney balloon.
+
+Most tanks ship at 140°F, and 120°F is safe for an adult household — [setting the water heater temperature](/save-money/bills/water-heater-temperature-setting-savings/) covers the trade-offs.
 
 ---
 

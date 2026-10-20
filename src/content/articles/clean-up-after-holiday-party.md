@@ -144,6 +144,8 @@ Tablecloths, napkins, and any clothing that got stained.
 6. **Empty all trash bins** throughout the guest zone, not just the kitchen.
 7. **Open windows for 15 to 20 minutes.** Air exchange does more for post-party staleness than any product.
 
+Audit the systems, not the rooms — [a new year home reset that is not a declutter](/seasonal/holidays/new-year-home-reset/) covers the checklist.
+
 ## Step 7: The 15-minute version when you're exhausted
 
 If you genuinely can't do more tonight, do exactly this. It takes fifteen minutes and prevents the worst outcomes.

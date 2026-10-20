@@ -34,6 +34,7 @@ relatedSlugs:
   - "unclog-toilet"
   - "fix-garbage-disposal"
   - "lower-water-bill-checklist"
+  - "fix-garbage-disposal-leaking"
 ---
 
 A slow drain is usually treated as a plumbing emergency, and it usually isn't. In most cases the blockage is sitting in the **first two feet of pipe** — the strainer, the pop-up stopper, or the trap — all of which you can reach in under an hour with no special equipment.
@@ -136,6 +137,8 @@ If the clog is in the first two feet — and for a single slow fixture it usuall
 8. **Run water and check for leaks** before putting anything back under the sink
 
 **The one caution:** older metal traps can corrode, and the nuts may not want to move. If something feels like it's about to break, stop. A seized trap is a job for a plumber, and the difference in cost is small compared with a broken pipe inside a wall.
+
+When water appears under the sink only after the disposal runs, the leak is in the unit itself — [fixing a leaking garbage disposal](/fix-it/plumbing/fix-garbage-disposal-leaking/) narrows down which joint it is.
 
 ---
 

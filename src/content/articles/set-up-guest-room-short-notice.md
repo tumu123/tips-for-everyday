@@ -114,6 +114,8 @@ If guests share a bathroom, prepare it as carefully as the room.
 6. **Check the shower works** and that they can figure out how to use it. Unfamiliar shower controls are a genuinely common frustration.
 7. **Empty the trash.**
 
+Guests notice the route to the bathroom at two in the morning — [preparing a guest room and bath](/seasonal/holidays/prepare-guest-room-and-bath-for-visitors/) covers the details.
+
 ## Step 7: The 15-minute emergency version
 
 Guests arriving in twenty minutes. Do these in order and stop when they arrive.

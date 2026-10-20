@@ -63,6 +63,8 @@ Tangled lights are the single biggest time cost of decorating, and the cause is 
 
 **What not to do:** stuffing strands loose into a bag. It takes four seconds to pack and forty minutes to untangle.
 
+Four ignition sources in one room compound — [holiday safety checks for lights, trees, candles and heaters](/seasonal/holidays/winter-holiday-safety-home-checks/) covers each.
+
 ## Step 3: Pack ornaments by fragility, not by color
 
 Ornaments break in storage for exactly one reason: they touch each other or the container.

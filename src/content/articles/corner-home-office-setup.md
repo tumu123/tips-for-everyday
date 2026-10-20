@@ -32,6 +32,7 @@ relatedSlugs:
   - "small-space-storage-ideas"
   - "organize-paperwork-at-home"
   - "ten-minute-daily-reset"
+  - "organize-craft-hobby-supplies"
 draft: false
 ---
 
@@ -106,6 +107,8 @@ A corner has two walls, which is its real advantage.
 5. **Store only work items here.** Once office shelves hold household clutter, the workspace stops reading as a workspace.
 
 **Rule:** everything you need daily should be reachable without standing. Everything else goes higher.
+
+Half-finished projects are the real problem — [organizing craft supplies](/organize/small-spaces/organize-craft-hobby-supplies/) covers project boxes.
 
 ---
 

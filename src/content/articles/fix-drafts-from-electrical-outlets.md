@@ -34,6 +34,7 @@ relatedSlugs:
   - "save-on-heating-costs-winter"
   - "home-energy-audit-diy"
   - "cheap-window-insulation"
+  - "prevent-frozen-pipes"
 draft: false
 ---
 
