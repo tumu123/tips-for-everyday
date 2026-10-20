@@ -458,6 +458,71 @@ log(ogBad === 0
   ? '文章页 og:image 全部可访问 ✓'
   : fail(`${ogBad} 篇文章页 og:image 指向不存在的文件 ✗`));
 
+// ── 18. 正文语境内链门禁 ──
+// 规则：每篇文章至少被其他文章的正文链接 2 次（不含 relatedSlugs 模板链接）。
+// 第二轮 60 篇上线时老文入链为 0，事后才补了 124 条 —— 这条门禁用来防止重演。
+// 历史欠账记录在 scripts/inbound-baseline.json（slug → 当时条数）：
+//   白名单内 → 未达标只告警；比基线更差 → 硬失败
+//   白名单外 → 未达标直接硬失败（新文必须自带入链）
+log('');
+log('═══ 预检 18：正文语境内链 ═══');
+const artDir = 'src/content/articles';
+const mdFiles = fs.readdirSync(artDir).filter((f) => f.endsWith('.md'));
+const slugOfMd = (f) => path.basename(f, '.md');
+const stripFront = (s) => {
+  const m = s.match(/^---\r?\n[\s\S]*?\r?\n---\r?\n([\s\S]*)$/);
+  return m ? m[1] : s;
+};
+const inGraph = new Map();
+for (const f of mdFiles) inGraph.set(slugOfMd(f), new Set());
+for (const f of mdFiles) {
+  const from = slugOfMd(f);
+  const lines = stripFront(fs.readFileSync(path.join(artDir, f), 'utf8')).split(/\r?\n/);
+  for (const line of lines) {
+    for (const m of line.matchAll(/\]\((\/[a-z0-9-]+\/[a-z0-9-]+\/([a-z0-9-]+)\/)/g)) {
+      const to = m[2];
+      if (to === from || !inGraph.has(to)) continue;
+      inGraph.get(to).add(from);
+    }
+  }
+}
+const baselinePath = 'scripts/inbound-baseline.json';
+const inboundBaseline = fs.existsSync(baselinePath)
+  ? JSON.parse(fs.readFileSync(baselinePath, 'utf8'))
+  : {};
+const weakLegacy = [];
+const regressed = [];
+const weakNew = [];
+const cleared = [];
+for (const [slug, set] of inGraph) {
+  const n = set.size;
+  const known = Object.prototype.hasOwnProperty.call(inboundBaseline, slug);
+  if (n >= 2) {
+    if (known) cleared.push(slug);
+    continue;
+  }
+  if (!known) weakNew.push(`${slug} (${n})`);
+  else if (n < inboundBaseline[slug]) regressed.push(`${slug} (${inboundBaseline[slug]}→${n})`);
+  else weakLegacy.push(slug);
+}
+const zeroIn = [...inGraph.values()].filter((s) => s.size === 0).length;
+const lt2 = [...inGraph.values()].filter((s) => s.size < 2).length;
+log(`文章 ${inGraph.size} 篇 · 入链 0 条 ${zeroIn} 篇 · 少于 2 条 ${lt2} 篇`);
+if (weakNew.length) {
+  fail(`${weakNew.length} 篇新文正文入链不足 2 条 ✗（发布前必须补内链）${weakNew.slice(0, 8).join('; ')}`);
+} else {
+  log('白名单外文章入链全部 ≥ 2 条 ✓');
+}
+if (regressed.length) {
+  fail(`${regressed.length} 篇入链数低于历史基线 ✗ ${regressed.slice(0, 6).join('; ')}`);
+}
+if (weakLegacy.length) {
+  log(`历史欠账 ${weakLegacy.length} 篇仍在白名单内（只告警，不阻断构建）`);
+}
+if (cleared.length) {
+  log(`${cleared.length} 篇已达标，可从 inbound-baseline.json 移除`);
+}
+
 console.log(out.filter((l) => l !== '').join('\n'));
 console.log('');
 if (hardFail > 0) {
