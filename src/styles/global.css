@@ -460,17 +460,29 @@ th {
   min-height: 100px;
 }
 
-.ad-slot--rectangle {
-  min-height: 250px;
-}
-
+/* 正文内广告位：①③④ 是响应式展示广告，② 是文章内嵌广告，预留高度一致 */
+.ad-slot--auto,
+.ad-slot--in-article,
 .ad-slot--inline {
   min-height: 280px;
 }
 
-/* 侧栏竖幅（300×600），只在 ≥1280px 渲染 */
-.ad-slot--vertical {
+/* ⑤ 侧栏固定 300×600，只在 ≥1280px 渲染 */
+.ad-slot--fixed {
   min-height: 600px;
+}
+
+/*
+ * ⑥ 列表页信息流单元：零装饰。
+ * 广告自己会渲染成与 .card 同风格的白底卡片，容器再加边框、背景或内边距
+ * 就会叠成双框、把这一格撑大，与周围卡片对不齐。
+ * margin 归零：网格 gap 已经负责间距，再留 2rem 会让这一行明显错位。
+ */
+.ad-slot--feed {
+  min-height: 0;
+  margin: 0;
+  align-self: start;
+  text-align: left;
 }
 
 /* 兜底：确保 AdSense 插入的容器始终占满可用宽度 */

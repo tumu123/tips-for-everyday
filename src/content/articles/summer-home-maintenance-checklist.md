@@ -43,7 +43,7 @@ That means summer failures are rarely sudden. They are the result of a system ru
 The first 95�F week is when every HVAC company in the area is booked solid. Anything you can do yourself, do it in May.
 
 - **Replace the filter.** A clogged filter is the most common cause of a frozen evaporator coil, and a frozen coil cools nothing while running at full power. Monthly in summer if you have pets, every three months otherwise.
-- **Wash the condenser coil**  the outdoor unit. Turn the power off at the disconnect, rinse the fins from the inside out with a garden hose, and straighten bent fins with a fin comb. A coil packed with cottonwood fluff can add 20% to your cooling bill.
+- **Wash the condenser coil** — the outdoor unit. Turn the power off at the disconnect, rinse the fins from the inside out with a garden hose, and straighten bent fins with a fin comb. A coil packed with cottonwood fluff can add 20% to your cooling bill.
 - **Clear 2 feet of space around the condenser.** Shrubs, stored lumber, and a fence panel against the unit cut airflow and raise head pressure.
 - **Check the refrigerant line insulation.** The two copper lines run from the condenser to the air handler; if the foam is split or missing, the suction line sweats and drips inside the wall.
 - **Flush the condensate drain.** This is the number one summer service call. A clogged drain line backs water into the air handler closet or the ceiling below it, and the damage is often more expensive than the AC repair.
@@ -54,9 +54,9 @@ For the condensate line: pour a cup of vinegar through the access port, or use a
 
 An unvented attic in July reaches 140 to 160�F. That heat does three things: it cooks the shingles from below, it drives the air conditioner to work harder, and it pushes moisture into the framing where it condenses at night.
 
-- **Confirm the soffit vents are open.** This is the most common failure after a re-insulation job  the installer blows insulation over the soffit and the intake path disappears. Baffles are cheap and should be in place.
+- **Confirm the soffit vents are open.** This is the most common failure after a re-insulation job — the installer blows insulation over the soffit and the intake path disappears. Baffles are cheap and should be in place.
 - **Check the ridge vent for obstruction** and confirm the screen is intact. A blocked ridge turns the attic into a sealed oven.
-- **Look for staining on the roof deck**  dark rings or delamination mean moisture, which in summer usually comes from a bathroom fan venting into the attic rather than outdoors.
+- **Look for staining on the roof deck** — dark rings or delamination mean moisture, which in summer usually comes from a bathroom fan venting into the attic rather than outdoors.
 - **Feel for hot spots** across the ceiling on a hot afternoon. A room that is dramatically hotter than the rest usually has missing insulation over it, not a duct problem.
 
 Radiant barriers and attic fans are heavily marketed and rarely deliver. Ventilation and air sealing, in that order, are what actually work.
@@ -65,7 +65,7 @@ Radiant barriers and attic fans are heavily marketed and rarely deliver. Ventila
 
 Summer is when basements get damp, and the reason is physics: warm humid air enters a cool basement and its relative humidity rises as it cools. At 75�F and 60% humidity outside, a 65�F basement sits near 75%.
 
-The threshold that matters is **60% relative humidity**  above that, mold grows on drywall, paper, and leather. The tools:
+The threshold that matters is **60% relative humidity** — above that, mold grows on drywall, paper, and leather. The tools:
 
 - **A dehumidifier with a hose drain.** Emptying a bucket daily is the reason most dehumidifiers get abandoned. Run the hose to a floor drain or a condensate pump.
 - **Keep the basement door closed** in humid weather, so the dehumidifier is not drying the whole house.
@@ -75,12 +75,12 @@ The threshold that matters is **60% relative humidity**  above that, mold grows
 
 ## Step 4: Re-caulk in the season when it will actually cure
 
-Summer is the right time for exterior sealing because the joints are at their widest  materials expand in heat, so a bead applied now stays intact when the wall contracts in winter.
+Summer is the right time for exterior sealing because the joints are at their widest — materials expand in heat, so a bead applied now stays intact when the wall contracts in winter.
 
 - **Work when the temperature is between 60 and 80�F** and the surface is in shade. Caulk applied to a hot sunny wall skins over before it bonds.
 - **Cut out the old bead** rather than caulking over it, and clean the joint with a brush.
 - **Use paintable acrylic latex for siding and trim**, silicone for metal and glass, polyurethane for masonry.
-- **Prioritize horizontally facing joints**  window sills, door thresholds, and the top of trim  because those are where water sits.
+- **Prioritize horizontally facing joints** — window sills, door thresholds, and the top of trim — because those are where water sits.
 
 While you are at it, check the paint on the south and west walls. Those faces take the most UV, and a failing paint film lets water into wood that will not dry out until September.
 
@@ -97,7 +97,7 @@ Summer pest calls are almost entirely about two things: openings and standing wa
 
 **Standing water:**
 
-- **Dump anything that holds water**  plant saucers, buckets, tarps, wheelbarrows, clogged gutters. A mosquito needs a tablespoon of water and seven days.
+- **Dump anything that holds water** — plant saucers, buckets, tarps, wheelbarrows, clogged gutters. A mosquito needs a tablespoon of water and seven days.
 - **Change birdbath water twice a week**, and stock it with a mosquito dunk if you have an ornamental pond.
 - **Check the AC condensate drip pan** and the downspout splash blocks. Both are reliable breeding sites.
 
@@ -106,7 +106,7 @@ Summer pest calls are almost entirely about two things: openings and standing wa
 A summer water bill that jumps 30% with no change in irrigation is usually a leak, and the meter is the fastest way to confirm it.
 
 - **Turn everything off and watch the meter.** Any movement on the low-flow indicator means water is moving somewhere.
-- **Check the toilet flappers** with a dye test  a leaking flapper is silent, continuous, and common in summer when supply pressure is higher.
+- **Check the toilet flappers** with a dye test — a leaking flapper is silent, continuous, and common in summer when supply pressure is higher.
 - **Inspect the irrigation** zone by zone. A broken head or a cracked lateral can waste hundreds of gallons a week and is invisible under mulch.
 - **Look at the hose bibs** for a drip at the packing nut. That is a five-minute fix with a wrench.
 
@@ -130,12 +130,12 @@ Maintenance and efficiency overlap in summer more than in any other season.
 
 - **Set the thermostat to 78�F when home, 85�F when away**, and use a programmable schedule rather than manual adjustments.
 - **Close blinds on west-facing windows** in the afternoon. Radiant heat through glass is the largest uncontrolled load in most houses.
-- **Run ceiling fans only in occupied rooms**  a fan cools people, not air, and moving air in an empty room is wasted electricity.
+- **Run ceiling fans only in occupied rooms** — a fan cools people, not air, and moving air in an empty room is wasted electricity.
 - **Keep the dryer and oven use to evening hours** when the AC is not fighting both the outdoor heat and the appliance heat.
 
 ## Step 10: Write down what failed
 
-Keep a one-page log of what broke, when, and what it cost. Summer is when the expensive systems reveal their age  the AC, the dehumidifier, the sump pump  and a log turns "it seems to be struggling" into "it is 14 years old and has been serviced twice."
+Keep a one-page log of what broke, when, and what it cost. Summer is when the expensive systems reveal their age — the AC, the dehumidifier, the sump pump — and a log turns "it seems to be struggling" into "it is 14 years old and has been serviced twice."
 
 That log is also what an HVAC technician asks for, and what a home inspector will want when you sell.
 
@@ -155,7 +155,7 @@ The timing is the other half. Every item here is doable in May, when contractors
 | Sealing the attic tighter without ventilation | Traps heat and moisture in the framing | Soffit intake plus ridge exhaust |
 | Emptying a dehumidifier bucket by hand | It gets abandoned within two weeks | Hose drain to a floor drain |
 | Dehumidifying the whole house | Wasteful and ineffective | Close the basement door |
-| Caulking a hot sunny wall | Skins over before bonding | 6080�F, shade, cut out old bead |
+| Caulking a hot sunny wall | Skins over before bonding | 60–80�F, shade, cut out old bead |
 | Leaving standing water anywhere | A mosquito needs a tablespoon and seven days | Dump saucers, buckets, tarps weekly |
 | Flexible foil dryer duct | Traps lint, sags, and is a fire path | Rigid metal, shortest run possible |
 
@@ -175,7 +175,7 @@ Warm humid outdoor air enters the cool basement and its relative humidity rises 
 
 **How do I keep bugs out of the house in summer?**
 
-Seal the openings first  1/4-inch gaps at the foundation, pipe penetrations, door sweeps, and vent flaps  then remove standing water within 100 feet of the house. Screens should be intact before the season, not repaired after the first mosquito night.
+Seal the openings first — 1/4-inch gaps at the foundation, pipe penetrations, door sweeps, and vent flaps — then remove standing water within 100 feet of the house. Screens should be intact before the season, not repaired after the first mosquito night.
 
 **When is the best time to caulk exterior joints?**
 
@@ -183,7 +183,7 @@ Late spring to early summer, when temperatures are 60 to 80�F and joints are a
 
 **How do I know if my AC is low on refrigerant?**
 
-The symptom is a system that runs continuously and cools poorly, with a suction line that is cold and sweating or, in a severe case, iced over. Refrigerant does not get used up  a low charge means a leak, which needs a technician, not a top-up.
+The symptom is a system that runs continuously and cools poorly, with a suction line that is cold and sweating or, in a severe case, iced over. Refrigerant does not get used up — a low charge means a leak, which needs a technician, not a top-up.
 
 **What should I check before summer storms?**
 
@@ -191,4 +191,4 @@ Dead limbs over the roof and driveway, gutters packed with seed pods, the sump p
 
 **Is a dehumidifier worth running all summer?**
 
-In a basement that stays above 60% relative humidity, yes  mold growth and musty odors start at that threshold, and the damage to stored items is cumulative. Set it to 55 to 60%, drain it by hose, and close the basement door so it is not conditioning the whole house.
+In a basement that stays above 60% relative humidity, yes — mold growth and musty odors start at that threshold, and the damage to stored items is cumulative. Set it to 55 to 60%, drain it by hose, and close the basement door so it is not conditioning the whole house.

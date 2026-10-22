@@ -47,7 +47,7 @@ Almost every outage falls into one of four durations, and each has a different f
 | Duration | What fails | What it costs |
 |---|---|---|
 | Under 2 hours | Nothing, if you do not open the fridge | Nothing |
-| 4 to 8 hours | Refrigerated food approaches 40�F; sump pump stops | $100300 of groceries, or a wet basement |
+| 4 to 8 hours | Refrigerated food approaches 40�F; sump pump stops | $100–300 of groceries, or a wet basement |
 | 12 to 24 hours | Freezer begins to thaw; pipes in exterior walls at risk in cold | Food loss, drywall, plumber |
 | 48 to 72+ hours | Medical refrigeration, water supply, habitability | Displacement, medication loss |
 
@@ -59,22 +59,22 @@ The food-safety line is 40�F (4�C). Above it for more than two hours, perish
 
 Three devices make this measurable instead of hopeful:
 
-- **A thermometer in the fridge**  one that reads the air temperature, placed where you can see it when the door opens.
-- **A thermometer in the freezer**  freezer temperature should hold at 0�F, and knowing it stayed below 40�F tells you whether to refreeze.
-- **Ice blocks**  two gallon jugs of frozen water in the freezer and one in the fridge turn a 4-hour buffer into an 8-hour one, and they double as drinking water later.
+- **A thermometer in the fridge** — one that reads the air temperature, placed where you can see it when the door opens.
+- **A thermometer in the freezer** — freezer temperature should hold at 0�F, and knowing it stayed below 40�F tells you whether to refreeze.
+- **Ice blocks** — two gallon jugs of frozen water in the freezer and one in the fridge turn a 4-hour buffer into an 8-hour one, and they double as drinking water later.
 
 Rules that hold up in practice:
 
 - **Keep both doors closed.** A closed refrigerator holds about 4 hours; a full freezer about 48; a half-full freezer about 24. Every opening costs 15 to 20 minutes of that.
 - **Do not judge by appearance or smell.** A fridge that felt cold may have spent three hours above 40�F. The thermometer, not your hand, is the evidence.
-- **Discard perishables above 40�F for over 2 hours**  meat, dairy, cooked leftovers, cut produce. Hard cheese, butter, whole fruit, and condiments generally survive.
+- **Discard perishables above 40�F for over 2 hours** — meat, dairy, cooked leftovers, cut produce. Hard cheese, butter, whole fruit, and condiments generally survive.
 - **Refreezing is acceptable if ice crystals remain** and the freezer never went above 40�F. If the package is soft and drippy, it is done.
 
-If the outage will clearly run long and the outdoor temperature is below 40�F, you can move sealed freezer items outdoors or into an unheated garage  but only sealed, only out of sunlight, and only where animals cannot reach them.
+If the outage will clearly run long and the outdoor temperature is below 40�F, you can move sealed freezer items outdoors or into an unheated garage — but only sealed, only out of sunlight, and only where animals cannot reach them.
 
 ## Step 3: Protect the basement before the storm, not during it
 
-A sump pump is the one appliance whose failure is measured in minutes. During a heavy rain outage, a basement can take on inches of water in an hour, and the damage is not just the floor  it is the furnace, the water heater, and everything stored at floor level.
+A sump pump is the one appliance whose failure is measured in minutes. During a heavy rain outage, a basement can take on inches of water in an hour, and the damage is not just the floor — it is the furnace, the water heater, and everything stored at floor level.
 
 - **A battery backup sump pump** runs on a deep-cycle battery and covers 6 to 10 hours of normal cycling. It is the highest-return outage purchase for any house with a sump.
 - **Test it twice a year** by unplugging the main pump and pouring water into the pit. A backup that has never been tested is a decoration.
@@ -89,7 +89,7 @@ Two strategies, chosen by whether anyone is home:
 
 **If you are staying:** keep the thermostat at 55�F or above if you have any heat source (a generator running the furnace, a wood stove in the same zone), open cabinet doors on exterior walls, and let one faucet drip at the farthest point from the entry.
 
-**If the house will be empty and cold:** shut off the main water valve and drain the system  open every faucet, flush every toilet once, and open the lowest drain in the basement. A drained house cannot burst.
+**If the house will be empty and cold:** shut off the main water valve and drain the system — open every faucet, flush every toilet once, and open the lowest drain in the basement. A drained house cannot burst.
 
 Know which one applies before the storm, and write the shutoff location on a card inside the door. Under stress, nobody remembers which valve it is.
 
@@ -100,7 +100,7 @@ Heating a whole house on backup power is unrealistic. Heating one room is not.
 Pick a room with these properties: no plumbing in exterior walls, a door that closes, south-facing if possible, and on the same floor as the bathroom you will use. Then:
 
 - **Hang blankets over the doorway** to keep heat in.
-- **Use a heater rated for indoor use**  an unvented propane or kerosene heater with an oxygen depletion sensor, placed on a hard surface, 3 feet from anything combustible.
+- **Use a heater rated for indoor use** — an unvented propane or kerosene heater with an oxygen depletion sensor, placed on a hard surface, 3 feet from anything combustible.
 - **Crack a window slightly** if using an unvented fuel heater, and keep a battery CO alarm in the room.
 - **Never bring a grill, camp stove, or generator indoors**, including the garage. This is the single most common fatal mistake in outages, and it happens most often in the first night.
 
@@ -115,7 +115,7 @@ Four rules, no exceptions:
 3. **Use a transfer switch or correctly rated cords.** A transfer switch is a $500 to $1,500 electrician job and it is the only safe way to power house circuits.
 4. **Size for the starting load, not the running load.** A furnace blower or a well pump draws two to three times its running current at startup.
 
-Also: let the generator cool before refueling, store fuel outside the house in approved containers, and never run one in an attached garage even with the door open  carbon monoxide accumulates in the house above it.
+Also: let the generator cool before refueling, store fuel outside the house in approved containers, and never run one in an attached garage even with the door open — carbon monoxide accumulates in the house above it.
 
 ## Step 7: Build the kit by failure mode, not by shopping list
 
@@ -123,20 +123,20 @@ Pre-made outage kits are mostly candles and playing cards. Build yours around wh
 
 **Light.** Headlamps for every person (hands free, no flame), one lantern per room in use, and spare batteries in the sizes your devices actually take. Candles are a fire risk and a poor light source.
 
-**Power.** Two charged banks  one 10,000 mAh for phones, one larger unit if you have medical equipment. A car inverter is a workable backup for charging, but not for running appliances.
+**Power.** Two charged banks — one 10,000 mAh for phones, one larger unit if you have medical equipment. A car inverter is a workable backup for charging, but not for running appliances.
 
-**Water.** One gallon per person per day for three days, plus pets. If you are on a well, the pump stops with the power, so this is not optional  fill the bathtub before a forecast storm.
+**Water.** One gallon per person per day for three days, plus pets. If you are on a well, the pump stops with the power, so this is not optional — fill the bathtub before a forecast storm.
 
 **Information.** A battery or hand-crank weather radio. Cell towers stay up for a few hours on battery, then degrade; SMS often gets through when voice does not.
 
-**Medicine.** Seven days of prescriptions rotated continuously, plus a copy of the prescription list. Insulin and some injectables need refrigeration  a cooler with ice packs holds 24 to 48 hours if you do not open it.
+**Medicine.** Seven days of prescriptions rotated continuously, plus a copy of the prescription list. Insulin and some injectables need refrigeration — a cooler with ice packs holds 24 to 48 hours if you do not open it.
 
 ## Step 8: Put medical and mobility needs first
 
 If anyone in the household depends on powered equipment, the outage plan changes shape:
 
 - **Register with the utility's medical priority list** if one exists in your area. It does not guarantee power, but it puts you in the restoration queue.
-- **Know the nearest facility with backup power**  a hospital, a dialysis center, a library  and how you would get there.
+- **Know the nearest facility with backup power** — a hospital, a dialysis center, a library — and how you would get there.
 - **Have a paper copy of the medication list and dosages**, because pharmacy systems go down with the power.
 - **Charge mobility devices early** and keep a manual backup where one exists.
 
@@ -147,7 +147,7 @@ This is the one category where "we'll figure it out" is not an acceptable plan.
 Outages are regional, and regional means every tower in the area is oversubscribed. Voice calls fail first; text messages often still get through, because they are small and can queue.
 
 - **Designate one out-of-area contact** everyone checks in with. Local calls jam; long-distance often does not.
-- **Agree on a check-in time**  once in the morning, once in the evening  rather than a stream of messages.
+- **Agree on a check-in time** — once in the morning, once in the evening — rather than a stream of messages.
 - **Keep one phone in low-power mode** and use the others as needed. Airplane mode plus periodic checks triples battery life.
 - **Write down two phone numbers on paper.** Nobody memorizes numbers anymore, and a dead phone has no contacts.
 
@@ -157,7 +157,7 @@ When the power comes back, the sequence matters as much as the prep:
 
 1. **Unplug sensitive electronics** before power returns if you can, then plug them back in one at a time. Surges at restoration are common.
 2. **Check the fridge and freezer temperatures** before deciding what to keep.
-3. **Run the furnace first**, then the water heater, then everything else  the two big loads together can trip a breaker.
+3. **Run the furnace first**, then the water heater, then everything else — the two big loads together can trip a breaker.
 4. **Reset GFCIs and AFCI breakers** that tripped during the outage.
 5. **Check the sump pit** and the basement for water before assuming all is well.
 6. **Restart the water heater only after it is full** if you drained anything; a dry element burns out in seconds.
@@ -166,13 +166,13 @@ When the power comes back, the sequence matters as much as the prep:
 
 The plan is built on a timeline rather than a list, so every purchase maps to a specific hour of loss. A thermometer covers hour four, a sump backup covers hour one, a generator or drained pipes cover hour twelve, and medication covers hour forty-eight.
 
-It also separates what you control from what you do not. You cannot stop the outage. You can make the food measurable, the basement pumped, the pipes empty, and the carbon monoxide audible  and those four things account for most of the money and nearly all of the danger.
+It also separates what you control from what you do not. You cannot stop the outage. You can make the food measurable, the basement pumped, the pipes empty, and the carbon monoxide audible — and those four things account for most of the money and nearly all of the danger.
 
 ## What NOT to Do
 
 | Mistake | Why it fails | Instead |
 |---|---|---|
-| Opening the fridge to check | Each opening costs 1520 minutes of cold | Thermometer inside, door closed |
+| Opening the fridge to check | Each opening costs 15–20 minutes of cold | Thermometer inside, door closed |
 | Judging food by smell | Pathogens do not always produce odor | Discard above 40�F for over 2 hours |
 | Running a generator in the garage | CO accumulates in the house above it | Outdoors, 20 feet from openings |
 | Backfeeding through an outlet | Electrocution risk for utility workers; equipment damage | Transfer switch, or rated cords only |
@@ -190,11 +190,11 @@ A closed refrigerator holds about 4 hours, a full freezer about 48 hours, and a 
 
 **Do you need a generator to get through an outage?**
 
-No. Most outages last under 8 hours, and the critical items  food temperature, sump pump, phone charging  are covered by a thermometer, a battery backup, and a power bank for a fraction of the cost. A generator matters for multi-day outages, medical equipment, or a well pump.
+No. Most outages last under 8 hours, and the critical items — food temperature, sump pump, phone charging — are covered by a thermometer, a battery backup, and a power bank for a fraction of the cost. A generator matters for multi-day outages, medical equipment, or a well pump.
 
 **What should you unplug during a power outage?**
 
-Sensitive electronics  computers, TVs, routers, and anything with a motor that could restart unexpectedly. Surges at restoration are common. Leave one lamp switched on so you know when power returns.
+Sensitive electronics — computers, TVs, routers, and anything with a motor that could restart unexpectedly. Surges at restoration are common. Leave one lamp switched on so you know when power returns.
 
 **How do you keep pipes from freezing without power?**
 
@@ -202,7 +202,7 @@ Either drain the system completely (shut the main, open all faucets, flush toile
 
 **Is it safe to use a space heater during an outage?**
 
-Only a unit rated for indoor use, on a hard surface, 3 feet from anything combustible, plugged directly into a wall outlet  never an extension cord. Keep a battery CO alarm in the room and never leave it running while you sleep in an adjacent room with the door closed.
+Only a unit rated for indoor use, on a hard surface, 3 feet from anything combustible, plugged directly into a wall outlet — never an extension cord. Keep a battery CO alarm in the room and never leave it running while you sleep in an adjacent room with the door closed.
 
 **How long can a sump pump run on battery backup?**
 
@@ -214,4 +214,4 @@ Confirm whether it is your house or the neighborhood (check the utility's outage
 
 **How do you keep insulin cold without power?**
 
-A cooler with ice packs holds 24 to 48 hours if it stays closed. Do not put insulin directly on ice  wrap it. A gas-powered refrigerator is not an option indoors; the practical answer is a cooler plus knowing the nearest facility with backup power.
+A cooler with ice packs holds 24 to 48 hours if it stays closed. Do not put insulin directly on ice — wrap it. A gas-powered refrigerator is not an option indoors; the practical answer is a cooler plus knowing the nearest facility with backup power.

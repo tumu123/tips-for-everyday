@@ -58,7 +58,7 @@ The most common unspoken guest anxiety is where to put a wet towel. Most hosts n
 - **A distinct color for guest towels.** It removes the ambiguity of which towel is whose, and it makes the laundry obvious after they leave.
 - **A small bin with a liner**, visible. Guests will not ask where to put a tissue.
 - **Spare toilet paper in plain sight**, not in a cabinet. Nobody wants to open your cabinets looking for paper.
-- **A shelf or a clear counter area** for their toiletry bag. This is the detail most guest bathrooms miss  there is nowhere to put their things down.
+- **A shelf or a clear counter area** for their toiletry bag. This is the detail most guest bathrooms miss — there is nowhere to put their things down.
 
 ## Step 3: Stock the five things guests forget
 
@@ -67,7 +67,7 @@ Guests forget the same items every time, and having them costs almost nothing:
 - **Toothbrush and toothpaste.** The single most appreciated item.
 - **Shampoo and conditioner**, in a size they can use without opening your family bottle.
 - **A hairdryer**, even if you think they brought one.
-- **Lotion**  hotel rooms include it for a reason, and dry winter air is universal.
+- **Lotion** — hotel rooms include it for a reason, and dry winter air is universal.
 - **A phone charger or a USB outlet by the bed.** This is now the most-missed item in any guest room.
 
 Put them on a tray, not scattered in a drawer. A tray reads as intentional; a drawer reads as leftovers.
@@ -77,7 +77,7 @@ Put them on a tray, not scattered in a drawer. A tray reads as intentional; a dr
 You cannot guess what temperature a guest wants, so give them the ability to change it.
 
 - **68 to 70�F** is a reasonable target, and older guests generally want it warmer than you do.
-- **An extra blanket at the foot of the bed**, folded, always  even in summer.
+- **An extra blanket at the foot of the bed**, folded, always — even in summer.
 - **A small space heater in winter** for a guest room over a garage or on a cold corner. Make sure it is rated for indoor use, plugged directly into a wall outlet, and has a tip-over switch.
 - **A fan in summer**, and tell them where it is.
 - **If the thermostat is locked or in another part of the house**, say so and offer to adjust it. Guests will not ask, and they will be cold all night instead.
@@ -89,7 +89,7 @@ Guests are polite about noise and will not mention it.
 - **Listen from the guest bed with the door closed** while someone walks around and opens cabinets. You will hear things you have stopped noticing.
 - **A white noise machine or a fan** masks kitchen and hallway sound and is the cheapest fix.
 - **Fix the rattling door** with a felt pad or a strike plate adjustment. A door that clicks all night is memorable in the wrong way.
-- **Warn them about the schedule**  the dog that barks at 6 a.m., the school run, the early riser. A warning converts an annoyance into a fact.
+- **Warn them about the schedule** — the dog that barks at 6 a.m., the school run, the early riser. A warning converts an annoyance into a fact.
 
 ## Step 6: Make the kitchen obviously available
 
@@ -108,7 +108,7 @@ A single printed card in the room removes twenty small questions:
 - **The bathroom**: which door, and whether the shower has a quirk.
 - **The kitchen**: where things are, and that they should help themselves.
 - **The front door**: how the lock works, and whether they should lock it behind them.
-- **Your phone number**, even though they have it  it saves searching.
+- **Your phone number**, even though they have it — it saves searching.
 - **Quiet hours and any house rules**, phrased as information rather than rules.
 
 Write it once, laminate it or put it in a small frame, and reuse it every visit.
@@ -119,7 +119,7 @@ This is the one area where asking beforehand is not optional.
 
 - **Ask about allergies** when you invite them, not when they arrive. Cat and dog dander persists in soft furnishings for weeks.
 - **If a guest is allergic**, keep the pet out of the guest room for at least a week before the visit, wash the bedding and curtains, and vacuum with a HEPA filter. A closed door during the visit is not enough on its own.
-- **Warn about the dog's behavior**  jumping, barking, nervous around strangers. Guests who know in advance can prepare; guests who do not spend the visit on edge.
+- **Warn about the dog's behavior** — jumping, barking, nervous around strangers. Guests who know in advance can prepare; guests who do not spend the visit on edge.
 - **Ask about food restrictions** at the same time. It is much easier to plan a meal than to improvise one at 7 p.m.
 
 ## Step 9: Give them a way out and a way in
@@ -128,7 +128,7 @@ Small logistical items that hosts forget:
 
 - **A key or a door code.** Guests who cannot come and go freely feel trapped, and they will not say so.
 - **Tell them your schedule**, especially when you will be out, so they are not waiting for permission to leave.
-- **Clear closet space with hangers**, and a place to put a suitcase  a luggage rack or a bench, not the floor.
+- **Clear closet space with hangers**, and a place to put a suitcase — a luggage rack or a bench, not the floor.
 - **A mirror in the room**, full length if possible. People dress in the room they sleep in.
 
 ## Step 10: Do a thirty-minute reset after they leave
@@ -137,7 +137,7 @@ The reset is what makes the next visit easy:
 
 - **Strip the bed and wash everything**, including the blanket and the pillow protectors. Damp towels in a hamper for a week smell.
 - **Restock the toiletry tray** and note what ran out.
-- **Check for forgotten items**  chargers are the most common, then glasses, then jewelry. Look under the bed and in the bathroom.
+- **Check for forgotten items** — chargers are the most common, then glasses, then jewelry. Look under the bed and in the bathroom.
 - **Empty the bin and wipe the surfaces.**
 - **Note one thing to fix** for next time, in a phone note: the lamp that flickers, the door that sticks, the towel hook that is too high.
 
@@ -173,7 +173,7 @@ Two towel hooks, a bin with a liner, spare toilet paper in plain sight, a shelf 
 
 **How do you make a guest room comfortable?**
 
-Fix the route to the bathroom first  night light, reachable lamp, clear floor. Then an extra blanket, a power outlet by the bed, a fan or white noise machine, and a printed card with the wifi password and house information. The bed matters less than any of these.
+Fix the route to the bathroom first — night light, reachable lamp, clear floor. Then an extra blanket, a power outlet by the bed, a fan or white noise machine, and a printed card with the wifi password and house information. The bed matters less than any of these.
 
 **Should you provide toiletries for guests?**
 
@@ -193,4 +193,4 @@ Strip and wash everything including blankets and pillow protectors, restock the 
 
 **Do you need a dedicated guest room?**
 
-No. A comfortable sofa bed with a night light, a hook for a towel, a shelf for their things, and access to a bathroom works for a short visit. What guests need is privacy at night and clarity about the bathroom  not a separate room with a door.
+No. A comfortable sofa bed with a night light, a hook for a towel, a shelf for their things, and access to a bathroom works for a short visit. What guests need is privacy at night and clarity about the bathroom — not a separate room with a door.

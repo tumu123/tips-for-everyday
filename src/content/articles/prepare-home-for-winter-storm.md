@@ -36,7 +36,7 @@ draft: false
 
 A winter storm is not one hazard. It is three, arriving at different times, and the prep for each is different.
 
-**Weight** comes first  snow accumulating on the roof, then rain falling on that snow, then a refreeze that turns it into a load the roof was never designed to carry. **Water** comes second, as ice dams push meltwater under the shingles and into the ceiling. **Cold** comes last and stays longest, in the form of a house that cannot hold heat and pipes that freeze when the furnace stops.
+**Weight** comes first — snow accumulating on the roof, then rain falling on that snow, then a refreeze that turns it into a load the roof was never designed to carry. **Water** comes second, as ice dams push meltwater under the shingles and into the ceiling. **Cold** comes last and stays longest, in the form of a house that cannot hold heat and pipes that freeze when the furnace stops.
 
 The household that prepares for "a storm" generally prepares for the wind and the roads. The damage, almost every time, comes from the other three.
 
@@ -46,7 +46,7 @@ Roof snow load design values in the United States run from about 20 pounds per s
 
 - 1 inch of water equivalent weighs **5.2 pounds per square foot**.
 - Fresh dry snow is roughly 15 to 20 inches per inch of water; wet snow is closer to 10 to 1.
-- So 20 inches of wet snow is about 2 inches of water, or roughly **10 psf**  a fraction of the design load.
+- So 20 inches of wet snow is about 2 inches of water, or roughly **10 psf** — a fraction of the design load.
 
 That is why most roofs do not collapse from a single storm. The failures come from accumulation: two feet of old snow that has settled and densified, plus a foot of wet snow on top, plus rain soaking through, plus drifts against a valley or a dormer that concentrate load three or four times higher than the flat-field average.
 
@@ -70,7 +70,7 @@ An ice dam is a symptom. The cause is warm air leaking from the house into the a
 The fix, in order of effectiveness:
 
 1. **Air-seal the ceiling plane.** Every recessed light, plumbing penetration, attic hatch, and top plate. This is the step that actually works, and it is the one people skip.
-2. **Insulate to the current code level** for your zone  typically R-49 to R-60 in cold climates. Insulation without air sealing does less than half the job.
+2. **Insulate to the current code level** for your zone — typically R-49 to R-60 in cold climates. Insulation without air sealing does less than half the job.
 3. **Ventilate the attic properly.** Soffit intake and ridge exhaust, both unobstructed. Blocked soffit vents are common after a re-insulation and they turn a cold roof warm.
 4. **Rake after every storm, as a backstop.** A roof rake with a 20-foot handle, used from the ground, removes the fuel before the dam forms.
 
@@ -78,7 +78,7 @@ Heat cable is the last resort. It works on a narrow band of roof and does nothin
 
 ## Step 4: Protect the pipes that will freeze first
 
-Pipes burst not at the ice, but between the ice plug and a closed faucet  pressure builds as the ice expands and the water has nowhere to go. That means the damage appears far from the freeze.
+Pipes burst not at the ice, but between the ice plug and a closed faucet — pressure builds as the ice expands and the water has nowhere to go. That means the damage appears far from the freeze.
 
 Rank your risk by location, not by guesswork:
 
@@ -106,11 +106,11 @@ Install a **battery-powered carbon monoxide alarm** on every level before the se
 
 Shopping lists are useless without a model of what fails. Build four groups instead:
 
-**Warmth.** Blankets, sleeping bags rated for the temperature, hats, and a way to heat one room rather than the house. Pick the room now  south-facing, plumbing on interior walls, closable with a door.
+**Warmth.** Blankets, sleeping bags rated for the temperature, hats, and a way to heat one room rather than the house. Pick the room now — south-facing, plumbing on interior walls, closable with a door.
 
 **Water.** One gallon per person per day for three days, plus one for pets. Two 5-gallon containers fill a bathtub in advance if a warning is issued.
 
-**Light and information.** Headlamps beat candles by a wide margin  open flame plus a storm plus a dark house is a fire. A battery or hand-crank radio, and a battery bank charged to full before the storm.
+**Light and information.** Headlamps beat candles by a wide margin — open flame plus a storm plus a dark house is a fire. A battery or hand-crank radio, and a battery bank charged to full before the storm.
 
 **Medicine and documents.** Seven days of prescriptions, a copy of insurance and ID in a waterproof bag, and cash in small bills. Card readers fail when the power and the network both do.
 
@@ -137,7 +137,7 @@ When a winter storm warning is issued 24 to 36 hours out, the order that matters
 
 1. Fill prescriptions and fuel the car.
 2. Charge every battery bank and device.
-3. Set the thermostat 2�F higher than normal  the house is a thermal battery.
+3. Set the thermostat 2�F higher than normal — the house is a thermal battery.
 4. Fill water containers and the bathtub if you are on a well.
 5. Move anything that can blow or freeze into the garage.
 6. Confirm the CO alarm works and the flashlights are where you think they are.
@@ -146,19 +146,19 @@ Do not spend the window shopping. Most of what you need, you already own; the st
 
 ## Step 10: Inspect in the right order afterward
 
-After the storm clears, check in this sequence  it follows the way damage actually propagates:
+After the storm clears, check in this sequence — it follows the way damage actually propagates:
 
-1. **Vents and flues**  clear them before running the furnace or water heater.
-2. **Ceilings and attic**  look for new stains, which mean an ice dam has already leaked.
-3. **Exterior walls and foundation**  check for drifting snow against the house and any new crack.
-4. **Roof from the ground**  missing shingles, sagging, or ice build-up at the eave.
-5. **Pipes**  open the cabinets, look for bulges, and check the meter for movement with everything off.
+1. **Vents and flues** — clear them before running the furnace or water heater.
+2. **Ceilings and attic** — look for new stains, which mean an ice dam has already leaked.
+3. **Exterior walls and foundation** — check for drifting snow against the house and any new crack.
+4. **Roof from the ground** — missing shingles, sagging, or ice build-up at the eave.
+5. **Pipes** — open the cabinets, look for bulges, and check the meter for movement with everything off.
 
 Photograph anything you find before you fix it. Storm claims go much more smoothly with dated photos taken the same day.
 
 ## Why This Works
 
-The prep is organized around the three mechanisms that actually damage houses in winter  load, water, and heat loss  rather than around the weather forecast. Each step interrupts a specific chain: air sealing stops the melt that makes the dam, raking removes the load before it compounds, and the shutoff plus a 55�F thermostat bounds the damage a freeze can do.
+The prep is organized around the three mechanisms that actually damage houses in winter — load, water, and heat loss — rather than around the weather forecast. Each step interrupts a specific chain: air sealing stops the melt that makes the dam, raking removes the load before it compounds, and the shutoff plus a 55�F thermostat bounds the damage a freeze can do.
 
 The sequencing matters as much as the content. Everything that requires a ladder or dry conditions is done in fall; everything that requires judgment happens in the warning window; everything that requires inspection happens after the vents are clear. That order is what keeps a storm from turning into a repair.
 
@@ -192,7 +192,7 @@ Pipes in exterior walls can begin freezing when outdoor temperatures stay below 
 
 **Should I turn off the water if I lose heat?**
 
-If you are leaving or the house will drop below freezing, yes  shut off the main and drain the lines by opening the lowest faucet and every fixture. If you are staying and have any heat source, keep a pencil-thin stream running at the farthest faucet instead, which relieves pressure if ice forms.
+If you are leaving or the house will drop below freezing, yes — shut off the main and drain the lines by opening the lowest faucet and every fixture. If you are staying and have any heat source, keep a pencil-thin stream running at the farthest faucet instead, which relieves pressure if ice forms.
 
 **How do I keep a room warm without power?**
 
@@ -204,8 +204,8 @@ Only outdoors, at least 20 feet from doors, windows, and vents, with the exhaust
 
 **How long does food last in a power outage during winter?**
 
-A closed refrigerator holds temperature for about 4 hours; a full freezer for 48 hours, a half-full one for 24. In winter you can use the outdoors as a freezer for a short period, but only for sealed items and only while the temperature stays below 40�F  and never in sunlight or where animals can reach it.
+A closed refrigerator holds temperature for about 4 hours; a full freezer for 48 hours, a half-full one for 24. In winter you can use the outdoors as a freezer for a short period, but only for sealed items and only while the temperature stays below 40�F — and never in sunlight or where animals can reach it.
 
 **What should be cleared first after a snowstorm?**
 
-Vents and flues  furnace, water heater, dryer  then one door and a path out, then the gas meter. Driveway and walkways come after. A buried furnace vent forces exhaust back into the house, which is the fastest way for a snowstorm to become a poisoning.
+Vents and flues — furnace, water heater, dryer — then one door and a path out, then the gas meter. Driveway and walkways come after. A buried furnace vent forces exhaust back into the house, which is the fastest way for a snowstorm to become a poisoning.

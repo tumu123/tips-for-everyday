@@ -34,7 +34,7 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [stripFaqSection],
     rehypePlugins: [
-      [rehypeAdSlots, { client: SITE.adsenseClient, slot: AD_SLOTS.articleInline }],
+      [rehypeAdSlots, { client: SITE.adsenseClient, slots: AD_SLOTS }],
     ],
   },
 

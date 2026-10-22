@@ -37,7 +37,7 @@ The arithmetic of a clogged gutter is more dramatic than it sounds. One inch of 
 
 From there the damage is quiet and cumulative: saturated soil against the basement wall, water wicking into the rim joist, mulch washing away, a settled walkway, and eventually a wet basement that nobody can explain because the basement "never used to leak."
 
-The work itself is not complicated. The risk is the ladder, and the timing is what most people get wrong  cleaning gutters in early October means doing it again in November.
+The work itself is not complicated. The risk is the ladder, and the timing is what most people get wrong — cleaning gutters in early October means doing it again in November.
 
 ## Step 1: Pick the right week, not the right weekend
 
@@ -45,7 +45,7 @@ Gutters should be cleaned **after most of the leaves have fallen but before the 
 
 Two additional passes are worth it:
 
-- **Late spring**, after seed pods and blossoms drop  maple helicopters and oak catkins clog a downspout as effectively as leaves.
+- **Late spring**, after seed pods and blossoms drop — maple helicopters and oak catkins clog a downspout as effectively as leaves.
 - **After any major wind event** that strips a tree, if you can see debris on the roof.
 
 Cleaning before the leaves are down is wasted work. Cleaning after the first freeze is unpleasant and, if there is ice in the gutter, dangerous.
@@ -65,7 +65,7 @@ Additional specifics for gutters:
 - **Set the feet on firm ground**, not on mulch or wet soil. A plywood pad under the feet on soft ground is a two-minute precaution.
 - **Wear gloves.** Gutters contain sharp metal edges, screws, and occasionally a wasp nest.
 
-If your roof is more than one story, or the pitch is steep, or the ground is uneven  hire it out. The $150 to $300 is cheaper than a fall.
+If your roof is more than one story, or the pitch is steep, or the ground is uneven — hire it out. The $150 to $300 is cheaper than a fall.
 
 ## Step 3: Scoop dry, then flush
 
@@ -92,7 +92,7 @@ A clean gutter that dumps water at the foundation has solved nothing. This is th
 Gutter guards are sold as a way to never do this again. The honest version:
 
 - **Stainless micro-mesh** works reasonably well and is the only type worth considering in a house with many trees. It still requires an annual check, and fine debris forms a mat on top that has to be brushed off.
-- **Reverse-curve (surface tension) guards** work for large leaves and fail for the small stuff  pine needles and shingle grit pass right through and pack the gutter.
+- **Reverse-curve (surface tension) guards** work for large leaves and fail for the small stuff — pine needles and shingle grit pass right through and pack the gutter.
 - **Foam inserts** trap debris inside the foam and are the worst of the options.
 - **Screens and perforated covers** reduce large debris and let grit through, which then accumulates.
 
@@ -136,13 +136,13 @@ The job ends with the equipment, not the gutter:
 - **Rinse the gutter scoop and hose nozzle** before storing; grit in a nozzle seizes it.
 - **Hang the ladder flat** on wall hooks, not leaning in a garage where it can fall.
 - **Drain and coil the hose**, and store it indoors if you are in a freezing climate.
-- **Service the mower** after leaf mulching  leaves load the deck and dull the blade faster than grass does.
+- **Service the mower** after leaf mulching — leaves load the deck and dull the blade faster than grass does.
 
 ## Why This Works
 
 The sequence follows water. Clearing the gutter is pointless if the downspout dumps at the foundation, and extending the downspout is pointless if the gutter will not drain. Doing them in order means one pass instead of three.
 
-The timing decision does the rest. One well-chosen week in late fall, after the leaves are down and before the freeze, replaces a season of repeated effort  and the ladder work happens in the safest conditions of the year.
+The timing decision does the rest. One well-chosen week in late fall, after the leaves are down and before the freeze, replaces a season of repeated effort — and the ladder work happens in the safest conditions of the year.
 
 ## What NOT to Do
 
@@ -162,7 +162,7 @@ The timing decision does the rest. One well-chosen week in late fall, after the 
 
 **When should gutters be cleaned in the fall?**
 
-After most leaves have fallen but before the first hard freeze  usually late October to mid-November in temperate climates. Cleaning earlier means repeating the job. Add a late-spring pass for seed pods and catkins, and one after any major wind event.
+After most leaves have fallen but before the first hard freeze — usually late October to mid-November in temperate climates. Cleaning earlier means repeating the job. Add a late-spring pass for seed pods and catkins, and one after any major wind event.
 
 **How often should gutters be cleaned?**
 
@@ -174,7 +174,7 @@ Stainless micro-mesh is worth it in a house with heavy tree cover, and it still 
 
 **What is the best way to deal with fall leaves?**
 
-Mulch them into the lawn with a mower, no more than 6 inches deep and in two passes. Layer shredded leaves 2 to 3 inches deep in perennial beds. Compost the rest, and use paper bags if your municipality collects  plastic bags of leaves go to landfill.
+Mulch them into the lawn with a mower, no more than 6 inches deep and in two passes. Layer shredded leaves 2 to 3 inches deep in perennial beds. Compost the rest, and use paper bags if your municipality collects — plastic bags of leaves go to landfill.
 
 **How far should downspouts discharge from the house?**
 
@@ -182,7 +182,7 @@ Four to six feet, angled away from the foundation, ending on a splash block or a
 
 **Is it safe to clean gutters yourself?**
 
-On a single story with firm, level ground and a proper ladder setup  one foot out per four feet up, three points of contact, never the top two rungs. Hire it out for two stories, steep roofs, uneven ground, or if working near power lines.
+On a single story with firm, level ground and a proper ladder setup — one foot out per four feet up, three points of contact, never the top two rungs. Hire it out for two stories, steep roofs, uneven ground, or if working near power lines.
 
 **What do I do if the downspout is clogged?**
 

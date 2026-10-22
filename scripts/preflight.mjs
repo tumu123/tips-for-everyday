@@ -312,8 +312,12 @@ if (!baseRule) {
     ? (fail('.ad-slot 仍为 display:flex —— <ins> 宽度会塌陷为 0，广告不会请求 ✗'), '')
     : '.ad-slot 为 block 布局（<ins> 可撑满宽度）✓');
 }
-if (/min-height\s*:\s*0\b/.test(adCss)) {
-  log('检测到 min-height:0 声明，若为 .ad-slot 的规则会压掉占位高度 ⚠');
+// 只查 .ad-slot 自身规则。
+// .ad-slot--feed 故意写 min-height:0 —— 信息流单元高度完全由广告决定，
+// 预留高度会在网格里留一个空白格；那不是缺陷，不该报。
+const slotRootRules = [...adCss.matchAll(/\.ad-slot\s*\{([^}]*)\}/g)];
+if (slotRootRules.some((m) => /min-height\s*:\s*0\b/.test(m[1]))) {
+  log('检测到 .ad-slot 自身 min-height:0，会压掉占位高度 ⚠');
 }
 // 可持续主张：含广告位的页面数量
 let pagesWithSlot = 0;
@@ -350,6 +354,39 @@ log(badAdPos.length === 0
   ? '无广告位出现在正文之前 ✓'
   : fail(`${badAdPos.length} 个页面广告位早于正文：${badAdPos.slice(0, 3).join(', ')} ✗`));
 
+// 同页广告单元 ID 必须互不相同。
+// 曾用同一个单元（7304313863）覆盖正文全部 4 个位置，实测被 AdSense 去重：
+// 同页 4 个位里 2 个始终拿不到 data-ad-status，等于白放。硬门禁。
+const dupSlotPages = [];
+for (const f of files) {
+  const html = fs.readFileSync(f, 'utf8');
+  const ids = [...html.matchAll(/<ins[^>]*data-ad-slot="(\d+)"/g)].map((m) => m[1]);
+  if (ids.length < 2) continue;
+  const seen = new Set();
+  const dup = new Set();
+  for (const id of ids) {
+    if (seen.has(id)) dup.add(id);
+    seen.add(id);
+  }
+  if (dup.size) dupSlotPages.push(`${path.relative('dist', f)} (${[...dup].join(',')})`);
+}
+log(dupSlotPages.length === 0
+  ? '同页广告单元 ID 互不重复 ✓'
+  : fail(`${dupSlotPages.length} 个页面同页复用广告单元：${dupSlotPages.slice(0, 3).join('；')} ✗`));
+
+// 信息流单元必须带后台生成的 layout key。
+// 缺这一项会退化成普通响应式横幅，被栅格拉宽后撑坏卡片排布。
+const feedMissingKey = [];
+for (const f of files) {
+  const html = fs.readFileSync(f, 'utf8');
+  for (const m of html.matchAll(/<ins[^>]*data-ad-layout="in-feed"[^>]*>/g)) {
+    if (!/data-ad-layout-key="[^"]+"/.test(m[0])) feedMissingKey.push(path.relative('dist', f));
+  }
+}
+log(feedMissingKey.length === 0
+  ? '信息流单元均带 layout key ✓'
+  : fail(`${feedMissingKey.length} 处信息流单元缺 layout key：${feedMissingKey.slice(0, 3).join(', ')} ✗`));
+
 // ── 16. 正文残留与 FAQ 唯一性 ──
 log('');
 log('═══ 预检 16：正文残留与 FAQ 唯一性 ═══');
@@ -371,6 +408,20 @@ for (const f of mds) {
 log(residueFiles.length === 0
   ? '正文无 JSON-LD / Meta information 残留 ✓'
   : (fail(`${residueFiles.length} 篇正文含工作稿残留 ✗ ${residueFiles.slice(0, 6).join(', ')}${residueFiles.length > 6 ? ' …' : ''}`), ''));
+
+// 截断的 U+20xx 标点：U+2014「—」被写成 U+0014（C0 控制字符），
+// 页面上渲染成豆腐块。第二轮批次 6 的 10 篇曾全中 157 处，
+// 从上线起一直是坏的，直到人工看截图才发现。这里守住不再复发。
+// 制表符与换行不算异常，只查真正的控制字符。
+const ctrlRe = /[\u0000-\u0008\u000B\u000C\u000E-\u001F]/;
+const ctrlFiles = [];
+for (const f of mds) {
+  const t = fs.readFileSync(path.join(adir, f), 'utf8');
+  if (ctrlRe.test(t)) ctrlFiles.push(f);
+}
+log(ctrlFiles.length === 0
+  ? '正文无截断的标点 / 控制字符 ✓'
+  : (fail(`${ctrlFiles.length} 篇含控制字符（破折号等被截断）：${ctrlFiles.slice(0, 4).join(', ')} — 跑 scripts/fix-ctrl-chars.mjs 修复 ✗`), ''));
 
 // 每页 FAQ 只能出现一次（正文已由 remark 插件剥离，只剩组件区块）
 let faqDupPages = 0;

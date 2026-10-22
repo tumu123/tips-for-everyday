@@ -40,16 +40,16 @@ The good news is that the failure modes are well documented and the fixes are ch
 
 ## Step 1: Know what actually burns in a holiday fire
 
-A fresh-cut tree is difficult to ignite  the sap is still water-rich. A tree that has been indoors for three weeks with a dry stand is a different material entirely, and the difference is measurable: needles that shatter when bent, a trunk that has stopped absorbing water, and branches that feel light.
+A fresh-cut tree is difficult to ignite — the sap is still water-rich. A tree that has been indoors for three weeks with a dry stand is a different material entirely, and the difference is measurable: needles that shatter when bent, a trunk that has stopped absorbing water, and branches that feel light.
 
-Once a dry tree ignites, the fire spreads through the needles in seconds and the room reaches flashover  everything combustible igniting at once  in under a minute. That is why the tree fire videos from fire departments look unreal, and why the entire safety strategy is about **keeping the tree from drying out and keeping ignition sources away from it.**
+Once a dry tree ignites, the fire spreads through the needles in seconds and the room reaches flashover — everything combustible igniting at once — in under a minute. That is why the tree fire videos from fire departments look unreal, and why the entire safety strategy is about **keeping the tree from drying out and keeping ignition sources away from it.**
 
 ## Step 2: Choose and site the tree with the fire in mind
 
-- **Buy a tree that is still fresh.** Run a branch through your hand: needles should bend, not shed. Tap the trunk on the ground  a shower of needles means it has been cut for weeks.
+- **Buy a tree that is still fresh.** Run a branch through your hand: needles should bend, not shed. Tap the trunk on the ground — a shower of needles means it has been cut for weeks.
 - **Cut 1 to 2 inches off the trunk** before putting it in the stand. A sealed trunk cannot absorb water, and this is the single most common reason a tree dries out early.
 - **Keep the stand full.** A cut tree can take up to a gallon of water a day in the first week. Check it morning and night for the first three days.
-- **Site it at least 3 feet from any heat source**  fireplace, radiator, space heater, heating vent, and television. Heat dries the needles and creates the ignition path.
+- **Site it at least 3 feet from any heat source** — fireplace, radiator, space heater, heating vent, and television. Heat dries the needles and creates the ignition path.
 - **Do not block an exit.** A tree between the sofa and the only door is a problem in a fire and a problem every day.
 - **Anchor it.** A tree that falls over is a broken ornament problem and, if it lands on a heater, a fire problem. A fishing line from the trunk to a wall hook is enough.
 
@@ -73,7 +73,7 @@ LEDs run cool enough to touch and use a fraction of the power of incandescent. T
 For any string, regardless of type:
 
 - **Look for a UL or ETL listing mark** on the plug or the tag. An unlisted string from a discount site is the single highest-risk item in holiday decorating.
-- **Follow the manufacturer's end-to-end limit.** For incandescent strings that is often three strands; exceeding it overheats the wire in the first cord. LED strings usually allow far more, but the number is printed on the tag  read it rather than guessing.
+- **Follow the manufacturer's end-to-end limit.** For incandescent strings that is often three strands; exceeding it overheats the wire in the first cord. LED strings usually allow far more, but the number is printed on the tag — read it rather than guessing.
 - **Inspect every string before it goes up.** Look for cracked sockets, frayed insulation, and missing bulbs. A missing bulb in a series string breaks the circuit; a damaged socket is a shock and fire risk.
 - **Never use indoor-rated lights outdoors.** Outdoor strings are rated for wet locations and cold; indoor ones are not, and the failure is not immediate, which makes it worse.
 
@@ -84,7 +84,7 @@ The lights are usually fine. The cord feeding them is often not.
 - **Match the gauge to the load.** 16 AWG for light loads under 25 feet, 14 AWG for a 15-amp circuit run, 12 AWG for anything heavier. A thin cord on a long run heats up.
 - **Never daisy-chain** two extension cords into one another. Every connection is resistance, and resistance is heat.
 - **Never run a cord under a rug, through a doorway, or pinched in a window.** All three hide damage and trap heat.
-- **Outdoors: use a GFCI-protected outlet**, and keep every connection off the ground  a cord end sitting in snow or a puddle is a shock waiting to happen.
+- **Outdoors: use a GFCI-protected outlet**, and keep every connection off the ground — a cord end sitting in snow or a puddle is a shock waiting to happen.
 - **Unplug by the plug**, never by the cord, and unplug the tree before bed and before leaving the house.
 
 ## Step 6: Treat candles as an open flame, because they are
@@ -106,7 +106,7 @@ A space heater is the appliance most likely to be involved in a fatal home fire,
 - **Plug directly into a wall outlet.** Never an extension cord, never a power strip. A 1,500-watt heater draws 12.5 amps, which is most of a 15-amp circuit.
 - **One heater per circuit.** Two heaters on the same circuit, or a heater sharing with a microwave, trips breakers at best.
 - **Look for a tip-over switch and an overheat shutoff**, and buy a unit with a thermostat rather than a simple on-off.
-- **Never use a fuel-burning heater indoors without ventilation** and a carbon monoxide alarm. Kerosene and propane units produce CO, and the symptoms  headache, nausea, drowsiness  are easy to mistake for a cold.
+- **Never use a fuel-burning heater indoors without ventilation** and a carbon monoxide alarm. Kerosene and propane units produce CO, and the symptoms — headache, nausea, drowsiness — are easy to mistake for a cold.
 
 ## Step 8: Check the alarms, and check them again
 
@@ -134,7 +134,7 @@ If a fire starts, the decisions are made in under two minutes:
 - **Get everyone out first**, then call. Do not stop for extinguishers, pets, or belongings.
 - **Close doors behind you** as you leave. A closed door slows a fire more than most people believe.
 - **If the tree is burning, do not fight it.** A dry tree fire grows faster than an extinguisher can handle; leave.
-- **Agree on a meeting place** outside, and practice it once  the same walk-through you would do for a fire drill.
+- **Agree on a meeting place** outside, and practice it once — the same walk-through you would do for a fire drill.
 - **Keep the tree between the room and the exit clear of clutter**, so the path is usable in the dark.
 
 ## Why This Works
@@ -149,7 +149,7 @@ Together they keep the ignition sources and the fuel separated, which is the onl
 |---|---|---|
 | Buying unlisted light strings online | No safety certification; the commonest cause of decoration fires | UL or ETL mark on the tag |
 | Exceeding the end-to-end strand limit | Overheats the wire in the first cord | Read the tag; usually 3 for incandescent |
-| Not cutting the trunk before setting the tree | Sealed trunk cannot absorb water; tree dries in days | Cut 12 inches off |
+| Not cutting the trunk before setting the tree | Sealed trunk cannot absorb water; tree dries in days | Cut 1–2 inches off |
 | Letting the stand go dry for a day | Sap seals the cut and the tree stops drinking | Check twice daily the first week |
 | Keeping a dry tree past New Year | Needles flash over the room in under a minute | Needle test weekly; remove when brittle |
 | Candles near curtains or garlands | The classic decoration fire | 12 inches clear, nothing above |
@@ -170,7 +170,7 @@ Yes. LEDs generate very little heat at the bulb, use roughly a tenth of the powe
 
 **How many strands of Christmas lights can you connect together?**
 
-Follow the number printed on the tag  commonly three for incandescent strings and considerably more for LEDs. The limit exists because the wire in the first cord carries the current for all the strands after it, and exceeding it overheats that wire.
+Follow the number printed on the tag — commonly three for incandescent strings and considerably more for LEDs. The limit exists because the wire in the first cord carries the current for all the strands after it, and exceeding it overheats that wire.
 
 **How far should a Christmas tree be from a heater or fireplace?**
 
@@ -186,7 +186,7 @@ No. Unplug the tree and any decorative lighting before bed and before leaving th
 
 **Do I need a carbon monoxide alarm for holiday decorations?**
 
-You need one if the house has a fireplace, any gas appliance, an attached garage, or uses a fuel-burning heater. CO is colorless and its early symptoms  headache, nausea, fatigue  are easy to dismiss. A battery-powered alarm on each level is inexpensive.
+You need one if the house has a fireplace, any gas appliance, an attached garage, or uses a fuel-burning heater. CO is colorless and its early symptoms — headache, nausea, fatigue — are easy to dismiss. A battery-powered alarm on each level is inexpensive.
 
 **What should I do if a Christmas tree catches fire?**
 

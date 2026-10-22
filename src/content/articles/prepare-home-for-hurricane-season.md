@@ -35,7 +35,7 @@ draft: false
 
 Hurricanes are described as wind events and remembered as water events. The gap between those two facts is where most of the damage happens.
 
-Wind opens a house. Once an opening fails  a window, a garage door, a sliding door  the wind pressurizes the interior, and the pressure lifts the roof from underneath. A house that loses its roof is usually a house that lost a window first. Water, meanwhile, arrives three ways: rain driven through failed openings, storm surge pushing in from the coast, and freshwater flooding from rainfall hundreds of miles inland. Surge and flooding cause the majority of deaths, and none of the wind fixes address them.
+Wind opens a house. Once an opening fails — a window, a garage door, a sliding door — the wind pressurizes the interior, and the pressure lifts the roof from underneath. A house that loses its roof is usually a house that lost a window first. Water, meanwhile, arrives three ways: rain driven through failed openings, storm surge pushing in from the coast, and freshwater flooding from rainfall hundreds of miles inland. Surge and flooding cause the majority of deaths, and none of the wind fixes address them.
 
 So the prep divides cleanly: **seal the envelope for wind, understand your zone for water, and decide evacuation on elevation rather than on how you feel about the forecast.**
 
@@ -54,7 +54,7 @@ One more number: **your home's elevation relative to the nearest water.** If you
 
 The openings are ranked by area, and the biggest one is the one people forget.
 
-1. **Garage door.** A standard 16-foot double garage door is the largest opening in the house and fails at wind speeds well below what the windows handle. A bracing kit  vertical posts plus horizontal beams  is $200 to $400 and installs in an hour.
+1. **Garage door.** A standard 16-foot double garage door is the largest opening in the house and fails at wind speeds well below what the windows handle. A bracing kit — vertical posts plus horizontal beams — is $200 to $400 and installs in an hour.
 2. **Windows and glass doors.** Commercial roll-down or accordion shutters are the best option if you are staying long term. Rated plywood, 5/8 inch, cut and labeled per opening with anchors pre-installed, is the practical alternative.
 3. **Entry doors.** Most are rated for pressure but not for impact. Add a deadbolt that engages 1 inch into the frame and check that the hinges are through-bolted.
 4. **Sliding glass doors.** The track is the weak point. A cut-to-length dowel or a manufactured brace in the inner track stops the panel from being lifted out.
@@ -65,7 +65,7 @@ Cut and label the plywood **before** the season, in dry weather, and store it wi
 
 This is the structural difference between a house that loses shingles and a house that loses its roof. In older homes, roof trusses are often attached with a few nails rather than hurricane straps.
 
-You can inspect this from the attic  look at where each truss meets the top plate. If you see nails only, a strap retrofit (simpson-style connectors, installed from inside the attic) is a real improvement and does not require re-roofing.
+You can inspect this from the attic — look at where each truss meets the top plate. If you see nails only, a strap retrofit (simpson-style connectors, installed from inside the attic) is a real improvement and does not require re-roofing.
 
 Three cheaper roof items also matter:
 
@@ -79,7 +79,7 @@ Anything outside becomes airborne at 60 to 80 mph, and a lawn chair does as much
 
 Two weeks before a storm is forecast, not two days:
 
-- **Furniture:** bring in or strap down. Straps rated for wind, anchored to a wall or ground anchor  not bungee cords.
+- **Furniture:** bring in or strap down. Straps rated for wind, anchored to a wall or ground anchor — not bungee cords.
 - **Grills and propane tanks:** inside the garage, valve closed, tank secured upright.
 - **Trash bins:** empty, inside, or strapped. A full bin is a sail.
 - **Garden pots:** group them against a wall and lay them on their sides.
@@ -90,7 +90,7 @@ Two weeks before a storm is forecast, not two days:
 
 In a surge or flood zone, the goal shifts from keeping water out to limiting what it destroys and being able to leave.
 
-- **Know what is at floor level.** Move documents, electronics, photos, and medications above the expected water line  3 feet is a reasonable default for a single-story home.
+- **Know what is at floor level.** Move documents, electronics, photos, and medications above the expected water line — 3 feet is a reasonable default for a single-story home.
 - **Elevate the utilities** if you are in a repetitively flooded area: water heater, furnace, and electrical panel above base flood elevation is code in many jurisdictions now, and it is the difference between a repair and a rebuild.
 - **Backflow valve** on the sewer line, if your area floods. Sewage backup is the most unpleasant and least prepared-for part of flooding.
 - **Sandbags buy hours, not days.** They are useful for a 6-inch sheet of water at a door, and useless against 3 feet of surge.
@@ -124,9 +124,9 @@ A workable rule set:
 - **Evacuate for any mandatory order, immediately.** Orders are issued on surge modeling, not on wind speed, and they are the single most reliable predictor of where people die.
 - **Leave voluntarily if you are in a surge zone and the storm is forecast at Category 2 or above**, even without an order, if you have somewhere to go and a way to get there.
 - **Leave if you depend on electricity for medical reasons**, regardless of category.
-- **Stay only if** you are outside surge zones, your house is rated, you have supplies for seven days, and you can be genuinely self-sufficient  including no expectation of emergency services.
+- **Stay only if** you are outside surge zones, your house is rated, you have supplies for seven days, and you can be genuinely self-sufficient — including no expectation of emergency services.
 
-Write the plan down: where you go, which route, who drives, what comes with you, and who you call when you arrive. Include the pets  shelters often do not accept them, and that detail derails more evacuations than any other.
+Write the plan down: where you go, which route, who drives, what comes with you, and who you call when you arrive. Include the pets — shelters often do not accept them, and that detail derails more evacuations than any other.
 
 ## Step 9: During the storm, do the counterintuitive things
 
@@ -169,7 +169,7 @@ The pre-storm photo set and the document folder are the part that pays off after
 
 **What is the most important thing to do before a hurricane?**
 
-Secure the largest opening first  the garage door  then the windows, and decide your evacuation trigger based on your flood zone rather than the wind category. Structural failure almost always begins at an opening, and deaths overwhelmingly come from water, not wind.
+Secure the largest opening first — the garage door — then the windows, and decide your evacuation trigger based on your flood zone rather than the wind category. Structural failure almost always begins at an opening, and deaths overwhelmingly come from water, not wind.
 
 **How do you protect windows from a hurricane?**
 

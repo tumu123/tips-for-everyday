@@ -8,21 +8,48 @@
  * 因此这里不再为每个单元单独输出 <script>，避免同页重复 push。
  *
  * 广告单元 ID 在 src/utils/site-config.ts 的 AD_SLOTS 中维护。
+ *
+ * format 决定 ins 属性组合，必须与后台建的单元类型一致，否则会退化：
+ *   auto       展示广告 · 响应式        data-ad-format="auto" + 全宽响应式
+ *   horizontal 展示广告 · 横向         同上，CSS 预留 100px（列表页顶部）
+ *   in-article 文章内嵌广告            fluid + in-article，不带全宽响应式
+ *   feed       信息流广告              fluid + in-feed + layoutKey，不带全宽响应式
+ *   fixed      展示广告 · 固定尺寸     不写 data-ad-format，按 width/height 定死
  */
 import { SITE } from '../utils/site-config';
 
 interface Props {
   slot?: string;
-  format?: 'auto' | 'horizontal' | 'vertical' | 'rectangle';
+  format?: 'auto' | 'horizontal' | 'in-article' | 'feed' | 'fixed';
+  /** 信息流单元必填：后台生成的 layout key，决定列数与图文排布 */
+  layoutKey?: string;
+  /** format="fixed" 时的像素尺寸 */
+  width?: number;
+  height?: number;
   label?: string;
 }
 
-const { slot = '', format = 'auto', label = 'Advertisement' } = Astro.props;
+const {
+  slot = '',
+  format = 'auto',
+  layoutKey = '',
+  width = 300,
+  height = 600,
+  label = 'Advertisement',
+} = Astro.props;
 
 // 发布商 ID 与广告单元 ID 必须都是真实值
 const hasClient = Boolean(SITE.adsenseClient) && !SITE.adsenseClient.includes('XXXX');
 const hasSlot = Boolean(slot) && !/^(\d)\1+$/.test(slot) && slot.length >= 6;
-const isConfigured = hasClient && hasSlot;
+// 信息流单元缺 layout key 就不能渲染：否则会退化成普通响应式，撑坏卡片栅格
+const hasLayoutKey = format !== 'feed' || Boolean(layoutKey);
+const isConfigured = hasClient && hasSlot && hasLayoutKey;
+
+const isFluid = format === 'in-article' || format === 'feed';
+const isFixed = format === 'fixed';
+// 横向格式与全宽响应式不能混用：固定横幅要的是贴边 100px 高，不是自适应大块
+const isHorizontal = format === 'horizontal';
+const adFormat = isFixed ? undefined : isFluid ? 'fluid' : isHorizontal ? 'horizontal' : 'auto';
 ---
 
 {
@@ -32,11 +59,13 @@ const isConfigured = hasClient && hasSlot;
       <span class="ad-slot__label">{label}</span>
       <ins
         class="adsbygoogle"
-        style="display:block"
+        style={isFixed ? `display:inline-block;width:${width}px;height:${height}px` : 'display:block'}
         data-ad-client={SITE.adsenseClient}
         data-ad-slot={slot}
-        data-ad-format={format}
-        data-full-width-responsive="true"
+        data-ad-format={adFormat}
+        data-ad-layout={format === 'in-article' ? 'in-article' : format === 'feed' ? 'in-feed' : undefined}
+        data-ad-layout-key={format === 'feed' ? layoutKey : undefined}
+        data-full-width-responsive={isFluid || isFixed || isHorizontal ? undefined : 'true'}
       />
     </div>
   )

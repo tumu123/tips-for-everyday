@@ -6,7 +6,7 @@
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumb from '../components/Breadcrumb.astro';
 import AdSlot from '../components/AdSlot.astro';
-import { SITE, AD_SLOTS, subcategoryToSlug, SUBCATEGORY_DESCRIPTIONS } from '../utils/site-config';
+import { SITE, AD_SLOTS, AD_LAYOUT_KEYS, subcategoryToSlug, SUBCATEGORY_DESCRIPTIONS } from '../utils/site-config';
 import { getArticleUrl, type Article } from '../utils/articles';
 
 interface Props {
@@ -108,8 +108,12 @@ const headerDescription = activeSubName ? pageDescription : category.description
     <AdSlot slot={AD_SLOTS.categoryTop} format="horizontal" />
 
     {/*
-      列表第 5 条之后插一个广告位。拆成两个 grid 而不是把广告塞进 grid 里：
-      广告作为 grid 子项会占一格，把卡片排布挤出空洞；拆开后两段各自成行。
+      列表第 5 条之后插一个信息流广告（⑥）。
+      这里不拆 grid：in-feed 单元本身就是一张卡片，占一格才是它的正常形态。
+      早先用横向横幅时才必须拆成两段——横幅作为 grid 子项会被拉宽成扁条，
+      挤出空洞；换成 in-feed 后拆开反而错。
+      容器 .ad-slot--feed 是零装饰的（不加边框 / 背景 / padding），
+      否则会和广告自带卡片外观叠成双框。
     */}
     <div class="card-grid">
       {
@@ -130,11 +134,11 @@ const headerDescription = activeSubName ? pageDescription : category.description
           </article>
         ))
       }
-    </div>
 
-    {visible.length > 5 && <AdSlot slot={AD_SLOTS.categoryTop} format="horizontal" />}
+      {visible.length > 5 && (
+        <AdSlot slot={AD_SLOTS.listFeed} format="feed" layoutKey={AD_LAYOUT_KEYS.listFeed} />
+      )}
 
-    <div class="card-grid">
       {
         visible.slice(5).map((article) => (
           <article class="card">

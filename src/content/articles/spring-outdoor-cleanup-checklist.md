@@ -46,8 +46,8 @@ Walk the perimeter slowly, in the rain if you can, and look for where winter's w
 
 What to look for:
 
-- **Stained or eroded mulch** in a line below a downspout  that is the discharge point, and it is too close to the wall.
-- **Soil piled against the siding or the rim joist**  a common result of winter plowing and bed edging.
+- **Stained or eroded mulch** in a line below a downspout — that is the discharge point, and it is too close to the wall.
+- **Soil piled against the siding or the rim joist** — a common result of winter plowing and bed edging.
 - **Standing water marks or a silt line** on the foundation, which shows the high-water mark from snowmelt.
 - **Ruts in the lawn** leading away from a low spot, which traces the actual drainage path.
 - **Ice damage**: spalled concrete, cracked pavers, a heaved walkway, a bent gutter section.
@@ -67,13 +67,13 @@ Nothing else in the yard matters if the roof is still discharging at the foundat
 
 Downspout extensions buy you a few feet. Grading buys you the house.
 
-The standard is **6 inches of fall over the first 10 feet** away from the foundation  roughly a 5% slope. Most settled yards have less, and some have negative slope where beds were built up against the wall.
+The standard is **6 inches of fall over the first 10 feet** away from the foundation — roughly a 5% slope. Most settled yards have less, and some have negative slope where beds were built up against the wall.
 
 The workable corrections, cheapest first:
 
 - **Add soil to create the slope.** Use a mix that drains, not pure topsoil, and keep the finished grade at least 6 inches below the siding so the wall can dry.
 - **Re-cut the bed edge** so mulch sits below the siding rather than against it.
-- **A shallow swale**  a broad, gently sloped depression  can redirect surface water around the house rather than through the basement.
+- **A shallow swale** — a broad, gently sloped depression — can redirect surface water around the house rather than through the basement.
 - **Never fill against the foundation above the sill plate.** Raising grade is the fastest way to rot a rim joist.
 
 If water still enters the basement after grading, the next step is a French drain or a sump, not more soil.
@@ -88,7 +88,7 @@ You do not need to get on the roof. Binoculars from the lawn plus a walk around 
 - **Siding and trim:** any spot where paint is bubbling or the material feels soft when pressed.
 - **Foundation:** new cracks wider than 1/8 inch, or a stair-step crack at a corner.
 
-This is also the moment to check the attic for winter moisture  a stain on the ceiling below the roof deck is the earliest sign of an ice dam leak, and it is much cheaper to fix in April than in July.
+This is also the moment to check the attic for winter moisture — a stain on the ceiling below the roof deck is the earliest sign of an ice dam leak, and it is much cheaper to fix in April than in July.
 
 ## Step 5: Caulk and paint before washing, not after
 
@@ -103,7 +103,7 @@ Counterintuitive but correct: seal first, wash second. Washing forces water into
 
 Washing order matters because dirty water runs down. Start at the lowest point and work upward in sections, then rinse the whole wall from the top so streaks do not set.
 
-- **Use a garden hose, a soft brush on an extension pole, and a mild detergent.** Most exterior dirt is biological  algae, mold, pollen  and a diluted bleach solution (1 part bleach to 3 parts water) with a surfactant removes it better than pressure.
+- **Use a garden hose, a soft brush on an extension pole, and a mild detergent.** Most exterior dirt is biological — algae, mold, pollen — and a diluted bleach solution (1 part bleach to 3 parts water) with a surfactant removes it better than pressure.
 - **Pressure washing: 1,200 psi maximum on wood and vinyl**, with a wide fan tip, held at least 12 inches away. Higher pressure drives water behind the siding and strips paint.
 - **Never pressure wash window seals, door seals, or vents.** Forced water inside a wall shows up as rot two years later.
 - **Rinse plants before and after**, and cover anything you cannot move. Bleach solution kills grass.
@@ -114,7 +114,7 @@ Washing order matters because dirty water runs down. Start at the lowest point a
 This is the detail work that makes a house look cared for, and it takes a fraction of the time of the siding.
 
 - **Screens out, washed with a soft brush and hose**, dried flat. Never scrub screens with a stiff brush; the mesh deforms and never sits flat again.
-- **Tracks vacuumed first, then wiped**  a wet paper towel in a dry track just makes mud. A shop vacuum with a crevice tool is the right tool.
+- **Tracks vacuumed first, then wiped** — a wet paper towel in a dry track just makes mud. A shop vacuum with a crevice tool is the right tool.
 - **Weep holes cleared.** These small slots at the bottom of the frame drain water that gets behind the sash; a blocked weep hole is why a window sill rots.
 - **Glass on a cloudy day.** Sun on warm glass dries the cleaner before you wipe, which is what leaves streaks.
 
@@ -152,7 +152,7 @@ The tools fail in May if they are not prepared in April.
 
 The order follows dependency, not preference. Drainage determines where water goes; sealing determines whether water gets in; cleaning only looks right if both are done first; and planting only succeeds if the soil is ready.
 
-Doing it in this sequence converts a list of chores into a single pass around the house. Done in the intuitive order  wash, plant, then notice the drainage  every task gets done twice and the underlying problem survives the season.
+Doing it in this sequence converts a list of chores into a single pass around the house. Done in the intuitive order — wash, plant, then notice the drainage — every task gets done twice and the underlying problem survives the season.
 
 ## What NOT to Do
 
@@ -165,7 +165,7 @@ Doing it in this sequence converts a list of chores into a single pass around th
 | Rinsing from the bottom up | Dirty water streaks set on clean wall | Wash bottom-up, rinse top-down |
 | Working wet soil | Compaction that lasts years | Squeeze test; wait until crumbly |
 | Mulching against the siding | Holds moisture against the wall, invites rot | Keep 6 inches clear, mulch below the sill |
-| Sealing a damp deck | Traps moisture, peels within a season | 48 hours dry, 5080�F, out of direct sun |
+| Sealing a damp deck | Traps moisture, peels within a season | 48 hours dry, 50–80�F, out of direct sun |
 | Cutting back perennials in March | Removes frost protection and overwintering habitat | Wait for new growth at the crown |
 
 ## Frequently Asked Questions
@@ -176,7 +176,7 @@ Roof drainage. Clear the gutters and confirm the downspouts discharge 4 to 6 fee
 
 **When should you start spring cleanup?**
 
-When the ground is workable and the risk of hard freeze has passed, but before plants break dormancy. Do structural work  gutters, grading, caulk  as soon as the temperature holds above 40�F. Wait for soil around 50�F before planting or mulching.
+When the ground is workable and the risk of hard freeze has passed, but before plants break dormancy. Do structural work — gutters, grading, caulk — as soon as the temperature holds above 40�F. Wait for soil around 50�F before planting or mulching.
 
 **How do you wash house siding properly?**
 
@@ -184,7 +184,7 @@ Wash bottom-up in sections with a garden hose, soft brush, and mild detergent, t
 
 **When can you reseal a deck?**
 
-When the wood is thoroughly dry  at least 48 hours after cleaning  and temperatures are between 50 and 80�F, out of direct sun. Sealer applied to damp wood or in direct sun fails within a season. Never paint over a previously sealed deck without stripping first.
+When the wood is thoroughly dry — at least 48 hours after cleaning — and temperatures are between 50 and 80�F, out of direct sun. Sealer applied to damp wood or in direct sun fails within a season. Never paint over a previously sealed deck without stripping first.
 
 **Should you remove leaves and stems in spring or fall?**
 

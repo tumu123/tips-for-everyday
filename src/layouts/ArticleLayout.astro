@@ -180,9 +180,9 @@ const keywords = [primaryKeyword, ...secondaryKeywords];
       </article>
     </div>
 
-    {/* 宽屏侧栏：≥1280px 才显示，跟随滚动 */}
+    {/* 宽屏侧栏：≥1280px 才显示，跟随滚动。固定 300×600，与列宽一致 */}
     <aside class="article-rail" aria-label="Advertisement">
-      <AdSlot slot={AD_SLOTS.articleInline} format="vertical" />
+      <AdSlot slot={AD_SLOTS.articleRail} format="fixed" width={300} height={600} />
     </aside>
   </div>
 </BaseLayout>

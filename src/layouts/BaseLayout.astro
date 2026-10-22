@@ -102,21 +102,43 @@ const ga4Configured =
             每页只 push 一次：遍历页面上所有广告单元，逐个入队。
             原先每个 AdSlot 各带一段 push，页内单元变多后容易出现漏 push
             或重复 push；集中到一处后，增删广告位不用再动组件。
+
+            跳过「容器被 CSS 隐藏」的单元：.article-rail 在 <1280px 是
+            display:none，但里面的 ins 仍在 DOM 里。对不可见的容器发广告请求
+            属于 AdSense 政策禁止的「实现不当」，可能被判广告实施违规。
+            getClientRects().length 为 0 即祖先链上有元素不参与布局。
+            视口拉宽到 ≥1280px 时侧栏重新可见，用 matchMedia 再补一次 push。
           */}
           <script is:inline>
             (function () {
+              var WIDE = '(min-width: 1280px)';
+
+              // Skip units whose container is hidden by CSS. .article-rail is
+              // display:none below 1280px but its <ins> stays in the DOM, and
+              // requesting ads for an invisible container violates AdSense policy.
+              // getClientRects().length === 0 means an ancestor has no layout box.
+              // On widening past the breakpoint the rail becomes visible again,
+              // so re-queue once via matchMedia.
               function fill() {
                 var units = document.querySelectorAll('ins.adsbygoogle');
                 for (var i = 0; i < units.length; i++) {
-                  if (units[i].getAttribute('data-adsbygoogle-status')) continue;
+                  var ins = units[i];
+                  if (ins.getAttribute('data-adsbygoogle-status')) continue;
+                  var box = ins.parentElement;
+                  if (box && box.getClientRects().length === 0) continue;
                   (window.adsbygoogle = window.adsbygoogle || []).push({});
                 }
               }
+
               if (document.readyState === 'loading') {
                 document.addEventListener('DOMContentLoaded', fill);
               } else {
                 fill();
               }
+
+              var mq = window.matchMedia(WIDE);
+              if (mq.addEventListener) mq.addEventListener('change', fill);
+              else if (mq.addListener) mq.addListener(fill);
             })();
           </script>
         </>

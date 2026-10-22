@@ -35,7 +35,7 @@ draft: false
 
 Most January "home resets" are decluttering in a new coat. This one is not.
 
-This is an audit of the house as a machine  the filters that are past their interval, the alarms that have not been tested since last winter, the consumables that ran out in November and were never replaced, the repair you have been stepping around for eight months, and the paperwork that needs to close out the old year before the new one starts.
+This is an audit of the house as a machine — the filters that are past their interval, the alarms that have not been tested since last winter, the consumables that ran out in November and were never replaced, the repair you have been stepping around for eight months, and the paperwork that needs to close out the old year before the new one starts.
 
 It takes an afternoon, it produces a list you will use all year, and it is the only home task where the return is measured in avoided emergencies rather than visible tidiness.
 
@@ -43,7 +43,7 @@ It takes an afternoon, it produces a list you will use all year, and it is the o
 
 Three things converge in January that do not converge at any other time:
 
-- **The consumption cycle closes.** You know what you used over the holidays  batteries, bulbs, tape, cleaning supplies, the first aid kit.
+- **The consumption cycle closes.** You know what you used over the holidays — batteries, bulbs, tape, cleaning supplies, the first aid kit.
 - **The house is closed up.** Cold weather forces indoor work, and the systems under the most load (heating, humidity, electrical) are the ones that reveal their state.
 - **You have a natural date to hang the log on.** "Every January" is easier to remember than "every eleven months."
 
@@ -54,7 +54,7 @@ The audit is not about getting rid of things. It is about answering one question
 Packing decorations is a separate job, but January is the only moment when you can see their condition.
 
 - **Test every strand of lights before it goes in the box.** Mark the dead ones with a tag; they will not be easier to diagnose in November.
-- **Check ornaments for broken hangers and loose caps**  a hook that fails in storage is an ornament that breaks next year.
+- **Check ornaments for broken hangers and loose caps** — a hook that fails in storage is an ornament that breaks next year.
 - **Note what you did not use.** If a box has gone three seasons untouched, it is a donation, not a storage item.
 - **Store in labeled bins by room or by tree**, and keep the lights in a coil rather than a tangle.
 
@@ -66,12 +66,12 @@ Every house runs on a small number of consumables that are always discovered mis
 
 Walk the house with a basket and check:
 
-- **Batteries**  AA, AAA, 9V, and whatever the smoke alarms and remotes use. Note which sizes are low rather than buying a 60-pack of everything.
-- **Light bulbs**  count the burned-out fixtures you have been ignoring. If more than two, that is a lighting problem, not a bulb problem.
-- **HVAC filters**  the number you need for the year, bought at once.
-- **Cleaning supplies**  the three you actually use, not the eleven you bought optimistically.
-- **First aid**  expired items out, missing items in. Check the gauze and bandage sizes you actually reach for.
-- **Tape, glue, batteries for tools, printer paper, lighters, trash bags**  the unglamorous infrastructure.
+- **Batteries** — AA, AAA, 9V, and whatever the smoke alarms and remotes use. Note which sizes are low rather than buying a 60-pack of everything.
+- **Light bulbs** — count the burned-out fixtures you have been ignoring. If more than two, that is a lighting problem, not a bulb problem.
+- **HVAC filters** — the number you need for the year, bought at once.
+- **Cleaning supplies** — the three you actually use, not the eleven you bought optimistically.
+- **First aid** — expired items out, missing items in. Check the gauze and bandage sizes you actually reach for.
+- **Tape, glue, batteries for tools, printer paper, lighters, trash bags** — the unglamorous infrastructure.
 
 Keep them in one place. A single shelf or cabinet for household consumables turns fifteen separate shopping trips into one.
 
@@ -79,7 +79,7 @@ Keep them in one place. A single shelf or cabinet for household consumables turn
 
 Everyone remembers the HVAC filter. Almost nobody remembers the other two.
 
-- **HVAC filter:** every one to three months depending on pets and dust. Write the change date on the filter edge with a marker  the next person to open the unit will thank you.
+- **HVAC filter:** every one to three months depending on pets and dust. Write the change date on the filter edge with a marker — the next person to open the unit will thank you.
 - **Range hood filter:** the metal mesh type goes in the dishwasher monthly; the charcoal type is replaced every three to six months. A saturated hood filter is a grease fire risk, not just a smell.
 - **Refrigerator water filter:** every six months, or when the flow drops. Most fridges have a reset button; the filter is usually behind the base grille or inside the top of the fridge compartment.
 - **Whole-house water filter** (if you have one): annually, and write the date on the housing.
@@ -89,7 +89,7 @@ Everyone remembers the HVAC filter. Almost nobody remembers the other two.
 
 This is the twenty minutes that matters more than the other three hours combined.
 
-- **Smoke alarms:** press the test button on every unit. Replace the batteries annually even if they test fine, and replace the entire alarm every ten years  the sensor degrades and the unit stops detecting reliably long before it stops beeping.
+- **Smoke alarms:** press the test button on every unit. Replace the batteries annually even if they test fine, and replace the entire alarm every ten years — the sensor degrades and the unit stops detecting reliably long before it stops beeping.
 - **Carbon monoxide alarms:** same test, and check the replacement date. Most have a five-to-seven-year sensor life.
 - **Fire extinguisher:** check the pressure gauge is in the green, confirm the pin and seal are intact, and turn it upside down and shake it once a month to keep the powder from caking. Replace any unit older than twelve years.
 - **GFCI outlets:** press the test button on every one in kitchens, bathrooms, garage, and outdoors. If it does not click off, the protection is gone and the outlet needs replacing.
@@ -104,7 +104,7 @@ January is the natural boundary for household paperwork, and doing it once preve
 - **File the year's tax-relevant documents** in one envelope or folder: charitable receipts, medical expenses, mortgage interest, tuition.
 - **Shred what has expired**: utility bills older than a year, credit card statements older than a year (unless needed for taxes), and anything with a full account number you no longer need.
 - **Keep indefinitely**: tax returns and supporting documents (seven years is the common rule), property records, warranties, and anything related to a major purchase.
-- **Start a warranty folder for the year**, and photograph receipts for appliances  a photo in a phone album survives a fading thermal receipt.
+- **Start a warranty folder for the year**, and photograph receipts for appliances — a photo in a phone album survives a fading thermal receipt.
 - **Update the household document file**: insurance policies, wills, and the list of accounts. Tell one other person where it is.
 
 ## Step 7: Do the digital equivalent in twenty minutes
@@ -112,7 +112,7 @@ January is the natural boundary for household paperwork, and doing it once preve
 - **Back up photos and documents.** Confirm the backup actually completed rather than assuming it did.
 - **Apply the 3-2-1 check**: three copies, two media types, one off-site. A folder on one laptop is not a backup.
 - **Clear the downloads folder** and the desktop. Both are where files go to be forgotten.
-- **Photograph the house for insurance**  one pass, every room, closet doors open, plus serial numbers on appliances. Once a year is enough, and it takes fifteen minutes.
+- **Photograph the house for insurance** — one pass, every room, closet doors open, plus serial numbers on appliances. Once a year is enough, and it takes fifteen minutes.
 
 ## Step 8: Build the repair queue, then schedule only three
 
@@ -122,9 +122,9 @@ Write them all down. The list is usually 10 to 20 items, and seeing it in one pl
 
 Then pick **three** and put dates on them. Three is the number that gets done; ten is the number that becomes another unfinished project. Prioritize by:
 
-1. **Water and electricity**  anything that can cause damage.
-2. **Security and safety**  locks, steps, railings, exterior lighting.
-3. **Daily friction**  the door, the drawer, the light.
+1. **Water and electricity** — anything that can cause damage.
+2. **Security and safety** — locks, steps, railings, exterior lighting.
+3. **Daily friction** — the door, the drawer, the light.
 
 ## Step 9: Reset the soft goods that never get washed
 
@@ -140,14 +140,14 @@ January is when the freezer is full of things nobody remembers buying, and the p
 
 - **Inventory the freezer** on paper, and put the list on the door. Use it for the next two weeks.
 - **Check dates** on pantry staples and move the oldest forward.
-- **Restock by a staple list**, not by browsing  the ten things you actually cook with, in the quantities you use.
+- **Restock by a staple list**, not by browsing — the ten things you actually cook with, in the quantities you use.
 - **Note what you threw out**, because that is the most accurate signal of what you overbuy.
 
 ## Step 11: Fix the lighting, which is the cheapest visible upgrade
 
 - **Replace every burned-out bulb** in one pass, with LEDs of the correct color temperature. 2700K for living areas, 3000K for kitchens, 4000K for garages and utility spaces.
 - **Check the exterior lights**, including the ones on timers and motion sensors. A dark front door is both a security and a safety problem.
-- **Look for fixtures with the wrong bulb type**  a 100W-equivalent in a 60W-rated fixture is an overheating risk.
+- **Look for fixtures with the wrong bulb type** — a 100W-equivalent in a 60W-rated fixture is an overheating risk.
 - **Consider one motion-sensor light** on the path from the driveway to the door.
 
 ## Step 12: Book the year's services in January
@@ -155,7 +155,7 @@ January is when the freezer is full of things nobody remembers buying, and the p
 The services that are hardest to get are the ones everyone books in the same week. Booking in January is how you avoid that.
 
 - **HVAC service** in early spring, before the first heat wave.
-- **Chimney sweep** if you burn wood  spring, not fall, when the schedule is empty.
+- **Chimney sweep** if you burn wood — spring, not fall, when the schedule is empty.
 - **Gutter cleaning** for late spring and late fall.
 - **Pest control** annual inspection before the season, not after the first ant trail.
 - **Roof inspection** every two to three years, or after any major storm.
@@ -204,7 +204,7 @@ Three copies of the data, on two different types of media, with one copy off-sit
 
 **Should you declutter in January?**
 
-Decluttering is a separate project and it competes with this one for the same hours. Do the systems audit first  it is finite, measurable, and produces a plan. Decluttering is better done in a season when you can open windows and work in daylight.
+Decluttering is a separate project and it competes with this one for the same hours. Do the systems audit first — it is finite, measurable, and produces a plan. Decluttering is better done in a season when you can open windows and work in daylight.
 
 **How many repairs should you schedule at once?**
 
