@@ -138,6 +138,8 @@ Vinegar's acetic acid reacts with the calcium carbonate to form soluble calcium 
 
 This also explains the temperature rule: warm water accelerates the reaction, but hot water can cause glass to crack from thermal shock if the door is cold.
 
+The glass is the visible version of a deposit that also forms inside the plumbing — [the same mineral film inside the fixtures](/home-hacks/cleaning/remove-hard-water-faucets-showerheads/) covers the soak method for aerators and showerheads.
+
 ---
 
 ## What NOT to Do
@@ -162,6 +164,8 @@ Prevention is dramatically cheaper than removal. Three habits matter most:
 3. **Apply a water-repellent coating** (e.g., a glass sealant designed for showers) every 6–12 months. This is not permanent — reviews of such coatings generally report effectiveness declining after several months — but it buys substantial extra time between deep cleans.
 
 A weekly 30-second maintenance routine: spray with a 1:1 vinegar-water mix, wipe, and squeegee. This keeps deposits from ever building to the crust stage.
+
+The same mineral film settles on anything that stays wet, including the fabric beside the window — [washing a panel without shrinking it](/home-hacks/fabrics/wash-curtains-without-shrinking/) covers how to wash a curtain without losing its length.
 
 ---
 

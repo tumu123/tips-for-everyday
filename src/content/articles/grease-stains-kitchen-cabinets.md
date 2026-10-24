@@ -221,6 +221,8 @@ A realistic maintenance schedule:
 | Full degrease and rinse | Every 3–6 months | 40 minutes |
 | Clean range hood filter | Monthly | 10 minutes (or dishwasher cycle) |
 
+Cabinets are only part of what aerosolised grease lands on — [walls and doors in the cooking zone](/home-hacks/cleaning/clean-walls-doors-switches/) covers the walls and doors on the same circuit, where the paint finish limits the method.
+
 ---
 
 ## FAQ

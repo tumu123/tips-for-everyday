@@ -87,6 +87,8 @@ The heating and cooling system is a dust mover, and a poorly sealed filter is th
 
 **If you have no ducted system**, the equivalent is keeping window and door gaps sealed — see [sealing gaps around doors and windows](/fix-it/maintenance/seal-gaps-doors-windows/) — because uncontrolled air movement brings dust in with it.
 
+The duct and filter path is one of four layers, and it is the last one that matters — [the same problem before the filter stage](/home-hacks/cleaning/improve-indoor-air-without-gadgets/) covers the source-control and ventilation layers that come before it.
+
 ---
 
 ## 4. Control Humidity and Air Movement
@@ -110,6 +112,8 @@ A musty smell you have stopped noticing is the most reliable early signal there 
 - **Wash pet bedding** on the same schedule as your own.
 - **Grooming reduces shedding** more than any air device.
 - **Change clothes when you come in** if you work somewhere dusty, rather than bringing workwear into the living space.
+
+Pet hair is a dust reservoir as much as a visible mess — [the hair that never leaves the room](/home-hacks/cleaning/remove-pet-hair-everywhere/) covers the removal method for every surface, from carpet to car seats.
 
 ---
 

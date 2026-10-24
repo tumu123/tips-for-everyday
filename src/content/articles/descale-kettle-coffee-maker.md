@@ -174,6 +174,8 @@ This also explains why the method scales with buildup. A thin film dissolves in 
 6. **Watch for early signals:** a kettle that takes longer to boil, a coffee maker that runs slowly, or a change in coffee taste all indicate scale.
 7. **Consider a whole-house water softener** if scale is a constant battle. It resolves the problem at the source.
 
+Anything that heats water scales faster than a showerhead does — [the same scale on the fixtures](/home-hacks/cleaning/remove-hard-water-faucets-showerheads/) covers the fixtures, where a thirty-minute soak is the whole repair.
+
 ---
 
 ## FAQ

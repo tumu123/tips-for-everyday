@@ -201,6 +201,10 @@ Removing the stain is only half the job. Pets return to spots where they can sti
 
 Note: persistent marking may be medical (urinary tract infection, diabetes, kidney issues) and requires a veterinarian, not a cleaner. Cleaning alone will not resolve a medical cause.
 
+Once the spots are handled, the carpet still holds everything the spots did not — [cleaning a whole carpet without a machine](/home-hacks/fabrics/clean-carpet-without-rental-machine/) covers the full-surface method that dries in hours rather than days.
+
+Hair and urine are two problems on the same carpet, and the hair has to come out first — [removing the hair before cleaning the carpet](/home-hacks/cleaning/remove-pet-hair-everywhere/) covers the mechanical method and why liquids make it worse.
+
 ---
 
 ## FAQ

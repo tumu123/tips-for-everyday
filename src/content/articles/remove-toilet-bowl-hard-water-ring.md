@@ -145,6 +145,8 @@ A ring that returns within weeks is a water chemistry signal, not a cleaning fai
 - **Check for a running or seeping flush valve.** Constant slow water flow at the water line accelerates deposit formation and is a separate repair — see [fixing a running toilet](/fix-it/plumbing/fix-running-toilet/).
 - **Reduce standing water time** by making sure the bowl is flushed after use rather than left with concentrated urine.
 
+The bowl is downstream of the same water, and the fixtures upstream scale first — [descaling the fixtures that feed the bowl](/home-hacks/cleaning/remove-hard-water-faucets-showerheads/) covers the acid soak and the finishes that cannot survive it.
+
 ---
 
 ## Step 7: Keep It From Coming Back

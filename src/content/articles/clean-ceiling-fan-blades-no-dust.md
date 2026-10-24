@@ -127,6 +127,8 @@ Fan blades get dirty fast because they are horizontal, they move air, and their 
 - **Run the fan on a lower speed** when you do not need high airflow. More air movement means more deposition.
 - **Check the direction setting seasonally.** In warm weather the fan should push air down; in cool weather it should pull air up, which also reduces how much dust lands on the upper blade surface.
 
+A ceiling fan moves air without cleaning it, and the dust it keeps airborne has to settle somewhere — [what the fan is actually moving](/home-hacks/cleaning/improve-indoor-air-without-gadgets/) covers the sequence that removes it at the source first.
+
 ---
 
 ## Step 7: Do Not Unbalance the Fan

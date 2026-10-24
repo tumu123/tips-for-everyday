@@ -149,6 +149,8 @@ If the stripes return within weeks of cleaning and caulking, the air movement is
 - **Keep furniture a little off the wall** so the vacuum can reach. This also reduces scuffing and the dust shadow behind a sofa.
 - **Use a flat mop with a washable pad** rather than a string mop, which splashes the trim.
 
+Baseboards are the visible line, but the wall above them and the door frames beside them take more hand contact — [the surfaces above the baseboard](/home-hacks/cleaning/clean-walls-doors-switches/) covers the finish test that decides what can be washed.
+
 ---
 
 ## Why This Works

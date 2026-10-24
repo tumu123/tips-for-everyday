@@ -142,6 +142,8 @@ Mold returns because the conditions that allowed it remain. Cleaning without cha
 
 Mold needs about 48 hours of sustained damp, which makes early detection the whole game — [finding moisture before mold starts](/fix-it/maintenance/find-moisture-problems-early/) covers the readings and where to take them.
 
+Moisture and particles are separate problems with separate fixes, and this is the particle side — [ventilation as the fix for damp air](/home-hacks/cleaning/improve-indoor-air-without-gadgets/) covers ventilation timing and the filter rating that actually helps.
+
 ---
 
 ## Replacing Caulk: When Cleaning Fails

@@ -160,6 +160,8 @@ Mix 1 part white vinegar with 1 part water in a spray bottle. **Mist very lightl
 3. **Install a waterproof, washable mattress protector.** This is the single most effective prevention measure and it makes every future cleaning faster.
 4. Replace and wash all bedding in hot water.
 
+The pillow on top of it accumulates the same material faster — [washing pillows on the same schedule](/home-hacks/fabrics/how-often-to-wash-pillows/) covers the filling-by-filling method and the interval a protector buys you.
+
 ---
 
 ## Why This Works
@@ -204,6 +206,8 @@ The constraint of not being able to wash a mattress is what shapes this entire m
 7. **Address spills immediately.** Blot and dry right away — a fresh spill is a five-minute problem, and a set stain is an hour-long one.
 
 Note: Some guides advise sprinkling baking soda and vacuuming monthly. That is more frequent than necessary unless you have pets or allergies. Every 1–2 months is sufficient for most households.
+
+The same rule applies to the floor the bed sits on — [deep cleaning carpet properly](/home-hacks/fabrics/clean-carpet-without-rental-machine/) covers why too much water, not too little, is what ruins a soft surface.
 
 ---
 

@@ -142,6 +142,8 @@ Tracks hold water and grit against the frame — [cleaning window tracks](/home-
 | Bathroom | Monthly | Quarterly |
 | Rarely used rooms | Quarterly | Annually |
 
+Curtains sit on a different schedule and need a different method entirely — [washing curtain panels without shrinking them](/home-hacks/fabrics/wash-curtains-without-shrinking/) covers the fabric test that decides whether a panel can be washed at all.
+
 ---
 
 ## Frequently Asked Questions

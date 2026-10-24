@@ -150,6 +150,8 @@ The filter is only one part of the system. If cleaning the filter does not resto
 4. **Check the exterior vent flap** — sometimes a bird nest or a stuck flap blocks it.
 5. **Test the motor speed.** If the fan is loud but airflow is weak, the problem is downstream of the motor (duct or vent), not the filter.
 
+A hood that recirculates is a grease filter, not an exhaust — [the hood as an air quality device](/home-hacks/cleaning/improve-indoor-air-without-gadgets/) covers what that means for particles and combustion gases in the kitchen.
+
 ---
 
 ## Why This Works

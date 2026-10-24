@@ -87,7 +87,7 @@ export const CATEGORIES = {
     title: 'Home Hacks',
     description:
       'Cleaning methods, stain removal, and appliance care that actually work. Every guide includes specific ratios, dwell times, and the mistakes to avoid.',
-    subcategories: ['Cleaning', 'Laundry', 'Appliances', 'Stains'],
+    subcategories: ['Cleaning', 'Laundry', 'Fabrics', 'Appliances', 'Stains'],
   },
   'save-money': {
     title: 'Save Money',
@@ -138,6 +138,8 @@ export const SUBCATEGORY_DESCRIPTIONS: Record<string, string> = {
     'Deep-clean guides for floors, grout, mattresses, and hard surfaces — with the specific ratios, dwell times, and order of operations that get results.',
   Laundry:
     'Laundry that works: a laundry room laid out so the work flows, plus care guides for stains, odors, delicates, and the machines themselves.',
+  Fabrics:
+    'Curtains, carpets, pillows, and duvets — the soft furnishings that hold dust and odor but never go in a normal wash cycle, with the fabric test that decides the method.',
   Appliances:
     'Keep appliances clean and running longer — washing machines, range hoods, kettles, and stainless steel — with maintenance that prevents expensive failures.',
   Stains:

@@ -151,6 +151,10 @@ Tracks foul because they are horizontal, outdoors-adjacent, and wet intermittent
 - **Keep the exterior clear** — leaves and debris on the outside of the sill dam water and push it inward.
 - **Address the source of dust.** If tracks foul unusually fast, the cause may be a garden bed against the wall, a nearby construction site, or a gap that lets air in — see [reducing dust in your home](/home-hacks/cleaning/reduce-dust-in-home/).
 
+The frames and the fabric above them collect the same dust — [the fabric side of the same dust problem](/home-hacks/fabrics/wash-curtains-without-shrinking/) covers the panel side, where heat rather than water is what does the damage.
+
+The track is the worst part of the frame, and the painted surfaces around it need a different method — [the frames and the wall around them](/home-hacks/cleaning/clean-walls-doors-switches/) covers the sheen test that decides whether you can rub at all.
+
 ---
 
 ## Why This Works

@@ -162,6 +162,8 @@ Getting this right prevents most failures. Stains fall into five chemical famili
 
 **Chlorine bleach is the most dangerous escalation.** It destroys wool, silk, spandex, and elastane; it permanently yellows synthetic blends; and it reacts violently with ammonia, acids, and rust removers. If you need a whitening agent, oxygen bleach (sodium percarbonate) achieves most of the result without those risks.
 
+Some marks are on the cover and some are in the filling, and they need different answers — [whether the duvet itself can be washed](/home-hacks/fabrics/wash-duvet-or-comforter/) covers the second case, including when washing is not an option.
+
 ---
 
 ## Step 6: Prevent the next stain from setting
@@ -173,6 +175,8 @@ Getting this right prevents most failures. Stains fall into five chemical famili
 - **Check before the dryer, every time.** A thirty-second inspection at the machine prevents most permanent stains.
 
 A blown thermal fuse is reporting an airflow problem rather than causing one — [why a dryer runs cold](/fix-it/appliances/dryer-not-heating/) covers the order that stops it blowing again.
+
+Pillowcases take the stains; the pillow underneath takes everything else — [washing pillows without ruining the filling](/home-hacks/fabrics/how-often-to-wash-pillows/) covers what can be washed and what cannot go near water.
 
 ---
 

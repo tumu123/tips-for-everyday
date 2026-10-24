@@ -135,6 +135,8 @@ Most couch cleaning failures are drying failures.
 
 **If it smells musty afterwards**, the filling did not dry. That is not a surface problem, and surface sprays will not fix it — see [removing mildew smell from laundry](/home-hacks/laundry/remove-mildew-smell-laundry/) for the approach to musty textiles, which applies to cushion filling as well.
 
+Cushions dry faster than a floor does, and that is the only reason over-wetting is more forgiving there — [the same over-wetting problem on carpet](/home-hacks/fabrics/clean-carpet-without-rental-machine/) applies the same low-moisture logic to a whole room.
+
 ---
 
 ## 6. Covers, Cushions, and When to Stop
@@ -152,6 +154,8 @@ Most couch cleaning failures are drying failures.
 - The whole piece needs cleaning rather than one spot — cleaning a single cushion on an older sofa often leaves a visible clean patch next to soiled fabric
 
 That last point is worth emphasising: on a sofa that has never been cleaned, spot cleaning can make the rest look worse. In that situation, clean the whole piece evenly, or have it done professionally.
+
+A washable cover solves the hair problem as well as the stain problem — [getting hair out of upholstery](/home-hacks/cleaning/remove-pet-hair-everywhere/) covers the tool that works on the fabric underneath when there is no cover.
 
 ---
 

@@ -124,6 +124,8 @@ Wet fabric left too long is where the smell starts. Drying is not just about rem
 - **Line drying is superb for odor** if you have the space and the weather. Sunlight also has a mild disinfecting effect.
 - **If the weather is humid**, line-drying indoors can make the smell worse. Use the dryer or a dehumidifier in that case.
 
+The same rule decides whether a pillow survives washing — [why a damp filling always smells](/home-hacks/fabrics/how-often-to-wash-pillows/) covers the drying test that separates a clean pillow from a sour one.
+
 ---
 
 ## Step 4: Fix the storage so it does not come back
@@ -137,6 +139,8 @@ Clean laundry can develop the smell again in storage if the conditions are wrong
 - **Do not store laundry in a basement or damp garage** without moisture control.
 
 Drying between uses matters more than any disinfecting trick — [keeping sponges and dishcloths sanitary](/kitchen-tips/cooking-hacks/keep-kitchen-sponges-clean/) covers the rest.
+
+Storage is where a badly dried duvet gives itself away — [drying a duvet completely](/home-hacks/fabrics/wash-duvet-or-comforter/) covers the drying test that has to pass before anything goes in a cupboard.
 
 ---
 

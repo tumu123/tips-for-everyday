@@ -186,6 +186,8 @@ Four habits eliminate most washing machine problems:
 
 When the drum will not empty, the blockage sits in one of four places — [finding where a washer drain is blocked](/fix-it/appliances/washing-machine-wont-drain/) walks them in the order that does not end in a flooded floor.
 
+Bedding is the load that stresses a machine most, and it is also the one most often washed in a drum too small for it — [washing a duvet or comforter at home](/home-hacks/fabrics/wash-duvet-or-comforter/) starts with the capacity check.
+
 ---
 
 ## FAQ
