@@ -151,6 +151,8 @@ Stop resetting and get professional help if any of these apply:
 
 Repeated resetting of a faulting circuit is the actual hazard — each attempt passes fault current through the wiring again.
 
+The dangerous jobs are rarely the difficult ones — [which repairs are safe to do yourself](/fix-it/home-repair/diy-or-call-a-professional/) sorts them by the cost of the mistake instead of by skill.
+
 ---
 
 ## Step 8: Label the Panel So the Next Time Is Faster

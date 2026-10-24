@@ -125,6 +125,8 @@ This is a drain problem, not a disposal problem, and removing the trap is usuall
 
 **One caution:** never use chemical drain cleaner in a disposal. It can damage the unit's seals and it creates a hazard when the disposal runs.
 
+The drain cycle is time-limited rather than level-sensed, so a partial clog leaves water behind every time — [a dishwasher that will not drain](/fix-it/appliances/dishwasher-leaves-water-in-bottom/) covers where that clog sits.
+
 ---
 
 ## What Can and Cannot Go In

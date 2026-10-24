@@ -139,6 +139,8 @@ A freezer full of food after an outage raises the same question, and the same pr
 
 Surface dehydration and fat oxidation are the two failures — [preventing freezer burn on meat](/kitchen-tips/food-storage/prevent-freezer-burn-on-meat/) covers both.
 
+One evaporator feeds both compartments, so anything downstream of the coil can fail without touching the freezer — [why the fridge warms while the freezer holds](/fix-it/appliances/refrigerator-not-cold-freezer-fine/) covers that air path.
+
 ---
 
 ## Why This Works

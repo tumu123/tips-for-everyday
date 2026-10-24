@@ -80,6 +80,8 @@ Front-loaders are the most common culprits because a rubber door gasket traps wa
 
 **Note on fabric softener and scent beads:** these coat the drum and the fabric with waxy residue that traps soil and microbes. Many people find that stopping their use eliminates a chronic musty smell.
 
+A machine that hums but will not empty is usually blocked rather than broken — [a washer that will not drain](/fix-it/appliances/washing-machine-wont-drain/) starts at the filter, which is where most cases end.
+
 ---
 
 ## Step 2: Treat the smelly fabric

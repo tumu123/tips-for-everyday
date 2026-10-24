@@ -95,6 +95,8 @@ Two practical details: leave a 1-inch gap at the back for hoses and cords, and u
 
 If you have a top-loading washer, the counter cannot span both machines. Put a narrow shelf over the dryer only, and accept that the washer lid is not a surface.
 
+A machine that only fails on big loads is telling you about vibration rather than the motor — [diagnosing a washer that shakes or will not spin](/fix-it/appliances/washer-wont-spin-or-walks/) covers what that points to.
+
 ## Step 5: Solve drying before you need it
 
 Drying capacity is the bottleneck in most laundry rooms and the least planned for. People buy a dryer, then discover that half their clothes should not go in it, and end up with a rod wedged across the doorway.

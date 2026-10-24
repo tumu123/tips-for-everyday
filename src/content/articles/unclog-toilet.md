@@ -125,6 +125,8 @@ If plunging and augering both fail, the blockage is beyond the closet bend. At t
 
 **One option left:** removing the toilet. It's doable — shut off and disconnect the supply, remove the two floor bolts, and lift — but it's heavy, the wax ring usually needs replacing, and it's the point where most people are better off calling someone. If you do it, have a new wax ring on hand before you start.
 
+If you cannot describe the failure modes out loud before starting, the job is yellow at best — [the line between a DIY fix and a service call](/fix-it/home-repair/diy-or-call-a-professional/) covers that rule.
+
 ---
 
 ## Never Put These in a Toilet

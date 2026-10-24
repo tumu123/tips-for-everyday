@@ -184,6 +184,8 @@ A few habits during a cold snap prevent most problems.
 
 The bang when a tap closes is a pressure shock, not a loose pipe — [stopping water hammer](/fix-it/plumbing/stop-water-hammer-noisy-pipes/) covers the arrestor and the cheaper fixes.
 
+If the water went cold on the first hard freeze of the year, suspect the supply line rather than the tank — [what to check before calling about hot water](/fix-it/appliances/water-heater-no-hot-water/) covers that branch and the three others.
+
 ---
 
 ## Step 6: Prevent the next freeze
@@ -198,6 +200,8 @@ The bang when a tap closes is a pressure shock, not a loose pipe — [stopping w
 | **Confirm the basement/crawlspace stays above freezing** with a thermometer | During the first cold snap |
 
 **Keep a thermometer in the basement or crawlspace** during the first cold snap of the year. If the space is dropping toward freezing, you have time to act before a pipe fails. This is a five-dollar investment that gives early warning.
+
+A pipe that froze and split usually shows up first as a brown stain on the ceiling below it — [a ceiling stain that appears after a freeze](/fix-it/home-repair/water-stain-on-ceiling/) covers the order that stops the damage spreading.
 
 ---
 

@@ -140,6 +140,8 @@ If the clog is in the first two feet — and for a single slow fixture it usuall
 
 When water appears under the sink only after the disposal runs, the leak is in the unit itself — [fixing a leaking garbage disposal](/fix-it/plumbing/fix-garbage-disposal-leaking/) narrows down which joint it is.
 
+Water that comes back after you mop it out is backflow rather than a drain failure — [why water stays in the dishwasher](/fix-it/appliances/dishwasher-leaves-water-in-bottom/) covers the high loop and the check valve.
+
 ---
 
 ## Why Chemical Drain Cleaners Are the Wrong First Move

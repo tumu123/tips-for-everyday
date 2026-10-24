@@ -97,6 +97,8 @@ So treat the tables as **starting points for your own kitchen**, not guarantees.
 
 Refrigerated eggs hold far longer than the carton date suggests — [how long eggs actually keep](/kitchen-tips/food-storage/store-eggs-how-long-they-last/) covers the float test and the limits.
 
+That specific combination rules out the sealed system and the refrigerant — [a fridge that is warm while the freezer is fine](/fix-it/appliances/refrigerator-not-cold-freezer-fine/) covers the defrost, fan, and damper checks that follow.
+
 ---
 
 ## Step 3: Freezer shelf life

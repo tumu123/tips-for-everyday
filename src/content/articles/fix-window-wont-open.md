@@ -180,6 +180,8 @@ Wood absorbs moisture and expands. A window that works fine in winter may bind i
 - **Structural movement** — if several windows in the house are binding, the frame may be shifting
 - **Vinyl window with a failed internal mechanism** — often requires partial disassembly best left to someone experienced
 
+Green, yellow, and red: the tiering is about consequences rather than confidence — [when a homeowner should stop and hire](/fix-it/home-repair/diy-or-call-a-professional/) covers the test and the twenty jobs it sorts.
+
 ---
 
 ## Why This Works

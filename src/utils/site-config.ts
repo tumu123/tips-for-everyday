@@ -111,7 +111,7 @@ export const CATEGORIES = {
     title: 'Fix It',
     description:
       'Fix common household problems yourself — plumbing, doors, walls, and small repairs — without calling a professional for jobs that take minutes.',
-    subcategories: ['Home Repair', 'Maintenance', 'Plumbing'],
+    subcategories: ['Home Repair', 'Maintenance', 'Plumbing', 'Appliances'],
   },
   seasonal: {
     title: 'Seasonal & Holiday',
@@ -131,6 +131,8 @@ export const SUBCATEGORY_DESCRIPTIONS: Record<string, string> = {
   // 栏目级覆盖（同名子栏目分属不同栏目时使用）
   'organize/Laundry':
     'A laundry room or laundry closet organized around the work flow — sorting, washing, drying, and folding each with a place, so nothing doubles back.',
+  'fix-it/Appliances':
+    'Diagnose machines that stopped working — water heaters, washers, dryers, fridges, and dishwashers — symptom first, so you know what it is before you pay anyone.',
   // Home Hacks
   Cleaning:
     'Deep-clean guides for floors, grout, mattresses, and hard surfaces — with the specific ratios, dwell times, and order of operations that get results.',

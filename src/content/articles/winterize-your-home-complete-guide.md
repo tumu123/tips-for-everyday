@@ -106,6 +106,8 @@ This is the ice dam sequence, and it must be done in order.
 5. **Address the cause, not the symptom.** Repeated ice dams mean the attic is warm, and the fix is always sealing, insulation, and ventilation.
 6. **Consider a roof rake** for heavy snow loads, especially on low-slope roofs and over unconditioned areas. Snow load is a structural concern on older roofs.
 
+Above about 55% relative humidity, surfaces stay damp long enough for spores to colonise — [keeping indoor humidity in the safe range](/fix-it/maintenance/find-moisture-problems-early/) covers the instruments and the three locations that matter.
+
 ## Step 5: Windows and doors
 
 Windows are the largest visible loss, and also the most overstated.

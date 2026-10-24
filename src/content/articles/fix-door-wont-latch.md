@@ -168,6 +168,8 @@ If the latch bolt moves sluggishly or won't extend, the mechanism needs cleaning
 - **You've adjusted everything and it still won't latch** — the latch or lockset may need replacing
 - **It's an exterior door with security implications** — a door that doesn't latch securely is a real concern
 
+A door that has become impossibly heavy has lost its counterbalance — [garage door faults that are not the opener’s fault](/fix-it/appliances/garage-door-wont-open/) explains which failures are safe to touch and which are not.
+
 ---
 
 ## Why This Works

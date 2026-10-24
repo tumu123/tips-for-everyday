@@ -180,6 +180,8 @@ These are less temperature-sensitive but still needed before winter.
 | **Clear the dryer vent** | Fire risk rises with heavier winter laundry |
 | **Restock ice melt and shovels where you can reach them** | First ice |
 
+Electric, gas, and heat pump dryers fail for entirely different reasons — [a dryer that tumbles but will not heat](/fix-it/appliances/dryer-not-heating/) checks the vent before the machine, because one of those failures is a fire risk.
+
 ---
 
 ## What this costs if you skip it

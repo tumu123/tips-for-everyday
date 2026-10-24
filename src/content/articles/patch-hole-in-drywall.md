@@ -157,6 +157,8 @@ Sanding and painting are where good repairs go wrong, because both are done with
 - **Paint beyond the patch.** Blend outward to a natural break — a corner, a trim line — rather than stopping at the patch edge.
 - **For ceilings**, use a ceiling-specific flat white and roll it on with a roller rather than a brush, to match the texture.
 
+Water runs along joists before it comes through, so the stain is often offset from the leak — [tracing a ceiling leak to its source](/fix-it/home-repair/water-stain-on-ceiling/) covers how to map it with a moisture meter.
+
 ---
 
 ## Step 5: Match texture, if the wall has any

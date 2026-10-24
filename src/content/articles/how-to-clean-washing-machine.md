@@ -66,6 +66,8 @@ Do this **once a month**. It takes about 90 minutes of machine time and 5 minute
 
 This cycle removes the light film that causes most mild odor complaints.
 
+The machine aborts the spin when it cannot balance the load, which reads as a fault — [why a washer refuses to spin](/fix-it/appliances/washer-wont-spin-or-walks/) covers the three gates it checks first.
+
 ---
 
 ## Part 2: Deep Clean a Front-Loader (Where the Smell Comes From)
@@ -181,6 +183,8 @@ Four habits eliminate most washing machine problems:
 | Deep clean drawer and gasket | Every 3 months |
 | Clean drain filter | Every 3 months |
 | Check hoses for cracks and leaks | Every 6 months |
+
+When the drum will not empty, the blockage sits in one of four places — [finding where a washer drain is blocked](/fix-it/appliances/washing-machine-wont-drain/) walks them in the order that does not end in a flooded floor.
 
 ---
 

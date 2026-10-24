@@ -100,6 +100,8 @@ Humidity affects whether dust settles or stays suspended, and it affects the dus
 
 **About air purifiers — an important limit:** a HEPA purifier removes particles that are **airborne**. Most dust in a home has already settled. A purifier will not remove dust from a shelf, and it does not prevent resuspension from foot traffic. It is useful for fine particulate and allergens in a closed room, and it is not a substitute for surface cleaning. Size it by the room's area and the unit's clean air delivery rate, not by the marketing description.
 
+A musty smell you have stopped noticing is the most reliable early signal there is — [checking a house for hidden moisture](/fix-it/maintenance/find-moisture-problems-early/) covers what to measure and where.
+
 ---
 
 ## 5. Handle Pets and People

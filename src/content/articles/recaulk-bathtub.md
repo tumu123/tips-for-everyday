@@ -172,6 +172,8 @@ Use a caulk smoothing tool, a spoon, or a gloved finger. Two methods work well:
 | Bead is lumpy and uneven | Inconsistent gun speed or pressure | Remove and redo; tape the edges |
 | Won't cure | Product expired, or applied to a wet surface | Remove and redo with fresh product on a dry surface |
 
+The position of the stain narrows the source to a handful of suspects — [reading a water stain on a ceiling](/fix-it/home-repair/water-stain-on-ceiling/) covers that map, plus the order that stops it coming back.
+
 ---
 
 ## Making It Last

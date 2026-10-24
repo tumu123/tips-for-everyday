@@ -140,6 +140,8 @@ Mold returns because the conditions that allowed it remain. Cleaning without cha
 6. **Reseal the caulk if it is intact but stained** — a new coat of silicone over clean, dry caulk adds a barrier.
 7. **Consider a humidity monitor.** If bathroom humidity stays above 60% after ventilation, a larger ventilation or moisture problem exists.
 
+Mold needs about 48 hours of sustained damp, which makes early detection the whole game — [finding moisture before mold starts](/fix-it/maintenance/find-moisture-problems-early/) covers the readings and where to take them.
+
 ---
 
 ## Replacing Caulk: When Cleaning Fails

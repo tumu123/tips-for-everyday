@@ -49,6 +49,8 @@ This is why water heating is usually among the largest electricity or gas expens
 
 **Scale and sediment.** In hard water areas, higher temperatures accelerate mineral scale formation on heating elements and at the bottom of the tank. Scale insulates the element from the water, which makes the heater less efficient and shortens its life. This is an argument for the lower end that is independent of the energy bill.
 
+A heater that runs but delivers nothing has a different fault from one that is silent — [why a heater stops making hot water](/fix-it/appliances/water-heater-no-hot-water/) follows the symptom rather than the brand.
+
 ---
 
 ## 2. The Scald Side of the Tradeoff

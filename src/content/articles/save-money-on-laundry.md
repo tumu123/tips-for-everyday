@@ -149,6 +149,8 @@ A washing machine uses roughly the same amount of water and energy per cycle reg
 
 The answer depends on how you heat water and how you run the tap — [whether the dishwasher or hand washing costs less](/save-money/bills/dishwasher-vs-hand-washing-cost/) does the arithmetic.
 
+Load balance, levelling, and worn suspension all produce the same complaint — [a washer that will not spin or walks across the floor](/fix-it/appliances/washer-wont-spin-or-walks/) separates them before you order a part.
+
 ---
 
 ## 6. Maintain the Machine
@@ -161,6 +163,8 @@ A well-maintained machine uses less energy and lasts longer.
 4. **Clean the washing machine drain filter quarterly** (front-loaders).
 5. **Check hoses annually** for cracking or bulging.
 6. **Level the machine.** An unbalanced machine vibrates, which wears bearings and can require expensive repair.
+
+Bailing the drum out is a stopgap and not a fix — [standing water in the drum](/fix-it/appliances/washing-machine-wont-drain/) covers the filter, the hose, the standpipe, and the pump in that order.
 
 ---
 

@@ -118,6 +118,8 @@ With the filter out, look into the recess it came from. This is the sump.
 
 Do not pour water aggressively into the sump. It is designed to hold water, but you do not want to push debris into the pump.
 
+A quarter inch above the sump is designed retention and a pool is not — [water left in the bottom of a dishwasher](/fix-it/appliances/dishwasher-leaves-water-in-bottom/) separates the two before anyone buys a pump.
+
 ---
 
 ## Step 5: Clean the Door Seal and the Door Edge

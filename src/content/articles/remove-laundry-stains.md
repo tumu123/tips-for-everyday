@@ -172,6 +172,8 @@ Getting this right prevents most failures. Stains fall into five chemical famili
 - **Do not iron a stained item.** Ironing sets the stain and can scorch it permanently.
 - **Check before the dryer, every time.** A thirty-second inspection at the machine prevents most permanent stains.
 
+A blown thermal fuse is reporting an airflow problem rather than causing one — [why a dryer runs cold](/fix-it/appliances/dryer-not-heating/) covers the order that stops it blowing again.
+
 ---
 
 ## Why This Works

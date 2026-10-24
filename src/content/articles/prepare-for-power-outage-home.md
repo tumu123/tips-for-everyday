@@ -162,6 +162,8 @@ When the power comes back, the sequence matters as much as the prep:
 5. **Check the sump pit** and the basement for water before assuming all is well.
 6. **Restart the water heater only after it is full** if you drained anything; a dry element burns out in seconds.
 
+The red release cord disconnects the door from the opener, which is the most common cause of a motor running with nothing moving — [a garage door that will not open](/fix-it/appliances/garage-door-wont-open/) covers that and the sensor checks.
+
 ## Why This Works
 
 The plan is built on a timeline rather than a list, so every purchase maps to a specific hour of loss. A thermometer covers hour four, a sump backup covers hour one, a generator or drained pipes cover hour twelve, and medication covers hour forty-eight.

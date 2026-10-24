@@ -152,6 +152,8 @@ Repair isn't always the right call. Replace when:
 
 **The cost comparison:** a cartridge typically costs a modest amount; a mid-range faucet costs substantially more but includes new supply lines and a warranty. If you've replaced the cartridge once and the faucet leaks again within a year, replacement is usually the better value.
 
+Sort the job by what it costs to get wrong rather than by how hard it looks — [deciding whether a repair is DIY or a professional job](/fix-it/home-repair/diy-or-call-a-professional/) applies that rule to twenty common repairs.
+
 ---
 
 ## Why This Matters Financially

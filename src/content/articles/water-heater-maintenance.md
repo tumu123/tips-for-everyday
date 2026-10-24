@@ -199,6 +199,8 @@ Maintenance extends life, but a failing tank should be replaced before it floods
 4. **Drain the tank** to reduce the volume of water that can escape.
 5. **Call a plumber.**
 
+Before booking a service call, work the symptom — [diagnosing no hot water](/fix-it/appliances/water-heater-no-hot-water/) separates a breaker or pilot failure from a dip tube or a crossover that only looks like a dead heater.
+
 ---
 
 ## Step 6: A maintenance calendar

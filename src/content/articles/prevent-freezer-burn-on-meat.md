@@ -124,6 +124,8 @@ The pattern is simple: **the more fat and the more surface area, the shorter the
 
 **About parasites:** home freezing does not reliably kill parasites in pork or wild game the way commercial deep-freezing does. If you're freezing wild-caught fish for raw consumption, follow the FDA standard — 7 days at −4°F (−20°C) or 15 hours at −31°F (−35°C).
 
+Frost on the freezer back wall is the tell for a defrost failure — [a refrigerator that loses the fridge side only](/fix-it/appliances/refrigerator-not-cold-freezer-fine/) covers the 24-hour test that confirms it without tools.
+
 ## Step 6: Thaw in a way that keeps the juices in
 
 You can freeze perfectly and still ruin the meat on the counter.
