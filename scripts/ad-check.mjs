@@ -3,13 +3,18 @@
  *
  * 用法：
  *   NODE_PATH="C:/Users/tumu1/.workbuddy/binaries/node/workspace/node_modules" \
- *   node scripts/ad-check.mjs [url] [--width=1440]
+ *   node scripts/ad-check.mjs [url] [--width=1440] [--no-scroll]
  *
  * 判定要点：
  *   - display=none 或容器宽高为 0  → 实现问题，AdSense 不会发请求
  *   - 有 pagead/ads 请求但 data-ad-status=unfilled → 请求到了 Google，是投放侧问题
  *     （地域、账号状态、广告单元新建未生效），不要去改 CSS
- *   - data-ad-status 一直是 null 且没有请求 → 该单元没被 push 或同 slot 去重
+ *   - 该位没有 slotname 请求 → 才是真的没被 push / 被同页去重
+ *
+ * 重要（2026-10-24 修正）：
+ *   必须逐屏滚动。AdSense 对可视区外的单元启用懒加载，不滚动就永远不发请求，
+ *   会让正文中部的单元被误判成「没被 push」。旧版不滚动，曾据此错误得出
+ *   「③ 无请求、应当删除」的结论；滚动后实测 ③ 请求正常。
  */
 import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
@@ -19,6 +24,7 @@ const args = process.argv.slice(2);
 const url = args.find((a) => !a.startsWith('--')) || 'https://tips-for-everyday.com/';
 const widthArg = args.find((a) => a.startsWith('--width='));
 const width = widthArg ? Number(widthArg.split('=')[1]) : 1440;
+const doScroll = !args.includes('--no-scroll');
 
 const browser = await chromium.launch({ headless: true });
 const ctx = await browser.newContext({
@@ -40,7 +46,18 @@ page.on('response', (r) => {
 await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 }).catch((e) =>
   console.log('导航失败:', e.message.slice(0, 100))
 );
-await page.waitForTimeout(15000);
+await page.waitForTimeout(8000);
+
+// 逐屏滚动到页底再回到顶部，触发正文中部单元
+if (doScroll) {
+  const h = await page.evaluate(() => document.body.scrollHeight);
+  for (let y = 0; y < h; y += 700) {
+    await page.evaluate((v) => window.scrollTo(0, v), y);
+    await page.waitForTimeout(2500);
+  }
+  await page.evaluate(() => window.scrollTo(0, 0));
+  await page.waitForTimeout(5000);
+}
 
 const r = await page.evaluate(() => {
   const slots = [...document.querySelectorAll('.ad-slot')].map((d, i) => {
@@ -62,34 +79,48 @@ const r = await page.evaluate(() => {
   return { slots, total: document.querySelectorAll('.ad-slot').length };
 });
 
-console.log(`\n页面 ${url}  （视口 ${width}px）`);
+// 按 slotname 汇总请求，判定「真的没发请求」还是「发了但没填充」
+const perSlot = new Map();
+for (const q of adReqs) {
+  if (!/pagead\/ads\?/.test(q.u)) continue;
+  const m = q.u.match(/[?&]slotname=([^&]*)/);
+  if (!m) continue;
+  perSlot.set(m[1], (perSlot.get(m[1]) || 0) + 1);
+}
+
+console.log(`\n页面 ${url}  （视口 ${width}px${doScroll ? '，已滚动触发懒加载' : '，未滚动'}）`);
 console.log(`广告位 ${r.total} 个\n`);
-console.log('  #  格式        slot          display  尺寸        push  ad-status   iframe');
+console.log('  #  格式        slot          尺寸       push  ad-status  iframe  请求');
 for (const s of r.slots) {
+  const n = perSlot.get(String(s.slot)) || 0;
   console.log(
-    `  ${String(s.i).padEnd(2)} ${s.fmt.padEnd(11)} ${String(s.slot).padEnd(13)} ` +
-      `${String(s.display).padEnd(8)} ${String(s.w + 'x' + s.h).padEnd(10)} ` +
-      `${String(s.pushed).padEnd(5)} ${String(s.status).padEnd(9)} ${s.ifr}`
+    `  ${String(s.i).padEnd(2)} ${s.fmt.padEnd(11)} ${String(s.slot).padEnd(12)} ` +
+      `${String(s.w + 'x' + s.h).padEnd(9)} ${String(s.pushed).padEnd(5)} ` +
+      `${String(s.status).padEnd(9)} ${String(s.ifr).padEnd(6)} ${n}`
   );
 }
 
 const adsReqs = adReqs.filter((x) => /pagead\/ads\?/.test(x.u));
 const loader = adReqs.filter((x) => /adsbygoogle\.js/.test(x.u));
 console.log(`\nadsbygoogle.js: ${loader.length ? loader[0].s : '未加载'}`);
-console.log(`pagead/ads 请求: ${adsReqs.length} 条`);
-for (const q of adsReqs.slice(0, 8)) {
-  const p = q.u.match(/[?&](h|slotname|num_ads)=([^&]*)/g) || [];
-  console.log(`  ${q.s} ${p.join(' ')}`);
-}
+console.log(`pagead/ads 请求: ${adsReqs.length} 条（分布在 ${perSlot.size} 个 slotname）`);
 
 const hidden = r.slots.filter((s) => s.display === 'none' || s.w === 0 || s.h === 0);
 const unfilled = r.slots.filter((s) => s.status === 'unfilled');
-const noStatus = r.slots.filter((s) => s.status === null || s.status === undefined);
+const noReq = r.slots.filter((s) => !(perSlot.get(String(s.slot)) > 0));
+const noIframe = r.slots.filter((s) => s.ifr === 0);
+
 console.log('\n判定：');
 if (hidden.length) console.log(`  ✗ ${hidden.length} 个广告位不可见或尺寸为 0 —— 实现问题，检查 CSS`);
-if (unfilled.length && adsReqs.length)
-  console.log(`  ! ${unfilled.length} 个已发请求但 unfilled —— 投放侧问题（地域/账号/单元未生效），改 CSS 无用`);
-if (noStatus.length) console.log(`  ! ${noStatus.length} 个始终没有 ad-status —— 没被 push 或同 slot 去重`);
-if (!hidden.length && !unfilled.length && !noStatus.length) console.log('  ✓ 全部已填充');
+if (noReq.length)
+  console.log(
+    `  ✗ ${noReq.length} 个位没有发出任何请求 —— 实现问题（未 push / 同页去重）：${noReq.map((s) => s.slot).join(', ')}`
+  );
+if (!noReq.length && !hidden.length) console.log('  ✓ 全部广告位都已发出请求，实现层正常');
+if (unfilled.length === r.slots.length && adsReqs.length)
+  console.log(`  ! 全部 ${unfilled.length} 个位 unfilled —— 整页零填充，几乎一定是地域/账号问题（如在不受支持的地区访问），不是代码问题`);
+else if (unfilled.length)
+  console.log(`  ! ${unfilled.length} 个位 unfilled —— 投放侧问题（地域/账号/单元未生效），改 CSS 无用`);
+if (noIframe.length) console.log(`  ! ${noIframe.length} 个位没有 iframe —— 请求未返回渲染结果`);
 
 await browser.close();
