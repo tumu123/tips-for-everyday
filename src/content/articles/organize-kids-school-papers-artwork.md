@@ -51,6 +51,8 @@ Set up a three-slot landing zone at the door or in the kitchen — a shallow tra
 
 The slots work because the decision happens in three seconds at the moment of arrival, not in a two-hour session in June. The "everything else" slot gets emptied into recycling weekly, and that alone removes 80% of the volume before it ever becomes a storage question.
 
+The landing zone is where the school year’s volume actually arrives. For the rest of the week-before setup — entry, laundry, timeline, paperwork — see [the back-to-school home reset](/seasonal/seasons/back-to-school-home-reset/).
+
 ## Step 2: Apply the one-year test, not the "is it good" test
 
 The instinct when sorting artwork is aesthetic: *is this a good drawing?* That question is unanswerable in the moment and produces a keep pile of everything, because every drawing is evidence of a stage.

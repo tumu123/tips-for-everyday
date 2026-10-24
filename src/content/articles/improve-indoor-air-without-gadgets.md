@@ -97,6 +97,8 @@ Two practical points. **MERV 13 is the practical ceiling for most homes** — pu
 
 **A box fan with a filter is real, but modest.** A 20-inch box fan with a MERV 13 filter taped to the intake produces a measurable reduction in a single closed room. It is loud and it is ugly, and its clean air delivery rate is a fraction of a purpose-built unit — but for one bedroom during wildfire season it does work, and it costs about $40.
 
+Filtration is the third layer, and it only works if the first two are already in place. For the smoke-specific sequence — sealing, recirculation, one clean room — see [how to keep wildfire smoke out of the house](/seasonal/seasons/keep-wildfire-smoke-out/).
+
 ## Layer 4: The Two Things That Get Oversold
 
 **Houseplants.** The famous NASA study that plants clean indoor air was conducted in sealed chambers with no air exchange, using volatile compounds at concentrations far above anything in a home. Scaling the result to a real room requires something in the range of hundreds of plants per square meter to match even a weak mechanical filter. Plants are good for other reasons; air purification is not one of them. If you like them, keep them — just do not count them.

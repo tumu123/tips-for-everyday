@@ -106,6 +106,8 @@ Pick a room with these properties: no plumbing in exterior walls, a door that cl
 - **Crack a window slightly** if using an unvented fuel heater, and keep a battery CO alarm in the room.
 - **Never bring a grill, camp stove, or generator indoors**, including the garage. This is the single most common fatal mistake in outages, and it happens most often in the first night.
 
+The one-room heat plan is what carries a household through an outage. For the version with no mechanical cooling, including the signs that mean act now, see [keeping a house safe in extreme heat](/seasonal/seasons/extreme-heat-without-ac/).
+
 ## Step 6: Get the generator rules exactly right
 
 A generator is the difference between a nuisance and a disaster, and the difference is entirely in the setup.

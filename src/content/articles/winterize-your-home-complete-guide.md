@@ -95,6 +95,8 @@ For the full method including what to do if a pipe has already frozen, see [How 
 
 A hose bib that drips indoors every spring has usually split behind the wall — see [an outdoor faucet that leaks after a freeze](/fix-it/plumbing/fix-outdoor-faucet-leaking-winter/) before the next freeze.
 
+The plumbing steps are the expensive ones on this list. For the 48-hour sequence that covers the garden, the hoses, and the faucets in the right order, see [the first frost checklist](/seasonal/seasons/first-frost-checklist/).
+
 ## Step 4: Deal with the roof and attic heat
 
 This is the ice dam sequence, and it must be done in order.

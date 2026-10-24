@@ -100,6 +100,8 @@ Shared bins fail. Assigned bins work.
 4. **Put them on a shelf at a height the youngest user can reach**, or on the floor if the zone is on the floor.
 5. **The bin is a daily capacity limit.** When it is full, it gets emptied — that is the mechanism, not an inconvenience.
 
+One bin per person is the right starting point. For what else has to change before the first morning, including the paperwork route, see [the back-to-school home reset](/seasonal/seasons/back-to-school-home-reset/).
+
 ---
 
 ## Step 4: Add a Shoe Tray With a Deliberate Capacity

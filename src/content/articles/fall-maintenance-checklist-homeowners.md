@@ -106,6 +106,8 @@ Premiums move with the roof, the claims history, and the deductible — [lowerin
 
 An inch of rain on a roof is hundreds of gallons — [fall gutter and yard cleanup](/seasonal/seasons/fall-yard-and-gutter-cleanup/) covers the drainage order.
 
+Tier 1 of this list is the first freeze. For the night-before sequence, and the hose bib that fails when it is skipped, see [the first frost checklist](/seasonal/seasons/first-frost-checklist/).
+
 ---
 
 ## Tier 2: Before the first hard freeze

@@ -127,6 +127,8 @@ Routines don't survive being rebuilt all at once. Stack them.
 5. **Expect the first week to be uneven.** Missing a day isn't failure; abandoning the attempt is.
 6. **Make the first step trivial.** A five-minute version that happens beats a thirty-minute version that doesn't.
 
+Rebuilding routines one at a time works better than a single relaunch. For the version built around the school calendar, see [the back-to-school home reset](/seasonal/seasons/back-to-school-home-reset/).
+
 ## Step 6: Handle the emotional side honestly
 
 The post-holiday period has a real and well-documented dip for many people, and acknowledging it is more useful than pushing through.

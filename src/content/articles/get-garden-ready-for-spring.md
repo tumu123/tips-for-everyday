@@ -66,6 +66,8 @@ Clear the debris, but resist cutting everything back the moment it looks messy.
 5. **Prune summer-flowering shrubs** (hydrangea paniculata, roses, butterfly bush) in early spring — they bloom on new growth, so cutting back is beneficial.
 6. **Cut back ornamental grasses and perennials** to 2 to 4 inches once you see new growth at the base. That new growth is your signal it's safe.
 
+Frost damage gets assessed in spring, not cut back in autumn. For what to do in the 48 hours before it arrives, see [the first frost checklist](/seasonal/seasons/first-frost-checklist/).
+
 ## Step 3: Feed the soil, not the plants
 
 Spring is the right time to build soil, not to push growth.

@@ -132,6 +132,8 @@ The condensate line is the season’s biggest service call — [summer maintenan
 
 Cooling is the load that moves most in summer, and a system that lost capacity shows up on the bill before it shows up in comfort — [a bill that rose with the temperature](/save-money/bills/why-electric-bill-jumped/) covers how to tell that apart from a hot month.
 
+Getting more from the AC is the comfortable answer. For the version with no AC at all, and the point at which a fan stops helping, see [keeping a house safe in extreme heat](/seasonal/seasons/extreme-heat-without-ac/).
+
 ---
 
 ## Priority 5: Cut the Heat You Generate Indoors

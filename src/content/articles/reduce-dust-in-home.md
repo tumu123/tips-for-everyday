@@ -89,6 +89,8 @@ The heating and cooling system is a dust mover, and a poorly sealed filter is th
 
 The duct and filter path is one of four layers, and it is the last one that matters — [the same problem before the filter stage](/home-hacks/cleaning/improve-indoor-air-without-gadgets/) covers the source-control and ventilation layers that come before it.
 
+The HVAC path matters for dust day to day; during a smoke event it becomes the main defence. For how to run it, and which fans to switch off, see [how to keep wildfire smoke out of the house](/seasonal/seasons/keep-wildfire-smoke-out/).
+
 ---
 
 ## 4. Control Humidity and Air Movement

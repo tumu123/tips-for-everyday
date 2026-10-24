@@ -61,6 +61,8 @@ The openings are ranked by area, and the biggest one is the one people forget.
 
 Cut and label the plywood **before** the season, in dry weather, and store it with the anchors in a labeled bundle. Every year, people cut plywood in 40 mph wind with a line at the hardware store, and every year some of them get hurt doing it.
 
+Securing the openings is the same work a smoke event demands, in a different order. For the smoke version, including the exhaust fans that undo it, see [how to keep wildfire smoke out of the house](/seasonal/seasons/keep-wildfire-smoke-out/).
+
 ## Step 3: Fix the roof-to-wall connection if you can
 
 This is the structural difference between a house that loses shingles and a house that loses its roof. In older homes, roof trusses are often attached with a few nails rather than hurricane straps.
@@ -144,6 +146,8 @@ Write the plan down: where you go, which route, who drives, what comes with you,
 4. **Assume tap water is unsafe** until the utility says otherwise. Boil or use bottled.
 5. **Run a generator outdoors only**, 20 feet from openings, and expect CO cases to spike in the days after landfall.
 6. **Remove wet drywall and insulation within 48 hours** to prevent mold. The clock on mold starts when the water leaves, not when the storm does.
+
+The days after a storm are often both the hottest and the most powerless. For the heat-safety side of that, see [keeping a house safe in extreme heat](/seasonal/seasons/extreme-heat-without-ac/).
 
 ## Why This Works
 
