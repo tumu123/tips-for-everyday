@@ -165,6 +165,8 @@ Out-of-season produce is expensive because it has to be shipped or grown in heat
 
 **On frozen:** Frozen vegetables and fruit are picked at peak ripeness and are nutritionally comparable to fresh, often at lower cost and with no waste. They are a legitimate money-saving choice, not a compromise.
 
+Buying in season lowers the cost of everything you cook in bulk. For turning those components into five different dinners instead of five identical ones, see [how to meal prep for the week](/kitchen-tips/cooking-hacks/meal-prep-a-week/).
+
 ---
 
 ## 8. Shop Sales Strategically (Not Obsessively)

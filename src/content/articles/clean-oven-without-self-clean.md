@@ -156,6 +156,8 @@ The foil caution is about airflow rather than chemistry. An oven is designed for
 
 The most useful practical conclusion is about matching intensity to residue. A light film comes off with an overnight paste. A thick carbonised floor needs strong alkali or mechanical removal. Applying the weak method to the heavy job and compensating with scrubbing is how people scratch enamel and conclude that the method does not work.
 
+An oven and an air fryer fail the same way for the same reason: grease on the element, and a cavity that nobody cleans often enough. See [what an air fryer actually does](/kitchen-tips/equipment/what-an-air-fryer-actually-does/) for the appliance side of it.
+
 ---
 
 ## What NOT to Do

@@ -131,6 +131,8 @@ These foods can carry pathogens with no warning signs. For them, time and temper
 
 **The two-hour rule** is the single most useful safety rule in a home kitchen, and it exists precisely because you cannot smell these pathogens. Food in the temperature danger zone — **40°F to 140°F (4°C to 60°C)** — for more than two hours should be discarded. That is cumulative time, not a single unbroken stretch.
 
+Inspection tells you about spoilage, not safety. For the temperatures that decide whether the food was safe in the first place, see [safe cooking temperatures](/kitchen-tips/cooking-hacks/safe-cooking-temperatures/).
+
 ---
 
 ## Step 4: Learn the specific spoilage signs by food

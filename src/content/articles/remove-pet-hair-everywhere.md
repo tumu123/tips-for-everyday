@@ -36,7 +36,7 @@ A hair is a short protein fiber. It works its way into a woven or tufted surface
 
 What works is **mechanical**: something that grabs the hair and pulls it out against the direction it went in. It also helps to know which pet problem you have, because hair and [urine stains in carpet](/home-hacks/stains/remove-pet-urine-stains-carpet/) look related and need opposite approaches — one mechanical, one chemical. Four tools do that at scale. Everything else is a slower version of one of those four.
 
-## The Four Tools, Ranked by Throughput
+## Step 1: The Four Tools, Ranked by Throughput
 
 | Tool | Best surface | Why it works | Cost |
 |---|---|---|---|
@@ -48,7 +48,7 @@ What works is **mechanical**: something that grabs the hair and pulls it out aga
 
 Note what is missing: **no spray, no "pet hair magnet" liquid, no fabric softener trick**. Water and surfactant do not remove hair, and adding liquid makes the hairs cling to the fabric harder and mat into the weave.
 
-## The Order Matters More Than the Tool
+## Step 2: The Order Matters More Than the Tool
 
 On carpet, the sequence is:
 
@@ -60,7 +60,7 @@ Reversing steps 1 and 2 is the most common mistake. A vacuum's brush roll gets b
 
 **On upholstery**, the order is glove, then vacuum with the upholstery tool, then glove again for the last pass. The glove pass is what finds the hair the vacuum left pressed into the seams.
 
-## Carpet and Rugs
+## Step 3: Carpet and Rugs
 
 The squeegee method, in detail:
 
@@ -75,7 +75,7 @@ One pass over a 12-by-15 room takes about ten minutes and removes the majority o
 
 **Rubber broom trick:** a plain rubber-bristled broom, used dry, does the same job on large area rugs and is faster than a hand squeegee. Push in one direction, sweep the line into a dustpan.
 
-## Sofas, Cushions, and Mattresses
+## Step 4: Sofas, Cushions, and Mattresses
 
 Fabric sofas hold hair in the weave and in the seams.
 
@@ -87,7 +87,7 @@ Fabric sofas hold hair in the weave and in the seams.
 
 For a mattress, the [mattress deep clean routine](/home-hacks/cleaning/deep-clean-mattress/) covers the full process; the hair-specific part is a gloved hand pass and then vacuuming with the upholstery attachment before any baking soda goes down. Baking soda over hair turns into a gritty paste that is harder to vacuum out.
 
-## Bedding, Clothes, and Laundry
+## Step 5: Bedding, Clothes, and Laundry
 
 This is where the dryer trick pays for itself.
 
@@ -104,7 +104,7 @@ Why this works: dry hair and dry fabric generate static, and static makes hair c
 
 **For clothing that is already clean but hairy**, a lint roller in a fixed place near the door is more effective than any gadget, because the limiting factor is remembering to do it. A rubber glove pass over a jacket works as well as a roller and never runs out of sheets.
 
-## Cars
+## Step 6: Cars
 
 Car upholstery is the hardest surface because the fabric is dense and the hair is pressed in by body weight.
 
@@ -113,7 +113,7 @@ Car upholstery is the hardest surface because the fabric is dense and the hair i
 3. **Rubber gloves** for the seats, working along the seams where hair collects.
 4. **Do not use water** until the hair is gone. A damp seat holds hair like Velcro and you will not get it out afterward.
 
-## Prevention Is Cheaper Than Removal
+## Step 7: Prevention Is Cheaper Than Removal
 
 The volume of hair on your floors is a function of how much is on the animal, not how much it sheds.
 

@@ -175,6 +175,8 @@ Manufacturer dates tell you something, but your own date tells you more. Two hab
 
 Then keep a printed copy of these tables taped inside a cabinet door. The reference is only useful if it is reachable while you are holding the container.
 
+Dating your own food is only half the record. For what the clock is actually measuring — and why four hours is the point of no return — see [the temperature danger zone](/kitchen-tips/food-storage/temperature-danger-zone/).
+
 ---
 
 ## Why This Works

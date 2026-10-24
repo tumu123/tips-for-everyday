@@ -134,6 +134,8 @@ Sharpening a knife and then mistreating it is wasted effort. These habits keep a
 - **Do not use a chef's knife for opening packages or cutting on hard surfaces.** That is what a utility knife is for.
 - **Hone every few uses**, before the edge gets noticeably dull.
 
+A sharp knife and the right pan are the same kind of decision. For the pans, and the conductivity numbers that explain why copper responds and steel does not, see [the cookware material guide](/kitchen-tips/equipment/cookware-material-guide/).
+
 ---
 
 ## Why This Works

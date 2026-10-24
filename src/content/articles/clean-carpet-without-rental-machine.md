@@ -38,7 +38,7 @@ Carpet is not a single surface. It is a pile of face fiber over a primary backin
 
 So the goal is not "clean the carpet." The goal is **clean the carpet and have it dry before anything grows**. That is achievable without a rental machine, and in most homes it is the better result.
 
-## First: Decide Whether This Is a Cleaning Job at All
+## Step 1: Decide Whether This Is a Cleaning Job at All
 
 Three situations where DIY cleaning makes things worse, not better:
 
@@ -48,7 +48,7 @@ Three situations where DIY cleaning makes things worse, not better:
 
 Everything else — traffic lanes, dull color, general dinginess, a single spilled drink — is within reach.
 
-## Why Vacuuming Is 80% of the Result
+## Step 2: Why Vacuuming Is 80% of the Result
 
 Most of what makes a carpet look dirty is dry particulate sitting between the fibers: soil tracked in from outside, skin cells, pet dander, fiber fragments from the carpet itself. Dry soil is removable without any liquid at all, and every particle you remove before wetting is a particle that does not turn into mud. The source-control logic behind [reducing dust in a home](/home-hacks/cleaning/reduce-dust-in-home/) applies here too: what never settles never has to be extracted.
 
@@ -59,7 +59,7 @@ The mistake is vacuum speed. A quick pass at walking pace removes surface litter
 
 If your vacuum has no beater bar (most canisters and stick vacuums), borrow or rent a vacuum with one for this job, or budget for a turbine head. Suction alone does not lift soil from the base of a cut-pile carpet.
 
-## The Low-Moisture Method
+## Step 3: The Low-Moisture Method
 
 The principle is simple: apply the smallest amount of liquid that will suspend the soil, work it in mechanically, then remove it. Water is a carrier, not a cleaner.
 
@@ -81,7 +81,7 @@ Per section, that is roughly five minutes. A 12-by-15-foot room is 20 sections �
 
 **For traffic lanes specifically**, a rubber squeegee pulled in one direction is more effective than a brush. It is the same tool that [lifts pet hair out of a carpet](/home-hacks/cleaning/remove-pet-hair-everywhere/), used on the same matted pile. It lifts matted pile and collects hair and fiber into a roll you can pick up. Do this before any liquid goes down.
 
-## The Foam Method for Heavily Soiled Areas
+## Step 4: The Foam Method for Heavily Soiled Areas
 
 For a dull traffic lane where the low-moisture method leaves color behind, foam gives more dwell time without soaking the pad.
 
@@ -102,7 +102,7 @@ This works well on wool and on cut pile. Do not use it on loop pile (sisal, Berb
 
 If you want a dry pre-treatment for odor, use a dedicated carpet powder designed to be fully vacuumed, apply it sparingly, wait the labeled time, and vacuum twice. Do not improvise with baking soda and leave it for a day.
 
-## Drying: The Part That Decides Success
+## Step 5: Drying - The Part That Decides Success
 
 Drying is not a passive step. It is the difference between a clean carpet and a musty one, and it is where rental machines and DIY both fail.
 
@@ -118,7 +118,7 @@ Drying is not a passive step. It is the difference between a clean carpet and a 
 
 **The test:** press a dry white paper towel into the carpet with your palm for ten seconds. If the towel feels cool and damp, it is not dry, no matter what the surface feels like underfoot. Repeat the airflow for another few hours.
 
-## The Stains That Are Not Dirt
+## Step 6: The Stains That Are Not Dirt
 
 Two marks on carpet are commonly mistaken for soil and cannot be cleaned the same way.
 
@@ -138,7 +138,7 @@ Two marks on carpet are commonly mistaken for soil and cannot be cleaned the sam
 
 The interval that matters more is the vacuuming interval — weekly for most homes, twice weekly for households with pets or allergies. Deep cleaning a carpet that is vacuumed weekly lasts far longer than the reverse.
 
-## When to Call a Professional
+## Step 7: When to Call a Professional
 
 Not because DIY cannot work, but because three things are genuinely outside the reach of consumer equipment:
 

@@ -202,6 +202,8 @@ The temperature distinction explains why so many people conclude "soaking doesn'
 | Replace charcoal filter | Every 3–6 months |
 | Inspect duct and exterior vent | Every 6 months |
 
+A hood filter catches what cooking throws off. For the appliance that produces a surprising share of it — and the reason its element is what eventually smokes — see [what an air fryer actually does](/kitchen-tips/equipment/what-an-air-fryer-actually-does/).
+
 ---
 
 ## FAQ

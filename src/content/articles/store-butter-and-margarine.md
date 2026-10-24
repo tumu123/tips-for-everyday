@@ -150,6 +150,8 @@ Margarine and butter blends are emulsions with substantially more water than but
 
 The one thing to be strict about: **butter that smells like the fridge is not spoiled, but it is ruined for spreading.** Use it for cooking, and wrap the next stick better.
 
+Butter temperature is one of the variables that decides whether a bake works at all. For what each failure looks like, and which variable to change first, see [why your baking failed](/kitchen-tips/cooking-hacks/why-baking-failed/).
+
 ---
 
 ## Why This Works

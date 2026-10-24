@@ -125,6 +125,8 @@ Note the parallel risk: these products don't just get buggy, they go off. Whole 
 
 The oils in nuts and whole grains go rancid at room temperature — [storing nuts, seeds and flour](/kitchen-tips/food-storage/store-nuts-seeds-and-flours/) covers the freezer cases.
 
+Flour that has sat for years behaves differently in a cake as well as in a jar. For the measurement problem first, and the failures that follow from it, see [why your baking failed](/kitchen-tips/cooking-hacks/why-baking-failed/).
+
 ## Step 7: Handle the "already infested" cases honestly
 
 Some things can be salvaged; most aren't worth it.

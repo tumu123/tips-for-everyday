@@ -150,6 +150,8 @@ Cooked rice is a documented food-poisoning risk, and the mechanism is worth know
 - **Eat within 2 days.** Reheat once, until steaming hot all the way through, and do not reheat the same portion twice.
 - **Cold rice is better for frying** — the surface dries out in the fridge, so the grains stay separate instead of steaming into a paste.
 
+Rice has a storage rule and a cooking rule, and only one of them is about time. For the temperature side, including why 165°F is the number for reheating, see [safe cooking temperatures](/kitchen-tips/cooking-hacks/safe-cooking-temperatures/).
+
 ---
 
 ## Why This Works

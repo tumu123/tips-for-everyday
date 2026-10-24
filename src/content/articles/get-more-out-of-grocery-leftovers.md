@@ -84,6 +84,8 @@ Adding a different sauce to the same plate doesn't fix leftover fatigue. Changin
 
 The principle: **the carrier contributes texture, temperature, and cuisine.** Rice is neutral and absorbs; a tortilla is handheld and fresh; eggs bind and set; stock transforms solid into liquid.
 
+Changing the carrier is the same principle a component system runs on. For the week-sized version, where the sauces do most of the work, see [how to meal prep for the week](/kitchen-tips/cooking-hacks/meal-prep-a-week/).
+
 ## Step 3: Turn bones, peels and stems into stock
 
 The highest-value leftover in most kitchens is the one people throw away.

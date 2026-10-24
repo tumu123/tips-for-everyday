@@ -153,6 +153,8 @@ The freezer is the single most effective waste-prevention tool in a kitchen, and
 
 **Two habits that make it work:** label everything with contents and date, and keep a list on the freezer door. An unlabeled frozen item is waste with extra steps.
 
+A freezer full of portions starts with a pot that can turn cheap cuts into something worth freezing. For that choice — including the size most households get wrong — see [slow cooker vs Instant Pot](/kitchen-tips/equipment/slow-cooker-vs-instant-pot/).
+
 ---
 
 ## Step 6: Plan Loosely, Not Rigidly

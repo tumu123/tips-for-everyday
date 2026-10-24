@@ -98,6 +98,8 @@ That's the signal that the loaf is at the end of its useful life. At that point:
 
 Reviving buys one to three extra rounds, not indefinite life.
 
+Reviving is the rescue; prevention is the other half. For the diagnosis chart — gummy, dense, collapsed — and which of those heat cannot fix, see [why your baking failed](/kitchen-tips/cooking-hacks/why-baking-failed/).
+
 ## Step 6: Re-crisp chips, crackers and cereal
 
 Soft chips need the opposite treatment: heat with moisture driven off.

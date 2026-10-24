@@ -34,7 +34,7 @@ A pillow that has been slept on for two years weighs roughly 10% more than it di
 
 Washing it is straightforward — for some fillings. For others it is a destructive act that ruins the pillow in one cycle. So the first decision is not "how" but "whether," and that depends entirely on what is inside.
 
-## The Filling Decision Tree
+## Step 1: The Filling Decision Tree
 
 | Filling | Machine wash? | Dryer? | Notes |
 |---|---|---|---|
@@ -50,7 +50,7 @@ The two hard nos are memory foam and latex. Both are solid foam, and foam plus m
 
 Buckwheat and hull pillows are a category people get wrong. The shell is washable but the filling is not, so they have to be emptied into a bag first, and the hulls should be sun-dried rather than washed.
 
-## How Often, by Household
+## Step 2: How Often, by Household
 
 The generic advice — every six months — is a reasonable average that is wrong for both ends of the range.
 
@@ -65,7 +65,7 @@ The generic advice — every six months — is a reasonable average that is wron
 
 The pillowcase is changed weekly and that handles the surface. What accumulates below it is why the protector matters: a zippered pillow protector under the pillowcase cuts the washing frequency roughly in half, because it is a barrier you can wash far more easily than the pillow itself.
 
-## Before You Wash: The Two-Minute Check
+## Step 3: Before You Wash - The Two-Minute Check
 
 Three things to check before the pillow goes in the machine.
 
@@ -75,7 +75,7 @@ Three things to check before the pillow goes in the machine.
 
 **3. Does it smell?** A sour or musty smell that persists after airing for a day means microbial growth inside the filling. That is the same problem as [mildew smell in laundry](/home-hacks/laundry/remove-mildew-smell-laundry/), with the same rule: you cannot rinse a smell out of a filling that never dried. Washing may help a polyester pillow; for foam it means replacement, because the growth is inside the cells.
 
-## Washing Polyester and Down-Alternative Pillows
+## Step 4: Washing Polyester and Down-Alternative Pillows
 
 The easy category, and the one most pillows fall into.
 
@@ -84,7 +84,7 @@ The easy category, and the one most pillows fall into.
 - **A tablespoon of mild liquid detergent.** Not powder, which can leave granules inside the filling, and not fabric softener, which coats the fibers and reduces loft.
 - **An extra rinse.** Pillows hold detergent inside the filling more than flat fabric does, and residue makes them smell stale faster.
 
-## Washing Down Pillows
+## Step 5: Washing Down Pillows
 
 Down needs different handling, and the differences matter more than most guides admit.
 
@@ -96,7 +96,7 @@ Down needs different handling, and the differences matter more than most guides 
 
 Feather pillows are more forgiving than down but heavier, and they take longer to dry than people expect — often three hours on low.
 
-## What the Tennis Balls Actually Do
+## Step 6: What the Tennis Balls Actually Do
 
 The tennis-ball trick is repeated everywhere without the mechanism, which leads people to use it wrong.
 
@@ -110,7 +110,7 @@ Three practical points:
 
 Dryer balls (wool or rubber) work as well as tennis balls and do not have the dye-transfer risk that a cheap tennis ball does. If you use tennis balls, use new ones and check that the label says they are colorfast.
 
-## Drying Is the Whole Job
+## Step 7: Drying Is the Whole Job
 
 A pillow that is 95% dry is a pillow that will smell. This is the most common failure in the entire process.
 
@@ -140,7 +140,7 @@ Do not put a memory foam pillow in the freezer to kill dust mites. A domestic fr
 
 Similarly, sun-drying is overrated as a disinfectant. UV penetrates fabric poorly, so the benefit is drying, not sterilization.
 
-## Getting It Back Together
+## Step 8: Getting It Back Together
 
 Put the pillow through the dryer one extra cycle without balls on air-only if it still feels damp anywhere. Then reassemble in the right order: **pillow, then protector, then pillowcase**. The protector is the layer that gets washed monthly and keeps the pillow's interval at six months instead of three.
 

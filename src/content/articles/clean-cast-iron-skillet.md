@@ -130,6 +130,8 @@ The best thing for a skillet is use, particularly early on.
 - **Preheat properly.** Cast iron holds heat because it's dense, but it needs time to get there — three to five minutes over medium before adding food. Most "everything sticks" complaints are preheat problems.
 - **Store it dry.** If you stack pans, put a paper towel between them so trapped moisture doesn't create a rust spot.
 
+The pan rewards use and punishes neglect in specific ways, but the choice comes before the care routine. For which material suits which job, and why cast iron holds a sear, see [the cookware material guide](/kitchen-tips/equipment/cookware-material-guide/).
+
 ---
 
 ## Why This Works

@@ -54,6 +54,8 @@ This is why "it still felt cold in the middle" is not a safety argument. The par
 
 **Room temperature thawing maximizes that window.** Fridge thawing minimizes it by keeping even the surface below 40°F. Cold water thawing shortens it dramatically by moving heat much faster than air does.
 
+The outside thaws first and then waits. For the two-hour and four-hour thresholds, and the cooling timings that decide whether a large batch is safe, see [the temperature danger zone](/kitchen-tips/food-storage/temperature-danger-zone/).
+
 ## Step 2: Fridge thawing — the safest, slowest method
 
 This is the default and it has one big advantage: **the food never enters the danger zone at all**, so you get enormous flexibility about when you actually cook it.
@@ -116,6 +118,8 @@ Several foods cook better from frozen, and this is the most underused shortcut:
 - **Soups and sauces:** straight into the pan from frozen; the bag often slides out once slightly warmed.
 
 Not everything qualifies — a whole frozen chicken or a thick roast won't cook evenly. But for a surprising number of weeknight dinners, thawing is a step you can delete.
+
+Thawing is the step before any of that, and it has its own rules. For the numbers themselves — including why the thickest part is the only place to measure — see [safe cooking temperatures](/kitchen-tips/cooking-hacks/safe-cooking-temperatures/).
 
 ## Step 6: Understand the refreezing rule
 

@@ -37,7 +37,7 @@ Which tells you why scrubbing fails. You are not removing a film; you are trying
 
 Acid dissolves the mineral. That is the entire method. Everything else — which acid, how strong, how long — is calibration.
 
-## Which Acid, and How Strong
+## Step 1: Which Acid, and How Strong
 
 | Acid | Strength | Best for | Limitations |
 |---|---|---|---|
@@ -58,7 +58,7 @@ Acid dissolves the mineral. That is the entire method. Everything else — which
 - **Bleach.** No effect on scale, and it degrades rubber washers and O-rings.
 - **Overnight soaking of anything plated.** Vinegar left on chrome for 12 hours can dull it. Thirty to sixty minutes is the working window.
 
-## Faucets: The Aerator Is the Problem
+## Step 2: Faucets - The Aerator Is the Problem
 
 Almost every "my faucet has low pressure and white crust" complaint is the aerator — the small screw-on tip at the end of the spout. It contains a screen and a flow restrictor, and both collect scale.
 
@@ -74,7 +74,7 @@ If the aerator is seized, do not force it — a twisted spout or a cracked aerat
 
 **For a faucet that will not come apart**, tie a zip bag of vinegar around the spout with a rubber band so the tip is submerged, and leave it 45 minutes. This is the same bag method used on showerheads, at a smaller scale.
 
-## Showerheads: Bag Method or Removal
+## Step 3: Showerheads - Bag Method or Removal
 
 **If the head unscrews** (most do, hand-tight on a ball joint), take it off and soak it fully in a bowl. That is the better method because it reaches the internal channels, not just the face.
 
@@ -89,7 +89,7 @@ If the aerator is seized, do not force it — a twisted spout or a cracked aerat
 
 **Do not put a showerhead in the dishwasher.** The heat warps plastic bodies and the detergent is alkaline.
 
-## The Pressure Question
+## Step 4: The Pressure Question
 
 Low flow from a showerhead has three possible causes, and scale is only one:
 
@@ -99,7 +99,7 @@ Low flow from a showerhead has three possible causes, and scale is only one:
 
 If the whole house has low pressure, the problem is not the fixtures — it is the pressure regulator, a partially closed valve, or a clogged whole-house filter. Cleaning fixtures will not help.
 
-## Preventing the Next Layer
+## Step 5: Preventing the Next Layer
 
 Scale is a rate problem: it deposits in proportion to how long water sits on a surface and evaporates.
 

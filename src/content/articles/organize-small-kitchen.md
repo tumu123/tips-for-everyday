@@ -174,6 +174,8 @@ A deep cabinet is only useful if you can reach everything in it.
 5. **Oils and vinegars** in a dark cabinet, not on the counter near the stove — light and heat turn them rancid.
 6. **Kids' items within their reach** if applicable — cups, bowls, and snacks at child height reduces both frustration and spillage.
 
+Frequency is the right criterion for storage, and it is the right criterion for buying. For the minutes of washing per use that usually decide the answer, see [which kitchen gadgets earn their space](/kitchen-tips/equipment/kitchen-gadgets-worth-the-space/).
+
 ---
 
 ## Step 7: Maintain the System

@@ -128,6 +128,8 @@ Also relevant: keep leftovers on an **upper shelf** where they're visible and ab
 
 Change the carrier, the temperature, or the cuisine — [turning leftovers into new meals](/kitchen-tips/cooking-hacks/get-more-out-of-grocery-leftovers/) shows the pattern.
 
+A deadline written on a container is only useful if the temperature behind it is right. For the 40°F to 140°F band and the cooling method that gets food through it fast, see [the temperature danger zone](/kitchen-tips/food-storage/temperature-danger-zone/).
+
 ## Step 6: Set up zones and actually use them
 
 A system only works if it fits how you already move. Keep it simple:

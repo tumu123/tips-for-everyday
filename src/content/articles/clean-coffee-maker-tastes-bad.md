@@ -115,6 +115,8 @@ Cleaning solves today's problem; habits determine how often you need to.
 - **Store beans properly and grind fresh.** The single biggest improvement to coffee flavor isn't cleaning at all — it's beans that haven't oxidized. See [How to Store Coffee Beans](/kitchen-tips/food-storage/store-coffee-beans/).
 - **Use filtered water** to stretch the interval between descaling.
 
+A coffee maker earns its space only if it is maintained. For the wider test, including whether a second appliance is worth the square foot it takes, see [which kitchen gadgets earn their space](/kitchen-tips/equipment/kitchen-gadgets-worth-the-space/).
+
 ## Step 7: Set a realistic schedule
 
 Cleaning frequency that actually holds up:

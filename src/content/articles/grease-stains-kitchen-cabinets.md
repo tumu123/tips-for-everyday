@@ -223,6 +223,8 @@ A realistic maintenance schedule:
 
 Cabinets are only part of what aerosolised grease lands on — [walls and doors in the cooking zone](/home-hacks/cleaning/clean-walls-doors-switches/) covers the walls and doors on the same circuit, where the paint finish limits the method.
 
+Grease on a cabinet door arrived through the air, and it came off something. For the appliance that concentrates the problem within inches of the food, see [what an air fryer actually does](/kitchen-tips/equipment/what-an-air-fryer-actually-does/).
+
 ---
 
 ## FAQ

@@ -137,6 +137,8 @@ The time complaint about batch cooking is usually a sequencing problem. People c
 
 **Keep the session bounded.** Two hours with a stop time is sustainable and repeatable. A heroic six-hour Sunday is not, and it is the reason most people batch cook once.
 
+Cooking in parallel is the whole trick. For which machine suits a morning start and which suits a decision made at 6 p.m., see [slow cooker vs Instant Pot](/kitchen-tips/equipment/slow-cooker-vs-instant-pot/).
+
 ---
 
 ## Step 5: Cool and Freeze Correctly

@@ -135,8 +135,8 @@ const headerDescription = activeSubName ? pageDescription : category.description
         ))
       }
 
-      {/* 5 篇起就插：5 卡 + 1 广告正好铺满 6 格，广告不会落单在行尾 */}
-      {visible.length > 4 && (
+      {/* 4 篇起就插：首行 3 卡之后紧跟广告位，避免广告落单在行尾 */}
+      {visible.length > 3 && (
         <AdSlot slot={AD_SLOTS.listFeed} format="feed" layoutKey={AD_LAYOUT_KEYS.listFeed} />
       )}
 

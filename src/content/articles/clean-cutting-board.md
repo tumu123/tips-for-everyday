@@ -97,6 +97,8 @@ Wood is porous and absorbs liquids and oils, so bleaching or prolonged soaking i
 
 **Important safety note:** **never mix bleach and vinegar**, and never mix bleach with ammonia. Bleach plus an acid produces chlorine gas. Use one at a time, rinse in between.
 
+A board is the cheapest tool in the kitchen and the one used most. For the rest of the drawer, including the gadgets that fail the twenty-use test, see [which kitchen gadgets earn their space](/kitchen-tips/equipment/kitchen-gadgets-worth-the-space/).
+
 ---
 
 ## Step 3: Deodorize and deep clean
@@ -171,6 +173,8 @@ Cutting boards have a lifespan. Continuing to use a worn-out board is a food saf
 **How long they last:** a plastic board used daily might need replacement in a few years, sooner if you cut aggressively. A well-maintained wooden board can last decades with annual sanding and monthly oiling.
 
 **A tip for food safety:** keep raw meat work contained to one board, so the board that takes the abuse is the one you replace, not your bread board.
+
+Deciding when a board is finished is the same calculation as deciding when a pan is. For how long each material lasts, and which ones cannot take high heat, see [the cookware material guide](/kitchen-tips/equipment/cookware-material-guide/).
 
 ---
 

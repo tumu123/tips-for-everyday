@@ -35,7 +35,7 @@ Three surfaces in every home get cleaned less than once a year despite being tou
 
 The reason is not laziness. It is that people try once, leave a shiny patch on a matte wall, and conclude the wall cannot be cleaned. That conclusion is correct for the method they used and wrong for the wall. The finish decides whether you can scrub, wipe, or only dust — and almost nobody checks the finish before starting.
 
-## The Finish Test
+## Step 1: The Finish Test
 
 Paint comes in sheens, and the sheen is a measure of how much surface texture the paint has. More texture means it scatters light (matte), and it also means it traps soil and cannot be rubbed without flattening that texture — which reads as a permanent shiny spot.
 
@@ -51,7 +51,7 @@ Paint comes in sheens, and the sheen is a measure of how much surface texture th
 
 Do this before you touch a wall in a hallway, because hallway walls are almost always flat.
 
-## Order of Operations
+## Step 2: Order of Operations
 
 Cleaning a room top-down is standard advice, but for walls and doors the more useful order is dry-then-wet:
 
@@ -60,7 +60,7 @@ Cleaning a room top-down is standard advice, but for walls and doors the more us
 3. **Doors and frames before walls**, because door cleaning splashes.
 4. **Switch plates last**, with the cloth that is already damp, so you are not carrying grime from the wall onto a surface hands touch.
 
-## Walls
+## Step 3: Walls
 
 The soil on walls is specific, and it differs by height:
 
@@ -85,7 +85,7 @@ For a stubborn mark on satin or gloss, a dab of dish soap directly on the cloth,
 - **Crayon, marker, and ink come off with isopropyl alcohol** on a cloth, not with soap. Test in a hidden spot first, and on flat paint use the minimum amount.
 - **Grease near a stove or kitchen doorway** needs a degreaser, not soap — the same problem as [grease on kitchen cabinets](/home-hacks/cleaning/grease-stains-kitchen-cabinets/), and the same solution. Dish soap at higher concentration works; so does a dedicated degreaser.
 
-## Doors, Frames, and Handles
+## Step 4: Doors, Frames, and Handles
 
 Doors have three distinct zones and each needs a different approach.
 
@@ -99,7 +99,7 @@ Doors have three distinct zones and each needs a different approach.
 
 **Door handles themselves:** metal handles are the dirtiest objects in most homes. Wipe with a disinfecting wipe or a cloth with soap, then dry — a wet handle invites water spots on brushed nickel. Do not spray cleaner directly into a lock cylinder; it flushes the lubricant out.
 
-## Light Switches and Outlet Plates
+## Step 5: Light Switches and Outlet Plates
 
 Switch plates are touched more than any other surface in the house apart from handles, and they are almost never cleaned. On a white plate the grime shows as a grey halo around the toggle.
 
@@ -114,7 +114,7 @@ Switch plates are touched more than any other surface in the house apart from ha
 
 **Screws:** a slightly loose switch plate screw is why plates crack when you press them. Check that the screws are snug while you are there — hand-tight, not torqued.
 
-## The Marks That Are Not Dirt
+## Step 6: The Marks That Are Not Dirt
 
 Three common wall marks are not soil and cannot be cleaned off:
 

@@ -105,7 +105,7 @@ export const CATEGORIES = {
     title: 'Kitchen Tips',
     description:
       'Food storage, preservation, and kitchen care guides. How long things actually last, how to store them properly, and how to tell when food has gone bad.',
-    subcategories: ['Food Storage', 'Cooking Hacks'],
+    subcategories: ['Food Storage', 'Cooking Hacks', 'Equipment'],
   },
   'fix-it': {
     title: 'Fix It',
@@ -167,6 +167,8 @@ export const SUBCATEGORY_DESCRIPTIONS: Record<string, string> = {
     'How long food actually lasts, how to store it so it keeps, and how to tell when it has genuinely gone bad — with real shelf-life windows.',
   'Cooking Hacks':
     'Kitchen techniques worth knowing: keeping produce fresh, sharpening knives, and cleaning and caring for the tools you cook with.',
+  Equipment:
+    'What each kitchen machine actually does, which pans suit which job, and which gadgets earn their drawer space — buying decisions and safe-use limits rather than feature lists.',
   // Fix It
   'Home Repair':
     'Fix sticking doors, squeaky hinges and floors, and drywall holes yourself — with the diagnosis-first approach that avoids unnecessary damage.',
