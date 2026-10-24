@@ -98,6 +98,8 @@ That number is the whole argument. A charger drawing half a watt costs well unde
 - **Anything with a large external power brick.** Older, heavier bricks are less efficient than modern ones. If a brick feels warm while the device is idle, it is converting power to heat continuously.
 - **Microwaves, ovens, coffee makers.** The clock display and control board draw a small continuous amount. Real, but small; the annual cost is typically a few dollars.
 
+Once the standby load is measured, the next question is what it costs by the hour — [peak and off-peak pricing](/save-money/bills/time-of-use-electricity-plan/) explains when the hours are priced differently and whether that helps.
+
 ---
 
 ## 4. Turn Off the Ones That Do Not Need to Be Awake
@@ -134,6 +136,8 @@ Standby draw in a typical home is a modest share of the total bill. The large it
 This is worth stating plainly, because the "vampire power" framing leads people to unplug chargers while ignoring a water heater set higher than it needs to be, or an air filter that has not been changed in a year. Both of those are worth more than every charger in the house combined.
 
 Do the standby pass once, set it up so it stays fixed, and then move your attention to the larger loads.
+
+Standby draw is the invisible cost on the electricity side; recurring charges are the invisible cost on the banking side — [finding recurring charges you forgot](/save-money/bills/audit-forgotten-subscriptions/) finds them in one sitting.
 
 ---
 

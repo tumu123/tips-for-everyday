@@ -134,6 +134,8 @@ Two practical constraints that decide jobs independently of skill.
 
 **The practical rule:** if the job requires a permit, the permit requires an inspection, and the inspection requires someone licensed to sign off. That sequence answers the question for you.
 
+This rule is about consequences rather than difficulty, which is the same test [pricing out and doing it yourself](/save-money/big-decisions/cost-to-hire-out-vs-diy/) applies to the money — saved labour divided by hours spent.
+
 ---
 
 ## How to Pick Someone When You Do Hire

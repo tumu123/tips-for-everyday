@@ -116,6 +116,8 @@ An open damper is a large hole in the ceiling of your thermal envelope. If the f
 
 Most tanks ship at 140°F, and 120°F is safe for an adult household — [setting the water heater temperature](/save-money/bills/water-heater-temperature-setting-savings/) covers the trade-offs.
 
+If the heating system is near the end of its life, the replacement sets fifteen years of bills — [heat pump versus furnace](/save-money/big-decisions/heat-pump-vs-furnace/) compares them in dollars per million BTU rather than efficiency ratings.
+
 ---
 
 ## Why This Works

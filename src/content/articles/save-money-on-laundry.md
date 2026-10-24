@@ -151,6 +151,8 @@ The answer depends on how you heat water and how you run the tap — [whether th
 
 Load balance, levelling, and worn suspension all produce the same complaint — [a washer that will not spin or walks across the floor](/fix-it/appliances/washer-wont-spin-or-walks/) separates them before you order a part.
 
+Running full loads matters less than when they run once the tariff has peak pricing — [time-of-use pricing](/save-money/bills/time-of-use-electricity-plan/) covers whether the switch pays for your load shape.
+
 ---
 
 ## 6. Maintain the Machine

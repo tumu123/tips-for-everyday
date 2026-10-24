@@ -235,6 +235,8 @@ Sediment accumulates at the bottom of tank water heaters and reduces efficiency 
 
 The underlying pattern: **most appliance failures are thermal or moisture problems.** Heat cannot escape (dust, lint, sediment), or moisture accumulates where it should not (gaskets, hoses, seals). Almost all maintenance addresses one of those two.
 
+Keeping a machine alive is one way to avoid the purchase; buying the replacement at half price is the other — [what a refurbished warranty covers](/save-money/shopping/buying-refurbished-appliances/) covers what the warranty on that unit actually covers.
+
 ---
 
 ## What NOT to Do

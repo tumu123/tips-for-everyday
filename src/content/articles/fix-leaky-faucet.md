@@ -154,6 +154,8 @@ Repair isn't always the right call. Replace when:
 
 Sort the job by what it costs to get wrong rather than by how hard it looks — [deciding whether a repair is DIY or a professional job](/fix-it/home-repair/diy-or-call-a-professional/) applies that rule to twenty common repairs.
 
+Before deciding to attempt it, price the hours — [the effective hourly rate of DIY](/save-money/big-decisions/cost-to-hire-out-vs-diy/) turns the comparison into a rate you can hold against your own wage.
+
 ---
 
 ## Why This Matters Financially

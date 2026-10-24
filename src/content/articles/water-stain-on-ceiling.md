@@ -153,6 +153,8 @@ A sudden burst pipe or a roof damaged by a storm is usually covered. A long-term
 
 **The distinction that matters:** did water enter suddenly and unexpectedly, or did a maintenance failure develop slowly? The first is claimable, the second usually isn't. This is worth knowing before you decide whether to call your insurer at all.
 
+If the damage reaches the point of a claim, the stain is the least expensive part of the problem — [how a claim is actually documented](/save-money/big-decisions/file-home-insurance-claim/) walks it from mitigation to the second depreciation check.
+
 ---
 
 ## Why This Works

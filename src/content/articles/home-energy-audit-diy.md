@@ -200,6 +200,8 @@ Heat rises, so the attic is where insulation pays back fastest.
 
 **Look at the ducts.** In unconditioned spaces — attics, crawlspaces, garages — leaky ducts waste a surprising amount. Sealing accessible joints is a cheap, high-return afternoon.
 
+Heating is the largest single load in most audits, and which system produces it changes everything downstream — [comparing heating systems honestly](/save-money/big-decisions/heat-pump-vs-furnace/) works the comparison from fuel price and climate.
+
 ---
 
 ## Priority Order: What to Do First
@@ -237,6 +239,8 @@ A DIY audit finds the obvious problems. A professional audit finds the hidden on
 **It's worth paying for when:** your bills are high and you cannot find a cause; you're planning a major upgrade and want to know where to spend; you have comfort problems that sealing hasn't fixed; or you want to verify contractor work afterwards.
 
 Many utilities offer free or heavily subsidized audits, and some offer rebates that require one. Check with your utility before paying full price.
+
+An audit tells you what to fix, and generation is the expensive way to fix it — [when solar is worth the money](/save-money/big-decisions/solar-panel-payback/) covers when panels earn their keep and when the export tariff kills the case.
 
 ---
 

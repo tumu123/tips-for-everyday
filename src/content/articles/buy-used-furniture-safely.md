@@ -93,6 +93,8 @@ Spend five minutes. Do it in good light, and do it before you commit.
 7. **Check for water rings, swelling, and veneer lifting** — moisture damage that will not repair.
 8. **Run your hand along edges** for splintering, chips, and lifting veneer.
 
+The used market for appliances carries the same traps as the used market for furniture, plus a compressor — [buying a used appliance](/save-money/shopping/buying-refurbished-appliances/) covers the discount that justifies the risk.
+
 ---
 
 ## Telling Solid Wood From Particleboard

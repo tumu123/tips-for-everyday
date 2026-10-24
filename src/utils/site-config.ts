@@ -93,7 +93,7 @@ export const CATEGORIES = {
     title: 'Save Money',
     description:
       'No-cost and low-cost ways to cut household bills — electricity, water, groceries, and home maintenance. Ranked by typical annual savings.',
-    subcategories: ['Groceries', 'Bills', 'Shopping'],
+    subcategories: ['Groceries', 'Bills', 'Big Decisions', 'Shopping'],
   },
   organize: {
     title: 'Organize',
@@ -147,6 +147,8 @@ export const SUBCATEGORY_DESCRIPTIONS: Record<string, string> = {
     'Spend less on food without coupons: smarter shopping, food storage that prevents waste, and buying decisions that cut the monthly grocery bill.',
   Bills:
     'Cut electricity, water, and laundry costs with no-cost and low-cost changes — each one explained with what it actually saves.',
+  'Big Decisions':
+    'The purchases and claims that run into thousands: solar, heating systems, insurance claims, and property tax appeals — with the payback math and the questions that actually decide it.',
   Shopping:
     'Buy better and replace less often: how to judge when an appliance is worth repairing, and how to extend the life of what you already own.',
   // Organize

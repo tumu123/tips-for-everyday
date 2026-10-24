@@ -120,6 +120,8 @@ Modern dishwashers and modern detergents are designed to handle food residue. Th
 
 **Clean the machine occasionally.** A dirty filter and spray arms reduce performance, which pushes people toward longer cycles and pre-rinsing. Running an empty hot cycle with a machine cleaner or a cup of vinegar in the bottom, plus cleaning the filter, is cheap maintenance.
 
+The difference between a high bill and a wrong bill is arithmetic — [diagnosing an unexpected bill](/save-money/bills/why-electric-bill-jumped/) starts from kWh per day and degree days before touching a single appliance.
+
 ---
 
 ## Why This Works

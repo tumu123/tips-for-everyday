@@ -159,6 +159,8 @@ That last item is deliberate. **Replacing a working incandescent in a barely use
 
 **Very cheap LEDs can have poor power factor and flicker,** which some people find genuinely uncomfortable. If LED light gives you headaches, this is usually why — try a higher-quality bulb before concluding LEDs aren't for you.
 
+The payback logic that decides a light bulb also decides a roof full of panels — [the solar payback calculation](/save-money/big-decisions/solar-panel-payback/) does the arithmetic without the twenty-five-year savings headline.
+
 ---
 
 ## Why This Works

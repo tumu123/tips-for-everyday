@@ -129,6 +129,10 @@ Once a month, look at the whole picture.
 
 **Set a recurring calendar reminder.** The review only happens if it's scheduled.
 
+One annual line worth an hour of attention is the value the property tax is calculated from — [appealing a property tax assessment](/save-money/big-decisions/appeal-property-tax-assessment/) covers how to check it against comparable sales without a lawyer.
+
+The monthly review surfaces charges as they appear, but a dedicated pass finds more — [a subscription audit](/save-money/bills/audit-forgotten-subscriptions/) works from twelve months of statements rather than memory.
+
 ---
 
 ## Choosing Your Tool

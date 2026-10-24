@@ -81,6 +81,8 @@ A sump pump is the one appliance whose failure is measured in minutes. During a 
 - **Raise stored items off the floor** on shelves or pallets. Six inches of clearance converts a flood into a mop-up.
 - **Know where the water comes in.** If the basement floods from the floor drain rather than the sump, a backwater valve is the fix, not a bigger pump.
 
+Coverage turns on the cause of loss rather than on the cost of the repair — [what decides whether the damage is covered](/save-money/big-decisions/file-home-insurance-claim/) explains how the cause gets documented and what an adjuster checks it against.
+
 ## Step 4: Decide the pipe strategy in advance
 
 Pipes freeze when the house loses heat and the outdoor temperature stays low. The failure is not gradual: a pipe holds until it splits, then releases everything at once when it thaws.

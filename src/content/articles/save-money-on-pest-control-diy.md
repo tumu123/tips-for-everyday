@@ -177,6 +177,8 @@ Traps address the individuals present; only sealing prevents reinfestation. Use 
 
 Find the infested package, discard it, vacuum the shelf and its cracks thoroughly, and move remaining dry goods into sealed containers. Freezing suspect items for several days kills eggs if you want to salvage rather than discard.
 
+A contract is not automatically more expensive than the work you could do yourself — [when a contract beats doing it yourself](/save-money/big-decisions/cost-to-hire-out-vs-diy/) shows where the effective hourly rate makes DIY irrational and where it pays well.
+
 ---
 
 ## Step 6: Use Sprays Only as a Perimeter, If At All

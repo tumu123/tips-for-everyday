@@ -150,6 +150,8 @@ Fertiliser is where service contracts make most of their margin and where most D
 
 **What is genuinely worth paying for:** tree work near structures, irrigation repair, a significant pest or disease outbreak you cannot diagnose, and anything involving large equipment you would otherwise have to rent.
 
+Doing the work yourself removes the labour line and adds the tool, waste, permit, and weekend lines — [the real cost of doing it yourself](/save-money/big-decisions/cost-to-hire-out-vs-diy/) prices both sides.
+
 ---
 
 ## 7. Maintenance That Protects Your Equipment

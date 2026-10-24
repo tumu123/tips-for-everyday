@@ -192,6 +192,8 @@ If you land on replace, the sticker price is not the final number.
 
 **Old unit value.** Some scrap yards pay for units with copper and steel content, and some retailers offer a discount for haul-away. A working unit that simply doesn't fit your needs may sell locally.
 
+If the replacement will be a used or refurbished unit, the warranty is the whole decision — [buying the replacement refurbished](/save-money/shopping/buying-refurbished-appliances/) separates factory recertified from a wiped-down return.
+
 ---
 
 ## Why This Works

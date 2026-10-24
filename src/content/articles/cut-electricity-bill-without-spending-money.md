@@ -245,6 +245,10 @@ Studies consistently show that simply showing people their energy use reduces co
 
 This takes two minutes weekly and makes the impact of every other tip visible, which is what sustains the habits.
 
+Before investing in generation, price what the loads actually cost — [whether solar ever pays back](/save-money/big-decisions/solar-panel-payback/) runs the four numbers that decide whether a system pays for itself.
+
+If the change is in usage rather than rate, something is running that was not running before — [why the bill jumped](/save-money/bills/why-electric-bill-jumped/) separates weather, billing days, rate changes, and a single new load.
+
 ---
 
 ## Why This Approach Works

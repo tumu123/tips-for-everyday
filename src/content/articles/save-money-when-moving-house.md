@@ -174,6 +174,8 @@ The moving quote is not the whole cost.
 - **Time off work**, which is often the largest true cost of a DIY move.
 - **Storage**, if you cannot move everything at once. Storage fees have a way of becoming permanent; set an end date before you start.
 
+Property tax is set locally and follows the address — [checking what the assessor has recorded](/save-money/big-decisions/appeal-property-tax-assessment/) covers the factual errors worth correcting and the appeal window that closes quickly.
+
 ---
 
 ## 7. Pack in a Way That Saves Money at the Other End

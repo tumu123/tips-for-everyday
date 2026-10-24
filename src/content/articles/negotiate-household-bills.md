@@ -125,6 +125,8 @@ Three moves, in order.
 
 **Also worth asking about:** autopay and paperless billing discounts (small but free), employer or association discount programs, student or senior rates, and military or veteran programs.
 
+Negotiating a bill assumes you know what you are paying — [auditing subscriptions before renegotiating](/save-money/bills/audit-forgotten-subscriptions/) is the step before that, and it usually finds more than the call does.
+
 ---
 
 ## Bill-by-Bill Tactics
@@ -144,6 +146,8 @@ Three moves, in order.
 Premiums move with the roof, the claims history, and the deductible — [lowering a homeowners insurance premium](/save-money/bills/lower-homeowners-insurance-premium/) lists what actually shifts the number.
 
 Retention pricing and equipment fees do most of the work — [cutting an internet bill without switching providers](/save-money/bills/lower-internet-bill-without-switching/) has the script and the order to ask in.
+
+The phone account is the bill most people never renegotiate and the easiest one to cut — [cutting the phone bill](/save-money/bills/lower-cell-phone-bill/) splits it into service, device, and add-ons before anything changes.
 
 ---
 

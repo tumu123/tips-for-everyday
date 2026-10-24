@@ -65,6 +65,8 @@ A homeowners premium is built from a small set of variables. Most are not negoti
 
 Start by pulling your **declarations page** and reading it once, properly. Most people have never read it. It lists your deductible, your limits, and every discount currently applied — which tells you exactly which credits you are missing.
 
+The premium is only one number the county sets — [the assessment behind the tax](/save-money/big-decisions/appeal-property-tax-assessment/) covers the other, and the short window for disagreeing with it.
+
 ---
 
 ## 2. Raise the Deductible — but Understand the Curve
@@ -132,6 +134,8 @@ If a repair costs $1,200 and your deductible is $1,000, filing puts $200 in your
 **A practical threshold:** consider handling repairs yourself when the cost is less than roughly two to three times your deductible. Use insurance for losses you genuinely cannot absorb, which is what it is for.
 
 Keep a simple home inventory regardless — photos or a short video walkthrough of each room, stored somewhere other than the house. It does not lower your premium, but it is the difference between a fast settlement and a disputed one.
+
+Deciding not to file is only half the strategy — [filing the claim properly](/save-money/big-decisions/file-home-insurance-claim/) covers what to photograph, what to say to the adjuster, and why the first day decides most of the payout.
 
 ---
 

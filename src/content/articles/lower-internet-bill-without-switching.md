@@ -59,6 +59,8 @@ Most internet providers charge a monthly equipment rental for a modem, a gateway
 
 Keep the old rental equipment and return it properly. Get a receipt and keep it until the fee disappears from the bill.
 
+Equipment rental is not the only recurring charge worth questioning — [the device payment on a phone bill](/save-money/bills/lower-cell-phone-bill/) applies the same logic to the phone account, where the device payment is usually the largest line.
+
 ---
 
 ## 2. Find Out What Speed You Actually Need

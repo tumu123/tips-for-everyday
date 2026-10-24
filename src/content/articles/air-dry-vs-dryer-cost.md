@@ -121,6 +121,8 @@ High spin speeds remove far more water than low ones, and spinning costs a fract
 
 Thread count is the least useful number on the label — [buying bedding that lasts](/save-money/shopping/save-money-on-bedding-and-linens/) covers what to check instead.
 
+Line drying saves money on any tariff; on a time-of-use plan the timing matters as much as the choice to skip the dryer — [whether a time-of-use plan suits this house](/save-money/bills/time-of-use-electricity-plan/) covers the plan side of that decision.
+
 ---
 
 ## A Strategy That Fits Your Situation

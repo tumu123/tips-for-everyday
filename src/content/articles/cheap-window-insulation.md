@@ -190,6 +190,8 @@ Exact figures depend heavily on climate, home size, current air leakage, and ene
 
 **The honest caveat:** replacing windows for energy savings alone rarely pays for itself. If your windows are structurally sound, sealing is almost always the better first move.
 
+Sealing the envelope lowers the load, but it does not change the fuel — [what the heating fuel actually costs](/save-money/big-decisions/heat-pump-vs-furnace/) covers what each heating system costs per unit of heat delivered.
+
 ---
 
 ## Priority Order (Highest Return First)

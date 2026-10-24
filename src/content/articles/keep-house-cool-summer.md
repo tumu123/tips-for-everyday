@@ -130,6 +130,8 @@ If you're running air conditioning, these are the things that actually change th
 
 The condensate line is the season’s biggest service call — [summer maintenance checks](/seasonal/seasons/summer-home-maintenance-checklist/) covers it.
 
+Cooling is the load that moves most in summer, and a system that lost capacity shows up on the bill before it shows up in comfort — [a bill that rose with the temperature](/save-money/bills/why-electric-bill-jumped/) covers how to tell that apart from a hot month.
+
 ---
 
 ## Priority 5: Cut the Heat You Generate Indoors
