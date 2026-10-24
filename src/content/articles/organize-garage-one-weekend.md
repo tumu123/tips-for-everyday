@@ -177,6 +177,8 @@ Photograph it, keep one, and store by material — [storing sentimental items wi
 
 Once the space is clear, run the door through a full cycle — [testing a garage door after clearing the floor](/fix-it/appliances/garage-door-wont-open/) covers the sensor alignment and track problems that a cleared garage usually exposes.
 
+A garage and a basement fail in the same way — water, gravity, and nothing kept off the floor. For the rules specific to a below-grade room, including the humidity number that matters, see [how to store things in a basement](/organize/home-systems/basement-storage-without-ruining/).
+
 ---
 
 ## Why This Works

@@ -189,6 +189,8 @@ Poor packing costs money twice — in damaged goods and in unpacking time.
 - **Photograph cable setups** before disconnecting electronics.
 - **Weigh the value of reassembly time** against the item itself — another reason the decluttering pass matters.
 
+Packing well is also the cheapest way to move, because it uses fewer boxes and less paid labour. For the labelling and sequencing system that saves both, see [how to pack and unpack a move](/organize/home-systems/pack-and-unpack-a-move/).
+
 ---
 
 ## Why This Works

@@ -160,6 +160,8 @@ This is what stops the cycle of buying duplicates.
 3. **Update it when you add or remove** — a five-second habit.
 4. **Check the list before buying a cable.** This is the entire point.
 
+An inventory is a record of what you own, and the largest unrecorded collection in most houses is on a phone. For that library, and the categories worth deleting wholesale, see [the method for a 20,000-photo library](/organize/home-systems/organize-thousands-of-photos/).
+
 ---
 
 ## Why This Works

@@ -148,6 +148,8 @@ The daily reset handles drift. A weekly pass handles the things that need more t
 
 The risk is the length of the absence, not the leaving — [the checklist for leaving a house empty](/seasonal/seasons/leave-home-for-vacation-checklist/) covers the shutdown.
 
+Surfaces reset themselves in ten minutes; the split of who owns which area does not. For that part — and why it feels unfair by month two — see [the chore system that survives month two](/organize/home-systems/chore-system-that-survives/).
+
 ---
 
 ## Why This Works

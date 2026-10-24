@@ -163,6 +163,8 @@ This is where most storage fails, and it usually fails because the wrong product
 
 Sheets stay matched when they are stored as sets — [organizing a linen closet by set](/organize/closet/organize-linen-closet/) covers the fold.
 
+Choosing the container is only half of it; shelf height and room humidity decide the rest. For below-grade storage specifically, see [how to store things in a basement](/organize/home-systems/basement-storage-without-ruining/).
+
 ---
 
 ## Step 5: Label and track

@@ -65,6 +65,8 @@ Three more tests that catch what the first one misses:
 
 Apply the same test to schoolwork, with one addition: **keep the work that shows thinking, not the work that shows completion.** A math page with a wrong answer corrected in a child's own handwriting is more interesting in ten years than a perfect worksheet.
 
+The one-year test sorts the artwork. For the paperwork you are obliged to keep, and for how long, see [which home records to keep](/organize/closet/home-records-retention/).
+
 ## Step 3: Run a two-stage keep system
 
 Anything that passes the test goes into one of two places, and the distinction matters more than the container.

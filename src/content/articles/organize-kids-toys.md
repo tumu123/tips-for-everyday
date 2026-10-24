@@ -154,6 +154,8 @@ A tidy-up that takes twenty minutes will not happen daily.
 4. **Do not sort while tidying.** Sweep first, then put away. Sorting in place is what makes it take twenty minutes.
 5. **Have the child do the last step** — pushing the bin back onto the shelf — so the routine ends with their action.
 
+Tidy-up at speed is the child’s half of the job. For the household half — areas, written standards, and the weekly block — see [the chore system that survives month two](/organize/home-systems/chore-system-that-survives/).
+
 ---
 
 ## Step 8: Review at Each Rotation

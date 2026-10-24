@@ -128,6 +128,8 @@ This is the step that eliminates most regret.
 
 **Why this works:** the fear driving regret is not "I might need this" — it is "I will not be able to undo this." A dated box converts an irreversible discard into a reversible one at the cost of some floor space for one season.
 
+Reversibility matters most when there are twenty thousand decisions to make. For the approach that scales past one-at-a-time judgment, see [the method for a 20,000-photo library](/organize/home-systems/organize-thousands-of-photos/).
+
 ---
 
 ## Step 6: Deal With the Two Hard Categories Deliberately
@@ -153,6 +155,8 @@ A declutter is not finished when the decisions are made — it is finished when 
 **Why same-day matters:** a bag by the door becomes furniture within a week. Partial completion is also psychologically costly — the room looks no better, so the effort reads as wasted.
 
 Moves get expensive in the packing and the last trip, not the truck — [keeping a move cheap](/save-money/shopping/save-money-when-moving-house/) covers both.
+
+Removing things before the move is the highest-value work there is. For what to do with what is left, so the new house is navigable in week one, see [how to pack and unpack a move](/organize/home-systems/pack-and-unpack-a-move/).
 
 ---
 

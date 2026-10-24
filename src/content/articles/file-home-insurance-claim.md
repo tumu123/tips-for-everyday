@@ -98,6 +98,8 @@ If you must dispose of something for health reasons — saturated carpet, ruined
 
 The one exception: if an item is a health hazard and the insurer is unreachable, dispose of it, document it thoroughly, and tell the adjuster you did so and why. Reasonableness wins that argument.
 
+Not throwing anything away is the right instinct for the first week. For how long each document is genuinely worth keeping, see [which home records to keep](/organize/closet/home-records-retention/).
+
 ## Step 6: The Adjuster Visit
 
 You will meet one of two kinds of adjuster. A **staff adjuster** works for the insurer. An **independent adjuster** is a contractor hired by the insurer during high-volume events; they are paid by the insurer and often have a large caseload, which means the visit may be short.

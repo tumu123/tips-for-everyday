@@ -112,6 +112,8 @@ This is the table most homes are missing. Print it and keep it with the files.
 - **Keep the loan payoff letter permanently.** It is your only proof that a loan was satisfied, and it is surprisingly hard to obtain later.
 - **Home improvement records are worth keeping for the life of ownership** because they add to your cost basis, which reduces capital gains tax when you sell.
 
+The retention schedule is what decides which of these folders ever leaves the house. For the table itself — how long each record type actually has to stay — see [which home records to keep](/organize/closet/home-records-retention/).
+
 ---
 
 ## Step 3: Build the four-folder system
@@ -159,6 +161,8 @@ Digital storage reduces paper volume dramatically, but only if you do it deliber
 4. **Shred the paper after scanning**, unless it is in the Permanent category.
 
 **The privacy warning:** identity documents should not sit in an unprotected cloud folder. For passports, Social Security cards, and similar, keep the physical original secure and consider whether a digital copy is necessary at all. If you do store a scan, put it in an encrypted folder or an encrypted archive.
+
+Going digital solves the filing problem and creates a deletion problem one layer down. For the phone library version, including the four screens that remove a third of it in an evening, see [the method for a 20,000-photo library](/organize/home-systems/organize-thousands-of-photos/).
 
 ---
 

@@ -130,6 +130,8 @@ This step is what makes the rest of it work, and it is usually skipped.
 
 **The rule:** a container added to hold unreduced clutter is a net loss in a small home. Reduce first, containerize second.
 
+Shrinking the items is half the job; knowing where they went is the other half. For the numbering and tier system, see [how to pack and unpack a move](/organize/home-systems/pack-and-unpack-a-move/).
+
 ---
 
 ## Step 6: Choose Furniture That Stores

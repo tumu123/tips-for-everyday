@@ -109,6 +109,8 @@ Maintenance works when each tier is small enough to never be skipped.
 
 **The rule that makes this durable:** the daily tier must stay short. Anything too big for ten minutes becomes a scheduled task, not an extension of the reset. Protecting that ceiling is what keeps the daily tier running for months.
 
+A maintenance rhythm works until it depends on one person remembering everything. For the version that assigns areas and rotates the coordination, see [the chore system that survives month two](/organize/home-systems/chore-system-that-survives/).
+
 ---
 
 ## Step 5: Make Capacity a Limit, Not a Target

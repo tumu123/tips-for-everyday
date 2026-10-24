@@ -148,6 +148,8 @@ The container system determines whether this is a 2-hour job or a 20-minute job.
 | Attached hooks in storage | Scratches and tangles |
 | Storing houseplants or food in the same area | Attracts pests to the decorations |
 
+Decorations spend eleven months a year in whatever space the house has left over. For the storage conditions that decide whether they survive it, see [how to store things in a basement](/organize/home-systems/basement-storage-without-ruining/).
+
 ---
 
 ## Why This Works
