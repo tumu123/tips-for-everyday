@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import AdSlot from '../components/AdSlot.astro';
 import { SITE, CATEGORIES, AD_SLOTS } from '../utils/site-config';
 import { getAllArticles, getArticleUrl } from '../utils/articles';
 
@@ -49,8 +48,34 @@ const categoryPreview = Object.entries(CATEGORIES)
   </section>
 
   <div class="container">
-    {/* 首页唯一广告位：放在第一个内容区块之上，不打断卡片流 */}
-    <AdSlot slot={AD_SLOTS.categoryTop} format="horizontal" />
+    {/*
+      首页唯一广告位：放在第一个内容区块之上，不打断卡片流。
+
+      这里按 AdSense 后台给出的标准写法直接内联（ins + 紧随其后的 push），
+      不走 AdSlot 组件，方便逐字对照后台代码排查问题。
+
+      只省略 adsbygoogle.js 那一行：BaseLayout 已在 <head> 注入同一 URL、
+      同一个 client，这里重复写只会二次加载同一个脚本。
+
+      与 BaseLayout 的统一 push 不冲突：这段是同步执行的，会先给 ins 打上
+      data-adsbygoogle-status，等 DOMContentLoaded 时统一脚本检测到该属性就跳过。
+      赋值写成 window.adsbygoogle（而不是裸的 adsbygoogle）是为了在任何脚本
+      模式下都不会抛 ReferenceError，效果与后台代码一致。
+    */}
+    <div class="ad-slot ad-slot--auto" data-ad-slot={AD_SLOTS.categoryTop}>
+      <span class="ad-slot__label">Advertisement</span>
+      <!-- Horizontal Banner -->
+      <ins
+        class="adsbygoogle"
+        style="display:block"
+        data-ad-client={SITE.adsenseClient}
+        data-ad-slot={AD_SLOTS.categoryTop}
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
+      <script is:inline>
+        (window.adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </div>
 
     {
       featured.length > 0 && (
