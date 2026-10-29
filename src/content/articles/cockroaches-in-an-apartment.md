@@ -92,6 +92,8 @@ Pyrethroid sprays are also repellent. That is deliberate for some uses, but here
 
 Residual sprays have a legitimate role in professional programs — as a complement to bait, applied to specific harborages, not as a broadcast over counters. On their own, in a home, they reliably produce the outcome described above.
 
+A residual does not distinguish between the pest and its predators. For the animal that keeps a roach population down, see [what a sprayed wall does to the things that eat roaches](/pest-control/insects/house-centipedes/).
+
 ## Step 4: Bait, Placed Like a Professional Would Place It
 
 Gel bait is a food matrix with a slow-acting active ingredient. The mechanism is what makes it work where spray fails, and it has three parts:

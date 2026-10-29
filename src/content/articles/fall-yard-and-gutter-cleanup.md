@@ -87,6 +87,8 @@ A clean gutter that dumps water at the foundation has solved nothing. This is th
 - **Point discharge downhill and away from walkways.** Water that crosses a path in winter becomes ice, and ice becomes a fall.
 - **Never discharge onto a neighbor's property or into a sewer line that is not designed for it.** In many jurisdictions, connecting a downspout to the sanitary sewer is prohibited.
 
+Water landing against the wall does more than stain the siding. For the insect living in the mulch it keeps wet, see [the wet strip a downspout leaves behind](/pest-control/insects/earwigs-in-the-house/).
+
 ## Step 5: Be honest about gutter guards
 
 Gutter guards are sold as a way to never do this again. The honest version:

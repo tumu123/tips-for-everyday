@@ -61,6 +61,8 @@ There is a second effect that is specific to how spiders work. They are not inse
 
 The third effect is the reason not to spray at all if you can avoid it. A basement is a closed, poorly ventilated space. Insecticide applied there persists in air and on surfaces and is being used against predators that were providing a service.
 
+Predators and prey do not rise and fall together. For the insect that is purely a moisture reading, see [why removing one pest raises another](/pest-control/insects/earwigs-in-the-house/).
+
 ## The Decision: Four Cases
 
 **Case 1: Cellar spiders and cobwebs in the corners, no other insects, no bites.** Leave them. Knock down the webs that are in the way when you clean, and accept the rest. This is the majority of basements.
@@ -86,6 +88,8 @@ The practical work reduces both the spiders and the reason they are there, and n
 **Reduce clutter.** A basement with clear floor and organised shelving has dramatically fewer spiders than one with stored clutter, because there are fewer places to build and fewer prey habitats. This is not a tidiness argument; it is a habitat argument.
 
 **Check your shoes and stored items if you are in recluse territory.** Shake out boots, gloves, and anything stored in a dark corner before putting a hand or foot in it. This single habit accounts for most of the reduction in bite risk that individuals can achieve.
+
+The same reasoning applies to another hunter in the same room. For the fifteen-legged one that eats roaches and silverfish, see [the argument against spraying a predator](/pest-control/insects/house-centipedes/).
 
 ## How to Identify a Brown Recluse Without Guessing
 

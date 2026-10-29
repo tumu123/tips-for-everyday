@@ -75,6 +75,8 @@ Air sealing always comes first. Insulation slows heat conduction; air sealing st
 
 The seams that leak heat are the seams that admit insects. For the species that uses them as a winter shelter, see [air sealing before the cold arrives](/pest-control/insects/stink-bugs-in-the-house/).
 
+Air sealing is usually framed as a heating measure. For the insect that uses the same opening as a winter shelter, and the four-week window to close it, see [the gap above the soffit line](/pest-control/insects/cluster-flies-in-the-attic/).
+
 ## Step 3: Handle the heating system before you need it
 
 The first cold snap is the worst possible time to discover a problem.

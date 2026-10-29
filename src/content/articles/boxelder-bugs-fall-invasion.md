@@ -82,6 +82,8 @@ What is effective then:
 
 The autumn maintenance pass that covers gutters, downspouts, and exterior sealing in one route is set out in [the fall maintenance checklist for homeowners](/seasonal/seasons/fall-maintenance-checklist-homeowners/) and in [how to prepare your home for fall](/seasonal/seasons/prepare-home-for-fall/).
 
+The same window admits more than one overwintering species. For the fly that comes in through the soffit and sleeps in the wall, see [the other autumn insect using the same six weeks](/pest-control/insects/cluster-flies-in-the-attic/).
+
 ## What to Do With the Ones Already Inside
 
 Inside, the method is removal without crushing.

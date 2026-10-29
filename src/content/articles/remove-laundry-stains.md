@@ -180,6 +180,8 @@ Pillowcases take the stains; the pillow underneath takes everything else — [wa
 
 ---
 
+Every cycle costs colour. For the garment that is fading as it is being cleaned, see [spot cleaning instead of a full wash](/home-hacks/laundry/stop-clothes-fading-and-pilling/).
+
 ## Why This Works
 
 Stain removal is chemistry, not effort. Five chemical families need five different mechanisms.

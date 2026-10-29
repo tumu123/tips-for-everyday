@@ -63,6 +63,8 @@ Sound alone does not confirm a rodent. These four traces do, and they are more r
 
 Two things that are *not* evidence: sounds alone, and a single dropping you cannot identify. Look for two independent traces before acting.
 
+Droppings are not the only thing an animal leaves behind. For the biting insect that travels on a rodent and finishes its life in the carpet, see [what a rodent carries in with it](/pest-control/insects/fleas-without-pets/).
+
 ## How to Tell a Mouse From a Rat From a Squirrel
 
 The response differs, so the species matters.

@@ -75,6 +75,8 @@ One pass over a 12-by-15 room takes about ten minutes and removes the majority o
 
 **Rubber broom trick:** a plain rubber-bristled broom, used dry, does the same job on large area rugs and is faster than a hand squeegee. Push in one direction, sweep the line into a dustpan.
 
+Hair worked into a carpet is a food source for more than one thing. For the insect that emerges from a cocoon under the pile months later, and the vacuuming routine that converts it, see [the flea life cycle and why a carpet keeps hatching](/pest-control/insects/fleas-without-pets/).
+
 ## Step 4: Sofas, Cushions, and Mattresses
 
 Fabric sofas hold hair in the weave and in the seams.

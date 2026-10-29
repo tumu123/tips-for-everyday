@@ -99,6 +99,8 @@ The bathroom is where moisture is generated deliberately, so failure is a matter
 
 The humid rooms on this list are also the rooms silverfish occupy. For what the insect is telling you, and when it is not worth acting on, see [whether silverfish actually matter](/pest-control/insects/silverfish-what-they-eat/).
 
+A damp reading in a basement has several visible symptoms. For the one with pincers that turns up in the bathroom, and the mulch band that produces it, see [the insects that read humidity](/pest-control/insects/earwigs-in-the-house/).
+
 ## Step 3: Check the Places You've Never Looked
 
 The high-risk three catch most problems. These catch the rest.
@@ -193,6 +195,8 @@ Detection is only useful if it's followed by the right response. The order is fi
 ---
 
 Dry air fixes more than mould. For the predator that lives on what humidity supports, and the two species that change the answer, see [whether basement spiders are worth killing](/pest-control/insects/spiders-in-the-basement/).
+
+Drying a space down is measurable, and so is the population that answers it. For the millimetre-long jumper that cannot survive dry air, see [the insect that appears above 90 percent humidity](/pest-control/insects/springtails-in-house/).
 
 ## Why This Works
 

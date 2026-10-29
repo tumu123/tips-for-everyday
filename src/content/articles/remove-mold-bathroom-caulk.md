@@ -150,6 +150,8 @@ Caulk that has failed holds a wet layer behind it, and so does the drain body a 
 
 Drying a space down is the step that makes the rest hold. For the insect that prefers it wet, and why a spray cannot reach it, see [moisture as the root of a pest problem](/pest-control/insects/cockroaches-in-an-apartment/).
 
+The film that survives a recaulk is food for something. For the insect that grazes on mold and algae, see [what grows where the caulk stays wet](/pest-control/insects/springtails-in-house/).
+
 ## Replacing Caulk: When Cleaning Fails
 
 If replacement is indicated, this is a straightforward job.

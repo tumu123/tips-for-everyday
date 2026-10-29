@@ -54,6 +54,8 @@ Bleach is worse as a treatment. It kills the surface layer it touches, which tem
 
 The mechanical removal of that film, by contrast, works immediately and permanently — which is the same principle behind clearing a slow drain in general, described in [how to unclog a slow drain](/fix-it/plumbing/unclog-slow-drain/).
 
+A drain supports more than one species. For the one that appears on the floor beside it, see [the other insect living in the same biofilm](/pest-control/insects/springtails-in-house/).
+
 ## Step 1: Confirm the Species Before You Treat Anything
 
 Do this part in the evening; drain flies are most active then, and a bathroom light left on for twenty minutes will concentrate them on the mirror and the wall above the sink.

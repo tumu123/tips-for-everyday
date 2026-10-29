@@ -88,6 +88,8 @@ A cheap hygrometer — the kind sold for a nursery or a terrarium — settles th
 
 That also links the insect to a much larger set of problems. Sustained indoor humidity above roughly 60 percent is the condition that supports mould growth on cool surfaces, musty odours in stored textiles, and the gradual deterioration of anything paper or fabric. The diagnostic approach — finding where the moisture is coming from rather than treating the room — is set out in [how to find moisture problems early](/fix-it/maintenance/find-moisture-problems-early/), and it is a more valuable exercise than anything you can do about the insect directly.
 
+A food supply indoors attracts more than the thing eating it. For the arthropod that arrives once the silverfish are established, see [the hunter that follows a silverfish colony](/pest-control/insects/house-centipedes/).
+
 ## How to Tell Silverfish From Firebrats
 
 There are two closely related insects, and they indicate different conditions. Confusing them sends you after the wrong fix.

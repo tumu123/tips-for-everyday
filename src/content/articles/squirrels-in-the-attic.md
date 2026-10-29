@@ -144,6 +144,8 @@ The sequence:
 5. **Inspect the wiring in the affected area.** Look for chewed sheathing, exposed conductor, and gnaw marks on cable. If any conductor insulation is damaged, it needs to be replaced by an electrician; tape is not a repair. This check alone justifies the whole job.
 6. **Look for gnawed structural members.** A rafter or a top plate that has been chewed along an edge is usually cosmetic, but significant notching in a load path is worth a professional opinion.
 
+An attic that held one animal holds others. For the fly that overwinters in the same space and leaves a carcass problem behind, see [what is already dead in the attic](/pest-control/insects/cluster-flies-in-the-attic/).
+
 ## Step 7: Remove the Bridge and Check Again in Spring
 
 Exclusion closes the current hole. Prevention keeps the next squirrel from making a new one.

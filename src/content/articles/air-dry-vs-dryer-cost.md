@@ -79,6 +79,8 @@ Line drying towels is counterintuitive — they come out stiffer, but the loops 
 
 ---
 
+The saving depends on how the water leaves the room. For the setup that removes it without fogging the windows, see [what a rack actually costs to run](/organize/laundry/indoor-drying-rack-setup/).
+
 ## What Line Drying Actually Costs You
 
 **Time.** Expect roughly 10–15 minutes per load to hang, more if you're dealing with many small items. Over 260 loads a year that's somewhere between 40 and 65 hours. Whether that matters depends entirely on your circumstances.

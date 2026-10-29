@@ -154,6 +154,8 @@ Some delicates are genuinely machine washable. The rules matter more than the ma
 
 ---
 
+Drying damages more than it shrinks. For the fading and pilling mechanisms, and the shaver that repairs the surface, see [why a knit pills in the dryer](/home-hacks/laundry/stop-clothes-fading-and-pilling/).
+
 ## Step 4: Special situations
 
 ### Cashmere

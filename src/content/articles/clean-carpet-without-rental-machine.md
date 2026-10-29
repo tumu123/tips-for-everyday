@@ -59,6 +59,8 @@ The mistake is vacuum speed. A quick pass at walking pace removes surface litter
 
 If your vacuum has no beater bar (most canisters and stick vacuums), borrow or rent a vacuum with one for this job, or budget for a turbine head. Suction alone does not lift soil from the base of a cut-pile carpet.
 
+The same pass that lifts soil also wakes what is waiting in the pile. For the species that stays dormant until it feels footsteps, see [what a vacuum triggers as it passes](/pest-control/insects/fleas-without-pets/).
+
 ## Step 3: The Low-Moisture Method
 
 The principle is simple: apply the smallest amount of liquid that will suspend the soil, work it in mechanically, then remove it. Water is a carrier, not a cleaner.

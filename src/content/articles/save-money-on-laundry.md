@@ -81,6 +81,8 @@ The dryer is among the most energy-intensive appliances in a home. Air-drying ev
 
 ---
 
+Energy is not the only thing a lower temperature saves. For the dye chemistry behind it, see [cold water and shade as colour protection](/home-hacks/laundry/stop-clothes-fading-and-pilling/).
+
 ## 3. Use Less Detergent (Yes, Really)
 
 Over-dosing detergent is nearly universal, and it causes problems that cost money.
@@ -197,6 +199,8 @@ Settings matter, and the differences are meaningful over a year.
 5. **Try store-brand detergent.** Laundry detergent is a category where private label performs comparably at lower cost.
 
 ---
+
+Buying in bulk only saves money if it survives the shelf. For the storage rules that keep it from degrading, see [how long detergent stays effective](/organize/laundry/laundry-supplies-storage-safety/).
 
 ## Why This Works
 

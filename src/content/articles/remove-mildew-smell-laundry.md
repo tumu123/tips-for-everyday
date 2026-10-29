@@ -128,6 +128,8 @@ The same rule decides whether a pillow survives washing — [why a damp filling 
 
 ---
 
+A load that takes two days is already a smell problem. For the water arithmetic behind it, and the rack placement that fixes it, see [how long a load can stay damp before it sours](/organize/laundry/indoor-drying-rack-setup/).
+
 ## Step 4: Fix the storage so it does not come back
 
 Clean laundry can develop the smell again in storage if the conditions are wrong.

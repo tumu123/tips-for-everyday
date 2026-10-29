@@ -110,6 +110,8 @@ Placement rules that matter more than the hardware:
 - **Over the machines, never over the walking path.** A rod across the doorway is a head injury waiting to happen.
 - **A retractable line for occasional big days**, mounted at the far end so it only appears when bedding is being dried.
 
+Layout decides whether drying is a station or an improvisation. For load size, spacing, and the dehumidifier that makes it work, see [the drying station the room needs](/organize/laundry/indoor-drying-rack-setup/).
+
 ## Step 6: Build a folding surface at the right height
 
 Folding standing up is comfortable at 36 to 40 inches from the floor, which is roughly counter height. Folding on a bed or a table works but requires carrying the load somewhere else and bringing it back — the doubling-back problem again.
@@ -134,6 +136,8 @@ Detergent, softener, and stain remover belong within arm's reach of the machine 
 - **Measure the bottle height before you build the shelf.** The tallest jugs are 11 to 12 inches; a 10-inch gap means the shelf above is unusable.
 - **Put powder above liquid, always.** A leaking powder box ruins everything below it; a leaking bottle only ruins the shelf it is on.
 - **Keep bleach and ammonia on separate shelves, never adjacent.** The failure mode is a spill mixing them, and the result is chlorine gas.
+
+Proximity is what produces the accidental mix. For the three chemical families and where each belongs, see [storing products by reaction rather than by height](/organize/laundry/laundry-supplies-storage-safety/).
 
 ## Step 9: Solve the laundry closet's depth problem
 

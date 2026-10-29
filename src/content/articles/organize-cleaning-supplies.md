@@ -165,6 +165,8 @@ The rule that prevents nearly all of these: **store bleach products and ammonia 
 
 ---
 
+Compatibility is the sorting rule that matters more than bottle height. For the laundry-room version of it, see [the two bottles that must not share a shelf](/organize/laundry/laundry-supplies-storage-safety/).
+
 ## Step 5: Label and set a replenishment rule
 
 Label the bins by category: **Bathroom**, **Glass**, **Floor**, **Laundry**, **Specialty**, **Refills**. Labels can be simple tape and marker — the point is that anyone in the house can put things back without asking.
