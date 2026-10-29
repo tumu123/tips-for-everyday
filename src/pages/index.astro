@@ -51,18 +51,21 @@ const categoryPreview = Object.entries(CATEGORIES)
     {/*
       首页唯一广告位：放在第一个内容区块之上，不打断卡片流。
 
-      这里按 AdSense 后台给出的标准写法直接内联（ins + 紧随其后的 push），
-      不走 AdSlot 组件，方便逐字对照后台代码排查问题。
+      保留后台标准写法里的 ins 部分（client / slot / format 逐字对应），
+      但**不再**在这里写 push({})。
 
-      只省略 adsbygoogle.js 那一行：BaseLayout 已在 <head> 注入同一 URL、
-      同一个 client，这里重复写只会二次加载同一个脚本。
+      原因：push({}) 只是把请求压入队列，AdSense 主脚本是 async 加载的，
+      同步 push 并不会立刻给 ins 打上 data-adsbygoogle-status —— 等
+      DOMContentLoaded 时 BaseLayout 的统一脚本仍看不到该属性，于是对同一个
+      ins 再 push 一次。1 个单元 2 次 push，多出来的那次找不到可填充单元，
+      控制台抛 adsbygoogle.push() error，属于 AdSense 认定的实现问题。
+      BaseLayout 的 fill() 已经覆盖页面上所有 ins（含首页这一个），
+      所以这里只留标签、统一由那边入队即可。
 
-      与 BaseLayout 的统一 push 不冲突：这段是同步执行的，会先给 ins 打上
-      data-adsbygoogle-status，等 DOMContentLoaded 时统一脚本检测到该属性就跳过。
-      赋值写成 window.adsbygoogle（而不是裸的 adsbygoogle）是为了在任何脚本
-      模式下都不会抛 ReferenceError，效果与后台代码一致。
+      adsbygoogle.js 也不在这里写：BaseLayout 已在 <head> 注入同一 URL、
+      同一个 client，重复写只会二次加载同一个脚本。
     */}
-    <div class="ad-slot ad-slot--auto" data-ad-slot={AD_SLOTS.categoryTop}>
+    <div class="ad-slot ad-slot--auto">
       <span class="ad-slot__label">Advertisement</span>
       <!-- Horizontal Banner -->
       <ins
@@ -72,9 +75,6 @@ const categoryPreview = Object.entries(CATEGORIES)
         data-ad-slot={AD_SLOTS.categoryTop}
         data-ad-format="auto"
         data-full-width-responsive="true"></ins>
-      <script is:inline>
-        (window.adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
     </div>
 
     {
