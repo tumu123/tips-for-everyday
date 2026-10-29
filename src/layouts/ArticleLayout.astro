@@ -9,7 +9,7 @@ import AdSlot from '../components/AdSlot.astro';
 import FaqSection from '../components/FaqSection.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
 import StructuredData from '../components/StructuredData.astro';
-import { SITE, AD_SLOTS, articleUrl, categorySlug, subcategoryToSlug, heroImage } from '../utils/site-config';
+import { SITE, AD_SLOTS, articleUrl, categorySlug, subcategoryToSlug, heroImage, heroAlt, hasOwnHero } from '../utils/site-config';
 
 interface FaqItem {
   question: string;
@@ -24,6 +24,7 @@ interface RelatedItem {
 }
 
 interface Props {
+  slug?: string;
   title: string;
   description: string;
   primaryKeyword: string;
@@ -45,6 +46,7 @@ interface Props {
 }
 
 const {
+  slug,
   title,
   description,
   primaryKeyword,
@@ -67,9 +69,12 @@ const {
 
 const catSlug = categorySlug(category);
 
-// 首图：同子栏目共用一张插画，alt 逐篇独立
-const hero = heroImage(subcategory);
-const heroAlt = `Flat illustration of ${(subcategory ?? category).toLowerCase()} supplies and tools — ${title}`;
+// 首图：slug 优先（逐篇独立图），没有则用子栏目通用插画
+const hero = heroImage(slug, subcategory);
+// alt 必须描述「图里画了什么」。只有这篇有独立图时，
+// featuredImageAlt（作者写的文章主题描述）才是准确的，才能拿来用。
+const heroAltText =
+  hasOwnHero(slug) && featuredImageAlt ? featuredImageAlt : heroAlt(subcategory);
 
 // 面包屑
 const crumbs = [
@@ -121,7 +126,8 @@ const keywords = [primaryKeyword, ...secondaryKeywords];
     supplies={howToSupplies}
     tools={howToTools}
     steps={howToSteps}
-    imageAlt={featuredImageAlt}
+    imageAlt={heroAltText}
+    image={hero}
   />
 
   <div class="article-shell">
@@ -150,7 +156,7 @@ const keywords = [primaryKeyword, ...secondaryKeywords];
         <img
           class="article-hero"
           src={hero}
-          alt={heroAlt}
+          alt={heroAltText}
           width="1200"
           height="736"
           loading="eager"

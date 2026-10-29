@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 12
-featuredImageAlt: "Flashlight illuminating a mattress seam beside a folded white sheet"
+featuredImageAlt: "Flat illustration of a reddish-brown bed bug seen from above beside a white sheet folded into soft curves"
 schemaType: Article
 relatedSlugs:
   - "save-money-on-pest-control-diy"

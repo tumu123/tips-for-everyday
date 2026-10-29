@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 13
-featuredImageAlt: "Small ants crossing a kitchen counter toward an open jar of honey beside a white bowl"
+featuredImageAlt: "Flat illustration of a line of black ants walking along the rim of a spoon filled with sugar"
 schemaType: HowTo
 howToTotalTime: "PT2H"
 howToSupplies:

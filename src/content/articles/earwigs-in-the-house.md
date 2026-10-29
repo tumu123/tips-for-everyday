@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 12
-featuredImageAlt: "Illustration of ants crossing a counter toward a glass jar of honey beside a white bowl"
+featuredImageAlt: "Flat illustration of a dark brown earwig with rear pincers standing on a folded sage green cloth"
 schemaType: HowTo
 howToTotalTime: "PT2H"
 howToSupplies:

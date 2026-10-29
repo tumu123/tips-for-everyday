@@ -1,7 +1,13 @@
 /**
  * 站点全局配置
  * 上线前需要替换的值集中在此文件，避免散落在各处。
+ *
+ * 注意：本文件会被 .astro 的 frontmatter 引用（构建时执行，非浏览器端），
+ * 因此可以使用 node:fs 读取 public/ 下的图片清单。
  */
+import fs from 'node:fs';
+import path from 'node:path';
+
 export const SITE = {
   domain: 'tips-for-everyday.com',
   url: 'https://tips-for-everyday.com',
@@ -221,12 +227,111 @@ export function subcategoryToSlug(subName) {
 }
 
 /**
- * 文章首图路径。
- * 按「子栏目」配图（18 张统一风格插画，scripts/process-heroes.mjs 生成），
- * 同一子栏目的文章共用一张，alt 与 og:image 文案逐篇独立。
- * 万一某篇文章没有子栏目，回落到 cleaning（图片必然存在）。
+ * 子栏目首图的实际内容描述。
+ *
+ * 这张表存在的唯一理由：alt 必须描述「图里到底画了什么」，
+ * 而不是「这篇文章讲什么」。子栏目图是通用插画，
+ * 同一子栏目下的文章共用一张，所以 alt 也只能到子栏目粒度。
+ * 真正描述文章主题的文案属于 featuredImageAlt，仅在文章有独立首图时使用。
+ *
+ * 改动任何一张图，必须同步改这里对应的文案，否则又是一次「alt 说谎」。
  */
-export function heroImage(subcategory?: string): string {
-  if (!subcategory) return '/images/heroes/cleaning.webp';
-  return `/images/heroes/${subcategoryToSlug(subcategory)}.webp`;
+export const HERO_ALT: Record<string, string> = {
+  appliances:
+    'Flat illustration of a stovetop kettle with a small lightning bolt, a toaster, stacked bowls, and a dark green oven',
+  'big-decisions':
+    'Flat illustration of a small wooden house model, a clipboard with a checklist and pen, papers under a magnifying glass, and a potted snake plant',
+  bills:
+    'Flat illustration of a calculator printing a receipt, two envelopes, a steaming mug, a desk lamp, and a potted snake plant',
+  cleaning:
+    'Flat illustration of a kitchen sink with a faucet, a potted plant, a folded cloth, and a glass spray bottle surrounded by sparkles',
+  closet:
+    'Flat illustration of an open wardrobe with folded clothes on shelves, three garments on hangers, a pair of brown shoes, and a plant on top',
+  'cooking-hacks':
+    'Flat illustration of a wooden cutting board with a chef knife, a bundle of herbs, chives, halved lemons, and a small bowl of dark olives',
+  equipment:
+    'Flat illustration of an air fryer, a lidded pot with a wooden spoon, a kitchen scale, and a folded cloth',
+  fabrics:
+    'Flat illustration of an orange cushion, a rolled blanket, a stack of folded towels, and a striped curtain panel',
+  'food-storage':
+    'Flat illustration of an open green refrigerator filled with lidded containers of produce, with a cutting board, a bowl of fruit, and a jug beside it',
+  groceries:
+    'Flat illustration of a brown paper grocery bag filled with carrots, leafy greens, a tomato, and leeks on a wooden counter',
+  holidays:
+    'Flat illustration of a string of glowing bulbs, a green wreath with a bow, two wrapped gifts, a small potted tree, and a patterned rug',
+  'home-repair':
+    'Flat illustration of an open toolbox holding a hammer, a screwdriver, and a wrench, with a roll of tape and two screws beside it',
+  'home-systems':
+    'Flat illustration of a wall board with five hanging keys, two storage bins on a bench, a potted plant, a key-shaped mat, and a framed key board',
+  insects:
+    'Flat illustration of a line of black ants walking toward a glass jar of amber honey and a white bowl',
+  kitchen:
+    'Flat illustration of two white shelves holding glass jars of pasta, grains and beans, a jar of white grains with an orange scoop, and a wire basket of pineapple and bananas',
+  laundry:
+    'Flat illustration of a green washer with its door open, a woven basket of folded orange towels, and a clothesline with a tie and cloth above',
+  maintenance:
+    'Flat illustration of a pale green house with a ladder leaning to the roof, a pile of autumn leaves, a rake, and a bare tree',
+  plumbing:
+    'Flat illustration of a bathroom vanity with its door open, showing the P-trap under the sink, a bucket, plumber tape, and a pipe wrench',
+  rodents:
+    'Flat illustration of a grey house mouse beside a coil of steel wool on a wooden floor in front of a white baseboard',
+  seasons:
+    'Flat illustration of a white house with a pile of autumn leaves by the steps, a watering can, and a rake leaning on the wall',
+  shopping:
+    'Flat illustration of two kraft boxes with a hanging price tag, a tan tote bag, three coins, and a small plant',
+  'small-spaces':
+    'Flat illustration of a narrow wall with a tall cabinet, a hanging tote, three stacked drawer boxes, a folding table with a plant, and a round stool',
+  stains:
+    'Flat illustration of a white shirt with a brown stain, a scrubbing brush, and a bottle of cleaner',
+};
+
+/** 构建时读一次 public/images/heroes 下的文件名（不含扩展名），之后走缓存 */
+let heroFileCache: Set<string> | null = null;
+function heroFiles(): Set<string> {
+  if (heroFileCache) return heroFileCache;
+  try {
+    heroFileCache = new Set(
+      fs
+        .readdirSync(path.join(process.cwd(), 'public/images/heroes'))
+        .filter((f) => f.endsWith('.webp'))
+        .map((f) => f.replace(/\.webp$/, ''))
+    );
+  } catch {
+    heroFileCache = new Set();
+  }
+  return heroFileCache;
+}
+
+/**
+ * 这篇文章是否配了独立首图（public/images/heroes/<slug>.webp）。
+ * 有独立图时，featuredImageAlt 才会被真正使用。
+ */
+export function hasOwnHero(slug?: string): boolean {
+  return Boolean(slug && heroFiles().has(slug));
+}
+
+/**
+ * 文章首图路径：slug 优先，子栏目回退。
+ *
+ * 逐篇出图的那天，只要把 <slug>.webp 放进 public/images/heroes/，
+ * 这一篇就自动切过去，不用改任何代码。
+ * 两者都没有时回落到 cleaning（该文件必然存在，预检 17 不会挂）。
+ */
+export function heroImage(slug?: string, subcategory?: string): string {
+  const files = heroFiles();
+  if (slug && files.has(slug)) return `/images/heroes/${slug}.webp`;
+  if (subcategory) {
+    const sub = subcategoryToSlug(subcategory);
+    if (files.has(sub)) return `/images/heroes/${sub}.webp`;
+  }
+  return '/images/heroes/cleaning.webp';
+}
+
+/** 子栏目首图的 alt。文案如实描述画面，与文章主题无关。 */
+export function heroAlt(subcategory?: string): string {
+  const sub = subcategory ? subcategoryToSlug(subcategory) : '';
+  return (
+    HERO_ALT[sub] ??
+    'Flat illustration of household supplies and tools on a warm beige background'
+  );
 }

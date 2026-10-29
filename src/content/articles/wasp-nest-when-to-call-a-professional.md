@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 12
-featuredImageAlt: "Paper wasp nest under a wooden eave beside a closed window"
+featuredImageAlt: "Flat illustration of a paper wasp nest with open cells hanging from a wooden beam beside two wasps"
 schemaType: Article
 relatedSlugs:
   - "save-money-on-pest-control-diy"

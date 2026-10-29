@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 12
-featuredImageAlt: "Small moth-like flies resting on white bathroom tiles beside a metal shower drain"
+featuredImageAlt: "Flat illustration of a fuzzy-winged drain fly resting on a pale tile beside a round metal drain cover"
 schemaType: HowTo
 howToTotalTime: "PT4H"
 howToSupplies:

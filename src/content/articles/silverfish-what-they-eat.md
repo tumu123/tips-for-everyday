@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 11
-featuredImageAlt: "Small ants crossing a kitchen counter toward an open jar of honey beside a white bowl"
+featuredImageAlt: "Flat illustration of a silver-grey silverfish with long antennae beside a stack of two old books"
 schemaType: Article
 relatedSlugs:
   - "find-moisture-problems-early"

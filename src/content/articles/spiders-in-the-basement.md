@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 11
-featuredImageAlt: "Small ants crossing a kitchen counter toward an open jar of honey beside a white bowl"
+featuredImageAlt: "Flat illustration of a pale cellar spider with very long thin legs beside a small open cardboard box"
 schemaType: Article
 relatedSlugs:
   - "silverfish-what-they-eat"

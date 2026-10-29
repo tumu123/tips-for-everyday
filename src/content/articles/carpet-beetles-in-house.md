@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 12
-featuredImageAlt: "Small mottled beetle on a windowsill beside a wool rug edge and a cluster of dust"
+featuredImageAlt: "Flat illustration of a mottled brown carpet beetle beside the rolled edge of a beige wool rug"
 schemaType: HowTo
 howToTotalTime: "PT5H"
 howToSupplies:

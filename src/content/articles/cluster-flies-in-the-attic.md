@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 12
-featuredImageAlt: "Illustration of ants crossing a counter toward a glass jar of honey beside a white bowl"
+featuredImageAlt: "Flat illustration of three dark grey cluster flies resting in a row on a pale wooden board"
 schemaType: HowTo
 howToTotalTime: "PT4H"
 howToSupplies:

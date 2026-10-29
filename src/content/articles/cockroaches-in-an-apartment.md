@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 13
-featuredImageAlt: "Small brown cockroach on a kitchen counter edge beside a gap under a cabinet"
+featuredImageAlt: "Flat illustration of a brown cockroach crossing a tiled floor past scattered crumbs and a sage green bowl"
 schemaType: HowTo
 howToTotalTime: "PT3H"
 howToSupplies:

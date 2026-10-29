@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 11
-featuredImageAlt: "Illustration of ants crossing a counter toward a glass jar of honey beside a white bowl"
+featuredImageAlt: "Flat illustration of a pale yellow house centipede with long banded legs on a cream floor beside a small grey stone"
 schemaType: Article
 relatedSlugs:
   - "save-money-on-pest-control-diy"

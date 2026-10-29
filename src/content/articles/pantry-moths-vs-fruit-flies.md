@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 12
-featuredImageAlt: "Small ants crossing a kitchen counter toward an open jar of honey beside a white bowl"
+featuredImageAlt: "Flat illustration of a greyish moth perched on the rim of a glass jar filled with grain"
 schemaType: HowTo
 howToTotalTime: "PT4H"
 howToSupplies:

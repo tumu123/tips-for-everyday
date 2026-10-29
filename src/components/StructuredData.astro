@@ -17,6 +17,7 @@ interface Props {
   supplies?: string[];
   tools?: string[];
   steps?: { name: string; text: string; url?: string }[];
+  image?: string;
   imageAlt?: string;
 }
 
@@ -32,6 +33,7 @@ const {
   supplies = [],
   tools = [],
   steps = [],
+  image,
   imageAlt,
 } = Astro.props;
 
@@ -39,6 +41,15 @@ const base = {
   '@context': 'https://schema.org',
   name: title,
   description,
+  ...(imageAlt
+    ? {
+        image: {
+          '@type': 'ImageObject',
+          url: `${SITE.url}${image ?? '/images/og-default.jpg'}`,
+          caption: imageAlt,
+        },
+      }
+    : {}),
 };
 
 let data: Record<string, unknown>;
@@ -77,9 +88,6 @@ if (type === 'HowTo') {
     datePublished: pubDate.toISOString().split('T')[0],
     dateModified: (updatedDate ?? pubDate).toISOString().split('T')[0],
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
-    ...(imageAlt
-      ? { image: { '@type': 'ImageObject', url: `${SITE.url}/images/og-default.jpg`, caption: imageAlt } }
-      : {}),
   };
 }
 ---

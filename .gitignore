@@ -30,3 +30,7 @@ Thumbs.db
 
 # local scratch
 .tmp/
+
+# 首图生成原图（AI 输出的 png，仅用于本地跑 scripts/hero-one.mjs）
+# 成品在 public/images/heroes/*.webp，原图不入库
+_gen/

@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 12
-featuredImageAlt: "Folded wool sweaters stacked on a closet shelf with a small pale moth resting on the top one"
+featuredImageAlt: "Flat illustration of a pale clothes moth resting on a stack of folded wool sweaters beside a tuft of wool fibre"
 schemaType: HowTo
 howToTotalTime: "PT5H"
 howToSupplies:

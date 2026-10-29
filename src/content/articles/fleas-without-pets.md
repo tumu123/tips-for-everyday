@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 13
-featuredImageAlt: "Illustration of ants crossing a counter toward a glass jar of honey beside a white bowl"
+featuredImageAlt: "Flat illustration of a small dark flea beside a fine-toothed metal flea comb"
 schemaType: HowTo
 howToTotalTime: "PT4H"
 howToSupplies:

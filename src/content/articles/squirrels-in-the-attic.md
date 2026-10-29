@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 13
-featuredImageAlt: "Grey squirrel sitting on a roof edge beside a gap under the eave"
+featuredImageAlt: "Flat illustration of a grey squirrel sitting upright beside a small pile of acorns and a cut tree stump"
 schemaType: HowTo
 howToTotalTime: "PT6H"
 howToSupplies:

@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 12
-featuredImageAlt: "Illustration of ants crossing a counter toward a glass jar of honey beside a white bowl"
+featuredImageAlt: "Flat illustration of tiny pale springtails gathered on a damp patch beside a potted fern"
 schemaType: HowTo
 howToTotalTime: "PT3H"
 howToSupplies:

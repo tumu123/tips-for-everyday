@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 12
-featuredImageAlt: "Brown shield-shaped bug on a windowsill beside a foil pan of soapy water"
+featuredImageAlt: "Flat illustration of a brown shield-shaped stink bug on a windowsill beside a single green leaf"
 schemaType: HowTo
 howToTotalTime: "PT3H"
 howToSupplies:

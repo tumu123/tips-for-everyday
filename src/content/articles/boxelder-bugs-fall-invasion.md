@@ -14,7 +14,7 @@ pubDate: 2026-10-29
 updatedDate: 2026-10-29
 author: "Editorial Team"
 readingTime: 11
-featuredImageAlt: "Black and red beetles clustered on a sunlit exterior wall beside a window frame"
+featuredImageAlt: "Flat illustration of three black and red-orange boxelder bugs clustered together on a plain cream surface"
 schemaType: Article
 relatedSlugs:
   - "keep-bugs-out-of-house-summer"
