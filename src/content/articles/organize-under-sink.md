@@ -153,6 +153,8 @@ The bathroom is the worst room in the house for most medicines — [organizing a
 
 ---
 
+Moisture in a cabinet is worth fixing for its own sake. For the insect that treats the same film as a nursery, see [why a damp cabinet attracts drain flies](/pest-control/insects/drain-flies-in-the-bathroom/).
+
 ## Step 7: Build the Maintenance Habit
 
 1. **Weekly, ten seconds:** Return anything you used to its bin, and check that all caps are tight.

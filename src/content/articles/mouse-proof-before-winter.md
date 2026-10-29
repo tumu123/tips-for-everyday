@@ -170,6 +170,8 @@ The material choice is where most DIY attempts fail, because two popular materia
 
 The rule is simple: **metal stops teeth, sealant stops air.** Every gap wider than a hairline needs metal first.
 
+Foam is chewed through and hardware cloth is not. For the animal that needs a two-inch hole, the litter timing, and the one-way door, see [the materials that stop a squirrel](/pest-control/rodents/squirrels-in-the-attic/).
+
 ## What NOT to Do
 
 **Do not seal while there is activity inside.** Sealing with a mouse in the house traps it in and it will find a route into the living space. Confirm with the powder test that activity has stopped, or trap first.

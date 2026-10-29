@@ -156,6 +156,8 @@ This is where the real value is. A shower clog is highly predictable.
 
 ---
 
+A drain that keeps producing small flies is usually holding a film rather than a clog. For the insect that feeds on it — and the brushing step that ends it — see [how to clear drain flies for good](/pest-control/insects/drain-flies-in-the-bathroom/).
+
 ## Why This Works
 
 | Design choice | Problem solved | Why it matters |

@@ -79,6 +79,8 @@ The response differs, so the species matters.
 
 A squirrel indoors is almost always above the top floor, entering at the roofline or a soffit gap, and it is a different problem: exclusion at height, and in some jurisdictions a licensed removal requirement. Rat activity at ground level with large droppings near a drain or a garage is a different problem again, and a more urgent one.
 
+The clock is the fastest test, and the treatment differs completely either way. For the daytime rodent and the entry it uses, see [how to tell a squirrel from a mouse in a wall](/pest-control/rodents/squirrels-in-the-attic/).
+
 ## The Powder Test: Proving the Animal Is Still There
 
 Before you spend money or effort, establish whether the activity is current. This matters because many "infestations" are historic — an old dropping, a grease mark from a previous tenant, a sound that stopped three weeks ago.

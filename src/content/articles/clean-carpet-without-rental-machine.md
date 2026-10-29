@@ -126,6 +126,8 @@ Two marks on carpet are commonly mistaken for soil and cannot be cleaned the sam
 
 **Pile reversal and crush marks** are not dirt at all. They are areas where the fibers lean in a different direction and reflect light differently, or where furniture has compressed the pile. Vacuuming with the beater bar and brushing the pile upright helps; steam can help more. Cleaning will not, because nothing is there to remove.
 
+Some marks in a carpet are animals rather than dirt. For the larva that eats the fiber and the dust beneath it, see [larvae in the carpet that are not stains](/pest-control/insects/carpet-beetles-in-house/).
+
 ## How Often This Actually Needs Doing
 
 | Situation | Interval |

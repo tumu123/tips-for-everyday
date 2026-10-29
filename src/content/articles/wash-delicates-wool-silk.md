@@ -199,6 +199,8 @@ Cashmere is a fine wool and needs more care than ordinary wool.
 
 ---
 
+Washing handles the garment; it does not handle the drawer the garment came out of. For the moth that breeds in stored wool, see [moths in stored wool](/pest-control/insects/clothes-moths-vs-pantry-moths/).
+
 ## Why This Works
 
 Wool and silk are **protein fibers** — chemically similar to human hair. This one fact explains most of the rules.

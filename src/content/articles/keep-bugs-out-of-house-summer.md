@@ -160,6 +160,8 @@ Perimeter work prevents more than spraying — [handling common household pests 
 
 Ants are the case where general advice fails most often. For the bait concentration and the species matching that decide it, see [how to deal with ants in the kitchen](/pest-control/insects/get-rid-of-ants-in-the-kitchen/).
 
+Some insects arrive in autumn to shelter rather than to feed. For the one that gathers on a sunlit wall, and the two cases where it is worth acting on, see [why boxelder bugs gather in autumn](/pest-control/insects/boxelder-bugs-fall-invasion/).
+
 ## Step 7: Verify and maintain
 
 Exclusion is a repair, and repairs need re-checking.

@@ -80,6 +80,8 @@ Also assess depth:
 
 ---
 
+The hair that collects in a carpet edge is food for something. For the beetle whose larvae live in it, see [the pest that lives on pet hair](/pest-control/insects/carpet-beetles-in-house/).
+
 ## Step 2: Blot Up Fresh Urine Immediately
 
 For a wet stain, speed determines the outcome.

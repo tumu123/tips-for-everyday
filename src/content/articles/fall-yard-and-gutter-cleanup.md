@@ -129,6 +129,8 @@ Once a year, from the ladder at the gutter line, you have the best view of the r
 
 Photograph anything questionable. A phone photo from the ladder is enough for an estimator to quote without a second visit.
 
+The roof edge is where an inspection pays for itself. For the animal that chews its way in up there, and the wiring it damages, see [what to look for at the roof edge](/pest-control/rodents/squirrels-in-the-attic/).
+
 ## Step 9: Put the tools away properly
 
 The job ends with the equipment, not the gutter:

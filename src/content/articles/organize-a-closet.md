@@ -193,6 +193,8 @@ A closet organizes in a weekend and decays in a season unless there are rules. F
 
 ---
 
+The way a closet is loaded decides what stays visible and what gets forgotten for a year. For the insect that lives in the forgotten part, see [protecting wool in a closet from moths](/pest-control/insects/clothes-moths-vs-pantry-moths/).
+
 ## Why This Works
 
 Closets fail as an **access problem**, not a storage problem. Most homes have enough total closet volume; what they lack is a system that puts frequently used items in easy reach.

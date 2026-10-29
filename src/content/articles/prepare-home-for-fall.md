@@ -113,6 +113,8 @@ These items have a temperature requirement, so they must happen before the freez
 
 Outdoor food sources decide how much pressure the house faces. For the species question — and the bat confusion that changes everything — see [rat or mouse, decided by the droppings](/pest-control/rodents/rats-vs-mice-droppings/).
 
+The yard side of the house is where autumn pests stage before they move in. For the bug that gathers by the thousand on one elevation, see [handling insects on the exterior wall](/pest-control/insects/boxelder-bugs-fall-invasion/).
+
 ## Step 6: Prepare for winter storms before they arrive
 
 Fall is when you buy what you'll need in a storm, not during one.

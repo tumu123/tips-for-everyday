@@ -64,6 +64,8 @@ Do this before buying anything.
 
 ---
 
+Not every gap should be closed, but the ones that let insects into a wall usually should. For the autumn invader that uses them, see [which gaps are worth sealing](/pest-control/insects/boxelder-bugs-fall-invasion/).
+
 ## Step 1: Classify Each Gap
 
 Each marked leak goes into one of three categories, and the category determines the material.

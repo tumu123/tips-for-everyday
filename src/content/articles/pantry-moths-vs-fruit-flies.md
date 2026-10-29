@@ -149,6 +149,8 @@ Set a pheromone trap in the pantry and check it weekly. Traps catch males only, 
 
 Eight weeks of low catch, with no webbing in any container and no moths on the upper wall, is a reasonable end point. Catch that stays high past week four means a source was missed — usually pet food, bird seed, a decorative item, or a package in a different room.
 
+Not every small pale moth in a cupboard came from the cupboard. For the identification based on where the damage is, see [how to tell clothes moths from pantry moths](/pest-control/insects/clothes-moths-vs-pantry-moths/).
+
 ## What NOT to Do
 
 **Do not rely on a pheromone trap to solve it.** It catches males, and an infestation with a surviving female and a food source continues regardless. The trap is a monitor.

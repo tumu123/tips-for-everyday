@@ -160,6 +160,8 @@ Basements are attractive to insects, mice, and occasionally worse, because they 
 
 Cardboard is both shelter and food for several species. For the one that eats the paper itself, and the humidity rule behind it, see [what silverfish eat](/pest-control/insects/silverfish-what-they-eat/).
 
+Boxes and bins are chosen partly by what can get into them. For the insect that gets into stored wool, and the inspection route that finds it, see [pest-proofing stored textiles without poison](/pest-control/insects/carpet-beetles-in-house/).
+
 ## Step 8: Label facing out, inventory on the door
 
 A basement fails at retrieval, not at storage. When everything is in identical grey bins, the system is only as good as its labels.
