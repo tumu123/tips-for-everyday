@@ -63,6 +63,8 @@ Ice dams form at the eave, and the eave is where you can still do something in O
 
 Do the ladder work now, in dry weather. Ladder use in freezing conditions is how most winter storm injuries happen, and a fall from 10 feet in January is far worse than the same fall in September.
 
+Roof-line work is for squirrels; floor-level work is for mice. For the 1/4-inch rule and the materials that stop teeth, see [sealing a house against mice](/pest-control/rodents/mouse-proof-before-winter/).
+
 ## Step 3: Stop ice dams at the source, not with a heat cable
 
 An ice dam is a symptom. The cause is warm air leaking from the house into the attic, heating the roof deck above 32�F, melting the snow, and sending water down to the eave where it refreezes against the cold overhang.

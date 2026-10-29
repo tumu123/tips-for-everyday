@@ -118,6 +118,8 @@ For the broader picture of where everything else belongs, see [How to Organize Y
 
 ---
 
+Placement decides how fast things ripen. For the insect that ripening attracts, and how to end its cycle, see [the fruit fly breeding cycle](/pest-control/insects/fruit-flies-keep-coming-back/).
+
 ## Why This Works
 
 Ethylene is a hormone the fruit makes itself, so ripening after harvest is self-driving rather than passively decaying. That's why these three respond to gas concentration in a way non-climacteric produce — berries, citrus, grapes, peppers — simply doesn't. Berries will rot but never ripen further, no matter what you put them in a bag with. Knowing which category a fruit is in tells you whether storage can improve it or only preserve it.

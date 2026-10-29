@@ -55,6 +55,8 @@ The presence of webbing almost always means moths. If you see hard-shelled beetl
 
 Perimeter work prevents more than spraying — [handling common household pests yourself](/save-money/bills/save-money-on-pest-control-diy/) also covers the cases worth paying a professional for.
 
+Moths and flies are confused in kitchens more often than the biology justifies. For the ten-second version of this identification, see [how to tell pantry moths from fruit flies](/pest-control/insects/pantry-moths-vs-fruit-flies/).
+
 ## Step 2: Freeze every new bag before it goes in the pantry
 
 This is the step that actually breaks the cycle, and most people never do it.

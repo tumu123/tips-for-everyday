@@ -97,6 +97,8 @@ The bathroom is where moisture is generated deliberately, so failure is a matter
 
 ---
 
+The humid rooms on this list are also the rooms silverfish occupy. For what the insect is telling you, and when it is not worth acting on, see [whether silverfish actually matter](/pest-control/insects/silverfish-what-they-eat/).
+
 ## Step 3: Check the Places You've Never Looked
 
 The high-risk three catch most problems. These catch the rest.
@@ -189,6 +191,8 @@ Detection is only useful if it's followed by the right response. The order is fi
 **4. Recheck with the meter.** Monthly for the first season after a repair. A reading that creeps back up means the source wasn't fully addressed.
 
 ---
+
+Dry air fixes more than mould. For the predator that lives on what humidity supports, and the two species that change the answer, see [whether basement spiders are worth killing](/pest-control/insects/spiders-in-the-basement/).
 
 ## Why This Works
 

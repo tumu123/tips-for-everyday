@@ -65,6 +65,8 @@ Everything else is less effective until this is done. Air sealing stops convecti
 
 **A note on foam:** most expanding foams are not fire-rated and shouldn't be used around heat-producing fixtures. Use the appropriate product, and never foam around a chimney flue.
 
+Air sealing is the same work done with a different motive. For the diagnostics that tell you whether you have a rodent at all, see [reading the signs of mice in walls](/pest-control/rodents/mice-in-the-walls/).
+
 ## Step 2: Insulate where it matters
 
 After sealing, insulation works.
@@ -122,6 +124,8 @@ Windows are the largest visible loss, and also the most overstated.
 6. **For doors,** add a draft stopper at the bottom if the sweep can't be adjusted. For sliding doors, check the seal between the panels.
 
 Be skeptical of claims about how much window treatment saves. Air leakage and attic insulation are consistently bigger factors — see [How to Save on Heating Costs in Winter](/save-money/bills/save-on-heating-costs-winter/) for which changes actually pay.
+
+The gap size you seal depends on the species. For the measurement that decides it, see [how to tell rat droppings from mouse droppings](/pest-control/rodents/rats-vs-mice-droppings/).
 
 ## Step 6: Prepare the heating system
 

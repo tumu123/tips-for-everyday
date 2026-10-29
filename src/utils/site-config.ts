@@ -34,6 +34,7 @@ export const SITE = {
     { label: 'Organize', slug: 'organize' },
     { label: 'Kitchen Tips', slug: 'kitchen-tips' },
     { label: 'Fix It', slug: 'fix-it' },
+    { label: 'Pest Control', slug: 'pest-control' },
     { label: 'Seasonal', slug: 'seasonal' },
   ],
 };
@@ -113,6 +114,12 @@ export const CATEGORIES = {
       'Fix common household problems yourself — plumbing, doors, walls, and small repairs — without calling a professional for jobs that take minutes.',
     subcategories: ['Home Repair', 'Maintenance', 'Plumbing', 'Appliances'],
   },
+  'pest-control': {
+    title: 'Pest Control',
+    description:
+      'Identify what is living in your house and stop it without a fogger or a service contract. Species first, then the source, then the method — including when to call someone.',
+    subcategories: ['Insects', 'Rodents'],
+  },
   seasonal: {
     title: 'Seasonal & Holiday',
     description:
@@ -176,6 +183,11 @@ export const SUBCATEGORY_DESCRIPTIONS: Record<string, string> = {
     'Seasonal and annual maintenance that prevents expensive repairs — home checklists, frozen pipe prevention, and water heater care.',
   Plumbing:
     'Diagnose and fix common plumbing problems yourself — running toilets, leaks, and clogs — without a service call.',
+  // Pest Control
+  Insects:
+    'Identify the bug before you treat it — fruit flies, ants, silverfish, spiders, and pantry moths — with the breeding site that keeps them coming back.',
+  Rodents:
+    'Find out whether mice or rats are inside, where they are getting in, and how to close the building against them before winter.',
   // Seasonal & Holiday
   Seasons:
     'Season-by-season home checklists — spring cleaning, storm prep, fall maintenance, and winterizing — sequenced in the order the work actually needs doing.',

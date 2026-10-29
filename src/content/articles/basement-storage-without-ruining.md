@@ -158,6 +158,8 @@ Basements are attractive to insects, mice, and occasionally worse, because they 
 - **Avoid baits inside the storage area.** Poison in a basement is a hazard to pets and children and does not fix the entry point. Seal gaps around pipes and the sill plate instead.
 - **Check annually for droppings** behind and under shelves. If you find them, the entry point is the problem, not the shelves.
 
+Cardboard is both shelter and food for several species. For the one that eats the paper itself, and the humidity rule behind it, see [what silverfish eat](/pest-control/insects/silverfish-what-they-eat/).
+
 ## Step 8: Label facing out, inventory on the door
 
 A basement fails at retrieval, not at storage. When everything is in identical grey bins, the system is only as good as its labels.
@@ -187,6 +189,8 @@ Some categories are simply the wrong contents for the space, regardless of shelv
 - **Mattresses stored flat on the floor** — they wick, compress, and grow mould underneath.
 - **Electronics with batteries left in them.**
 - **Anything you would be upset to lose and have not backed up.** A basement is a place for things you could replace.
+
+Some storage decisions are about animals rather than damage. For the spider question specifically, and how to tell it from something that is not a spider, see [the case for leaving basement spiders alone](/pest-control/insects/spiders-in-the-basement/).
 
 ## FAQ
 

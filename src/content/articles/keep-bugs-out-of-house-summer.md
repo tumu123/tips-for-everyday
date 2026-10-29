@@ -65,6 +65,8 @@ Do this at dusk with interior lights on. From outside, any gap that shows light 
 
 **Also do a moisture and food audit indoors** while you're at it. Insects need water and food. Leaky faucets, damp basements, and unsealed food create the conditions that turn a minor entry problem into an infestation. For food specifically, [How to Organize a Fridge to Waste Less Food](/kitchen-tips/food-storage/organize-fridge-less-food-waste/) covers keeping things sealed and rotated so nothing ferments out of sight.
 
+Entry points are worth finding before deciding what to do about anything that uses them. For the predator question — and why removing it raises the insect count — see [spiders versus the insects they eat](/pest-control/insects/spiders-in-the-basement/).
+
 ## Step 2: Seal every gap, from smallest to largest
 
 **Small gaps (up to 1/4 inch) — the majority of entries**
@@ -155,6 +157,8 @@ Some entry points can't be fully sealed.
 - For ground nests or large nests near doors, use a professional — the risk isn't worth it.
 
 Perimeter work prevents more than spraying — [handling common household pests yourself](/save-money/bills/save-money-on-pest-control-diy/) also covers the cases worth paying a professional for.
+
+Ants are the case where general advice fails most often. For the bait concentration and the species matching that decide it, see [how to deal with ants in the kitchen](/pest-control/insects/get-rid-of-ants-in-the-kitchen/).
 
 ## Step 7: Verify and maintain
 

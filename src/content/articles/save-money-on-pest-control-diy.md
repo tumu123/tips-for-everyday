@@ -99,6 +99,8 @@ Photograph everything and make a list. This becomes your work order.
 
 ---
 
+An entry point proves it got in; it does not prove it is still there. For the powder test and the trace reading that settle it, see [how to confirm mice are in the walls](/pest-control/rodents/mice-in-the-walls/).
+
 ## Step 3: Seal the Entry Points
 
 Do this before, or at least alongside, any treatment. Killing pests without closing entry points guarantees they return.
@@ -146,6 +148,8 @@ Pests come inside because something inside is worth the trip.
 - Keep stored items off the floor in garages and basements.
 
 ---
+
+Removing the attractant is the step most kitchens stop at. For the version built around the breeding site — and the trap that tells you when it is gone — see [why fruit flies keep coming back](/pest-control/insects/fruit-flies-keep-coming-back/).
 
 ## Step 5: Treat Only Where It Is Actually Needed
 

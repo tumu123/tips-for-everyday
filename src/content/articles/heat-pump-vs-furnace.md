@@ -99,7 +99,7 @@ Two costs that surprise people:
 
 **Ductwork.** A heat pump moves less air at a higher temperature differential than a furnace in heating mode, and marginal ducts that worked with a furnace can leave rooms cold. Duct sealing and a couple of new returns can add $1,000 to $3,000.
 
-Subtract incentives from the gross number, not the other way around, and get the incentive amounts in writing with the program name. The federal tax credit that used to cover 25C qualified heat pumps has expired for homeowner installations placed in service after 2025; state and utility rebates still exist in many areas and vary enormously. Confirm what is currently available before comparing quotes, because a quote built around an expired credit is not a quote.
+Subtract incentives from the gross number, not the other way around, and get the incentive amounts in writing with the program name. The federal tax credit that used to cover qualified heat pumps has expired for homeowner installations placed in service after 2025; state and utility rebates still exist in many areas and vary enormously. Confirm what is currently available before comparing quotes, because a quote built around an expired credit is not a quote.
 
 ## Hybrid Systems: The Option Most People Should Seriously Consider
 

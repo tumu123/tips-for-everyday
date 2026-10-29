@@ -111,6 +111,8 @@ These items have a temperature requirement, so they must happen before the freez
 8. **Store outdoor furniture and cushions** properly. Cushions must go indoors — see [How to Protect Outdoor Furniture in Summer](/seasonal/seasons/protect-outdoor-furniture-summer/) for the storage method, which applies year-round.
 9. **Drain and store the mower**, service the snow equipment.
 
+Outdoor food sources decide how much pressure the house faces. For the species question — and the bat confusion that changes everything — see [rat or mouse, decided by the droppings](/pest-control/rodents/rats-vs-mice-droppings/).
+
 ## Step 6: Prepare for winter storms before they arrive
 
 Fall is when you buy what you'll need in a storm, not during one.

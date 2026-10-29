@@ -133,6 +133,8 @@ If you decant, write the **product name and use-by date** on the container or a 
 
 ---
 
+Decanting is also the moment to inspect. For the sorting rules when the cupboard is already infested, see [what to throw out after pantry moths](/pest-control/insects/pantry-moths-vs-fruit-flies/).
+
 ## Step 5: Face, stack, and label
 
 Three small habits turn the zones into a working pantry.
@@ -146,6 +148,8 @@ Three small habits turn the zones into a working pantry.
 Label only what needs a decision on the way back — [labeling so a system survives](/organize/home-systems/labeling-systems-that-last/) covers the rest.
 
 ---
+
+A pantry that is faced and sealed is most of the prevention. For the treatment side, including why making the bait stronger fails, see [the ant bait method](/pest-control/insects/get-rid-of-ants-in-the-kitchen/).
 
 ## Step 6: Build the inventory habit
 

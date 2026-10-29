@@ -110,6 +110,8 @@ Tier 1 of this list is the first freeze. For the night-before sequence, and the 
 
 ---
 
+The exterior list here and the mouse list overlap more than they differ. For the version that walks the house in order, see [the gap-by-gap mouse-proofing route](/pest-control/rodents/mouse-proof-before-winter/).
+
 ## Tier 2: Before the first hard freeze
 
 These are less temperature-sensitive but still needed before winter.
@@ -169,6 +171,8 @@ These are less temperature-sensitive but still needed before winter.
 | **Reverse ceiling fans to clockwise** | Moves warm air down from the ceiling |
 
 ---
+
+Rodent pressure peaks with the first cold nights. For how to tell whether the scratching is a mouse, a duct, or a bird, see [the mouse-in-the-wall checklist](/pest-control/rodents/mice-in-the-walls/).
 
 ## Tier 3: Before first use
 

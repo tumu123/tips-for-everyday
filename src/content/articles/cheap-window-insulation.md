@@ -94,6 +94,8 @@ On a cold, windy day, wet your hand and move it slowly around frames and edges. 
 
 ---
 
+Finding a leak is the same walk looking at a different thing. For the droppings that tell you what is using the gap, see [reading rodent droppings](/pest-control/rodents/rats-vs-mice-droppings/).
+
 ## Step 2: Seal the Door Gaps
 
 Doors are the highest-yield, lowest-cost target.
@@ -114,6 +116,8 @@ Doors are the highest-yield, lowest-cost target.
 **Temporary alternative:** a rolled towel or a purpose-made draft stopper. Cheap, reversible, and genuinely effective overnight.
 
 ---
+
+A door gap is a heat loss and an entry route at the same time. For the full perimeter walk — sill plate, vents, dryer hood, garage — see [how to mouse-proof a house before winter](/pest-control/rodents/mouse-proof-before-winter/).
 
 ## Step 3: Seal the Window Gaps
 

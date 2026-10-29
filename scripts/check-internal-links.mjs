@@ -25,6 +25,7 @@ const CAT_SLUGS = {
   'Kitchen Tips': 'kitchen-tips',
   'Fix It': 'fix-it',
   'Seasonal & Holiday': 'seasonal',
+  'Pest Control': 'pest-control',
 };
 
 function slugify(s) {

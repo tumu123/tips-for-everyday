@@ -141,6 +141,8 @@ If the stripes return within weeks of cleaning and caulking, the air movement is
 
 ---
 
+Some of the marks along a baseboard are traffic rather than dirt. For the trail that causes them — and why cleaning it too early ruins the treatment — see [why spraying ants makes it worse](/pest-control/insects/get-rid-of-ants-in-the-kitchen/).
+
 ## Step 7: Keep Them Cleaner Between Deep Cleans
 
 - **Vacuum the baseboards whenever you vacuum the floor.** The brush attachment takes seconds on a run you are already passing.
@@ -152,6 +154,8 @@ If the stripes return within weeks of cleaning and caulking, the air movement is
 Baseboards are the visible line, but the wall above them and the door frames beside them take more hand contact — [the surfaces above the baseboard](/home-hacks/cleaning/clean-walls-doors-switches/) covers the finish test that decides what can be washed.
 
 ---
+
+The baseboard line is where a lot of the evidence collects. For the insect that leaves it, and the reading that decides whether it breeds, see [the silverfish humidity threshold](/pest-control/insects/silverfish-what-they-eat/).
 
 ## Why This Works
 

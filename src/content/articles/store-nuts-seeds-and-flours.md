@@ -82,6 +82,8 @@ Temperature is the dominant variable. As a rough approximation, **every 18°F (1
 
 Fragile items — walnuts, pine nuts, flaxseed, wheat germ — belong in the freezer from day one. There is no reason to keep them on a shelf and watch them decline.
 
+Where a bag is stored decides how long it lasts. For the insect that shortens that, and the full cupboard clear-out it requires, see [the pantry moth clear-out](/pest-control/insects/pantry-moths-vs-fruit-flies/).
+
 ## Step 3: Seal, darken, cool — in that order of importance
 
 Three enemies, three fixes, ranked by how much each one buys you:

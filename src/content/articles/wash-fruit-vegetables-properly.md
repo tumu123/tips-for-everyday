@@ -50,6 +50,8 @@ There are two contaminants people worry about, and they are not equally dangerou
 
 One more thing washing does: it removes grit, sand, and the occasional insect, which is reason enough on its own.
 
+Washing also removes the eggs that arrive on the skin. For what happens when they stay, and the ten-day cycle that follows, see [how to break the fruit fly cycle](/pest-control/insects/fruit-flies-keep-coming-back/).
+
 ## Step 2: Do the thirty-second running-water rub
 
 This is the whole technique. Everything else is a variation.
