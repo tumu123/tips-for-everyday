@@ -174,6 +174,8 @@ These are less temperature-sensitive but still needed before winter.
 
 Rodent pressure peaks with the first cold nights. For how to tell whether the scratching is a mouse, a duct, or a bird, see [the mouse-in-the-wall checklist](/pest-control/rodents/mice-in-the-walls/).
 
+The yard is where the pressure on a house is generated. For the compost and feeder changes that reduce it, see [the outdoor work that belongs to autumn](/pest-control/rodents/rats-around-compost-and-bird-feeders/).
+
 ## Tier 3: Before first use
 
 | Task | When you'll need it |

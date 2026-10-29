@@ -111,6 +111,8 @@ The species determines the response, and the differences are substantial.
 
 Whichever it is, the order is the same: identify, confirm currency, trap or exclude, then clean. The general sequence is in [the DIY pest control method](/save-money/bills/save-money-on-pest-control-diy/).
 
+Identifying the animal is only half of it; the other half is what is feeding it. For the outdoor food sources that hold a colony in place, see [what the droppings mean for the next step](/pest-control/rodents/rats-around-compost-and-bird-feeders/).
+
 ## How to Clean It Without Breathing It
 
 Rodent droppings are a genuine inhalation hazard, and the hazard is not the droppings themselves so much as the dust raised by disturbing them. Hantavirus, which is carried by deer mice and other rodents in parts of North America, is transmitted primarily by inhaling aerosolised dust from droppings, urine, or nesting material. The practical rules that follow are not excessive caution; they are the standard guidance.

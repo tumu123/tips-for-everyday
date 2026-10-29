@@ -172,6 +172,8 @@ The rule is simple: **metal stops teeth, sealant stops air.** Every gap wider th
 
 Foam is chewed through and hardware cloth is not. For the animal that needs a two-inch hole, the litter timing, and the one-way door, see [the materials that stop a squirrel](/pest-control/rodents/squirrels-in-the-attic/).
 
+Exclusion and removal are different jobs with different materials. For the nests you should not touch, and the species that decides it, see [materials that resist chewing and stinging](/pest-control/insects/wasp-nest-when-to-call-a-professional/).
+
 ## What NOT to Do
 
 **Do not seal while there is activity inside.** Sealing with a mouse in the house traps it in and it will find a route into the living space. Confirm with the powder test that activity has stopped, or trap first.

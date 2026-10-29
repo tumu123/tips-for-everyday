@@ -73,6 +73,8 @@ Air sealing always comes first. Insulation slows heat conduction; air sealing st
 
 **Note on the plastic-window-film debate:** shrink film works and is genuinely useful for single-pane windows you can't replace. It is not a substitute for sealing air leaks, and it does nothing for the windows themselves. Do air sealing first; add film only for windows that remain cold. [The cheap options and what they actually save are covered in How to Lower Your Heating Bill](/save-money/bills/save-on-heating-costs-winter/).
 
+The seams that leak heat are the seams that admit insects. For the species that uses them as a winter shelter, see [air sealing before the cold arrives](/pest-control/insects/stink-bugs-in-the-house/).
+
 ## Step 3: Handle the heating system before you need it
 
 The first cold snap is the worst possible time to discover a problem.

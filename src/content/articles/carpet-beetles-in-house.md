@@ -80,6 +80,8 @@ Where to look, in order of how often it turns out to be the answer:
 | A bag of dry pet food or birdseed | Grain and animal protein together |
 | Under a wool carpet that has never been lifted | Dust beneath the pad |
 
+A rash attributed to bites is often neither a bite nor a bug you can spray for. For the identification that depends on physical evidence, see [whether the marks are bites or bristles](/pest-control/insects/bed-bugs-or-something-else/).
+
 ## Step 2: Inspect the Five Reservoirs Properly
 
 The inspection is the job. Do it with a flashlight and pull things out rather than looking around them.

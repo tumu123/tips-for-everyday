@@ -71,6 +71,8 @@ Catch one and look at it properly, or photograph it. "Small brown bug" is not en
 
 ---
 
+The first step of the general method matters more here than anywhere else. For the evidence that settles an ambiguous bite, see [identifying a pest before acting on it](/pest-control/insects/bed-bugs-or-something-else/).
+
 ## Step 2: Find Where They Are Getting In
 
 This is the step that determines whether anything else matters. Insects and rodents do not materialise indoors; they arrive through openings, and those openings are findable.
@@ -100,6 +102,8 @@ Photograph everything and make a list. This becomes your work order.
 ---
 
 An entry point proves it got in; it does not prove it is still there. For the powder test and the trace reading that settle it, see [how to confirm mice are in the walls](/pest-control/rodents/mice-in-the-walls/).
+
+Every gap closed in September is a gap that does not deliver insects in January. For the insect that overwinters in a wall, and how to catch the ones already inside, see [sealing the autumn entry points](/pest-control/insects/stink-bugs-in-the-house/).
 
 ## Step 3: Seal the Entry Points
 

@@ -131,6 +131,8 @@ Photograph anything questionable. A phone photo from the ladder is enough for an
 
 The roof edge is where an inspection pays for itself. For the animal that chews its way in up there, and the wiring it damages, see [what to look for at the roof edge](/pest-control/rodents/squirrels-in-the-attic/).
 
+Eaves and soffits are where two kinds of problem start. For the one that is a colony rather than a leak, and the three cases that need a professional, see [what the roof-edge inspection turns up](/pest-control/insects/wasp-nest-when-to-call-a-professional/).
+
 ## Step 9: Put the tools away properly
 
 The job ends with the equipment, not the gutter:

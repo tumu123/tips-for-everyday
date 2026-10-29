@@ -164,6 +164,8 @@ A house needs some air exchange. This is not optional.
 
 ---
 
+Blocking the wrong opening is worse than leaving it. For the nest that turns inward when its entrance is closed, see [why not every gap should be sealed](/pest-control/insects/wasp-nest-when-to-call-a-professional/).
+
 ## Why This Works
 
 | Design choice | Problem solved | Why it matters |

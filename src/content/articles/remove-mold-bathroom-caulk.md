@@ -148,6 +148,8 @@ Moisture and particles are separate problems with separate fixes, and this is th
 
 Caulk that has failed holds a wet layer behind it, and so does the drain body a few inches away. For the fly that breeds in both, see [the drain fly source inside the pipe](/pest-control/insects/drain-flies-in-the-bathroom/).
 
+Drying a space down is the step that makes the rest hold. For the insect that prefers it wet, and why a spray cannot reach it, see [moisture as the root of a pest problem](/pest-control/insects/cockroaches-in-an-apartment/).
+
 ## Replacing Caulk: When Cleaning Fails
 
 If replacement is indicated, this is a straightforward job.

@@ -109,6 +109,8 @@ These two get confused constantly, and the difference changes what you should do
 
 The practical consequence: stink bugs are more active indoors through the winter and are worth trapping deliberately — a foil roasting pan with soapy water and a small light in a dark room collects them. Boxelder bugs mostly sit still, so removal by vacuum is sufficient.
 
+Only one of the two is worth excluding properly. For the shield-shaped one that stays active all winter, the light trap, and the two cases where you must not act, see [how to tell a stink bug from a boxelder bug](/pest-control/insects/stink-bugs-in-the-house/).
+
 ## Why Spraying the Exterior Wall Is the Wrong Move
 
 Three reasons, in order of how much they matter.

@@ -54,6 +54,8 @@ There are two distinct mechanisms, and both are well documented.
 
 There is a third, practical problem: a spray applied to a countertop or inside a cabinet leaves a residue on surfaces where food is prepared. That is a cost with no benefit, because the treatment was not reaching the colony anyway. Warm weather is when the traffic starts and stops, so the seasonal side of the same work — excluding rather than killing — is in [how to keep bugs out of the house in summer](/seasonal/seasons/keep-bugs-out-of-house-summer/).
 
+Repellency is the same trap with ants, and it fails the same way. For the species that splits its colony when sprayed, and the bait that reaches the cavity, see [why spraying scatters cockroaches](/pest-control/insects/cockroaches-in-an-apartment/).
+
 ## Step 1: Identify the Species Before You Buy Anything
 
 This step is not academic. In ants, species determines diet preference, and diet preference determines which bait works. Getting this wrong is the single most common reason people conclude that "bait doesn't work."

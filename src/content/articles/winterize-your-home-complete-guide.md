@@ -152,6 +152,8 @@ The gap size you seal depends on the species. For the measurement that decides i
 
 The risk is the length of the absence, not the leaving — [the checklist for leaving a house empty](/seasonal/seasons/leave-home-for-vacation-checklist/) covers the shutdown.
 
+A woodpile and a feed bag are shelter and food respectively. For the pair of outdoor subsidies that keep rats on the property, see [handling exterior and outdoor items](/pest-control/rodents/rats-around-compost-and-bird-feeders/).
+
 ## Step 8: Prove it holds with a cold-weather test
 
 Winterizing is a set of assumptions. Verify them on the first genuinely cold day.

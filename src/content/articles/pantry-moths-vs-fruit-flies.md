@@ -77,6 +77,8 @@ Look for these, in this order:
 4. **Moths resting on the wall above the cupboard.** Adults settle high and near light. A cluster of small moths on the upper wall in the morning is diagnostic.
 5. **Pheromone trap catch.** A pantry moth trap uses a female pheromone and catches males only. It is a monitoring tool — it will not eliminate an infestation — but a trap that fills within a week confirms an active breeding population nearby.
 
+Getting the species wrong wastes a treatment and a month. For the one household pest where the right first move is to stop and call someone, see [confirming the species before treating](/pest-control/insects/bed-bugs-or-something-else/).
+
 ## Step 2: Find Every Package They Can Reach
 
 This step is where infestations survive treatment, because the failure mode is clearing the obvious package and leaving four that look sealed.
