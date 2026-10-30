@@ -109,6 +109,96 @@ export function extractHeadings(body: string) {
   return headings;
 }
 
+/**
+ * 提取 HowTo 步骤：标题 + 该标题下的首段正文。
+ *
+ * 原先 HowToStep.text 直接等于 name（标题），等于让 Google 收到
+ * 「Step 1: Identify the Species」这样一句没有任何指令内容的文本，
+ * 结构化数据形同虚设。这里取标题下的第一段正文，压平 Markdown 后
+ * 截到句末，作为真正的步骤说明。
+ *
+ * 序数为 0 的标题（Step 0）按设计排除，属前置判断而非执行步骤。
+ */
+export function extractHowToSteps(
+  body: string
+): { name: string; text: string; slug: string }[] {
+  const STEP_RE = /^(?:Step|Part|Method)\s+[1-9]\d*\b/i;
+
+  // 压平行内 Markdown，保留可读文本
+  const flatten = (raw: string) =>
+    raw
+      .replace(/```[\s\S]*?```/g, ' ')
+      .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
+      .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+      .replace(/^\s{0,3}>\s?/gm, '')
+      .replace(/^\s*[-*+]\s+/gm, '')
+      .replace(/^\s*\d+\.\s+/gm, '')
+      .replace(/[*_`]/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+
+  // 截到句末（不超过 320 字符），退化为词边界
+  const clip = (text: string, max = 320) => {
+    if (text.length <= max) return text;
+    const window = text.slice(0, max);
+    const lastStop = Math.max(window.lastIndexOf('. '), window.lastIndexOf('? '));
+    if (lastStop >= max * 0.5) return window.slice(0, lastStop + 1).trim();
+    const spaceAt = window.lastIndexOf(' ');
+    return `${(spaceAt > 0 ? window.slice(0, spaceAt) : window).replace(/[,;:—–-]$/, '')}.`;
+  };
+
+  const steps: { name: string; text: string; slug: string }[] = [];
+  let open: { name: string; slug: string; depth: number; buf: string[] } | null = null;
+
+  const commit = () => {
+    if (!open) return;
+    const text = clip(flatten(open.buf.join('\n')));
+    steps.push({
+      name: open.name,
+      // 正文为空时退回标题，至少不让字段缺失
+      text: text || open.name,
+      slug: open.slug,
+    });
+    open = null;
+  };
+
+  const begin = (name: string, depth: number) => {
+    open = {
+      name,
+      depth,
+      slug: name
+        .toLowerCase()
+        .replace(/[^\w\s-]/g, '')
+        .replace(/\s+/g, '-'),
+      buf: [],
+    };
+  };
+
+  for (const line of body.split(/\r?\n/)) {
+    const heading = line.match(/^(#{2,4})\s+(.+)$/);
+    if (heading) {
+      const depth = heading[1].length;
+      const name = heading[2].trim();
+      const isStep = STEP_RE.test(name);
+
+      if (!open) {
+        if (isStep) begin(name, depth);
+      } else if (isStep || depth <= open.depth) {
+        // 新步骤，或遇到同级及更高层级的标题 → 收束当前步骤
+        commit();
+        if (isStep) begin(name, depth);
+      }
+      // 其余情况是当前步骤内部的子标题：保持收集状态，
+      // 但要丢掉标题行本身，只取它下面的正文
+      continue;
+    }
+    if (open) open.buf.push(line);
+  }
+  commit();
+
+  return steps;
+}
+
 /** 解析相关文章（按 relatedSlugs 匹配，不足时用同栏目文章补齐） */
 export function resolveRelated(
   current: Article,

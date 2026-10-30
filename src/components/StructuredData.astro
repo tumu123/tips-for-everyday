@@ -37,10 +37,25 @@ const {
   imageAlt,
 } = Astro.props;
 
+/**
+ * 两种类型共用的字段。
+ * author / publisher / 日期原先只写在 Article 分支里，
+ * 而全站 194 篇是 HowTo —— 等于绝大多数内容在结构化数据里没有作者、没有日期。
+ * 提到 base 里统一输出。
+ */
 const base = {
   '@context': 'https://schema.org',
   name: title,
   description,
+  author: { '@type': 'Person', name: author },
+  publisher: {
+    '@type': 'Organization',
+    name: SITE.title,
+    url: SITE.url,
+  },
+  datePublished: pubDate.toISOString().split('T')[0],
+  dateModified: (updatedDate ?? pubDate).toISOString().split('T')[0],
+  mainEntityOfPage: { '@type': 'WebPage', '@id': url },
   ...(imageAlt
     ? {
         image: {
@@ -79,15 +94,6 @@ if (type === 'HowTo') {
     ...base,
     '@type': 'Article',
     headline: title,
-    author: { '@type': 'Person', name: author },
-    publisher: {
-      '@type': 'Organization',
-      name: SITE.title,
-      url: SITE.url,
-    },
-    datePublished: pubDate.toISOString().split('T')[0],
-    dateModified: (updatedDate ?? pubDate).toISOString().split('T')[0],
-    mainEntityOfPage: { '@type': 'WebPage', '@id': url },
   };
 }
 ---

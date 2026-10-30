@@ -35,7 +35,37 @@ const {
   ogImage: ogImagePath,
 } = Astro.props;
 
-const pageTitle = title === SITE.title ? title : `${title} | ${SITE.title}`;
+// 标题：品牌后缀只在「加了也不超 60 字符」时附加。
+// 超过 60 字符会被 Google 截断，等于白丢关键词，不如让标题独占。
+const BRAND_SUFFIX = ` | ${SITE.title}`;
+const TITLE_MAX = 60;
+const pageTitle =
+  title === SITE.title || title.length + BRAND_SUFFIX.length > TITLE_MAX
+    ? title
+    : `${title}${BRAND_SUFFIX}`;
+
+/**
+ * 描述：裁剪到 SERP 可见长度（约 155 字符）。
+ * 优先在句末截断（阈值 55%，避免只留半句开头），否则退到最近的词边界。
+ * 不追加省略号 —— Google 会自行处理，加了反而占字符。
+ */
+function clipDescription(text: string, max = 155): string {
+  const s = String(text ?? '').replace(/\s+/g, ' ').trim();
+  if (s.length <= max) return s;
+  const window = s.slice(0, max);
+  const sentenceAt = Math.max(
+    window.lastIndexOf('. '),
+    window.lastIndexOf('? '),
+    window.lastIndexOf('! ')
+  );
+  if (sentenceAt >= max * 0.55) return window.slice(0, sentenceAt + 1).trim();
+  const spaceAt = window.lastIndexOf(' ');
+  return (spaceAt > 0 ? window.slice(0, spaceAt) : window)
+    .replace(/[,;:—–-]$/, '')
+    .trim();
+}
+
+const metaDescription = clipDescription(description);
 const canonicalURL = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
 const ogImage = new URL(ogImagePath ?? '/images/og-default.jpg', Astro.site).href;
 
@@ -52,7 +82,7 @@ const ga4Configured =
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
     <title>{pageTitle}</title>
-    <meta name="description" content={description} />
+    <meta name="description" content={metaDescription} />
     {keywords.length > 0 && <meta name="keywords" content={keywords.join(', ')} />}
     <link rel="canonical" href={canonicalURL} />
     {noindex && <meta name="robots" content="noindex, nofollow" />}
@@ -61,7 +91,7 @@ const ga4Configured =
     <!-- Open Graph -->
     <meta property="og:type" content={type} />
     <meta property="og:title" content={pageTitle} />
-    <meta property="og:description" content={description} />
+    <meta property="og:description" content={metaDescription} />
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:site_name" content={SITE.title} />
     <meta property="og:image" content={ogImage} />
@@ -71,7 +101,7 @@ const ga4Configured =
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={pageTitle} />
-    <meta name="twitter:description" content={description} />
+    <meta name="twitter:description" content={metaDescription} />
     <meta name="twitter:image" content={ogImage} />
 
     <!-- Site-level structured data -->

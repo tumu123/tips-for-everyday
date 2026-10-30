@@ -14,6 +14,7 @@ import {
   getArticleUrl,
   extractFaq,
   extractHeadings,
+  extractHowToSteps,
   resolveRelated,
   type Article,
 } from '../utils/articles';
@@ -44,6 +45,7 @@ const { Content } = await render(article);
 const body = article.body ?? '';
 const faq = extractFaq(body);
 const headings = extractHeadings(body);
+const howToSteps = data.schemaType === 'HowTo' ? extractHowToSteps(body) : [];
 const related = resolveRelated(article, allArticles, 3);
 ---
 
@@ -67,6 +69,7 @@ const related = resolveRelated(article, allArticles, 3);
   faq={faq}
   related={related}
   headings={headings}
+  howToSteps={howToSteps}
 >
   <Content />
 </ArticleLayout>

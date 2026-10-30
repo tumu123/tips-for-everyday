@@ -43,6 +43,7 @@ interface Props {
   faq?: FaqItem[];
   related?: RelatedItem[];
   headings?: { depth: number; slug: string; text: string }[];
+  howToSteps?: { name: string; text: string; slug: string }[];
 }
 
 const {
@@ -65,6 +66,7 @@ const {
   faq = [],
   related = [],
   headings = [],
+  howToSteps,
 } = Astro.props;
 
 const catSlug = categorySlug(category);
@@ -93,21 +95,24 @@ const dateFmt = (d: Date) =>
 // 从正文标题生成 HowTo 步骤（供结构化数据使用）
 // 兼容三种写法：`Step N` / `Part N` / `Method N`，二级或三级标题均可
 // 排除序数为 0 的标题（`Step 0` 一类通常是诊断/前置判断，不是执行步骤）
+// 优先用页面层抽出的「标题 + 首段正文」；拿不到正文时才退回只用标题
 const HOWTO_STEP_RE = /^(?:Step|Part|Method)\s+[1-9]\d*\b/i;
-const howToSteps = headings
+const derivedSteps = headings
   .filter((h) => (h.depth === 2 || h.depth === 3) && HOWTO_STEP_RE.test(h.text))
-  .map((h) => ({
-    name: h.text,
-    text: h.text,
-    url: `${postUrl}#${h.slug}`,
-  }));
+  .map((h) => ({ name: h.text, text: h.text, slug: h.slug }));
+const resolvedSteps = howToSteps?.length ? howToSteps : derivedSteps;
+const howToStepData = resolvedSteps.map((s) => ({
+  name: s.name,
+  text: s.text,
+  url: `${postUrl}#${s.slug}`,
+}));
 
 const keywords = [primaryKeyword, ...secondaryKeywords];
 ---
 
 <BaseLayout
   title={title}
-  description={`${description} Practical guide with specific ratios, steps, and common mistakes to avoid.`}
+  description={description}
   keywords={keywords}
   type="article"
   publishedTime={pubDate.toISOString()}
@@ -125,7 +130,7 @@ const keywords = [primaryKeyword, ...secondaryKeywords];
     totalTime={howToTotalTime}
     supplies={howToSupplies}
     tools={howToTools}
-    steps={howToSteps}
+    steps={howToStepData}
     imageAlt={heroAltText}
     image={hero}
   />
