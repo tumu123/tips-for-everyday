@@ -168,7 +168,7 @@ A deep cabinet is only useful if you can reach everything in it.
 ## Step 6: Assign Locations by Frequency
 
 1. **Daily items at hip to eye level.** Plates, glasses, everyday cookware, most-used spices.
-2. **Heavy items low.** Pots, canned goods, bulk containers — anything heavy should not be lifted from above shoulder height.
+2. **Heavy items low.** Pots, canned goods, bulk containers — anything heavy should not be lifted from above shoulder height. The cookware cabinet has its own layout problem — for that, see [how to organize pots and pans and their lids](/organize/kitchen/organize-pots-pans-lids/).
 3. **Light items high.** Paper towels, napkins, light serving pieces, rarely used items.
 4. **Spices near the stove** but **not directly above it** — heat and steam degrade spices quickly. A door-mounted rack or a drawer insert beside the stove works well.
 5. **Oils and vinegars** in a dark cabinet, not on the counter near the stove — light and heat turn them rancid.

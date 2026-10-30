@@ -168,7 +168,7 @@ export const SUBCATEGORY_DESCRIPTIONS: Record<string, string> = {
     'Buy better and replace less often: how to judge when an appliance is worth repairing, and how to extend the life of what you already own.',
   // Organize
   Kitchen:
-    'Kitchen organization systems for small spaces and no-pantry kitchens — zone layouts, storage that fits, and habits that keep it working.',
+    'Kitchen organization that holds up in a working kitchen — no-pantry zone layouts, cookware storage, and counter surfaces you can actually cook on.',
   Closet:
     'Closet, wardrobe, and paper organization that holds up over time — zoning by frequency, seasonal storage, and document retention rules.',
   'Small Spaces':

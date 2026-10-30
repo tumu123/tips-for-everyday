@@ -38,7 +38,7 @@ Most tidying advice fails for a simple reason: it asks you to clean when the act
 3. **Ten minutes is a design constraint, not a compromise.** Any routine that occasionally takes forty minutes will be abandoned. Ten minutes is short enough that you never negotiate with yourself.
 4. **Horizontal surfaces do most of the visual work.** Counters, tables, and islands read as "messy" far faster than floors or shelves, because they are at eye level and they collect.
 
-The reason ten minutes works at all is that mess grows **multiplicatively**, not additively. One item on the counter attracts another. A clear surface stays clear because there is nothing there to suggest placing something down; a surface with one thing on it invites a second. Resetting to *zero* on the visible surfaces is worth more than cleaning a larger area partially.
+The reason ten minutes works at all is that mess grows **multiplicatively**, not additively. One item on the counter attracts another. A clear surface stays clear because there is nothing there to suggest placing something down; a surface with one thing on it invites a second. Resetting to *zero* on the visible surfaces is worth more than cleaning a larger area partially. For the kitchen counter version of that rule, with the storage decisions that make it possible, see [how to clear kitchen counters and keep them clear](/organize/kitchen/clear-kitchen-counters/).
 
 ---
 

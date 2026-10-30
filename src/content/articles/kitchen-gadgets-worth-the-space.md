@@ -103,7 +103,7 @@ A typical apartment kitchen has eight to twelve square feet of usable counter. A
 
 That is the number to hold in mind. One square foot of counter is the difference between having a clear chopping area and not, which is why [small kitchens](/organize/kitchen/organize-small-kitchen/) are organized around the counter rather than the cupboards. An appliance that earns it has to be used often enough that moving it in and out of a cupboard every time would be a real friction — which is roughly twice a week.
 
-Below that frequency, the honest options are two: put it away (and accept that you will rarely take it out), or do not buy it. The appliance that lives on the counter and is used monthly is the worst outcome of all — it takes the space and provides none of the convenience.
+Below that frequency, the honest options are two: put it away (and accept that you will rarely take it out), or do not buy it. The appliance that lives on the counter and is used monthly is the worst outcome of all — it takes the space and provides none of the convenience. For the surface rules that keep the counter usable once the gadgets are decided, see [how to clear kitchen counters and keep them clear](/organize/kitchen/clear-kitchen-counters/).
 
 There is a rule that captures this: **anything that needs to be plugged in either lives on the counter or lives in a cupboard, and the cupboard is where things go to die.** Buy accordingly, and prefer appliances light enough to move if you are unsure.
 
