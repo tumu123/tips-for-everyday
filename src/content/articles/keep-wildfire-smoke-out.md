@@ -171,6 +171,10 @@ Smoke leaves residue, and the residue keeps re-entering the air until it is remo
 
 What not to do: do not run a standard vacuum without HEPA filtration, which is a particle distribution device; do not dry-sweep; do not assume the smell going away means the particles are gone.
 
+## Bottom Line
+
+Smoke control is three actions in a fixed order: stop new air coming in, stop pulling air in on purpose, then filter the air where people sleep. Closing the openings that actually leak, setting the HVAC fan to run continuously with a MERV 13 filter, switching every exhaust fan off, and putting a correctly sized HEPA unit in one closed bedroom will hold indoor PM2.5 far below the outdoor number without any heroics. Check the number rather than the smell, and treat a power outage or a household member at high risk as the signal to reconsider the whole plan.
+
 ## FAQ
 
 **Do air purifiers actually help with wildfire smoke?**
@@ -200,9 +204,3 @@ They help when you have to be outdoors or in a smoky space, and they must be fit
 **How long does the smoke last indoors after the outside air clears?**
 
 Settled particles keep re-entering the air until they are physically removed, so a house can stay elevated for a day or more after outdoor air improves. Change the filter, wet-wipe, and run the purifier for a day rather than expecting it to clear on its own.
-
----
-
-## Bottom Line
-
-Smoke control is three actions in a fixed order: stop new air coming in, stop pulling air in on purpose, then filter the air where people sleep. Closing the openings that actually leak, setting the HVAC fan to run continuously with a MERV 13 filter, switching every exhaust fan off, and putting a correctly sized HEPA unit in one closed bedroom will hold indoor PM2.5 far below the outdoor number without any heroics. Check the number rather than the smell, and treat a power outage or a household member at high risk as the signal to reconsider the whole plan.

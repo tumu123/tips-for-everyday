@@ -162,6 +162,10 @@ Springtails are almost never a reason to call an exterminator, because no pestic
 
 The one situation where a pest professional is useful is when you cannot find the water and need help narrowing it, but the work they will recommend is still moisture control.
 
+## Bottom Line
+
+Springtails are a moisture gauge with legs. They cannot survive dry air, they eat the microbial film that grows where water sits, and they bite nothing. Finding them means a specific spot is staying wet — a shower caulk line, a sink overflow, an overwatered plant, a basement wall wicking from a bad downspout, or a new slab still curing. Identify the location, fix the water, dry the space to below 50 percent, and clean the film they were feeding on. No pesticide is involved, and none would work.
+
 ## FAQ
 
 **Are springtails harmful?**
@@ -191,7 +195,3 @@ Often, yes. They feed on mold, algae, and fungal growth, so a population is usua
 **Do springtails mean my house has a structural problem?**
 
 Not necessarily. Condensation on a cold pipe, an overwatered houseplant, or a wet mat produces them with nothing wrong with the building. But a population that persists after drying, or one inside a wall cavity, is worth investigating as a water intrusion issue.
-
-## Bottom Line
-
-Springtails are a moisture gauge with legs. They cannot survive dry air, they eat the microbial film that grows where water sits, and they bite nothing. Finding them means a specific spot is staying wet — a shower caulk line, a sink overflow, an overwatered plant, a basement wall wicking from a bad downspout, or a new slab still curing. Identify the location, fix the water, dry the space to below 50 percent, and clean the film they were feeding on. No pesticide is involved, and none would work.

@@ -127,6 +127,10 @@ If the increase is a base-rate change, there is no behavioural fix. The options 
 - **Do not assume a smart meter is wrong.** They fail, but rarely, and usually by reading zero rather than high.
 - **Do not buy a whole-house monitor before checking the free hourly data** your utility may already provide.
 
+## Bottom Line
+
+Compare kWh, not dollars. Divide by billing days. Normalize by degree days. If usage per day is genuinely up, find the load with the breaker panel or the utility's hourly data — and look at resistance heat, dehumidifiers, water heating, and a new EV before anything else. If usage is flat, the bill changed because the price did, and the response is a rate plan, not a lifestyle.
+
 ## Frequently Asked Questions
 
 **Why did my bill double in one month with no changes?**
@@ -149,9 +153,3 @@ Only after you know your hourly load shape. The question is not whether the peak
 
 **What if the utility says the bill is correct and I disagree?**
 Request the meter data in writing, ask for a meter test, and escalate to your state's utility commission if the account remains disputed. Keep paying to avoid disconnection while the dispute is open.
-
----
-
-## Bottom Line
-
-Compare kWh, not dollars. Divide by billing days. Normalize by degree days. If usage per day is genuinely up, find the load with the breaker panel or the utility's hourly data — and look at resistance heat, dehumidifiers, water heating, and a new EV before anything else. If usage is flat, the bill changed because the price did, and the response is a rate plan, not a lifestyle.

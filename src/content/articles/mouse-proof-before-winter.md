@@ -190,6 +190,10 @@ Exclusion and removal are different jobs with different materials. For the nests
 
 **Do not skip the light test.** It is the only check that finds the gaps hidden behind siding and vegetation.
 
+## Bottom Line
+
+The work is a route, not a list: walk the perimeter clockwise with a flashlight, then repeat from inside in the dark and look for daylight. Seal the sill plate first, then every utility penetration, then the dryer vent and the AC line set, then doors and thresholds, then the foundation vents, then the garage — which is where most entries actually happen. Pack every gap wider than a hairline with copper mesh before sealing it, because metal stops teeth and sealant only stops air. Finish with the light test and a week of unbaited traps. Four to six hours in October is worth more than any amount of trapping in January.
+
 ## FAQ
 
 **How small a gap can a mouse get through?**
@@ -219,9 +223,3 @@ Field evidence is weak, and rodents appear to habituate to them within days. The
 **What if I find activity after sealing everything?**
 
 Then an entry was missed, or the animal was already inside when you sealed. Check the garage-to-house wall, the sill plate behind vegetation, and the dryer vent hood — those three account for most missed entries. Also confirm that the powder test showed no activity before you sealed.
-
----
-
-## Bottom Line
-
-The work is a route, not a list: walk the perimeter clockwise with a flashlight, then repeat from inside in the dark and look for daylight. Seal the sill plate first, then every utility penetration, then the dryer vent and the AC line set, then doors and thresholds, then the foundation vents, then the garage — which is where most entries actually happen. Pack every gap wider than a hairline with copper mesh before sealing it, because metal stops teeth and sealant only stops air. Finish with the light test and a week of unbaited traps. Four to six hours in October is worth more than any amount of trapping in January.

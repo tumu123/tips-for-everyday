@@ -126,6 +126,10 @@ The basket is aluminium with a PTFE or ceramic coating, and the coating is the p
 
 The heating element and the interior roof accumulate grease that eventually smokes - the same problem [an oven has](/home-hacks/cleaning/clean-oven-without-self-clean/), in a much smaller space. Wipe them with a damp cloth when the unit is cold, every few weeks.
 
+## Bottom Line
+
+An air fryer is a fast, small, high-velocity convection oven. That makes it excellent at reheating, roasting vegetables in small quantities, and crisping frozen food, and it makes it incapable of batter frying, braising, or cooking anything large. Buy one for speed and small batches, size it to your household rather than to the biggest number on the box, preheat it, leave gaps between the pieces, and use a tablespoon of oil. Do those four things and it does exactly what it claims. Skip them and it produces the pale, steamed results that fill one-star reviews.
+
 ## FAQ
 
 **Is an air fryer healthier than deep frying?**
@@ -155,9 +159,3 @@ Yes, substantially, for small quantities. An air fryer draws 1,500 to 1,800 watt
 **Why do frozen fries come out uneven?**
 
 Overcrowding, plus starting from frozen in a cold basket. Preheat, keep them in one layer, and shake twice. If the basket is small, cook in two batches — it is still faster than the oven.
-
----
-
-## Bottom Line
-
-An air fryer is a fast, small, high-velocity convection oven. That makes it excellent at reheating, roasting vegetables in small quantities, and crisping frozen food, and it makes it incapable of batter frying, braising, or cooking anything large. Buy one for speed and small batches, size it to your household rather than to the biggest number on the box, preheat it, leave gaps between the pieces, and use a tablespoon of oil. Do those four things and it does exactly what it claims. Skip them and it produces the pale, steamed results that fill one-star reviews.

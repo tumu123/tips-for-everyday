@@ -163,6 +163,10 @@ Treating is not verifying. Set the same traps in the same places and count again
 
 **Do not move to sleep in another room.** If the problem is in the bedroom, moving to the sofa spreads it.
 
+## Bottom Line
+
+Identify the species first — the small striped one that runs is the German cockroach, and it is the one that lives entirely indoors and crosses between units. Set monitors for a week so you know where the population actually is, then stop spraying, because the spray is what scattered them. Place small dabs of slow-acting gel bait in twenty to thirty cracks and corners, leave it alone for a week, and expect the count to rise before it falls. Two rounds, four weeks apart, with a permanent monitor behind the refrigerator. And in an apartment, tell the landlord in writing and ask for the connected units to be treated on the same day, because your kitchen is not the boundary of the problem.
+
 ## FAQ
 
 **Why do I have more roaches after spraying?**
@@ -196,9 +200,3 @@ Not necessarily. A single large American cockroach near a drain is often a visit
 **Does cleaning get rid of them?**
 
 No. Cleaning reduces food and helps the bait compete, but a colony living in a wall void or a cabinet seam does not depend on crumbs. Cleaning is part of the program, not the program.
-
----
-
-## Bottom Line
-
-Identify the species first — the small striped one that runs is the German cockroach, and it is the one that lives entirely indoors and crosses between units. Set monitors for a week so you know where the population actually is, then stop spraying, because the spray is what scattered them. Place small dabs of slow-acting gel bait in twenty to thirty cracks and corners, leave it alone for a week, and expect the count to rise before it falls. Two rounds, four weeks apart, with a permanent monitor behind the refrigerator. And in an apartment, tell the landlord in writing and ask for the connected units to be treated on the same day, because your kitchen is not the boundary of the problem.

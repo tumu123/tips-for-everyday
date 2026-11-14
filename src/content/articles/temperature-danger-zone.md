@@ -151,6 +151,10 @@ This cuts both ways. Food that smells fine can be unsafe, and food that smells s
 
 That is what [the separate guide on telling whether food has gone bad](/kitchen-tips/food-storage/how-to-tell-if-food-is-bad/) is for: it covers the sensory checks that correlate with spoilage, which is a quality question, not a safety one.
 
+## Bottom Line
+
+Forty to 140°F is the band where bacteria multiply, and the clock is cumulative: two hours to refrigerate, four hours to discard, one hour if it is hot out. Cool food fast in shallow containers — two hours to 70°F, four more to 40°F — and keep the fridge at 37 to 40°F. Reheating to 165°F is a kill step for bacteria, not a reset button for toxins, which is why the only reliable rule is the clock rather than your nose.
+
 ## FAQ
 
 **How long can cooked food sit out?**
@@ -180,9 +184,3 @@ It kills most vegetative bacteria if the food reaches 165°F throughout. It does
 **My fridge does not have a thermometer. How do I know it is cold enough?**
 
 Put an inexpensive appliance thermometer on the middle shelf and leave it there. Aim for 37 to 40°F. If milk or leftovers feel cold but not icy, the fridge is probably 42 to 45°F, which is warmer than it should be.
-
----
-
-## Bottom Line
-
-Forty to 140°F is the band where bacteria multiply, and the clock is cumulative: two hours to refrigerate, four hours to discard, one hour if it is hot out. Cool food fast in shallow containers — two hours to 70°F, four more to 40°F — and keep the fridge at 37 to 40°F. Reheating to 165°F is a kill step for bacteria, not a reset button for toxins, which is why the only reliable rule is the clock rather than your nose.

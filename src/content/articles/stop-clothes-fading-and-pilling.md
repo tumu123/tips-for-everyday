@@ -137,6 +137,10 @@ For wrinkle-prone garments that you would otherwise iron aggressively, note that
 
 **Do not assume an expensive garment will not pill.** Staple length and spinning quality help, but a soft, loosely spun luxury knit will still pill. The care routine is the variable you control.
 
+## Bottom Line
+
+Fading and pilling look like two problems and come from the same three inputs: friction, heat, and water. Wash darks and knits cold, inside out, in a two-thirds-full drum, with the correct dose of liquid detergent and no optical brighteners. Bag the knits, skip the softener on anything that needs to absorb water, and air-dry dark garments out of the sun. When pills appear, cut them with a shaver in one light pass rather than pulling them off. None of this is expensive, and all of it is cumulative — the garment that lasts five years instead of two is usually the one that was washed correctly, not the one that cost more.
+
 ## FAQ
 
 **Why do black clothes turn grey instead of fading evenly?**
@@ -166,7 +170,3 @@ For colour, shade or indoor air-drying is better than both sun and a hot dryer. 
 **Why does my new dark shirt fade faster than an old one?**
 
 New garments release unfixed dye for the first several washes, and washing them with other darks spreads that dye onto everything. Wash new dark items alone for the first three cycles, with a colour-catching sheet, and the loss drops sharply afterward.
-
-## Bottom Line
-
-Fading and pilling look like two problems and come from the same three inputs: friction, heat, and water. Wash darks and knits cold, inside out, in a two-thirds-full drum, with the correct dose of liquid detergent and no optical brighteners. Bag the knits, skip the softener on anything that needs to absorb water, and air-dry dark garments out of the sun. When pills appear, cut them with a shaver in one light pass rather than pulling them off. None of this is expensive, and all of it is cumulative — the garment that lasts five years instead of two is usually the one that was washed correctly, not the one that cost more.

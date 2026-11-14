@@ -153,6 +153,10 @@ If the bites continue with no evidence after three weekly inspections, the next 
 
 **Do not delay reporting if you rent.** Waiting shifts the cost onto you in many jurisdictions.
 
+## Bottom Line
+
+Bites are not evidence, because the reaction is delayed and up to half of people never have one. The evidence that settles it is physical: the apple-seed-sized insect, its pale shed skins, its dark pen-mark droppings in the mattress seams, or small blood spots on the sheet. Run the twelve-minute inspection with a flashlight and a credit card, and repeat it weekly for three weeks before you conclude anything. If you find evidence, stop — do not fog, do not throw out the bed, do not move to another room — and call a professional, who will need heat or a residual program with a follow-up visit. Tell your landlord in writing the same day if you rent. If three inspections find nothing, look at fleas, bird mites, and carpet beetle larvae instead, and consider that the answer may not be an insect at all.
+
 ## FAQ
 
 **Can I tell bed bugs from the bites alone?**
@@ -182,9 +186,3 @@ Adults can survive several months without a blood meal, and eggs can remain viab
 **Will throwing out the mattress solve it?**
 
 Almost never. The population is in the frame, the headboard, the baseboards, and the outlets as well as the mattress, and a discarded mattress in a shared hallway spreads the problem. Treat the room rather than replacing furniture.
-
----
-
-## Bottom Line
-
-Bites are not evidence, because the reaction is delayed and up to half of people never have one. The evidence that settles it is physical: the apple-seed-sized insect, its pale shed skins, its dark pen-mark droppings in the mattress seams, or small blood spots on the sheet. Run the twelve-minute inspection with a flashlight and a credit card, and repeat it weekly for three weeks before you conclude anything. If you find evidence, stop — do not fog, do not throw out the bed, do not move to another room — and call a professional, who will need heat or a residual program with a follow-up visit. Tell your landlord in writing the same day if you rent. If three inspections find nothing, look at fleas, bird mites, and carpet beetle larvae instead, and consider that the answer may not be an insect at all.

@@ -227,6 +227,18 @@ Drying a space down is measurable, and so is the population that answers it. For
 
 ---
 
+---
+
+## Bottom Line
+
+Two instruments — a $15 hygrometer and a $35 moisture meter — turn this from a worry into a maintenance routine. Measure humidity monthly, aim for 30–50%, and map any wall that reads above 17%.
+
+Then check the same three places every season: the basement or crawl space, the bathrooms, and the attic. Those three account for most household mold, and in all three the fix is usually drainage or ventilation rather than anything structural.
+
+The 48-hour window is the whole thing. Find damp inside it and the repair is a fan and a dehumidifier. Find it after and the repair is drywall.
+
+---
+
 ## Frequently Asked Questions
 
 **What humidity level causes mold?**
@@ -252,13 +264,3 @@ Usually not. Testing tells you what species are present, which rarely changes wh
 
 **How often should I check for moisture?**
 Seasonal changes are the natural trigger — spring after snowmelt, fall before the heating season. Plus any time you notice a smell, a stain, or a soft spot.
-
----
-
-## Bottom Line
-
-Two instruments — a $15 hygrometer and a $35 moisture meter — turn this from a worry into a maintenance routine. Measure humidity monthly, aim for 30–50%, and map any wall that reads above 17%.
-
-Then check the same three places every season: the basement or crawl space, the bathrooms, and the attic. Those three account for most household mold, and in all three the fix is usually drainage or ventilation rather than anything structural.
-
-The 48-hour window is the whole thing. Find damp inside it and the repair is a fan and a dehumidifier. Find it after and the repair is drywall.

@@ -181,6 +181,16 @@ The smell comes from biofilm on the filter, the sump, and the door gasket. [Remo
 
 ---
 
+---
+
+## Bottom Line
+
+Do the mop-and-wait test first: if the water comes back, the problem is downstream — high loop, check valve, disposal connection. If it stays away, the problem is inside — filter, pump, hose.
+
+Then work from the cheapest cause upward. Filter first, always. It is free, it takes ten minutes, and it accounts for more "won't drain" complaints than every other cause combined.
+
+---
+
 ## Frequently Asked Questions
 
 **Is it normal to have water in the bottom of the dishwasher?**
@@ -206,11 +216,3 @@ Rinsed monthly, deep-cleaned every three months. Households that pre-rinse less 
 
 **Should I repair or replace?**
 Pump, filter, valve, and hose are all inexpensive and worth repairing on a machine under 10 years old. A control board or a tub leak on an older machine usually isn't.
-
----
-
-## Bottom Line
-
-Do the mop-and-wait test first: if the water comes back, the problem is downstream — high loop, check valve, disposal connection. If it stays away, the problem is inside — filter, pump, hose.
-
-Then work from the cheapest cause upward. Filter first, always. It is free, it takes ten minutes, and it accounts for more "won't drain" complaints than every other cause combined.

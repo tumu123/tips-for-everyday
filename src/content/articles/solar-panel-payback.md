@@ -164,6 +164,10 @@ Ask these and watch how they are answered:
 - **Do not finance solar on a 20-year loan and describe it as "no cost."** You are paying interest for two decades to save a bill.
 - **Do not ignore efficiency first.** Insulation and air sealing are usually cheaper per kWh saved than solar is per kWh generated, and they reduce the system size you need — a [home energy audit](/save-money/bills/home-energy-audit-diy/) is the cheapest way to decide which measures pay, and if you are also replacing heating, [heat pump versus furnace](/save-money/big-decisions/heat-pump-vs-furnace/) changes both the load and the bill.
 
+## Bottom Line
+
+Payback is net cost divided by annual savings, and both halves are more uncertain than the quote suggests. Get the net cost with each incentive named and sourced, get production from a shade-adjusted model, and — most importantly — find out what your exported kilowatt-hours are actually worth under your current tariff. If production mostly offsets retail-rate consumption, solar usually works. If most of it is exported at avoided cost, the numbers are much harder, and no panel brand or financing structure fixes that.
+
 ## Frequently Asked Questions
 
 **How long does solar take to pay for itself?**
@@ -186,9 +190,3 @@ Most carry 25-year performance warranties and degrade about 0.5% a year. The inv
 
 **Can I install solar myself?**
 Permitting, interconnection approval, and roof work usually make this impractical, and it can void the manufacturer warranty. Some states allow owner-builder installation with an electrician's sign-off; check before assuming.
-
----
-
-## Bottom Line
-
-Payback is net cost divided by annual savings, and both halves are more uncertain than the quote suggests. Get the net cost with each incentive named and sourced, get production from a shade-adjusted model, and — most importantly — find out what your exported kilowatt-hours are actually worth under your current tariff. If production mostly offsets retail-rate consumption, solar usually works. If most of it is exported at avoided cost, the numbers are much harder, and no panel brand or financing structure fixes that.

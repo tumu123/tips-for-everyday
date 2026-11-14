@@ -185,6 +185,10 @@ Knowing the checklist lets you answer it before it is asked.
 
 One claim is an event. Two claims at the same address in a short period can affect renewal and premium, and a repeated cause is the strongest argument an insurer has for non-renewal. Before you close the file, fix whatever allowed the loss: replace the failing supply line, clear the gutters, correct the grading, add the water backup endorsement. Premium consequences of claims are covered in more detail in the guide to [lowering a homeowners premium without cutting coverage](/save-money/bills/lower-homeowners-insurance-premium/).
 
+## Bottom Line
+
+Stop the damage, photograph everything before you clean, read the declarations and exclusions, report the same day, and say only what you know. Then read the scope line by line, ask for what is missing, and do not cash the depreciation check and forget the second half of it. Most of the gap between a good claim outcome and a bad one is documentation done in the first 24 hours — the negotiation comes later and matters less.
+
 ## Frequently Asked Questions
 
 **Will filing a claim raise my premium?**
@@ -210,9 +214,3 @@ Most policies cap or exclude mold, often at $10,000, and some exclude it entirel
 
 **Should I use a public adjuster for a $15,000 claim?**
 At 15%, that is $2,250 of your settlement. Justified only if the offer is clearly low and the dispute is real. Get a second contractor estimate first; it is cheaper and often sufficient.
-
----
-
-## Bottom Line
-
-Stop the damage, photograph everything before you clean, read the declarations and exclusions, report the same day, and say only what you know. Then read the scope line by line, ask for what is missing, and do not cash the depreciation check and forget the second half of it. Most of the gap between a good claim outcome and a bad one is documentation done in the first 24 hours — the negotiation comes later and matters less.

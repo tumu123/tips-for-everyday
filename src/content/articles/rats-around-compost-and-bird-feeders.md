@@ -192,6 +192,10 @@ If activity continues at the same level after four weeks, one food source remain
 
 **Do not assume the yard problem stays in the yard.** Rats use the same gaps as mice, only bigger ones, and the pressure on the foundation is continuous while the food supply exists.
 
+## Bottom Line
+
+Sealing the house stops the entry; it does not reduce the number of animals looking for one. Read the yard first — runs, burrows, droppings, and a flour patch tell you which food source is the real one. Then fix the feeder (tray, 30 feet out, brought in at night, seed stored in metal), rebuild the compost (no meat or cooked food, buried additions, hardware cloth base, a lid that latches, turned every one to two weeks), and clear the other buffets: pet food, fallen fruit, the barbecue, the bin, the woodpile. Bait only in lockable, anchored stations, only in the quantity needed, and only after checking your local rules — and remember that trapping plus food removal carries no secondary risk. Verify in four weeks with fresh tracking patches, not with the absence of a sighting.
+
 ## FAQ
 
 **How far should a bird feeder be from the house to avoid rats?**
@@ -221,9 +225,3 @@ Three to six weeks for a colony to shift away from a food source that has been r
 **Do ultrasonic devices keep rats out of a compost bin?**
 
 No. There is no consistent evidence they work, and rats habituate to them within days. Hardware cloth, a locking lid, and correct inputs are what exclude rats from a bin.
-
----
-
-## Bottom Line
-
-Sealing the house stops the entry; it does not reduce the number of animals looking for one. Read the yard first — runs, burrows, droppings, and a flour patch tell you which food source is the real one. Then fix the feeder (tray, 30 feet out, brought in at night, seed stored in metal), rebuild the compost (no meat or cooked food, buried additions, hardware cloth base, a lid that latches, turned every one to two weeks), and clear the other buffets: pet food, fallen fruit, the barbecue, the bin, the woodpile. Bait only in lockable, anchored stations, only in the quantity needed, and only after checking your local rules — and remember that trapping plus food removal carries no secondary risk. Verify in four weeks with fresh tracking patches, not with the absence of a sighting.

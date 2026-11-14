@@ -10,7 +10,7 @@ secondaryKeywords:
 category: "Organize"
 subcategory: "Small Spaces"
 pubDate: 2026-10-14
-updatedDate: 2026-10-14
+updatedDate: 2026-11-14
 author: "Editorial Team"
 readingTime: 6
 featuredImageAlt: "Under-sink cabinet with two-tier pull-out drawers and categorized cleaning supplies"
@@ -78,6 +78,8 @@ This step determines every product decision. Measure before buying, or you will 
    - **Should not be here** (food, kitchen tools, paper goods, chemical products that are hazardous with others)
 
 **Important safety note on chemical storage:** Never store chlorine bleach and ammonia-based cleaners in the same undivided space. If they leak and mix, the result is toxic gas. If you must keep both, put them in separate bins with lids, or store one elsewhere entirely.
+
+**And treat the cabinet as the barrier, not the bottle.** Federal poison-prevention rules require household substances in child-resistant packaging to defeat at least **85 percent** of children in the test panel without a demonstration of how to open it, and **80 percent** after a demonstration (16 CFR 1700.15(b)(1)). Those are the legal floor for packaging that was designed to be hard to open — which means roughly one child in five opens it anyway, and a few more learn after watching once. A cabinet latch costs less than ten dollars and closes the rest of that gap. If there is a young child in the house, the latch is not optional, and relying on the cap alone is betting on your child being in the 85 percent.
 
 ---
 
@@ -166,7 +168,7 @@ Moisture decides which cabinet a population chooses. For the insect that treats 
 
 ---
 
-## Why This Works
+## Why the Trap Governs the Whole Cabinet
 
 | Design choice | Problem solved | Reason |
 |---|---|---|
@@ -181,7 +183,7 @@ The under-sink cabinet's defining constraint is the **drain trap**, which occupi
 
 ---
 
-## What NOT to Do
+## Ten Ways Under-Sink Storage Fails
 
 | Mistake | Why it's a problem |
 |---|---|
@@ -197,6 +199,10 @@ The under-sink cabinet's defining constraint is the **drain trap**, which occupi
 | Storing cleaning products with food | Even sealed cleaners release vapors absorbed by food |
 
 ---
+
+## Sources
+
+- US Code of Federal Regulations, *16 CFR 1700.15 — Poison prevention packaging standards* (CPSC) — child-resistant effectiveness of not less than 85 percent without a demonstration and not less than 80 percent after a demonstration, with senior-adult use effectiveness of at least 90 percent. <https://www.ecfr.gov/current/title-16/chapter-II/subchapter-E/part-1700/subpart-B/section-1700.15>
 
 ## FAQ
 

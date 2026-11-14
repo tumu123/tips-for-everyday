@@ -11,7 +11,7 @@ secondaryKeywords:
 category: "Fix It"
 subcategory: "Home Repair"
 pubDate: 2026-10-17
-updatedDate: 2026-10-17
+updatedDate: 2026-11-14
 author: "Editorial Team"
 readingTime: 6
 featuredImageAlt: "A sliding door roller adjustment screw being turned at the bottom edge of the door while the track is inspected for debris"
@@ -119,7 +119,7 @@ If the roller is visibly worn, cracked, or has a flat side, it needs replacing.
 
 ## Step 6: Remove the Door (With a Helper)
 
-Sliding door panels are heavy — often 25 to 45 kg — and awkward. Get a second person.
+Sliding door panels are heavy — often 55 to 100 pounds for a standard patio panel — and awkward. Get a second person.
 
 Adjust the rollers to their lowest setting first if your door allows it. That gives clearance to lift the panel out.
 
@@ -147,7 +147,19 @@ If the door slides well but now does not seal, the strike alignment may have mov
 
 **Also check the [weatherstripping](/fix-it/maintenance/seal-gaps-doors-windows/).** A door that was hard to slide for a long time has often had its weatherstripping worn through by dragging. If you feel a draft now that the door moves, that is the next thing to address.
 
-## Why This Works
+## If the Glass Itself Is the Problem
+
+Sliding door repairs stop being a hardware job the moment the glass is involved — a cracked pane, a fogged sealed unit, or a panel you want to replace while it is already out of the frame. At that point the question is not which roller fits. It is what kind of glass is legally allowed back in.
+
+**Patio sliding doors are named in federal safety-glazing rules.** 16 CFR Part 1201 (CPSC's Safety Standard for Architectural Glazing Materials) applies to "sliding glass doors, patio-type" along with storm doors, other doors, and bathtub and shower enclosures, and requires that these products be built with glazing that meets the standard (§ 1201.1(a)). Glazing that does not comply is not a permitted substitute, regardless of what a glass shop has on the truck.
+
+**The impact class depends on the size of the pane.** Part 1201 splits products into Category I (Class B) and Category II (Class A). Sliding patio doors, shower and tub enclosures fall in **Category II**, which corresponds to the **400 foot-pound** impact test; doors and storm doors with a single pane of **9 square feet or less** fall in Category I at **150 foot-pounds** (§ 1201.1(d)(4), § 1201.2(a)(3)–(4)). A large patio panel is therefore held to the tougher of the two.
+
+**Look for the permanent label before you accept the panel.** The standard requires that glazing be permanently labeled in a way that stays legible and visible after installation (§ 1201.2(a)(22), § 1201.5). In practice that is the small etched or sandblasted mark in a corner of the glass. If a replacement pane arrives with no mark, that is the whole conversation — a tempered or laminated unit will be marked, and an unmarked pane in a door is the exact hazard the rule exists to prevent.
+
+**Why it matters practically:** annealed glass breaks into large sharp shards; tempered glass breaks into small granules; laminated glass holds together in the frame on a broken interlayer. A patio door is a surface people walk into and lean on, which is why it is regulated rather than left to preference. If a roller job turns into a glass job, treat the marking as the specification and match the old pane physically, the way you would match a roller.
+
+## Why the Cheapest Fix Comes First
 
 The order of operations is the whole method: cheapest and most probable first, invasive and expensive last.
 
@@ -159,7 +171,7 @@ Roller adjustment works because the door hangs on the rollers, and the door's he
 
 And replacement is last because it is the only step that requires taking a heavy panel out — which is worth avoiding if the actual problem was a dirty track.
 
-## What NOT to Do
+## Eight Ways a Simple Repair Turns Expensive
 
 **Do not use oil or grease on the track.** It collects grit and accelerates wear. Use dry silicone or wax.
 
@@ -176,6 +188,10 @@ And replacement is last because it is the only step that requires taking a heavy
 **Do not ignore a damaged rail.** New rollers on a damaged rail wear out fast.
 
 **Do not forget to check the lock after adjusting.** Changing door height changes latch alignment.
+
+## Sources
+
+- US Code of Federal Regulations, *16 CFR Part 1201 — Safety Standard for Architectural Glazing Materials* (CPSC) — applies to sliding glass doors, patio-type; Category I (Class B) covers panes of 9 square feet or less at the 150 foot-pound impact level, Category II (Class A) covers sliding patio doors and tub and shower enclosures at 400 foot-pounds; glazing must carry a permanent label legible after installation. <https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1201>
 
 ## FAQ
 

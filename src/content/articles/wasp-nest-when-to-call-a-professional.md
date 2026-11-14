@@ -144,6 +144,10 @@ The practical consequences:
 
 **Do not use a trap as a nest treatment.** Yellowjacket traps catch foragers and are useful for reducing pressure around a picnic table. They do not affect the colony, and a trap placed near the nest entrance can increase local aggression.
 
+## Bottom Line
+
+In autumn the colony is at its largest, its hungriest, and its most willing to sting, which makes it the worst time to pick a fight with a nest you can see. Identify the species first: umbrella-shaped comb under an eave is a paper wasp nest and a small one is manageable; wasps entering a hole in the ground or a gap in siding is a yellowjacket nest and it is not. Work after full dark, from the distance the label specifies, in two passes, with your head and neck covered, and with an exit route you never have to back into. Never block a wall nest, never light anything, and never treat a nest yourself if anyone in the house has reacted systemically to a sting. And if the nest is in an awkward place and nobody is being stung, leave it — the colony dies at the first hard frost and the nest is never reused.
+
 ## FAQ
 
 **Do wasp nests get reused the next year?**
@@ -173,9 +177,3 @@ Follow the label, which specifies where the product may be applied and the re-en
 **What should I do if I am stung and start to feel unwell?**
 
 Seek emergency care immediately if there is swelling away from the sting site, hives, nausea, or any difficulty breathing. A systemic reaction is a medical emergency and is not something to monitor at home, regardless of how mild it seems at the outset.
-
----
-
-## Bottom Line
-
-In autumn the colony is at its largest, its hungriest, and its most willing to sting, which makes it the worst time to pick a fight with a nest you can see. Identify the species first: umbrella-shaped comb under an eave is a paper wasp nest and a small one is manageable; wasps entering a hole in the ground or a gap in siding is a yellowjacket nest and it is not. Work after full dark, from the distance the label specifies, in two passes, with your head and neck covered, and with an exit route you never have to back into. Never block a wall nest, never light anything, and never treat a nest yourself if anyone in the house has reacted systemically to a sting. And if the nest is in an awkward place and nobody is being stung, leave it — the colony dies at the first hard frost and the nest is never reused.

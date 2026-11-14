@@ -127,6 +127,10 @@ You do not need a professional. Two cheap checks:
 
 The changes worth measuring first: range hood use, candles, scented products, and window timing. Those four are free and usually produce a larger change than any purchase.
 
+## Bottom Line
+
+Stop the source first: run a vented range hood, cut candles and scented products, and put a real mat at every door. Then ventilate properly — two openings, ten to fifteen minutes, timed to when the outdoor air is clean. Then upgrade the HVAC filter to MERV 8 or 13 and change it on schedule. Buy a purifier only when the source cannot be removed and the windows have to stay shut, and skip anything that generates ozone.
+
 ## FAQ
 
 **Do air purifying plants actually clean the air?**
@@ -160,9 +164,3 @@ Every one to three months, more often with pets or during high pollen. A loaded 
 **Does a range hood really improve indoor air?**
 
 Only if it vents outdoors. Recirculating hoods remove grease and return the combustion gases and most particles to the room. Hold a tissue against the filter while the fan runs — if it is not pulled toward the hood, it is not capturing. Clean the grease filter monthly.
-
----
-
-## Bottom Line
-
-Stop the source first: run a vented range hood, cut candles and scented products, and put a real mat at every door. Then ventilate properly — two openings, ten to fifteen minutes, timed to when the outdoor air is clean. Then upgrade the HVAC filter to MERV 8 or 13 and change it on schedule. Buy a purifier only when the source cannot be removed and the windows have to stay shut, and skip anything that generates ozone.

@@ -197,6 +197,18 @@ Run a hot cycle with a drum cleaner or two cups of white vinegar, wipe the door 
 
 ---
 
+---
+
+## Bottom Line
+
+Standing water in the drum is a chain problem, and the chain is short: filter, hose, standpipe, pump, control. Work it in that order and most cases resolve at the first link for free.
+
+The two things that mislead people are silence and foam. Silence usually means the pump was never told to run — check the lid switch. Foam means the pump is running fine and has nothing to pump — let it collapse. Neither one is a broken pump, and both are commonly paid for as if they were.
+
+If you've cleared the filter, confirmed the hose and standpipe, and the pump turns freely but the machine still won't drain, the pump motor has failed. That is the point where a replacement part makes sense — or where [the repair-or-replace calculation](/save-money/shopping/repair-or-replace-appliance/) tells you the machine is done.
+
+---
+
 ## Frequently Asked Questions
 
 **Where is the drain filter on my washer?**
@@ -222,13 +234,3 @@ Suds lock from too much or wrong detergent. Let it sit, then run drain-and-spin.
 
 **Is it worth fixing a 12-year-old washer?**
 Usually not for a pump or control board. Most washers last 10–13 years, and a $300 repair on a machine that age is money spent on borrowed time.
-
----
-
-## Bottom Line
-
-Standing water in the drum is a chain problem, and the chain is short: filter, hose, standpipe, pump, control. Work it in that order and most cases resolve at the first link for free.
-
-The two things that mislead people are silence and foam. Silence usually means the pump was never told to run — check the lid switch. Foam means the pump is running fine and has nothing to pump — let it collapse. Neither one is a broken pump, and both are commonly paid for as if they were.
-
-If you've cleared the filter, confirmed the hose and standpipe, and the pump turns freely but the machine still won't drain, the pump motor has failed. That is the point where a replacement part makes sense — or where [the repair-or-replace calculation](/save-money/shopping/repair-or-replace-appliance/) tells you the machine is done.

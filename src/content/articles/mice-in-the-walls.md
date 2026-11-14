@@ -140,6 +140,10 @@ If the powder test confirms current rodent activity, the sequence is: identify t
 
 **Then prevent.** The same exclusion work that solved the problem is what stops next autumn's version of it, and autumn is when the pressure peaks as outdoor temperatures fall. The seasonal sequence is in [how to winterize your home](/seasonal/seasons/winterize-your-home-complete-guide/).
 
+## Bottom Line
+
+Sound is a lead, not a conclusion. Listen for two or three nights and check the timing against the heating schedule; then look for droppings, grease marks, and gnaw marks, and read the species from them. Prove the activity is current with a flour dusting on a cleaned strip before spending anything. If it is mice, the order is trap inside along the confirmed route, seal the exterior at 1/4-inch scale, clean the contaminated area, and then keep the exterior sealed — because the pressure returns every autumn, and the seal is what makes next year different.
+
 ## FAQ
 
 **How do I know if mice are in my walls?**
@@ -169,9 +173,3 @@ No. Duct expansion, water hammer, a bird in a vent, and squirrels in an attic al
 **How big a gap can a mouse get through?**
 
 About 1/4 inch, the diameter of a pencil. That is why visual inspection for "large holes" misses most entry points, and why the exclusion walk has to be done at that scale with a flashlight.
-
----
-
-## Bottom Line
-
-Sound is a lead, not a conclusion. Listen for two or three nights and check the timing against the heating schedule; then look for droppings, grease marks, and gnaw marks, and read the species from them. Prove the activity is current with a flour dusting on a cleaned strip before spending anything. If it is mice, the order is trap inside along the confirmed route, seal the exterior at 1/4-inch scale, clean the contaminated area, and then keep the exterior sealed — because the pressure returns every autumn, and the seal is what makes next year different.

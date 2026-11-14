@@ -152,6 +152,10 @@ Not because DIY cannot work, but because three things are genuinely outside the 
 
 Professional cleaning every 12 to 18 months, with vacuuming and spot treatment in between, is a reasonable split for most homes. Deep cleaning it yourself twice a year is not better — it is just more wet cycles, and wet cycles are what wear carpet out.
 
+## Bottom Line
+
+Vacuum slowly, twice, in two directions — that is most of the work. Then use the least water that will suspend the soil: light spray, agitate, blot with a white cloth, rinse, blot dry. Keep the sections small enough to dry, and run fans plus a dehumidifier until a paper towel pressed into the pile comes up dry. The rental machine is not the problem. The water it leaves behind is.
+
 ## FAQ
 
 **Can I really clean carpet without a machine?**
@@ -185,9 +189,3 @@ Partially. Vacuuming with a beater bar, brushing the pile upright, and steam all
 **Should I clean the whole room or just the traffic lanes?**
 
 Just the lanes, most of the time. Cleaning an entire room means wetting areas that were not dirty, which increases drying time and wear. Reserve whole-room cleaning for when the overall color has dulled, and always work in small sections you can dry.
-
----
-
-## Bottom Line
-
-Vacuum slowly, twice, in two directions — that is most of the work. Then use the least water that will suspend the soil: light spray, agitate, blot with a white cloth, rinse, blot dry. Keep the sections small enough to dry, and run fans plus a dehumidifier until a paper towel pressed into the pile comes up dry. The rental machine is not the problem. The water it leaves behind is.

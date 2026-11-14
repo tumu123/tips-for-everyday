@@ -126,6 +126,10 @@ If you cook at home most nights and have the space, the pair is not redundant: t
 
 If you cook three nights a week and have one appliance's worth of space, buy for your schedule and accept the gap. A pressure cooker used four times a week beats two appliances used twice a month.
 
+## Bottom Line
+
+Buy the slow cooker if your cooking happens in the morning and finishes unattended, and if your meals are braises, stews, and pulled meat. Buy the pressure cooker if you decide dinner when you get home, and if beans, stock, rice, and thawing-from-frozen are regular problems. Both need a skillet for browning, neither browns on its own, and the pressure cooker's slow-cook mode is a fallback rather than a substitute. Size up rather than down — a 6-quart pot is the smallest one that does everything.
+
 ## FAQ
 
 **Can I leave an Instant Pot unattended while it cooks?**
@@ -155,9 +159,3 @@ One cup of thin liquid — water, broth, wine, or a thin sauce. Thick ingredient
 **Does the pressure cooker really cook beans without soaking?**
 
 Yes, for most varieties: 30 to 40 minutes at high pressure for black or pinto beans from dry, plus a natural release. Older beans need longer, and beans with added acid or salt at the start may never soften.
-
----
-
-## Bottom Line
-
-Buy the slow cooker if your cooking happens in the morning and finishes unattended, and if your meals are braises, stews, and pulled meat. Buy the pressure cooker if you decide dinner when you get home, and if beans, stock, rice, and thawing-from-frozen are regular problems. Both need a skillet for browning, neither browns on its own, and the pressure cooker's slow-cook mode is a fallback rather than a substitute. Size up rather than down — a 6-quart pot is the smallest one that does everything.

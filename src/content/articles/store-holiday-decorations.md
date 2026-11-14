@@ -10,7 +10,7 @@ secondaryKeywords:
 category: "Seasonal & Holiday"
 subcategory: "Holidays"
 pubDate: 2026-10-16
-updatedDate: 2026-10-16
+updatedDate: 2026-11-14
 author: "Editorial Team"
 readingTime: 10
 featuredImageAlt: "Holiday decorations packed in labeled bins with lights wound on spools and ornaments in divided trays"
@@ -63,7 +63,9 @@ Tangled lights are the single biggest time cost of decorating, and the cause is 
 
 **What not to do:** stuffing strands loose into a bag. It takes four seconds to pack and forty minutes to untangle.
 
-Four ignition sources in one room compound — [holiday safety checks for lights, trees, candles and heaters](/seasonal/holidays/winter-holiday-safety-home-checks/) covers each.
+**Labeling is a safety job, not a tidiness one.** US Fire Administration holiday guidance, citing NFPA data, states that **almost one-third of home Christmas tree fires are caused by electrical problems**, and its first instruction is to inspect the lights each year before putting them up and to throw away any strand with frayed or pinched wires. A spool per strand is what makes that inspection a five-minute job; a bag of tangled wire is what makes you skip it and plug in a strand you never looked at. Put the label on the spool and let it carry two things: the length, and the manufacturer's maximum number of strands that may be connected end to end — that limit is set per product and does not transfer between sets, so a number remembered from last year's lights is not a number.
+
+Four ignition sources in one room compound. For checks that cover lights, trees, candles and heaters together, see [holiday safety checks for lights, trees, candles and heaters](/seasonal/holidays/winter-holiday-safety-home-checks/).
 
 ## Step 3: Pack ornaments by fragility, not by color
 
@@ -152,7 +154,7 @@ Decorations spend eleven months a year in whatever space the house has left over
 
 ---
 
-## Why This Works
+## Why Storage Format Determines Next December
 
 Most decoration damage is mechanical or biological, and both are preventable by the same three rules.
 
@@ -168,7 +170,7 @@ Pests are attracted by nesting material and by food residue. Fabric items, espec
 
 Finally, labeling and photographs address the retrieval problem rather than the damage problem — but retrieval is where most of the frustration comes from. A labeled system turns a search through six bins into a direct pull, and the photograph means you don't have to open anything at all.
 
-## What NOT to Do
+## Twelve Storage Mistakes That Cost You Next Year
 
 | Mistake | Why it fails | Do this instead |
 |---|---|---|
@@ -184,6 +186,10 @@ Finally, labeling and photographs address the retrieval problem rather than the 
 | Storing wreaths flat under other boxes | Deforms the shape permanently | Dedicated wreath box, hung |
 | Storing inflatables while damp | Mildew and corroded blower motors | Dry completely, store indoors |
 | Keeping no record of what needs replacing | You rebuy duplicates or miss items | List it while packing |
+
+## Sources
+
+- US Fire Administration (FEMA), *Holiday Fire Safety* — citing NFPA data, almost one-third of home Christmas tree fires are caused by electrical problems; inspect holiday lights each year before putting them up, discard strands with frayed or pinched wires, and follow the manufacturer's instruction for the number of strands to connect. <https://usfa.fema.gov/prevention/home-fires/prevent-fires/holiday>
 
 ## Frequently Asked Questions
 

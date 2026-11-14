@@ -147,6 +147,10 @@ Rodent droppings are a genuine inhalation hazard, and the hazard is not the drop
 
 **Do not assume one species.** Rat droppings in the garage and mouse droppings in the kitchen is a normal combination in a house with an attached garage.
 
+## Bottom Line
+
+Measure before you conclude: 3 to 6 millimetres with pointed ends is a house mouse, 12 to 18 millimetres with blunt ends is a Norway rat, and 10 to 14 millimetres and slender is a roof rat. Then look at the distribution — a trail along a wall means a rodent on the move, while a concentration at one point means a roost, a nest, or a latrine, and a concentrated pile that crumbles means bats, which change the entire response. Confirm the activity is current with a flour dusting, then trap along the route, seal at the right gap size, and wet the droppings with disinfectant before you touch them. The measurement takes a minute and it decides everything after it.
+
 ## FAQ
 
 **How can I tell rat droppings from mouse droppings without a ruler?**
@@ -176,9 +180,3 @@ They do not disappear — they dry, lighten, and crumble, and they remain visibl
 **Do rat droppings mean I need an exterminator?**
 
 Not necessarily. Rats are controllable with larger traps set along confirmed routes, exclusion at 1/2-inch gaps, and removal of the outdoor food source — a compost bin, a bird feeder, or unsecured rubbish. Professional help is worth considering when rats are inside the structure with no obvious entry point, when the problem is in a shared wall of a multi-unit building, or when the contamination is extensive.
-
----
-
-## Bottom Line
-
-Measure before you conclude: 3 to 6 millimetres with pointed ends is a house mouse, 12 to 18 millimetres with blunt ends is a Norway rat, and 10 to 14 millimetres and slender is a roof rat. Then look at the distribution — a trail along a wall means a rodent on the move, while a concentration at one point means a roost, a nest, or a latrine, and a concentrated pile that crumbles means bats, which change the entire response. Confirm the activity is current with a flour dusting, then trap along the route, seal at the right gap size, and wet the droppings with disinfectant before you touch them. The measurement takes a minute and it decides everything after it.

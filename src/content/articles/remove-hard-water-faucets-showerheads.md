@@ -138,6 +138,10 @@ The signs that a fixture is past saving:
 
 At that point, replacing the aerator (a $3 part) or the showerhead (a $25 to $60 part) is cheaper than any descaler, and both are hand-tight replacements that need no plumber.
 
+## Bottom Line
+
+Scale is a mineral, so dissolve it rather than scrub it. Soak aerators and showerheads in vinegar for 30 to 60 minutes, or in citric acid solution for faster results with less risk to the finish. Never use acid toilet cleaner on chrome and never soak plated parts overnight. Then dry the fixture after each use, because prevention is thirty seconds and descaling is an afternoon.
+
 ## FAQ
 
 **Does vinegar really remove hard water stains?**
@@ -171,9 +175,3 @@ Because the surface has become rough. Once a finish is pitted or etched, deposit
 **When should I replace a fixture instead of cleaning it?**
 
 When the plating is pitting or flaking, when there is green corrosion at the joints, or when a full soak only buys a week. An aerator is a few dollars and a showerhead is under $60 — both screw on by hand, so replacement is cheaper than continued descaling.
-
----
-
-## Bottom Line
-
-Scale is a mineral, so dissolve it rather than scrub it. Soak aerators and showerheads in vinegar for 30 to 60 minutes, or in citric acid solution for faster results with less risk to the finish. Never use acid toilet cleaner on chrome and never soak plated parts overnight. Then dry the fixture after each use, because prevention is thirty seconds and descaling is an afternoon.

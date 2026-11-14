@@ -143,6 +143,10 @@ The two biggest levers are almost always the EV and the water heater. Everything
 - **Do not ignore the seasonal window changes.** A household that learns the summer window and keeps it in winter gets the worst of both.
 - **Do not forget the fixed charges.** They are often the reason a "cheaper" plan is not.
 
+## Bottom Line
+
+One number decides this: the share of your kilowatt-hours inside the peak window. Under about 25%, switch. Above about 35%, do not, unless an EV or a battery changes the shape. In between, it depends entirely on whether you will actually move the water heater, the dryer, and the AC — and on whether the winter rate structure punishes the way you heat.
+
 ## Frequently Asked Questions
 
 **Is time-of-use always cheaper if I shift usage?**
@@ -165,9 +169,3 @@ It can be. The heat pump itself is efficient, but aux heat during a winter peak 
 
 **What about a "free nights" plan?**
 Those plans typically recover the cost in a much higher daytime rate and a higher base charge. Run the same hourly arithmetic against them — the free window is a marketing structure, not a discount.
-
----
-
-## Bottom Line
-
-One number decides this: the share of your kilowatt-hours inside the peak window. Under about 25%, switch. Above about 35%, do not, unless an EV or a battery changes the shape. In between, it depends entirely on whether you will actually move the water heater, the dryer, and the AC — and on whether the winter rate structure punishes the way you heat.

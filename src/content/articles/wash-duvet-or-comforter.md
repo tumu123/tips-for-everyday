@@ -140,6 +140,10 @@ If the duvet is not due for a full wash, most marks can be handled in place:
 
 The duvet cover is doing most of the work — it is what gets washed weekly or biweekly. Pillows sit in the same bed and follow the same logic at a smaller scale: [how often to wash pillows](/home-hacks/fabrics/how-often-to-wash-pillows/) is set by the protector, not the calendar. A duvet with a cover and a protector underneath genuinely only needs an annual wash. Without one, the shell is in direct contact with skin and the interval drops sharply.
 
+## Bottom Line
+
+Measure the drum before anything else. If the duvet fills more than two-thirds of it, or the machine has a center agitator, do the job at a laundromat. If it fits: mild or down-specific detergent, gentle cycle, cold or warm water, low spin, two extra rinses, then low heat with three balls and a hand-break every half hour until the center is genuinely dry. The drying stage is the whole job, and rushing it is how duvets get ruined without anything visibly going wrong.
+
 ## FAQ
 
 **Can I wash a king-size comforter at home?**
@@ -173,9 +177,3 @@ Either the center was still damp when you put it away, or detergent remained in 
 **How do I wash a duvet if I do not have a dryer?**
 
 Do not, for down or down alternative. They need to be shaken and turned every few hours for two to three days in a warm, dry, ventilated room, and the center often stays damp anyway. A damp filling this thick cannot be laundered clean of the smell afterwards. Use a laundromat dryer.
-
----
-
-## Bottom Line
-
-Measure the drum before anything else. If the duvet fills more than two-thirds of it, or the machine has a center agitator, do the job at a laundromat. If it fits: mild or down-specific detergent, gentle cycle, cold or warm water, low spin, two extra rinses, then low heat with three balls and a hand-break every half hour until the center is genuinely dry. The drying stage is the whole job, and rushing it is how duvets get ruined without anything visibly going wrong.

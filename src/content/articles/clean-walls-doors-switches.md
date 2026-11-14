@@ -135,6 +135,10 @@ Three common wall marks are not soil and cannot be cleaned off:
 
 The cheap habit that changes the interval: wipe the switch plate and the door handle whenever you clean the bathroom, since the cloth is already in your hand. Those two surfaces account for most of the visible grime in a hallway.
 
+## Bottom Line
+
+Test the sheen in a hidden spot before you touch anything. Flat paint gets dusted and blotted, never rubbed. Eggshell and above get a barely damp cloth with a drop of dish soap and an immediate dry pass. Doors need a degreaser around the handle, and switch plates need a barely damp cloth with the power off. Then accept that some wall marks are transfer or burnished sheen rather than dirt, and the answer for those is a small can of touch-up paint — not a stronger cleaner.
+
 ## FAQ
 
 **Can I clean matte painted walls?**
@@ -168,9 +172,3 @@ For light soil, a dilute vinegar solution is fine on satin and gloss. It does no
 **How do I clean textured or popcorn walls?**
 
 Do not wet them. Vacuum with a brush attachment and use a dry microfiber cloth, because moisture softens the texture and any rubbing breaks it off. For stains, blot with the minimum moisture and accept that some marks cannot be removed without damaging the texture.
-
----
-
-## Bottom Line
-
-Test the sheen in a hidden spot before you touch anything. Flat paint gets dusted and blotted, never rubbed. Eggshell and above get a barely damp cloth with a drop of dish soap and an immediate dry pass. Doors need a degreaser around the handle, and switch plates need a barely damp cloth with the power off. Then accept that some wall marks are transfer or burnished sheen rather than dirt, and the answer for those is a small can of touch-up paint — not a stronger cleaner.

@@ -151,6 +151,10 @@ Once a year, ideally when the tax return is filed, run one pass:
 
 Twenty minutes, once a year, keeps the drawer from becoming a project. The system that fails is not the one with the wrong retention rule — it is the one nobody opens for four years.
 
+## Bottom Line
+
+Retention is a table, not a judgment: seven years for anything financial, forever for anything that proves ownership, one year for the rest, and the life of the product for warranties and manuals. The folder that matters most is the capital improvement record, which almost nobody keeps and which can be worth thousands at sale. Scan by default, keep originals only for deeds, titles, and estate documents, keep one index page that says where everything lives, and shred the rest on schedule. Once a year, twenty minutes.
+
 ## FAQ
 
 **How long should I keep tax returns?**
@@ -180,9 +184,3 @@ For the life of the appliance. Write the purchase date and the warranty expiry o
 **What if I am not sure whether to keep something?**
 
 Scan it, then decide. A digital copy costs nothing to store, and the decision about the paper becomes easy once the content is safe. The only documents that should never be reduced to a scan alone are the three listed above.
-
----
-
-## Bottom Line
-
-Retention is a table, not a judgment: seven years for anything financial, forever for anything that proves ownership, one year for the rest, and the life of the product for warranties and manuals. The folder that matters most is the capital improvement record, which almost nobody keeps and which can be worth thousands at sale. Scan by default, keep originals only for deeds, titles, and estate documents, keep one index page that says where everything lives, and shred the rest on schedule. Once a year, twenty minutes.

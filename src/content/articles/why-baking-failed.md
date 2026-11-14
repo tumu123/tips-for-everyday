@@ -150,6 +150,10 @@ Write the results on the recipe — temperature, time, pan, and weight of flour.
 
 Above roughly 3,500 feet, lower air pressure means faster evaporation and faster leavening. Cakes rise faster and fall further. The standard adjustments: reduce baking powder by about 15 percent per 1,500 feet, increase oven temperature 15 to 25°F, and add a tablespoon of extra liquid at higher elevations. Bread needs less adjustment than cakes — mostly a longer proof.
 
+## Bottom Line
+
+Diagnose by symptom rather than by guesswork. A sunken centre is underbaking; density is overmixing or heavy flour; pale is low temperature; a burnt edge with a raw centre is too much heat too fast; flat cookies are warm butter; bread that will not rise is dead yeast or water above 120°F. Fix the scale and the oven thermometer first, and half of these problems stop happening.
+
 ## FAQ
 
 **Why does my cake sink in the middle?**
@@ -179,9 +183,3 @@ Flour, yes. The difference between spooned and scooped flour is 20 percent, whic
 **Why is my baking pale even at the right temperature?**
 
 Check the oven with a thermometer first — many run 25°F low. Then check sugar quantity and rack position. A light-coloured pan and a glass pan both brown more slowly than dark metal.
-
----
-
-## Bottom Line
-
-Diagnose by symptom rather than by guesswork. A sunken centre is underbaking; density is overmixing or heavy flour; pale is low temperature; a burnt edge with a raw centre is too much heat too fast; flat cookies are warm butter; bread that will not rise is dead yeast or water above 120°F. Fix the scale and the oven thermometer first, and half of these problems stop happening.

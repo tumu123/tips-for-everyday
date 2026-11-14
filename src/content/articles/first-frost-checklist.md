@@ -188,6 +188,10 @@ Once the garden is handled, walk the outside of the house once:
 
 **Do not assume a covered plant is safe below 28°F.** A single sheet adds a few degrees, not ten. In a hard freeze, harvest rather than protect.
 
+## Bottom Line
+
+Frost gives you about 48 hours, and the sequence is what makes those hours count: read the real forecast, water deeply the day before, harvest what cannot survive, cover with fabric before sunset and weigh it down, bring in the containers. Then disconnect the hoses, cap the faucets, drain the irrigation, and check the pipes and the heating. After the frost, leave the blackened foliage alone until spring and do not walk on the lawn. The garden will mostly recover either way. The hose bib will not.
+
 ## FAQ
 
 **At what temperature should I cover my plants?**
@@ -217,9 +221,3 @@ Because the water had nowhere to expand. A disconnected hose lets the faucet dra
 **Do I need to do all of this for one cold night?**
 
 Do the first four steps — water, harvest, cover, and disconnect the hose — for any frost advisory. The rest of the list can wait for the first hard freeze, with one exception: the heating check, which is worth doing before the first cold night regardless.
-
----
-
-## Bottom Line
-
-Frost gives you about 48 hours, and the sequence is what makes those hours count: read the real forecast, water deeply the day before, harvest what cannot survive, cover with fabric before sunset and weigh it down, bring in the containers. Then disconnect the hoses, cap the faucets, drain the irrigation, and check the pipes and the heating. After the frost, leave the blackened foliage alone until spring and do not walk on the lawn. The garden will mostly recover either way. The hose bib will not.

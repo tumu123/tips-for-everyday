@@ -217,6 +217,16 @@ The average tank heater lasts 8–12 years. Once past ten, every repair is money
 
 ---
 
+---
+
+## Bottom Line
+
+Work the symptom table before the tools. Confirm power and gas, identify whether the heater is failing to *make* heat or failing to *deliver* it, and then follow the branch that matches your heater type. Most no-hot-water calls resolve at the breaker, the limit switch, the pilot, or the lower element — four checks, none of which require special tools beyond a flashlight and a screwdriver.
+
+When the tank is wet at the base, when the reset trips repeatedly, or when the flue is involved, stop. Those are the three situations where [knowing when to call a professional](/fix-it/home-repair/diy-or-call-a-professional/) is worth more than any repair you could attempt.
+
+---
+
 ## Frequently Asked Questions
 
 **How long should I wait before calling a plumber?**
@@ -242,11 +252,3 @@ Bacteria reacting with the magnesium or aluminium anode rod, common in well wate
 
 **Should I shut the heater off if I'm going away?**
 Set it to "vacation" rather than off — that keeps the tank from growing bacteria and avoids a full cold start. Full guidance is in the vacation checklist for your climate.
-
----
-
-## Bottom Line
-
-Work the symptom table before the tools. Confirm power and gas, identify whether the heater is failing to *make* heat or failing to *deliver* it, and then follow the branch that matches your heater type. Most no-hot-water calls resolve at the breaker, the limit switch, the pilot, or the lower element — four checks, none of which require special tools beyond a flashlight and a screwdriver.
-
-When the tank is wet at the base, when the reset trips repeatedly, or when the flue is involved, stop. Those are the three situations where [knowing when to call a professional](/fix-it/home-repair/diy-or-call-a-professional/) is worth more than any repair you could attempt.

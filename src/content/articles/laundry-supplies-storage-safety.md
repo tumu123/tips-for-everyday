@@ -159,6 +159,10 @@ This is the same division the room layout itself uses — tools stored at the po
 
 **Do not store anything on top of the machine that can fall into an open drum.** Caps, pods, and small bottles end up in the wash more often than people expect.
 
+## Bottom Line
+
+Sort laundry products by chemical family, not by bottle size: oxidisers together, acids in a separate zone with a solid shelf between, everyday detergents at the working height. Keep everything in its original labelled container, keep the whole set above five feet behind a latch, and treat single-dose pods as the highest-risk item in the room. Add a tray under liquids and a moisture absorber against the room's humidity. Ninety minutes of sorting removes the one scenario — bleach and vinegar on the same shelf — that sends people to the emergency room.
+
 ## FAQ
 
 **What happens if bleach and vinegar mix?**
@@ -188,7 +192,3 @@ It absorbed moisture from the room. A laundry room is humid, and powder is hygro
 **Is vinegar a safe substitute for fabric softener?**
 
 As a mild acid rinse in the softener dispenser, it is a reasonable option for towels and for reducing detergent residue. Treat it as what it is — an acid — and keep it away from anything containing chlorine bleach.
-
-## Bottom Line
-
-Sort laundry products by chemical family, not by bottle size: oxidisers together, acids in a separate zone with a solid shelf between, everyday detergents at the working height. Keep everything in its original labelled container, keep the whole set above five feet behind a latch, and treat single-dose pods as the highest-risk item in the room. Add a tray under liquids and a moisture absorber against the room's humidity. Ninety minutes of sorting removes the one scenario — bleach and vinegar on the same shelf — that sends people to the emergency room.

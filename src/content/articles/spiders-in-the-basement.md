@@ -109,6 +109,10 @@ Professional help is warranted in three situations: a confirmed brown recluse or
 
 For everything else, the cost of a service contract is being spent on a problem that a dehumidifier and a shelving unit address.
 
+## Bottom Line
+
+The default answer is to leave basement spiders alone: they eat the insects you do not want, they cannot hurt you, and spraying them leaves the food supply intact while removing the predator. Two species justify a different response — the brown recluse within its south-central range, and the black widow — and those call for identification and, if confirmed indoors, professional treatment. For everything else, the effective work is habitat: dry the space, get cardboard off the floor, seal the gaps at floor level, and knock down the webs you can reach. The spiders will thin out on their own once there is less to eat.
+
 ## FAQ
 
 **Are basement spiders dangerous?**
@@ -138,9 +142,3 @@ They reduce the prey base, which reduces the spiders over a couple of months. Th
 **Should I kill a spider I find in my bedroom?**
 
 Catch it and put it outside if it bothers you; there is no pest-management reason to kill it. The exception is a spider you suspect is a recluse or a widow, which should be treated with caution and identified rather than handled.
-
----
-
-## Bottom Line
-
-The default answer is to leave basement spiders alone: they eat the insects you do not want, they cannot hurt you, and spraying them leaves the food supply intact while removing the predator. Two species justify a different response — the brown recluse within its south-central range, and the black widow — and those call for identification and, if confirmed indoors, professional treatment. For everything else, the effective work is habitat: dry the space, get cardboard off the floor, seal the gaps at floor level, and knock down the webs you can reach. The spiders will thin out on their own once there is less to eat.

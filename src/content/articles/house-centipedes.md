@@ -111,6 +111,10 @@ Some people cannot share a house with a fast-moving fifteen-legged arthropod, an
 
 If the house has a chronic damp basement and the centipedes are constant, the real project is the basement. That is a moisture job, not a pest job, and the diagnostic sequence for it is in [how to find moisture problems early](/fix-it/maintenance/find-moisture-problems-early/).
 
+## Bottom Line
+
+The house centipede is the one common household arthropod that is unambiguously on your side. It eats cockroaches, silverfish, and termites, it damages nothing, and its bite is a minor sting that rarely happens. Its presence is a reading of two conditions — humidity above 50 percent and an available prey supply — and both are fixable without touching the animal. Dry the building, treat whatever it has been eating, seal the cracks it hides in, and the population falls on its own. Spraying is the one approach that reliably makes the underlying pest problem worse.
+
 ## FAQ
 
 **Are house centipedes dangerous to humans or pets?**
@@ -140,7 +144,3 @@ They are found in floor drains and basement sinks because those are the most hum
 **Will an exterminator get rid of them?**
 
 A professional can reduce the population with crack-and-crevice treatment and can identify the prey species, but no treatment is durable if the moisture remains. In a chronically damp basement, the effective order is moisture control first, pest control second. If a company proposes broadcast spraying for centipedes alone without addressing humidity, the result will be temporary.
-
-## Bottom Line
-
-The house centipede is the one common household arthropod that is unambiguously on your side. It eats cockroaches, silverfish, and termites, it damages nothing, and its bite is a minor sting that rarely happens. Its presence is a reading of two conditions — humidity above 50 percent and an available prey supply — and both are fixable without touching the animal. Dry the building, treat whatever it has been eating, seal the cracks it hides in, and the population falls on its own. Spraying is the one approach that reliably makes the underlying pest problem worse.

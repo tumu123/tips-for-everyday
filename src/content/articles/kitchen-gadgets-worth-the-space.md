@@ -152,6 +152,10 @@ If the goal is a better kitchen rather than more equipment, the four upgrades wi
 
 That is under $150 total and it changes more meals than any appliance.
 
+## Bottom Line
+
+Judge gadgets on three numbers: purchase price, space occupied, and minutes of washing per use. Cheap tools used daily — a knife, a thermometer, a scale, sheet pans — earn their place many times over. Motorised single-task devices almost never do, unless they remove a barrier you hit several times a week. Audit the drawer once a year with the twelve-month rule, and buy upgrades rather than novelties.
+
 ## FAQ
 
 **Is a stand mixer worth the counter space?**
@@ -177,9 +181,3 @@ There is no number, but there is a symptom: a drawer you cannot close, or a coun
 **Are expensive knives worth it?**
 
 A $40 knife that is sharp outperforms a $150 knife that is dull. Spend on the sharpening method and a comfortable handle; the steel matters less than the edge.
-
----
-
-## Bottom Line
-
-Judge gadgets on three numbers: purchase price, space occupied, and minutes of washing per use. Cheap tools used daily — a knife, a thermometer, a scale, sheet pans — earn their place many times over. Motorised single-task devices almost never do, unless they remove a barrier you hit several times a week. Audit the drawer once a year with the twelve-month rule, and buy upgrades rather than novelties.

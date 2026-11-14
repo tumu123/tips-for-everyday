@@ -156,6 +156,12 @@ That is $89 a month, or roughly $1,070 a year, for the same four phones on the s
 - **Do not keep a line "for the number"** if it is only receiving spam. Port it to a cheap prepaid plan for $5 to $10 a month, or let it go.
 - **Do not cancel before you port.** Porting cancels automatically; cancelling first can lose the number.
 
+## Bottom Line
+
+Split the bill into service, devices, add-ons, and taxes before you do anything else. In most households the service line is a third of the total, and the rest is financing and forgotten extras. Then decide on structure: cheap per-line service plus a phone you own and keep for four years beats a subsidized phone on a 36-month contract almost every time — unless you are mid-promotion, in which case the forfeited credits are the whole calculation.
+
+If you are renegotiating several bills at once, the same leverage logic applies to [your internet bill](/save-money/bills/lower-internet-bill-without-switching/) and to [home insurance](/save-money/bills/lower-homeowners-insurance-premium/); the sequence that works for one works for all of them.
+
 ## Frequently Asked Questions
 
 **Will I lose coverage on an MVNO?**
@@ -178,11 +184,3 @@ Usually a promotional period ending, a device payment starting, an add-on trial 
 
 **What about home internet bundled with mobile?**
 Bundles discount both, which is fine if both are good. Check the bundle's total against the two separately, and check whether the mobile discount disappears if you ever change the internet plan. Bundled discounts are usually the first thing to expire.
-
----
-
-## Bottom Line
-
-Split the bill into service, devices, add-ons, and taxes before you do anything else. In most households the service line is a third of the total, and the rest is financing and forgotten extras. Then decide on structure: cheap per-line service plus a phone you own and keep for four years beats a subsidized phone on a 36-month contract almost every time — unless you are mid-promotion, in which case the forfeited credits are the whole calculation.
-
-If you are renegotiating several bills at once, the same leverage logic applies to [your internet bill](/save-money/bills/lower-internet-bill-without-switching/) and to [home insurance](/save-money/bills/lower-homeowners-insurance-premium/); the sequence that works for one works for all of them.

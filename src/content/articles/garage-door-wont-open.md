@@ -194,6 +194,16 @@ If the door won't open because there's no power, the release cord is the answer 
 
 ---
 
+---
+
+## Bottom Line
+
+Diagnose in this order: does the motor run, does the door move freely by hand, are the sensors aligned. Those three questions cover most failures and none of them needs a tool beyond a flashlight.
+
+Then stop at the spring. A broken spring, a frayed cable, or a door that's badly out of balance is professional work — not because it's difficult, but because the stored energy has no margin for error. Everything else on the door is ordinary hardware you can replace on a Saturday.
+
+---
+
 ## Frequently Asked Questions
 
 **My opener runs but the door doesn't move. What's most likely?**
@@ -219,11 +229,3 @@ Yes — the rollers, hinges, and tracks, twice a year, with a silicone or lithiu
 
 **How long does a garage door opener last?**
 10–15 years. Springs last roughly 10,000 cycles — about 7–10 years for a typical household.
-
----
-
-## Bottom Line
-
-Diagnose in this order: does the motor run, does the door move freely by hand, are the sensors aligned. Those three questions cover most failures and none of them needs a tool beyond a flashlight.
-
-Then stop at the spring. A broken spring, a frayed cable, or a door that's badly out of balance is professional work — not because it's difficult, but because the stored energy has no margin for error. Everything else on the door is ordinary hardware you can replace on a Saturday.

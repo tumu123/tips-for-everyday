@@ -173,6 +173,10 @@ Some chores are worth outsourcing, and the decision is not about laziness — it
 
 What should not be outsourced: the small daily close-down. It is the cheapest part of the system and the one that prevents everything else from compounding.
 
+## Bottom Line
+
+A chore system survives because it is a loop, not a list: areas with one owner each, a written standard for what done looks like, a frequency that matches how fast each thing actually gets dirty, and one simultaneous weekly block that everyone attends. Verify for ten minutes a week, adjust one thing a month, swap a zone each quarter. None of it is inspiring, and that is the point — the households where cleaning stopped being a topic of conversation are not the ones with the best chart. They are the ones with the smallest system that nobody had to relaunch.
+
 ## FAQ
 
 **How long before a chore system becomes automatic?**
@@ -202,9 +206,3 @@ Not for baseline participation. Paid extras — washing the car, a bigger garden
 **How often should the schedule itself change?**
 
 Once a month at most, one change at a time. Seasonal shifts — garden work in summer, gutters in autumn — are legitimate reasons to revise. Boredom is not, because a system that changes constantly never gets efficient enough to be fast.
-
----
-
-## Bottom Line
-
-A chore system survives because it is a loop, not a list: areas with one owner each, a written standard for what done looks like, a frequency that matches how fast each thing actually gets dirty, and one simultaneous weekly block that everyone attends. Verify for ten minutes a week, adjust one thing a month, swap a zone each quarter. None of it is inspiring, and that is the point — the households where cleaning stopped being a topic of conversation are not the ones with the best chart. They are the ones with the smallest system that nobody had to relaunch.

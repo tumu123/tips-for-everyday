@@ -128,6 +128,10 @@ The reason it feels smaller than it is: subscriptions are priced below the level
 - **Do not forget the bundled ones** inside phone, internet, and card annual fees.
 - **Do not replace subscriptions with more subscriptions.** The audit is not a shopping opportunity.
 
+## Bottom Line
+
+Pull twelve months of statements from every payment method, add the app store subscription lists, and put everything in one table with an annual cost column. Score each row on use and intent, then cancel in order of easiest first: app store, processor, merchant, contract. Then move every subscription to a single card and put a reminder three days before each renewal. The audit saves money once; the single-card habit is what keeps it saved.
+
 ## Frequently Asked Questions
 
 **How often should I do this?**
@@ -150,9 +154,3 @@ Only for services you are confident you will use for the full year. The annual d
 
 **Do subscription audits affect my credit?**
 Cancelling does not. Failing to pay a contracted annual commitment can, if it is sent to collections. Cancel properly rather than letting a payment method fail on a contract.
-
----
-
-## Bottom Line
-
-Pull twelve months of statements from every payment method, add the app store subscription lists, and put everything in one table with an annual cost column. Score each row on use and intent, then cancel in order of easiest first: app store, processor, merchant, contract. Then move every subscription to a single card and put a reminder three days before each renewal. The audit saves money once; the single-card habit is what keeps it saved.

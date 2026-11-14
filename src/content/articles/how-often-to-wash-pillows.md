@@ -146,6 +146,10 @@ Put the pillow through the dryer one extra cycle without balls on air-only if it
 
 Rotate two pillows if you have them, and replace rather than wash when the fold test fails. A pillow that no longer springs back is holding dust mite allergen in a compressed core that washing cannot reach.
 
+## Bottom Line
+
+Check the filling first: polyester and down can be washed, memory foam and latex cannot. Wash two at a time on gentle with mild detergent and an extra rinse, never with softener. Dry on low with two or three balls, stopping every half hour to break the filling apart by hand, until the center is genuinely dry. Then put a protector on it — that single layer is what keeps the pillow on a six-month schedule instead of a three-month one.
+
 ## FAQ
 
 **Can I wash pillows in a regular washing machine?**
@@ -179,9 +183,3 @@ Not reliably. A domestic freezer reaches about 0°F, and dust mites survive 48 h
 **Can I dry a pillow in the sun instead of a dryer?**
 
 For polyester, on a dry breezy day with flipping, yes. For down, no — it mats and grows musty before the center dries. And do not count on sunlight to sterilize anything: UV penetrates fabric poorly, so the benefit of sun drying is drying, not disinfection.
-
----
-
-## Bottom Line
-
-Check the filling first: polyester and down can be washed, memory foam and latex cannot. Wash two at a time on gentle with mild detergent and an extra rinse, never with softener. Dry on low with two or three balls, stopping every half hour to break the filling apart by hand, until the center is genuinely dry. Then put a protector on it — that single layer is what keeps the pillow on a six-month schedule instead of a three-month one.

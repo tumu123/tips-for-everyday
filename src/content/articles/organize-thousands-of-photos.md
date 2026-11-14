@@ -148,6 +148,10 @@ The failure mode of digital cleaning is the same as physical cleaning: treating 
 
 Twenty thousand photos sorted into events, with the screenshots and duplicates gone, is a better library than eight thousand photos sorted into a perfect folder tree that took three months and that you never want to touch again.
 
+## Bottom Line
+
+At 20,000 photos, stop trying to judge individual files. Run the four category screens until the library loses a third of its volume, then work through events keeping roughly fifteen frames each, then put the keepers in one cloud library with one offline copy per year. The monthly sweep keeps the screenshots from rebuilding the problem. The goal is a library you can find things in, not one that has been perfectly judged.
+
 ## FAQ
 
 **Is it safe to delete photos from my phone if they are backed up?**
@@ -177,9 +181,3 @@ They belong in a records system, not a camera roll. Move them to a folder or a s
 **Is it worth digitizing old printed photos?**
 
 Yes, but do it after the digital library is under control, and do it once. A batch scan of prints produces a few hundred files, not thousands, and they should go straight into the archive folder for that era rather than into the current library where they will be triaged forever. For the storage side of old prints and negatives, see [how to store sentimental items](/organize/closet/organize-sentimental-items/).
-
----
-
-## Bottom Line
-
-At 20,000 photos, stop trying to judge individual files. Run the four category screens until the library loses a third of its volume, then work through events keeping roughly fifteen frames each, then put the keepers in one cloud library with one offline copy per year. The monthly sweep keeps the screenshots from rebuilding the problem. The goal is a library you can find things in, not one that has been perfectly judged.

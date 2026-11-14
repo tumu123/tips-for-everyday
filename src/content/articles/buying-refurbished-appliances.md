@@ -166,6 +166,10 @@ That is not an argument against refurbished. It is an argument for buying refurb
 - **Do not buy an old unit for the energy savings** — there are none; old appliances cost more to run.
 - **Do not forget to measure the doorway, the stairwell, and the space** before delivery day.
 
+## Bottom Line
+
+Find out which of the four kinds of refurbished you are being sold, and read the warranty before the price tag. Manufacturer-recertified at 40% to 60% off is a good deal on a simple machine. A 90-day warranty on a refrigerator with an unknown compressor history is not a deal at any discount, because the failure you are protecting against is the one the warranty excludes.
+
 ## Frequently Asked Questions
 
 **Is refurbished the same as used?**
@@ -188,9 +192,3 @@ Only with a warranty that covers the sealed system, or at a discount deep enough
 
 **Does buying refurbished void the manufacturer warranty?**
 A manufacturer-recertified unit carries its own warranty. A third-party refurbishment generally voids the original manufacturer warranty, which is why the refurbisher's own warranty is the only one you have.
-
----
-
-## Bottom Line
-
-Find out which of the four kinds of refurbished you are being sold, and read the warranty before the price tag. Manufacturer-recertified at 40% to 60% off is a good deal on a simple machine. A 90-day warranty on a refrigerator with an unknown compressor history is not a deal at any discount, because the failure you are protecting against is the one the warranty excludes.

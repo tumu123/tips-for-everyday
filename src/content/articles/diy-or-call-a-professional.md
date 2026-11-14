@@ -185,6 +185,16 @@ Since the red tier is where the money goes, it's worth knowing how to spend it.
 
 ---
 
+---
+
+## Bottom Line
+
+Sort by the cost of the mistake, not the difficulty. Green jobs have visible, cheap failures — do them. Yellow jobs have invisible failures — do them only if you can describe what could go wrong. Red jobs have unrecoverable failures — hire, every time, regardless of how simple the task looks.
+
+That rule resolves almost every case in about thirty seconds, and it's more reliable than confidence, which is the least trustworthy input in this whole decision.
+
+---
+
 ## Frequently Asked Questions
 
 **What home repairs should I never DIY?**
@@ -210,11 +220,3 @@ For parts under about $100 and machines under 8 years old, usually yes. The info
 
 **How do I know if a contractor is legitimate?**
 Licence number you can verify, liability and workers' comp insurance, a written scope, and a payment schedule that doesn't front-load.
-
----
-
-## Bottom Line
-
-Sort by the cost of the mistake, not the difficulty. Green jobs have visible, cheap failures — do them. Yellow jobs have invisible failures — do them only if you can describe what could go wrong. Red jobs have unrecoverable failures — hire, every time, regardless of how simple the task looks.
-
-That rule resolves almost every case in about thirty seconds, and it's more reliable than confidence, which is the least trustworthy input in this whole decision.

@@ -143,6 +143,10 @@ Three things to check once the temperature drops.
 
 **The people:** the second day of recovery is when the effects of dehydration and poor sleep show up. Keep drinking, and keep checking on the vulnerable for a day or two after the heat ends.
 
+## Bottom Line
+
+In extreme heat without AC, the goal is not a cool house — it is a cool person, in one defended room, overnight. Block the sun before it enters, flush the house at night and seal it by morning, cool skin with water rather than air, drink with salt, and move the vulnerable to the lowest floor. Know the difference between heat exhaustion and heat stroke, which is confusion, and act on it immediately. And accept that leaving for the hottest hours, or the whole event, is a legitimate part of the plan rather than a failure of it.
+
 ## FAQ
 
 **At what indoor temperature is a house dangerous?**
@@ -172,9 +176,3 @@ Yes, and it is often the best option — basements stay close to ground temperat
 **How do I keep a baby or toddler cool?**
 
 Light clothing, frequent feeding, cool baths, and a room on the lowest floor with airflow. Do not cover the cot with a blanket in a hot room, and do not rely on a fan aimed directly at an infant for long periods. Check the back of the neck rather than the hands to judge temperature.
-
----
-
-## Bottom Line
-
-In extreme heat without AC, the goal is not a cool house — it is a cool person, in one defended room, overnight. Block the sun before it enters, flush the house at night and seal it by morning, cool skin with water rather than air, drink with salt, and move the vulnerable to the lowest floor. Know the difference between heat exhaustion and heat stroke, which is confusion, and act on it immediately. And accept that leaving for the hottest hours, or the whole event, is a legitimate part of the plan rather than a failure of it.

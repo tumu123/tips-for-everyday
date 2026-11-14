@@ -214,6 +214,16 @@ If the fridge will be off for a day or more, [safe thawing and refreezing](/kitc
 
 ---
 
+---
+
+## Bottom Line
+
+"Freezer fine, fridge warm" is a gift of a symptom. It eliminates the compressor and the refrigerant circuit, and leaves a short list: defrost system, evaporator fan, air damper, thermistor, gasket.
+
+Check in that order, and use the manual defrost test to confirm the defrost diagnosis before buying any parts. If the fridge comes back to normal after 24 hours off and fails again five days later, you know exactly what's wrong — and it's a $50 part, not a $900 appliance.
+
+---
+
 ## Frequently Asked Questions
 
 **Why is my freezer cold but the fridge warm?**
@@ -239,11 +249,3 @@ Depends on the part. A $50 heater or damper, yes. A sealed-system repair or a co
 
 **How long should a refrigerator last?**
 12–15 years on average. Compressor and sealed-system life is longer than the electronics and the plastic air-path components.
-
----
-
-## Bottom Line
-
-"Freezer fine, fridge warm" is a gift of a symptom. It eliminates the compressor and the refrigerant circuit, and leaves a short list: defrost system, evaporator fan, air damper, thermistor, gasket.
-
-Check in that order, and use the manual defrost test to confirm the defrost diagnosis before buying any parts. If the fridge comes back to normal after 24 hours off and fails again five days later, you know exactly what's wrong — and it's a $50 part, not a $900 appliance.

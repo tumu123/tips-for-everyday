@@ -131,6 +131,10 @@ Pet hair itself is not the allergen. The allergenic proteins are in saliva, skin
 
 So removing visible hair reduces the source but does not clear the allergen. What actually helps, in order: **a HEPA vacuum with a sealed system**, washing bedding weekly in hot water, keeping the pet out of the bedroom, and a HEPA air filter in the room where you sleep. The hair removal is for the look of the room; the allergen control is a separate set of measures.
 
+## Bottom Line
+
+Pet hair is a mechanical problem, so use mechanical tools: a rubber squeegee or brush on carpet, rubber gloves on upholstery, a damp towel in the dryer for laundry, and a vacuum last rather than first. Never wet the surface before the hair is out. Then reduce the volume at the source by brushing the animal, because every hair removed outdoors is one you never have to chase indoors.
+
 ## FAQ
 
 **What is the fastest way to remove pet hair from carpet?**
@@ -164,9 +168,3 @@ Brush the pet outdoors daily, give it a washable bed, and choose tightly woven u
 **Does removing pet hair help with allergies?**
 
 Partially. The allergen is in saliva and skin flakes, not in the hair, and those particles are small enough to be airborne and to lodge in soft furnishings. A HEPA vacuum with a sealed system, weekly hot-water bedding washes, and keeping the pet out of the bedroom matter more than hair removal.
-
----
-
-## Bottom Line
-
-Pet hair is a mechanical problem, so use mechanical tools: a rubber squeegee or brush on carpet, rubber gloves on upholstery, a damp towel in the dryer for laundry, and a vacuum last rather than first. Never wet the surface before the hair is out. Then reduce the volume at the source by brushing the animal, because every hair removed outdoors is one you never have to chase indoors.

@@ -134,6 +134,10 @@ Most kitchens have too many pans and not the right ones. Four do 95 percent of h
 
 Add a heavy aluminium sheet pan and a Dutch oven if you braise, and the kitchen is complete. Everything else is a preference, and [the gadget audit](/kitchen-tips/equipment/kitchen-gadgets-worth-the-space/) applies to pans as much as to anything else.
 
+## Bottom Line
+
+Match the pan to the heat behaviour you need. Cast iron and carbon steel for searing, because they hold heat. Clad stainless for pan sauces and anything acidic, because it is non-reactive and responsive. Enamel for braises. Nonstick for eggs and fish, treated as a consumable with a two- to three-year life. Buy four good pans instead of twelve mediocre ones, and check any pan against a magnet before you buy it for an induction hob.
+
 ## FAQ
 
 **Is stainless steel or cast iron better for steak?**
@@ -163,9 +167,3 @@ You can, and it will strip the seasoning and possibly rust. Wash by hand, dry on
 **How long does a nonstick pan last?**
 
 One to three years with regular use. Replace it when the coating is visibly scratched rather than waiting for food to stick.
-
----
-
-## Bottom Line
-
-Match the pan to the heat behaviour you need. Cast iron and carbon steel for searing, because they hold heat. Clad stainless for pan sauces and anything acidic, because it is non-reactive and responsive. Enamel for braises. Nonstick for eggs and fish, treated as a consumable with a two- to three-year life. Buy four good pans instead of twelve mediocre ones, and check any pan against a magnet before you buy it for an induction hob.

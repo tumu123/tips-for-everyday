@@ -169,6 +169,10 @@ Most cluster fly problems are solved by sealing. Consider professional service w
 
 A professional will also tell you, honestly, that sealing is the durable fix. If a company proposes recurring indoor fogging for cluster flies, that is a treatment for a symptom that will recur every September.
 
+## Bottom Line
+
+Cluster flies are a lawn-to-attic problem with a four-week entrance window. Their larvae live in earthworms, the adults breed nowhere in your home, and the ones on your window came in to sleep. Seal the soffit line, the attic vents, the flashing, and the wall penetrations before the first week of September, and repeat the inspection in early March when the survivors try to leave. Do not fog the attic — the corpses feed carpet beetles, and that trade is worse than the flies. The measure of success is next September, not this one.
+
 ## FAQ
 
 **Are cluster flies dangerous or do they spread disease?**
@@ -198,7 +202,3 @@ Overwintering adults can survive several months in a dormant state and emerge in
 **Does an exterminator get rid of cluster flies permanently?**
 
 No treatment is permanent, because the population is renewed from the lawn every year. A professional can reduce an existing indoor population and can apply a timed exterior residual, but the durable fix is closing the building gaps. Expect seasonal recurrence in an unsealed building no matter what is applied.
-
-## Bottom Line
-
-Cluster flies are a lawn-to-attic problem with a four-week entrance window. Their larvae live in earthworms, the adults breed nowhere in your home, and the ones on your window came in to sleep. Seal the soffit line, the attic vents, the flashing, and the wall penetrations before the first week of September, and repeat the inspection in early March when the survivors try to leave. Do not fog the attic — the corpses feed carpet beetles, and that trade is worse than the flies. The measure of success is next September, not this one.

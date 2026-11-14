@@ -185,6 +185,10 @@ Consider calling when:
 - There is a confirmed wildlife infestation — raccoon, opossum, or squirrel — because the animal must be excluded first, and that may be regulated.
 - Anyone in the household has a severe reaction to bites, or a pet has developed flea allergy dermatitis, which requires veterinary care alongside the environmental work.
 
+## Bottom Line
+
+Fleas in a pet-free house are not a mystery and not a new arrival. They are a dormant pupal population that was triggered by the first footsteps on the carpet, or a live population maintained by an animal you have not identified yet. Find the hot spots before you treat anything, convert the reservoir with daily vacuuming, wash every textile in hot water and a hot dryer, and apply an insect growth regulator to break the larval molt rather than chasing adults. Then monitor with white socks for thirty days and expect the second wave. The waves are the mechanism, not a sign of failure.
+
 ## FAQ
 
 **How can I have fleas with no pets at all?**
@@ -214,7 +218,3 @@ Fleas can transmit pathogens, but in a typical American household the practical 
 **Will vacuuming alone get rid of them?**
 
 Rarely, but it is the most important single step. Vacuuming removes a large share of the population and triggers dormant pupae to emerge, which exposes them. Combined with an IGR and hot washing of textiles, it is usually sufficient. Alone, it tends to control rather than eliminate.
-
-## Bottom Line
-
-Fleas in a pet-free house are not a mystery and not a new arrival. They are a dormant pupal population that was triggered by the first footsteps on the carpet, or a live population maintained by an animal you have not identified yet. Find the hot spots before you treat anything, convert the reservoir with daily vacuuming, wash every textile in hot water and a hot dryer, and apply an insect growth regulator to break the larval molt rather than chasing adults. Then monitor with white socks for thirty days and expect the second wave. The waves are the mechanism, not a sign of failure.

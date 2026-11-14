@@ -175,6 +175,10 @@ The broader winterizing sequence, including the roof and ventilation checks that
 
 **Do not enter a roof space you cannot move through safely.** Walk on the ceiling joists, not the drywall. If the access is a small scuttle and the roof pitch is steep, hire the work.
 
+## Bottom Line
+
+The daytime schedule is your first clue, and the wire damage is your deadline. Find the entry from the ground with binoculars before you buy anything, and do not close it between March and May or August and October until you have confirmed there is no litter — that is the mistake that costs a smell you cannot remove. Exclude with a one-way door, seal with hardware cloth stapled into solid wood, then clean the attic wet rather than dry and have the wiring in that area inspected. Prune the branches within eight feet of the roof and walk the roofline twice a year. The job is finished when the attic is quiet at dawn for a week, not when the hole is covered.
+
 ## FAQ
 
 **How do I know if I have squirrels or mice in the attic?**
@@ -204,9 +208,3 @@ Sometimes, if the attic is a temporary shelter rather than a nest site. A female
 **Is it legal to trap and relocate a squirrel?**
 
 In most of the United States, relocating wildlife onto public land is prohibited, and several states require a permit even for removal on your own property. Release on your own property rarely works because the animal returns. Check your state wildlife agency's rules, or use a licensed operator.
-
----
-
-## Bottom Line
-
-The daytime schedule is your first clue, and the wire damage is your deadline. Find the entry from the ground with binoculars before you buy anything, and do not close it between March and May or August and October until you have confirmed there is no litter — that is the mistake that costs a smell you cannot remove. Exclude with a one-way door, seal with hardware cloth stapled into solid wood, then clean the attic wet rather than dry and have the wiring in that area inspected. Prune the branches within eight feet of the roof and walk the roofline twice a year. The job is finished when the attic is quiet at dawn for a week, not when the hole is covered.

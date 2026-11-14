@@ -137,6 +137,10 @@ There is a legitimate use for a professional application: a barrier treatment ar
 
 **Do not treat a wall because it looks alarming.** Density on an exterior wall is not a measure of interior risk. The measure is how many get inside.
 
+## Bottom Line
+
+Boxelder bugs on the south wall in October are a native insect doing what it does every year, and the list of things they actually damage is one item long: fabric they get crushed against. They do not breed indoors, so the ones you find inside are a shrinking subset that came in through a gap you can seal. Fix the gaps, wash the afternoon gathering off the wall while it is happening, and deal with a host tree that overhangs the roof. Skip the annual perimeter spray. It does not reduce the population, and the dead bugs it leaves behind feed the carpet beetles that do real damage.
+
 ## FAQ
 
 **Do boxelder bugs bite or sting?**
@@ -166,9 +170,3 @@ No. Stink bugs are shield-shaped, mottled brown, and release a strong odor when 
 **Do I need an exterminator for boxelder bugs?**
 
 Usually not. A perimeter application in early autumn has a limited place if a house has a history of interior invasions and the sealing is not finished, but for the typical case on the exterior wall, washing them off and sealing the gaps does more and costs less.
-
----
-
-## Bottom Line
-
-Boxelder bugs on the south wall in October are a native insect doing what it does every year, and the list of things they actually damage is one item long: fabric they get crushed against. They do not breed indoors, so the ones you find inside are a shrinking subset that came in through a gap you can seal. Fix the gaps, wash the afternoon gathering off the wall while it is happening, and deal with a host tree that overhangs the roof. Skip the annual perimeter spray. It does not reduce the population, and the dead bugs it leaves behind feed the carpet beetles that do real damage.

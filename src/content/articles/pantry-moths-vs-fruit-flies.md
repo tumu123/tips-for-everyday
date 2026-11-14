@@ -169,6 +169,10 @@ Not every small pale moth in a cupboard came from the cupboard. For the identifi
 
 **Do not buy a large bag of flour "because it is cheaper per pound"** until the containers and the consumption rate support it. Storage volume is the variable that decides whether this recurs.
 
+## Bottom Line
+
+If it flutters to the wall and there is silk in the flour, it is a pantry moth, and the work is a full cupboard clear-out: every package inspected including the sealed ones, infested food out to an outside bin, sound food frozen for a week, shelves and undersides and the ceiling line vacuumed twice, and everything returned into rigid sealed containers. Then monitor for eight weeks, because the eggs already laid will keep hatching. If it hovers over the fruit and there is nothing in the flour, that is a fruit fly and this is the wrong guide — the source is wet, not dry, and the fix is a drain and a bin.
+
 ## FAQ
 
 **How do I tell a pantry moth from a fruit fly?**
@@ -198,9 +202,3 @@ Eight weeks is a realistic horizon. Adults emerging from eggs laid before treatm
 **Can pantry moths come back after I clear everything?**
 
 Yes, from three routes: a missed package in another room, pupae in a seam that was not vacuumed, or a new package brought home from the shop. The last one is why sealed containers matter — they turn a future introduction into a contained event rather than an infestation.
-
----
-
-## Bottom Line
-
-If it flutters to the wall and there is silk in the flour, it is a pantry moth, and the work is a full cupboard clear-out: every package inspected including the sealed ones, infested food out to an outside bin, sound food frozen for a week, shelves and undersides and the ceiling line vacuumed twice, and everything returned into rigid sealed containers. Then monitor for eight weeks, because the eggs already laid will keep hatching. If it hovers over the fruit and there is nothing in the flour, that is a fruit fly and this is the wrong guide — the source is wet, not dry, and the fix is a drain and a bin.

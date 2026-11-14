@@ -154,6 +154,10 @@ If the traps keep catching after two full passes, look outside the closet. Wool 
 
 **Do not put an infested item in the freezer without sealing it first.** Moisture condenses on the fiber and you trade an insect problem for a mildew one.
 
+## Bottom Line
+
+The room the damage is in tells you which moth you have: holes in wool means clothes moths, webbing in flour means pantry moths, and larvae in a carpet edge means neither. For clothes moths, empty the closet, treat or discard every damaged item with heat or freezing, vacuum the dust from every crevice and under every piece of furniture, then put the wool back only in gasketed bins or zippered bags. Run one pheromone trap for eight weeks and do a second pass if it catches anything. Mothballs and cedar are not part of the solution, because neither one stops a female from landing on an unprotected sweater.
+
 ## FAQ
 
 **What is the difference between clothes moths and pantry moths?**
@@ -183,9 +187,3 @@ Adults live roughly one to two weeks and do not feed. The damage is done entirel
 **Are moth holes always from moths?**
 
 No. Carpet beetle larvae, normal abrasion at folds, zipper snags, and rodent gnawing all produce holes. Moth damage is distinguished by clean-edged irregular holes plus webbing, silken cases, or sand-like frass nearby.
-
----
-
-## Bottom Line
-
-The room the damage is in tells you which moth you have: holes in wool means clothes moths, webbing in flour means pantry moths, and larvae in a carpet edge means neither. For clothes moths, empty the closet, treat or discard every damaged item with heat or freezing, vacuum the dust from every crevice and under every piece of furniture, then put the wool back only in gasketed bins or zippered bags. Run one pheromone trap for eight weeks and do a second pass if it catches anything. Mothballs and cedar are not part of the solution, because neither one stops a female from landing on an unprotected sweater.

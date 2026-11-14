@@ -158,6 +158,10 @@ The tell is usually not the flies themselves but a damp patch, a musty smell, or
 
 **Do not treat one drain and stop.** The population is the sum of all wet points in the room. Partial treatment produces a plateau that looks like resistance and is actually an untreated source.
 
+## Bottom Line
+
+The flies are hatching inside the pipe, so nothing you do to the room reaches them. Confirm the species by the wing position and the fact that they ignore vinegar, list every wet point in the room, scrub the film off the pipe wall rather than pouring hot water past it, then treat the residual layer with an enzyme product weekly for a month while you fix dry traps and failed seals. Count the flies every evening for two weeks. A count that reaches zero and stays there is the only result that counts, and a count that plateaus means there is a source you have not found — possibly one worth opening a wall to inspect.
+
 ## FAQ
 
 **What do drain flies look like?**
@@ -187,9 +191,3 @@ Sometimes, in a bathroom that dries out completely for weeks. In any drain that 
 **Do I need an exterminator for drain flies?**
 
 No. No spray reaches inside a pipe. The treatment is mechanical cleaning plus enzyme maintenance, which is a homeowner task. If a professional is involved, the work they do is the same scrubbing you can do yourself.
-
----
-
-## Bottom Line
-
-The flies are hatching inside the pipe, so nothing you do to the room reaches them. Confirm the species by the wing position and the fact that they ignore vinegar, list every wet point in the room, scrub the film off the pipe wall rather than pouring hot water past it, then treat the residual layer with an enzyme product weekly for a month while you fix dry traps and failed seals. Count the flies every evening for two weeks. A count that reaches zero and stays there is the only result that counts, and a count that plateaus means there is a source you have not found — possibly one worth opening a wall to inspect.

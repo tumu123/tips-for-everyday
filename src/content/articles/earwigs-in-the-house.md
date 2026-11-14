@@ -11,7 +11,7 @@ secondaryKeywords:
 category: "Pest Control"
 subcategory: "Insects"
 pubDate: 2026-10-29
-updatedDate: 2026-10-29
+updatedDate: 2026-11-14
 author: "Editorial Team"
 readingTime: 12
 featuredImageAlt: "Flat illustration of a dark brown earwig with rear pincers standing on a folded sage green cloth"
@@ -77,6 +77,8 @@ You cannot fix a moisture problem you have not measured. Buy or borrow an inexpe
 
 Indoor relative humidity above 60 percent sustained is enough to support earwigs, silverfish, mold growth, and wood-destroying insects. Below 50 percent, they cannot thrive. A basement that reads 70 percent in summer is an earwig habitat whether or not you ever see one on the floor.
 
+That 60 percent line is not specific to earwigs — it is the same threshold EPA gives for mold prevention, which is to keep indoor relative humidity **below 60 percent, ideally between 30 and 50 percent**, and to dry wet or damp materials within **24 to 48 hours** of their getting wet. Earwigs, silverfish, and mold are reading the same instrument you are. That is why the humidity meter is the first tool in this job and the pesticide is not a tool at all.
+
 Take the reading at the same time of day for several days, because humidity swings. The highest reading is the one that matters.
 
 Where the reading is high, the usual causes are a crawlspace without a vapor barrier, a downspout discharging against the foundation, soil that slopes toward the house, a dryer vented into the basement, or a basement bathroom without a working exhaust fan. For the diagnostic sequence, see [how to find moisture problems before they spread](/fix-it/maintenance/find-moisture-problems-early/).
@@ -128,7 +130,7 @@ Sealing reduces arrivals. Drying removes the reason they stay.
 
 Basements that stay humid regardless of these fixes usually need the walls and floor sealed, or the crawlspace encapsulated. That is a larger project, and a dehumidifier is the interim measure.
 
-## What NOT to Do
+## Five Moves That Keep Them Coming Back
 
 **Do not spray the perimeter and consider it solved.** A residual insecticide on the foundation kills earwigs that walk over it, but the population in the mulch regenerates from eggs, and the moisture that produced it is untouched. You will be spraying every three weeks indefinitely.
 
@@ -147,6 +149,14 @@ Earwigs alone almost never justify a professional. Call when:
 - Nymphs are consistently found indoors and you cannot locate the damp breeding site.
 - The crawlspace is inaccessible and reads above 70 percent humidity — that is a structural condition, not a pest condition, and it needs a moisture contractor rather than an exterminator.
 - There is visible rot, efflorescence, or standing water in a crawlspace. Fix the water first; the earwigs are a symptom.
+
+## Sources
+
+- US Environmental Protection Agency, *A Brief Guide to Mold, Moisture and Your Home* — keep indoor relative humidity below 60 percent, ideally 30 to 50 percent, and dry wet or damp materials within 24 to 48 hours to prevent mold growth. <https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home>
+
+## Bottom Line
+
+An earwig indoors is a humidity reading, not an infestation. Confirm whether you are seeing adults or nymphs, measure the humidity in the basement and crawlspace, then break the conditions: pull mulch six to twelve inches back from the foundation, extend the downspouts, fix the grade, seal the ground-level gaps, and run a dehumidifier in the damp months. The pincers are harmless and the ear myth is fiction, but the moisture that brought the earwig is worth taking seriously — it is also what brings carpenter ants, termites, and mold.
 
 ## FAQ
 
@@ -177,7 +187,3 @@ No, because the population lives outdoors in soil and mulch and regenerates. Spr
 **Are earwigs worse in certain seasons?**
 
 They peak in late spring and again in early autumn. Summer heat dries the soil surface and pushes them into mulch and wall voids; autumn cooling drives them toward shelter, which is when indoor sightings increase. A dry spell also pushes them toward the house.
-
-## Bottom Line
-
-An earwig indoors is a humidity reading, not an infestation. Confirm whether you are seeing adults or nymphs, measure the humidity in the basement and crawlspace, then break the conditions: pull mulch six to twelve inches back from the foundation, extend the downspouts, fix the grade, seal the ground-level gaps, and run a dehumidifier in the damp months. The pincers are harmless and the ear myth is fiction, but the moisture that brought the earwig is worth taking seriously — it is also what brings carpenter ants, termites, and mold.

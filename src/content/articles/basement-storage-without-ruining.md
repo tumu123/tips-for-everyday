@@ -194,6 +194,10 @@ Some categories are simply the wrong contents for the space, regardless of shelv
 
 Some storage decisions are about animals rather than damage. For the spider question specifically, and how to tell it from something that is not a spider, see [the case for leaving basement spiders alone](/pest-control/insects/spiders-in-the-basement/).
 
+## Bottom Line
+
+Basement storage is a height problem before it is a container problem. Keep everything four to six inches off the floor and two inches off the walls, put the things that matter between 18 inches and five feet, seal paper and textiles in dry bins with desiccant, and hold the room at 50 to 55 percent humidity with a dehumidifier on a continuous drain. Then label the aisle-facing end of every bin and walk the room twice a year. None of that stops a flood, but it keeps the slow damage — the kind that has already been happening for three years before anyone opens the box — from starting in the first place.
+
 ## FAQ
 
 **What humidity level should a basement be kept at for storage?**
@@ -223,9 +227,3 @@ First remove the source — reduce humidity to under 55 percent before cleaning 
 **Do silica gel packs actually work in storage bins?**
 
 Yes, in a bin that is genuinely closed. They absorb a limited amount, so replace or dry them annually, and never rely on them instead of controlling the room's humidity.
-
----
-
-## Bottom Line
-
-Basement storage is a height problem before it is a container problem. Keep everything four to six inches off the floor and two inches off the walls, put the things that matter between 18 inches and five feet, seal paper and textiles in dry bins with desiccant, and hold the room at 50 to 55 percent humidity with a dehumidifier on a continuous drain. Then label the aisle-facing end of every bin and walk the room twice a year. None of that stops a flood, but it keeps the slow damage — the kind that has already been happening for three years before anyone opens the box — from starting in the first place.

@@ -129,6 +129,10 @@ Before you decide, answer these:
 - **Do not skip the permit to save $200** on work that will be inspected at resale.
 - **Do not start a job that leaves the house uninhabitable if you run out of time.**
 
+## Bottom Line
+
+Price both sides fully, then divide the saved money by the hours it takes. Small fixture swaps usually produce $100 to $200 an hour and are clear DIY wins. Large projects produce $30 to $80 an hour and are a lifestyle decision as much as a financial one. Anything involving gas, a panel upgrade, a torsion spring, or a permit should go to a licensed professional — not because the arithmetic fails, but because the failure mode is not financial.
+
 ## Frequently Asked Questions
 
 **Is DIY always cheaper?**
@@ -151,9 +155,3 @@ Often yes, but ask first, and expect the warranty to exclude them. The saving is
 
 **Is it worth hiring out cleaning and lawn care?**
 That is a different comparison — it is priced per visit rather than per job, and the effective hourly rate of doing it yourself is genuinely low. A worked example is in [lawn care without a service](/save-money/bills/cheaper-lawn-care-without-a-service/). Compare the annual cost against your hourly wage honestly.
-
----
-
-## Bottom Line
-
-Price both sides fully, then divide the saved money by the hours it takes. Small fixture swaps usually produce $100 to $200 an hour and are clear DIY wins. Large projects produce $30 to $80 an hour and are a lifestyle decision as much as a financial one. Anything involving gas, a panel upgrade, a torsion spring, or a permit should go to a licensed professional — not because the arithmetic fails, but because the failure mode is not financial.

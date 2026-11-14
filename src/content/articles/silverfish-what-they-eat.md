@@ -146,6 +146,10 @@ Not every silverfish warrants a project. The judgement call is reasonable in thr
 
 The situation that does warrant action is different: repeated sightings plus a hygrometer reading above 60 percent, or damage appearing on stored paper or fabric. At that point the insect has done its job as an indicator and the work is about the moisture.
 
+## Bottom Line
+
+Silverfish are close to harmless as an insect and genuinely useful as a signal. They eat starch, paper, glue, and natural fibre, they cause slow cumulative damage to stored things, and they can only build a population in air that is humid, dark, and undisturbed. Read the humidity in the room where you see them. If it is under 50 percent, the sighting is incidental. If it is above 60 percent, the insect has found something you should find too — and fixing that is worth more than any treatment aimed at the bug.
+
 ## FAQ
 
 **Are silverfish harmful to humans?**
@@ -175,9 +179,3 @@ Two to eight years, which is long for an insect of this size. A female lays roug
 **Do dehumidifiers get rid of silverfish?**
 
 They remove the condition the insects need, which is the closest thing to a permanent fix. Expect the population to decline over weeks rather than days, and expect reinvasion if the dehumidifier is switched off and the room returns to its previous humidity.
-
----
-
-## Bottom Line
-
-Silverfish are close to harmless as an insect and genuinely useful as a signal. They eat starch, paper, glue, and natural fibre, they cause slow cumulative damage to stored things, and they can only build a population in air that is humid, dark, and undisturbed. Read the humidity in the room where you see them. If it is under 50 percent, the sighting is incidental. If it is above 60 percent, the insect has found something you should find too — and fixing that is worth more than any treatment aimed at the bug.

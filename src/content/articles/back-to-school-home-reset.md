@@ -169,6 +169,10 @@ Then, on the evening before the first day, do only the night-before list: bags b
 
 **Do not set a standard the children cannot meet unsupervised.** A hook they cannot reach and a folder they cannot open are both storage that does not exist.
 
+## Bottom Line
+
+A back-to-school reset is capacity work, not cleaning work. Rebuild the entry with fixed hooks and one bin per person, set up a laundry loop that survives a missed evening, plan the morning backwards from the door, give paperwork exactly one route, and stock the kitchen for breakfasts that require no decisions. Then walk the route and rehearse the morning once, before it counts. The first day is not the hard part; the fourth week is, and this is the setup that gets you there.
+
 ## FAQ
 
 **How far in advance should I start the back-to-school reset?**
@@ -198,9 +202,3 @@ Build one timeline from the earliest deadline and mark the second child's depart
 **Do I need to do this every year?**
 
 Yes, but it gets much faster. The structural pieces — hooks, bins, folders, charging station — stay in place, so subsequent years are a two-hour refresh: check capacity, update the calendar, replace what broke, and walk the route.
-
----
-
-## Bottom Line
-
-A back-to-school reset is capacity work, not cleaning work. Rebuild the entry with fixed hooks and one bin per person, set up a laundry loop that survives a missed evening, plan the morning backwards from the door, give paperwork exactly one route, and stock the kitchen for breakfasts that require no decisions. Then walk the route and rehearse the morning once, before it counts. The first day is not the hard part; the fourth week is, and this is the setup that gets you there.

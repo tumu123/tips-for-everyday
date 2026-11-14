@@ -129,6 +129,10 @@ The one thing it can affect: if you are in a state where assessed value is cappe
 - **No adjustment for differences.** If your comparable has 400 more square feet, the board will notice, and the credibility of your whole table drops.
 - **Emotional presentation.** Boards hear hundreds of these; the ones that win are the ones with a table.
 
+## Bottom Line
+
+Read the notice, find the deadline, check the record for factual errors, and pull three to five genuine comparable sales from the assessor's own data. Present it as a one-page table with per-square-foot math and a specific number you are asking for. Most appeals fail not because the assessment was right, but because the owner argued about the bill instead of the value, missed the evidence deadline, or brought listings instead of sales.
+
 ## Frequently Asked Questions
 
 **Is it worth appealing if the increase is small?**
@@ -151,9 +155,3 @@ Informal reviews resolve in weeks. Formal hearings typically take two to six mon
 
 **Does the assessed value affect what I can sell for?**
 No. Buyers look at the market, not the roll. A low assessment is a small selling point because it implies lower taxes, which is one more reason to fix errors rather than leave them.
-
----
-
-## Bottom Line
-
-Read the notice, find the deadline, check the record for factual errors, and pull three to five genuine comparable sales from the assessor's own data. Present it as a one-page table with per-square-foot math and a specific number you are asking for. Most appeals fail not because the assessment was right, but because the owner argued about the bill instead of the value, missed the evidence deadline, or brought listings instead of sales.

@@ -184,6 +184,10 @@ For the house itself, none of this is necessary. It is only worth the effort if 
 
 **Do not assume a spring sighting is a new infestation.** They are leaving. Let them.
 
+## Bottom Line
+
+These are the autumn bugs that do not go quiet, so exclusion is worth doing properly. Seal the window frames, door sweeps, utility penetrations, and siding gaps in late September, before the movement. For the ones already inside, run a foil pan of soapy water under a single lamp in a dark room overnight, for two or three weeks, and vacuum rather than crush. Skip the fogger and the windowsill spray — neither reaches a wall cavity, and the dead bugs left behind feed carpet beetles. In spring, open the window and let them out, because that is what they are trying to do.
+
 ## FAQ
 
 **Why are there so many stink bugs in my house in the fall?**
@@ -213,9 +217,3 @@ Usually not for the indoor nuisance. Sealing plus a light trap handles it. A pro
 **Will they go away on their own?**
 
 Yes, by late spring — the indoor population is zero once the overwintering survivors leave. The problem returns each September unless the entry points are sealed.
-
----
-
-## Bottom Line
-
-These are the autumn bugs that do not go quiet, so exclusion is worth doing properly. Seal the window frames, door sweeps, utility penetrations, and siding gaps in late September, before the movement. For the ones already inside, run a foil pan of soapy water under a single lamp in a dark room overnight, for two or three weeks, and vacuum rather than crush. Skip the fogger and the windowsill spray — neither reaches a wall cavity, and the dead bugs left behind feed carpet beetles. In spring, open the window and let them out, because that is what they are trying to do.

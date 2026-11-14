@@ -169,6 +169,10 @@ Two situations require a different response.
 
 **Do not judge the result after three days.** The visible increase in activity in the first 48 hours is the treatment working.
 
+## Bottom Line
+
+Ants in a kitchen are a colony problem, and the colony is not where the ants are. Identify the species, because it decides the diet; mix boric acid at roughly 1 percent rather than as strong as possible, because a lethal dose delivered fast never reaches the queen; put the bait on the trail and leave the trail alone; and wait two weeks before deciding it failed. Then seal the entries at 1/16-inch scale, which is the part that stops it happening again next spring.
+
 ## FAQ
 
 **Why do the ants come back every year?**
@@ -198,9 +202,3 @@ About 1/16 inch, roughly the thickness of a credit card, for the small species t
 **What if I live in an apartment and the ants come from a neighbour?**
 
 Baiting still works inside your unit, but reinvasion from an untreated neighbouring unit is likely. Report it to the building manager, and keep entry points sealed. In multi-unit buildings, pharaoh ant infestations are a building-level problem, not a unit-level one.
-
----
-
-## Bottom Line
-
-Ants in a kitchen are a colony problem, and the colony is not where the ants are. Identify the species, because it decides the diet; mix boric acid at roughly 1 percent rather than as strong as possible, because a lethal dose delivered fast never reaches the queen; put the bait on the trail and leave the trail alone; and wait two weeks before deciding it failed. Then seal the entries at 1/16-inch scale, which is the part that stops it happening again next spring.

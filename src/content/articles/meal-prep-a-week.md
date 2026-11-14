@@ -150,6 +150,10 @@ Same-size containers stack and are the difference between a fridge you can use a
 
 Do not buy a 20-piece set with six sizes. You will use four of them.
 
+## Bottom Line
+
+Prep components, not finished meals: two proteins, two starches, two vegetables, and three sauces, cooked in a two-and-a-half-hour sequence that runs the oven and the stove in parallel. Cool everything fast and shallow, store sauces separately, keep one element raw for texture, and order the week by what spoils first. The variety comes from assembly, not from cooking ten different dishes.
+
 ## FAQ
 
 **How long does meal prep last in the fridge?**
@@ -179,9 +183,3 @@ Yes, and it is where the method pays most, because cooking for one normally mean
 **Is reheated rice safe?**
 
 Yes, if it was cooled within an hour of cooking and refrigerated. Rice left at room temperature is the classic *Bacillus cereus* risk; the danger-zone guide covers the timing.
-
----
-
-## Bottom Line
-
-Prep components, not finished meals: two proteins, two starches, two vegetables, and three sauces, cooked in a two-and-a-half-hour sequence that runs the oven and the stove in parallel. Cool everything fast and shallow, store sauces separately, keep one element raw for texture, and order the week by what spoils first. The variety comes from assembly, not from cooking ten different dishes.

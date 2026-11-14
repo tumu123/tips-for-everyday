@@ -163,6 +163,14 @@ For everything else, the sequence is the same: read the construction rather than
 
 ---
 
+---
+
+## Bottom Line
+
+Identify the fiber and the construction, not the label. Run the hem test before committing a whole panel. Wash cold, gently, one panel at a time, with a tablespoon of mild liquid detergent and no softener. Then let gravity dry it on the rod. Heat is what shrinks curtains, and the dryer is where the heat is.
+
+---
+
 ## FAQ
 
 **Can I wash curtains that say dry clean only?**
@@ -196,9 +204,3 @@ Hang them damp and let gravity pull the creases out, then steam vertically from 
 **Do curtains need to be washed if they only smell musty?**
 
 No. Odor is volatile — take the panel down, hang it in shade outdoors for an afternoon, and steam it. Washing a panel that is only stale adds wear without solving anything the air did not.
-
----
-
-## Bottom Line
-
-Identify the fiber and the construction, not the label. Run the hem test before committing a whole panel. Wash cold, gently, one panel at a time, with a tablespoon of mild liquid detergent and no softener. Then let gravity dry it on the rod. Heat is what shrinks curtains, and the dryer is where the heat is.

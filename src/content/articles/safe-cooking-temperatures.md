@@ -145,6 +145,10 @@ It cannot detect *Staphylococcus* toxin, which is heat stable and survives rehea
 
 Temperature is the last line, not the only one.
 
+## Bottom Line
+
+Poultry to 165°F, ground meat to 160°F, whole cuts to 145°F with a three-minute rest, fish to 145°F if you want the code number and less if you know what you are doing. Measure the thickest part, avoid bone, use a digital instant-read, and check it against ice water twice a year. The rest of the skill is not memorising numbers — it is having a thermometer that tells the truth.
+
 ## FAQ
 
 **What temperature is chicken done?**
@@ -174,9 +178,3 @@ Yes, in principle — 150°F held for about three minutes reaches the same letha
 **What temperature should leftovers reach when reheated?**
 
 165°F throughout, measured in the centre of the thickest part. This applies to casseroles, rice, and anything that was cooked once and stored.
-
----
-
-## Bottom Line
-
-Poultry to 165°F, ground meat to 160°F, whole cuts to 145°F with a three-minute rest, fish to 145°F if you want the code number and less if you know what you are doing. Measure the thickest part, avoid bone, use a digital instant-read, and check it against ice water twice a year. The rest of the skill is not memorising numbers — it is having a thermometer that tells the truth.

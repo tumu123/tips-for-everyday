@@ -185,6 +185,16 @@ If the damage reaches the point of a claim, the stain is the least expensive par
 
 ---
 
+---
+
+## Bottom Line
+
+Read the position of the stain to narrow the suspect list, confirm whether it's currently wet, then work upward to the source. Stop the leak, open and dry the assembly, then prime with shellac and repair the surface.
+
+The three things that make a repair fail are: painting before the leak is fixed, using water-based primer, and closing up a cavity that still has wet insulation in it. In that order of frequency.
+
+---
+
 ## Frequently Asked Questions
 
 **Can I just paint over a water stain?**
@@ -210,11 +220,3 @@ Efflorescence, mineral deposits left as water evaporates. It indicates repeated 
 
 **Does a water stain always mean mold?**
 No. Mold needs sustained moisture over days. If the area dries within 48 hours, growth is unlikely. A musty smell is the better indicator than the stain itself.
-
----
-
-## Bottom Line
-
-Read the position of the stain to narrow the suspect list, confirm whether it's currently wet, then work upward to the source. Stop the leak, open and dry the assembly, then prime with shellac and repair the surface.
-
-The three things that make a repair fail are: painting before the leak is fixed, using water-based primer, and closing up a cavity that still has wet insulation in it. In that order of frequency.

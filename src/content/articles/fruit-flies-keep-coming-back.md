@@ -168,6 +168,10 @@ None of this requires buying anything. It requires that the bin base gets wiped,
 
 **Do not assume the kitchen is the only room.** A forgotten bag of potatoes in a pantry, a piece of fruit in a lunch bag in a backpack, or a spill under a car seat within reach of a door will all sustain a population that appears to be in the kitchen.
 
+## Bottom Line
+
+The flies you see are the last generation, not the first. Set monitors before you clean so the traps tell you where the source is, then work through the sites in order — produce out, bin emptied and washed, recycling rinsed, warm hidden spots cleared, drain brushed rather than merely flushed — and only then trap the adults that hatch from eggs already laid. Keep one trap running until it catches nothing for five days. That empty trap, not the absence of visible flies, is the signal that the cycle is closed.
+
 ## FAQ
 
 **Where do fruit flies actually come from?**
@@ -197,9 +201,3 @@ It will kill the adults that enter it, which is a fraction of the population. Wi
 **Do I need an exterminator for fruit flies?**
 
 No. Fruit flies are a source-removal problem, and no pesticide treatment reaches the breeding sites inside a drain or under a bin liner. If a professional is called for fruit flies, the work they will do is the cleaning you can do yourself.
-
----
-
-## Bottom Line
-
-The flies you see are the last generation, not the first. Set monitors before you clean so the traps tell you where the source is, then work through the sites in order — produce out, bin emptied and washed, recycling rinsed, warm hidden spots cleared, drain brushed rather than merely flushed — and only then trap the adults that hatch from eggs already laid. Keep one trap running until it catches nothing for five days. That empty trap, not the absence of visible flies, is the signal that the cycle is closed.

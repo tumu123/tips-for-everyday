@@ -195,6 +195,20 @@ If the vent was restricted and the thermal fuse blew, both need attention. But t
 
 ---
 
+---
+
+## Bottom Line
+
+Check the vent before the machine, every time. It is free, it is the most common cause, and it is the only part of this system that can burn your house down.
+
+After that, the heat source tells you where to look: electric means breaker, thermal fuse, element, thermostats; gas means igniter, coils, sensor; heat pump means filter, condenser, and ambient temperature. Each is a small number of parts with a clear test.
+
+The one thing that should never happen is replacing a thermal fuse without asking why it blew. It blew because something got too hot, and that something is almost always lint in a restricted duct.
+
+If the diagnosis points to a part, the part is almost always cheap enough to try. Dryers are among the most repairable appliances in a house — accessible panels, inexpensive components, no sealed system. [Repair or replace](/save-money/shopping/repair-or-replace-appliance/) is the calculation, and for dryers it usually comes out on the side of repair until the machine is well past a decade.
+
+---
+
 ## Frequently Asked Questions
 
 **Why does my dryer tumble but produce no heat?**
@@ -220,15 +234,3 @@ The moisture sensors are coated with lint or fabric softener residue. Clean them
 
 **Is a dryer repair worth it?**
 Dryers are among the most repairable appliances — the parts are cheap and accessible. Under 10 years old, repair almost always wins. Past 12, weigh it against a new machine's efficiency.
-
----
-
-## Bottom Line
-
-Check the vent before the machine, every time. It is free, it is the most common cause, and it is the only part of this system that can burn your house down.
-
-After that, the heat source tells you where to look: electric means breaker, thermal fuse, element, thermostats; gas means igniter, coils, sensor; heat pump means filter, condenser, and ambient temperature. Each is a small number of parts with a clear test.
-
-The one thing that should never happen is replacing a thermal fuse without asking why it blew. It blew because something got too hot, and that something is almost always lint in a restricted duct.
-
-If the diagnosis points to a part, the part is almost always cheap enough to try. Dryers are among the most repairable appliances in a house — accessible panels, inexpensive components, no sealed system. [Repair or replace](/save-money/shopping/repair-or-replace-appliance/) is the calculation, and for dryers it usually comes out on the side of repair until the machine is well past a decade.

@@ -179,6 +179,10 @@ The threshold for real work is larvae or repeated finds in the same place.
 
 **Do not assume a hole in wool means moths.** Carpet beetle damage has no webbing or cases; look for grit and husks. Treating for the wrong insect is a month lost.
 
+## Bottom Line
+
+The beetle on the windowsill is a pollen feeder and a red herring. Find the larvae or the shed skins — along the carpet edge, under the furniture legs, in the bottom of the wool bin, in the bag of dry pet food — because those are what tell you whether there is a population at all. If there is, steam the surfaces to kill what is on them, vacuum the dust out of every crevice to remove the habitat, seal the wool and the dry goods, and dry the room down. Then walk the same route in six weeks. No husks and no grit means the cycle is broken, and a spray would never have told you either way.
+
 ## FAQ
 
 **Are carpet beetles harmful to humans?**
@@ -208,9 +212,3 @@ One full larval cycle — about six to twelve weeks depending on temperature —
 **Does one beetle mean an infestation?**
 
 No. A single adult on a windowsill is common in spring and does not imply breeding indoors. Look for larvae, shed skins, or grit before treating. The presence of husks is a much stronger signal than the presence of an adult.
-
----
-
-## Bottom Line
-
-The beetle on the windowsill is a pollen feeder and a red herring. Find the larvae or the shed skins — along the carpet edge, under the furniture legs, in the bottom of the wool bin, in the bag of dry pet food — because those are what tell you whether there is a population at all. If there is, steam the surfaces to kill what is on them, vacuum the dust out of every crevice to remove the habitat, seal the wool and the dry goods, and dry the room down. Then walk the same route in six weeks. No husks and no grit means the cycle is broken, and a spray would never have told you either way.

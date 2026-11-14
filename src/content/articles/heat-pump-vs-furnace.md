@@ -151,6 +151,10 @@ Work down this list:
 - **Do not accept a quote without a model number and a commissioning report.** "A 3-ton heat pump" is not a specification.
 - **Do not install a heat pump with a failing roof over the outdoor unit**, or in a location where snow burial is likely without a stand.
 
+## Bottom Line
+
+Convert both options to dollars per million BTU using your own fuel prices. If you heat with propane or oil, the heat pump wins by half and the decision is easy. If you have cheap natural gas, a heat pump at COP 3 loses to a 96% furnace above roughly $0.13/kWh electricity — and then the decision becomes about cooling, comfort, and whether you are replacing an air conditioner anyway. In cold climates, either choose a cold-climate model and set the aux heat lockout correctly, or use dual fuel and set the switchover from the fuel prices rather than the installer's habit.
+
 ## Frequently Asked Questions
 
 **Will a heat pump keep my house warm at 0°F?**
@@ -173,9 +177,3 @@ Excellent for houses without ducts, additions, and single rooms. A multi-zone mi
 
 **Are heat pumps worse for the environment?**
 They use less primary energy than any combustion system at typical grid carbon intensity, and considerably less on a clean grid. That is a real advantage, but it is a separate question from your bill.
-
----
-
-## Bottom Line
-
-Convert both options to dollars per million BTU using your own fuel prices. If you heat with propane or oil, the heat pump wins by half and the decision is easy. If you have cheap natural gas, a heat pump at COP 3 loses to a 96% furnace above roughly $0.13/kWh electricity — and then the decision becomes about cooling, comfort, and whether you are replacing an air conditioner anyway. In cold climates, either choose a cold-climate model and set the aux heat lockout correctly, or use dual fuel and set the switchover from the fuel prices rather than the installer's habit.

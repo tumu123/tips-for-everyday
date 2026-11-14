@@ -179,6 +179,10 @@ The single biggest variable in how hard a move is, is how much you own. Packing 
 
 And if the new place is smaller than the old one, the storage problem has to be solved before the boxes are opened, not after. The systems for that are in [small-space storage ideas](/organize/small-spaces/small-space-storage-ideas/).
 
+## Bottom Line
+
+A move goes well when the boxes answer three questions at a glance: which room, which tier, and what is inside. Number the rooms, pack by first-week use rather than by room, keep one inventory sheet, label three faces of every box, and put the first-night box in the car rather than the van. Then unpack in a fixed order, finish one room at a time, and let the thirty-day rule decide what stays sealed. The furniture will survive either way. It is the week after the move that this system is actually protecting.
+
 ## FAQ
 
 **How far in advance should I start packing?**
@@ -208,9 +212,3 @@ Every box gets a number, room, and tier. Not every box needs a full contents lis
 **What should I do with the old boxes afterwards?**
 
 Flatten and recycle them as you unpack rather than stacking them in a spare room. A box pile is the thing that makes an unpacked house feel unfinished, and most of it can leave the same week it was emptied.
-
----
-
-## Bottom Line
-
-A move goes well when the boxes answer three questions at a glance: which room, which tier, and what is inside. Number the rooms, pack by first-week use rather than by room, keep one inventory sheet, label three faces of every box, and put the first-night box in the car rather than the van. Then unpack in a fixed order, finish one room at a time, and let the thirty-day rule decide what stays sealed. The furniture will survive either way. It is the week after the move that this system is actually protecting.

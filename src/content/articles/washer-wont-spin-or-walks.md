@@ -192,6 +192,18 @@ Boards are expensive — often $150–$300 for the part alone — and on a machi
 
 ---
 
+---
+
+## Bottom Line
+
+Order matters here. Drain first, then load, then level, then interlock, then belt or coupling, then suspension. Each step rules out a whole category and the first three cost nothing.
+
+If the machine drains, sits level, has a balanced load, and still won't spin, you're down to the interlock, the belt, or the suspension. Which one depends on whether the motor runs and on the age of the machine — and that is the point where the price of the part versus the age of the machine becomes the real question.
+
+One last note on loading: running two smaller loads instead of one oversized one costs slightly more in energy per cycle but almost nothing per pound of laundry, and it is the cheapest way to avoid every symptom in this guide. [Cutting laundry costs](/save-money/bills/save-money-on-laundry/) covers where the money actually goes — heating water and running the dryer, not the spin cycle.
+
+---
+
 ## Frequently Asked Questions
 
 **Why does my washer spin sometimes and not others?**
@@ -217,13 +229,3 @@ Yes. Repeated overloading accelerates bearing and suspension wear, and the extra
 
 **Should I repair or replace?**
 Under five years, repair. Five to eight, repair if the part is under half the price of a new machine. Past ten, replace — even a successful repair leaves you with a machine that will need another one soon.
-
----
-
-## Bottom Line
-
-Order matters here. Drain first, then load, then level, then interlock, then belt or coupling, then suspension. Each step rules out a whole category and the first three cost nothing.
-
-If the machine drains, sits level, has a balanced load, and still won't spin, you're down to the interlock, the belt, or the suspension. Which one depends on whether the motor runs and on the age of the machine — and that is the point where the price of the part versus the age of the machine becomes the real question.
-
-One last note on loading: running two smaller loads instead of one oversized one costs slightly more in energy per cycle but almost nothing per pound of laundry, and it is the cheapest way to avoid every symptom in this guide. [Cutting laundry costs](/save-money/bills/save-money-on-laundry/) covers where the money actually goes — heating water and running the dryer, not the spin cycle.

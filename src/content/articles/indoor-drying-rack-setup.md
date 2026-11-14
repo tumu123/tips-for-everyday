@@ -144,6 +144,10 @@ For a load that already smells, the recovery sequence is in [how to remove milde
 
 **Do not dry everything on the rack.** Sheets, towels, and denim are the highest-water items and the slowest to dry. If you have a dryer, use it for those and air-dry the rest — that is where the energy saving actually is, and it keeps the indoor moisture load manageable.
 
+## Bottom Line
+
+Indoor drying is a water-removal problem disguised as a laundry problem. Spin the load as dry as the fabric allows, space the items so air can reach every surface, put the rack where the air already moves, and use a dehumidifier as the engine in any humid or closed space. Ventilate in winter and dehumidify in summer. The windows fogging up is not a cosmetic annoyance — it is the arithmetic telling you where the next mildew patch will be.
+
 ## FAQ
 
 **Does drying clothes indoors cause mold?**
@@ -173,7 +177,3 @@ Yes, and winter is often easier than summer because cold outdoor air is dry in a
 **Why do my clothes smell musty even after drying on a rack?**
 
 Because they took too long to dry, or because they sat in the machine first. The smell is microbial growth in the fiber. Rewash the load, and shorten the drying time by increasing spin speed, spacing the items, and adding airflow.
-
-## Bottom Line
-
-Indoor drying is a water-removal problem disguised as a laundry problem. Spin the load as dry as the fabric allows, space the items so air can reach every surface, put the rack where the air already moves, and use a dehumidifier as the engine in any humid or closed space. Ventilate in winter and dehumidify in summer. The windows fogging up is not a cosmetic annoyance — it is the arithmetic telling you where the next mildew patch will be.
