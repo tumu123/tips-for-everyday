@@ -10,7 +10,7 @@ secondaryKeywords:
 category: "Fix It"
 subcategory: "Home Repair"
 pubDate: 2026-10-15
-updatedDate: 2026-10-15
+updatedDate: 2026-11-14
 author: "Editorial Team"
 readingTime: 10
 featuredImageAlt: "Hardwood floor scratch being colour-matched with a floor repair pen"
@@ -117,6 +117,10 @@ If your floor has *many* scratches rather than a few, spot repair is the wrong a
 
 **Screen and recoat is dramatically cheaper and faster than full refinishing**, because it doesn't remove wood — it just refreshes the topcoat. It's the right answer for a floor that's dull and scuffed but not gouged. Most households should consider this before refinishing.
 
+**How much wood you can afford to lose is the hard limit on all of this.** The NWFA's *Wood Flooring Sand and Finish Guidelines* put the floor on one number: once the wear layer above the tongue — or above the plywood core on an engineered board — falls below **3/32 inch (2.5 mm)**, the floor should not be sanded at all. A full sand typically removes about 1/32 inch, so the count is arithmetic, not opinion. A solid 3/4-inch floor usually has enough wood for several refinishes across decades. An engineered floor is capped by its veneer: a 2 mm wear layer is a recoat-only product, and 3 to 4 mm buys one to three full sands before you are at the line. The NWFA's Refinishable program sets the same floor from the other direction, requiring at least 4/32 inch of unfinished wear layer or 3/32 inch factory-finished for a board to be certified refinishable at all.
+
+**That number should change your decision, not just your technique.** If a floor is already near 3/32 inch, screen and recoat is not the cheaper option — it is the last option. Sanding it takes the remaining margin and leaves nothing for the next decade.
+
 **When it's not enough:** if scratches have gone through the finish into the wood, recoating seals the damage in without removing it. That's when you need a full refinish.
 
 ---
@@ -152,7 +156,7 @@ Floor damage is far easier to prevent than to fix, and the causes are a short li
 
 ---
 
-## Why This Works
+## Why the Finish Chemistry Sets the Ceiling
 
 **Repair options are constrained by finish chemistry, not by the scratch.** A surface film finish sits as a distinct layer, so a new patch of it sits as a visible patch. A penetrating finish becomes part of the wood, so a new application blends invisibly into the surrounding area. The same scratch is easy on one floor and nearly impossible on the other.
 
@@ -164,7 +168,7 @@ Floor damage is far easier to prevent than to fix, and the causes are a short li
 
 ---
 
-## What NOT to Do
+## Eight Mistakes That Turn a Scratch Into a Resurfacing Job
 
 | Mistake | What happens | Do this instead |
 |---|---|---|
@@ -179,6 +183,11 @@ Floor damage is far easier to prevent than to fix, and the causes are a short li
 
 ---
 
+## Sources
+
+- National Wood Flooring Association, *Wood Flooring Sand and Finish Guidelines* — the 3/32 inch (2.5 mm) wear-layer floor below which a wood floor should not be sanded, and the roughly 1/32 inch removed by a full sand. Cited in NWFA's Engineered Wood Flooring Refinishable Program announcement, *Hardwood Floors*, Aug/Sep 2022. <https://nwfa.org/wp-content/uploads/2022/09/HFM_AugSept22_final_refinishable_small.pdf>
+- National Wood Flooring Association, *Refinishing Your Floors* — consumer-facing guidance on when a floor can be recoated rather than sanded, and the solid-versus-engineered distinction in refinishing capacity. <https://woodfloors.org/refinishing-your-floors/>
+
 ## Frequently Asked Questions
 **Can I sand out a floor scratch?**
 On a polyurethane floor, no — a local patch of new finish will look different from the surrounding area. On an oil-finished floor, light sanding and re-oiling a small area blends well.
@@ -188,6 +197,9 @@ Put a few drops of water on an inconspicuous spot. If they bead and sit on the s
 
 **What's the difference between screen and recoat and refinishing?**
 Screen and recoat abrades the existing finish lightly and adds one new coat — no wood removed, much cheaper. Refinishing sands down to bare wood.
+
+**How many times can a floor be sanded?**
+It depends on how much wear layer is left, not on the floor's age. NWFA guidance puts the stop at 3/32 inch (2.5 mm), and a full sand removes roughly 1/32 inch. A solid 3/4-inch floor usually takes several passes across its life; a 2 mm engineered veneer takes none, and 3 to 4 mm takes one to three.
 
 **When do I actually need a full refinish?**
 When damage has gone through the finish into the wood, or when there's discolouration or water damage.

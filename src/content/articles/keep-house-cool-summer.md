@@ -10,7 +10,7 @@ secondaryKeywords:
 category: "Save Money"
 subcategory: "Bills"
 pubDate: 2026-10-15
-updatedDate: 2026-10-15
+updatedDate: 2026-11-14
 author: "Editorial Team"
 readingTime: 10
 featuredImageAlt: "Window with an external awning and closed curtains blocking afternoon sun"
@@ -118,13 +118,19 @@ If you're running air conditioning, these are the things that actually change th
 
 **Raise the setpoint.** Every degree you raise it reduces cooling load meaningfully. 78°F (26°C) when home, higher when away, is the common recommendation.
 
+**How much the setpoint is worth is one of the few numbers the Department of Energy actually publishes.** Its guidance is that turning the thermostat back 7°F to 10°F for eight hours a day — while you are at work, or asleep — saves as much as 10 percent a year on heating and cooling. The saving is larger in mild climates and smaller in a tight, well-insulated house, because the saving comes from the smaller indoor-outdoor temperature difference, not from the equipment running differently. A house that is already close to outdoor temperature has less to gain.
+
 **Change the filter.** A clogged filter restricts airflow, which makes the system run longer for the same cooling. It's the cheapest efficiency improvement available, and the most skipped.
 
 **Clear and shade the outdoor unit.** The condenser needs airflow. Trim vegetation back, and keep at least a couple of feet clear. Shading the condenser helps slightly — but never enclose it or block the discharge.
 
 **Seal the ducts** if any run through an unconditioned attic or crawlspace. Leaky ducts are one of the largest hidden losses in a cooling system.
 
-**Use a programmable or smart thermostat** to raise the temperature while you're out. Note that a very large setback with AC is less effective than with heating — the system has to work hard to recover. A few degrees is right; setting it to 85 and crashing it to 72 when you get home does not save much.
+**Use a programmable or smart thermostat** so the setback happens whether or not anyone remembers. With a conventional central air conditioner, the full 7°F to 10°F setback is the right move — the equipment runs at the same efficiency recovering as it does holding, so a bigger gap saves more.
+
+**The exception is a heat pump.** Setting a heat pump back hard can bring on the electric resistance backup strips during recovery, and those cost several times what the compressor costs to run. The Department of Energy's advice for heat pumps is a moderate setback, or a thermostat built for heat pumps that ramps back up gradually. If you don't know which system you have, a heat pump will have an outdoor unit that runs in winter as well as summer.
+
+**What never works is the opposite move.** Turning the thermostat below your normal setting when you get home does not cool the house faster — the system removes heat at the same rate either way — and it overshoots, so you end up paying to cool below the temperature you actually wanted.
 
 **Keep interior doors open** and return air paths clear. Closing doors to unused rooms can create pressure imbalances that reduce overall system efficiency.
 
@@ -190,7 +196,7 @@ For a household in a humid climate, addressing humidity often produces a bigger 
 
 ---
 
-## Why This Works
+## Why Each Lever Acts on a Different Part of the Heat Balance
 
 **Radiant heat has to be stopped before it becomes sensible heat.** Sunlight passing through glass is absorbed by interior surfaces and re-radiated as heat. An exterior barrier rejects that energy at the boundary; an interior one only reduces glare and direct radiation after the energy is already inside. Same goal, very different physics, very different results.
 
@@ -202,7 +208,7 @@ For a household in a humid climate, addressing humidity often produces a bigger 
 
 ---
 
-## What NOT to Do
+## Nine Habits That Fight the House
 
 | Mistake | What happens | Do this instead |
 |---|---|---|
@@ -210,13 +216,19 @@ For a household in a humid climate, addressing humidity often produces a bigger 
 | Running a ceiling fan in reverse in summer | No cooling breeze | Summer = downdraft |
 | Opening windows on a hot afternoon | Hot air in, AC works harder | Open at night when it's cooler |
 | Closing vents in unused rooms | Pressure imbalance, reduced efficiency | Keep the system balanced |
-| Huge AC setback then crash-cooling | Little savings, heavy recovery load | A few degrees of setback |
+| Crash-cooling on arrival — dropping it to 65°F to "catch up" | No faster cooling, and you overshoot the setpoint | Leave it at the target; the system removes heat at a fixed rate |
+| A full setback on a heat pump | Recovery brings on the resistance backup strips | Moderate setback, or a heat-pump-aware thermostat |
 | Blocking the outdoor condenser | Efficiency drops, unit can overheat | Keep clearance around it |
 | Using the oven on hot afternoons | Heats the house, then you pay to cool it | Cook in the morning or outside |
 | Ignoring humidity | Feels hotter than the thermostat reads | Ventilate moisture, dehumidify |
 | Relying on fans in dangerous heat | Does not prevent heat illness | Use real cooling in extreme heat |
 
 ---
+
+## Sources
+
+- US Department of Energy, Energy Saver — turning the thermostat back 7°F to 10°F for eight hours a day can save as much as 10 percent a year on heating and cooling, with larger savings in milder climates. <https://content.govdelivery.com/accounts/USEERE/bulletins/3883189>
+- US Department of Energy, *Guide to Home Heating and Cooling* — the seasonal setpoints, the advice to set the thermostat to 78°F when the house is empty in summer, and the warning against setting the AC colder than normal to cool faster. <https://www.energy.gov/sites/prod/files/guide_to_home_heating_cooling.pdf>
 
 ## Frequently Asked Questions
 

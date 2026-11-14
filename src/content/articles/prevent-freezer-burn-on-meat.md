@@ -10,7 +10,7 @@ secondaryKeywords:
 category: "Kitchen Tips"
 subcategory: "Food Storage"
 pubDate: 2026-10-19
-updatedDate: 2026-10-19
+updatedDate: 2026-11-14
 author: "Editorial Team"
 readingTime: 11
 featuredImageAlt: "Vacuum-sealed portions of steak and chicken breasts laid flat in a freezer drawer, each labeled with a date"
@@ -102,27 +102,28 @@ Packaging is where freezer burn is won or lost.
 
 ## Step 5: Follow meat-specific time limits
 
-These are quality limits, not safety limits. Frozen meat at 0°F stays safe indefinitely; it just stops tasting good.
+These are quality limits, not safety limits. Frozen meat held at 0°F stays safe indefinitely; it just stops tasting good. The numbers below track the USDA–FDA cold storage chart, with the "still acceptable" column added as the practical outer edge.
 
 | Cut | Best quality window | Still acceptable |
 |---|---|---|
 | Beef steaks and roasts | 4–12 months | Up to 18 months |
 | Ground beef | **3–4 months** | 6 months |
 | Pork chops, roasts | 4–6 months | 12 months |
-| Chicken, whole or parts | 9–12 months | 18 months |
+| Chicken, whole | 12 months | 18 months |
+| Chicken pieces | 9 months | 18 months |
 | Turkey, whole | 12 months | 18 months |
 | Fatty fish (salmon, mackerel) | **2–3 months** | 6 months |
-| Lean fish (cod, tilapia) | 6 months | 8 months |
+| Lean fish (cod, tilapia) | 6–8 months | 8 months |
 | Bacon | **1 month** | 2 months |
 | Sausages, hot dogs | 1–2 months | 3 months |
 | Ground poultry | 3–4 months | 6 months |
 | Cooked meat dishes | 2–3 months | 6 months |
 
-The pattern is simple: **the more fat and the more surface area, the shorter the window.** Ground beef and bacon go first; a whole chicken lasts a year.
+The pattern is simple: **the more fat and the more surface area, the shorter the window.** Ground beef and bacon go first; a whole chicken lasts a year. Note that USDA's own chart splits poultry exactly that way — 9 months for pieces, 12 months for a whole bird — because cut surfaces are where oxidation starts.
 
 **Marinated meat is not a long-term freezer item.** Salt in a marinade accelerates fat oxidation and changes the texture during freezing. Freeze marinated meat for a month at most, and marinate after thawing if you're keeping it longer.
 
-**About parasites:** home freezing does not reliably kill parasites in pork or wild game the way commercial deep-freezing does. If you're freezing wild-caught fish for raw consumption, follow the FDA standard — 7 days at −4°F (−20°C) or 15 hours at −31°F (−35°C).
+**About parasites:** home freezing does not reliably kill parasites in pork or wild game the way commercial deep-freezing does. The FDA Food Code's parasite-destruction standard is 7 days at −4°F (−20°C) or 15 hours at −31°F (−35°C) — both colder than a typical home freezer runs, which is why the rule applies to fish you intend to eat raw. If your freezer sits at 0°F, it is holding quality, not sterilising. Buy sushi-grade fish for raw preparations, or freeze at the Food Code temperatures in a freezer you can actually set that low.
 
 Frost on the freezer back wall is the tell for a defrost failure — [a refrigerator that loses the fridge side only](/fix-it/appliances/refrigerator-not-cold-freezer-fine/) covers the 24-hour test that confirms it without tools.
 
@@ -162,7 +163,7 @@ Freezer burn does not "cook out." If the texture is gone, cooking method is the 
 
 ---
 
-## Why This Works
+## Why a Freezer Dries Meat From the Surface Inward
 
 Freezer burn is **sublimation** — ice converting directly to vapor without passing through liquid — and it happens whenever the water vapor pressure at the meat surface is higher than in the surrounding freezer air. That's why it starts at exposed surfaces and progresses inward, and why any barrier that blocks vapor flow stops it.
 
@@ -174,7 +175,7 @@ Freezing speed controls crystal size: fast freezing nucleates many small crystal
 
 And refrigerator thawing wins because it's the only method that keeps the meat below 40°F the entire time, so the tissue can reabsorb moisture as it melts instead of losing it to a puddle.
 
-## What NOT to Do
+## Eight Ways to Waste a Bag and a Cut of Meat
 
 | Mistake | Why it fails | Do this instead |
 |---|---|---|
@@ -187,6 +188,11 @@ And refrigerator thawing wins because it's the only method that keeps the meat b
 | Refreezing thawed meat repeatedly | Each cycle loses juice and quality | Portion before freezing |
 | Keeping bacon and ground beef for a year | High fat, high surface area — they oxidize first | 1–4 months, use them first |
 
+## Sources
+
+- USDA Food Safety and Inspection Service, *Keep Food Safe! Food Safety Basics* — the cold storage chart for freezer storage at 0°F, including 3–4 months for ground meats, 4–12 months for beef steaks and roasts, 9 months for poultry pieces, 12 months for a whole bird, and the statement that freezer times are for quality rather than safety. <https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe>
+- US Food and Drug Administration, *Food Code* — parasite destruction by freezing: 7 days at −4°F (−20°C) or 15 hours at −31°F (−35°C) for fish intended for raw consumption.
+
 ## Frequently Asked Questions
 
 **What exactly is freezer burn?**
@@ -196,7 +202,7 @@ Sublimation — water leaving the frozen surface as vapor because the freezer ai
 Yes. It is a quality problem, not a safety one. Trim small patches, or use heavily burned meat in stews, chili, or braises where sauce and long cooking compensate.
 
 **How long can you freeze meat?**
-Beef steaks and roasts 4–12 months, chicken 9–12 months, pork 4–6 months, ground beef 3–4 months, bacon about 1 month. These are quality windows; properly frozen meat stays safe indefinitely.
+Beef steaks and roasts 4–12 months, a whole chicken 12 months, chicken pieces 9 months, pork 4–6 months, ground beef 3–4 months, bacon about 1 month. These are quality windows; properly frozen meat stays safe indefinitely.
 
 **Should you wash meat before freezing?**
 No. Washing spreads bacteria around the sink and leaves surface water that causes ice crystal damage. Blot it dry instead.
