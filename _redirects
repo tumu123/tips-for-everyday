@@ -3,6 +3,26 @@
 # www → 裸域名（保持单一规范域名，避免重复内容）
 https://www.tips-for-everyday.com/* https://tips-for-everyday.com/:splat 301
 
+# ── 旧站（2023 年 WordPress）结构性 URL 处置 ──────────────────────────
+# 依据：GSC 近 450 天仍有搜索展示的 128 条旧 URL（合计 2,909 次展示）。
+# 分类处理原则：
+#   1. 栏目页 / 分页 / 标签页 → 301 到语义最近的现存页面（聚合页对聚合页，合规）
+#   2. 主题无关的独立文章 → 不做 301。落到不相关页面会被判定为软 404，
+#      既不传递权重又制造新的低质信号。保持 404，由 Google 自然清理。
+# 注：Cloudflare Pages 的 _redirects 不支持 410，只支持 301/302/303/307/308。
+
+# 旧栏目页
+/homelife/          /home-hacks/          301
+/clothingcare/      /home-hacks/fabrics/  301
+/homeappliances/    /fix-it/appliances/   301
+/homeappliances/3/  /fix-it/appliances/   301
+/healthydiet/       /                     301
+/special.html       /                     301
+
+# 旧分页与标签页（WordPress 遗留结构，新站无对应聚合层）
+/page_*  /  301
+/tags-*  /  301
+
 # 常见错误路径纠正
 /home-hacks https://tips-for-everyday.com/home-hacks/ 301
 /save-money https://tips-for-everyday.com/save-money/ 301
