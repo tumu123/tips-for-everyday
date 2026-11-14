@@ -10,7 +10,7 @@ secondaryKeywords:
 category: "Fix It"
 subcategory: "Home Repair"
 pubDate: 2026-10-15
-updatedDate: 2026-10-15
+updatedDate: 2026-11-14
 author: "Editorial Team"
 readingTime: 9
 featuredImageAlt: "Utility knife being used to cut paint seal around a window sash"
@@ -180,11 +180,13 @@ Wood absorbs moisture and expands. A window that works fine in winter may bind i
 - **Structural movement** — if several windows in the house are binding, the frame may be shifting
 - **Vinyl window with a failed internal mechanism** — often requires partial disassembly best left to someone experienced
 
-Green, yellow, and red: the tiering is about consequences rather than confidence — [when a homeowner should stop and hire](/fix-it/home-repair/diy-or-call-a-professional/) covers the test and the twenty jobs it sorts.
+Green, yellow, and red: the tiering here is about consequences rather than confidence. The same test, applied to twenty common jobs, is set out in [when a homeowner should stop and hire](/fix-it/home-repair/diy-or-call-a-professional/).
+
+**The replacement decision carries an energy dimension that the repair decision does not.** Heat gain and loss through windows accounts for 25% to 30% of residential heating and cooling energy use, according to the US Department of Energy — a whole-house figure across every window, not a per-window penalty. What it does establish is that sealing a sticking window shut permanently is a bad trade: you spend nothing, you lose the only opening on that wall, and the glass keeps losing heat exactly as it did before. If the frame or the glass has genuinely failed, the federal Energy Efficient Home Improvement Credit covers 30% of the cost of qualifying windows, capped at $600. A window that merely sticks is in neither category.
 
 ---
 
-## Why This Works
+## Why Cutting Works Where Pushing Fails
 
 **Paint forms the most common mechanical bond, and cutting it is the only way to break it.** Paint bridges the gap between sash and frame and cures into a rigid connection. No amount of pushing will overcome it, and pushing risks breaking glass. Cutting the film at the joint restores the gap.
 
@@ -196,7 +198,7 @@ Green, yellow, and red: the tiering is about consequences rather than confidence
 
 ---
 
-## What NOT to Do
+## Eight Ways People Break a Window Trying to Open It
 
 | Mistake | What happens | Do this instead |
 |---|---|---|
@@ -210,6 +212,10 @@ Green, yellow, and red: the tiering is about consequences rather than confidence
 | Moving a sash with cracked glass | Complete failure, injury risk | Replace the glass first |
 
 ---
+
+## Sources
+
+- US Department of Energy, Energy Saver weekly tip, *Prevent heat gain (and loss) with new windows* — heat gain and loss through windows is responsible for 25% to 30% of residential heating and cooling energy use; the 30% credit up to $600 for qualifying replacement windows. <https://content.govdelivery.com/accounts/USEERE/bulletins/3a556de>
 
 ## Frequently Asked Questions
 **Why is my window suddenly hard to open?**
@@ -234,4 +240,4 @@ Seasonally. Windows left closed for years develop paint seals, corrosion, and se
 Small openings at the bottom exterior of the frame that let water drain out. If they clog, water collects and rots the frame.
 
 **When should I just replace the window?**
-When the frame has rotted, the track is deformed, or sealed glass units have failed. Isolated hardware failures are usually worth fixing.
+When the frame has rotted, the track is deformed, or sealed glass units have failed. Isolated hardware failures are usually worth fixing. If the glass is the real problem rather than the mechanism, the economics change: windows drive 25% to 30% of residential heating and cooling energy use, and the federal Energy Efficient Home Improvement Credit covers 30% of qualifying window costs up to $600. A window that only sticks is a mechanism fault, and the mechanism can be repaired.

@@ -11,7 +11,7 @@ secondaryKeywords:
 category: "Fix It"
 subcategory: "Plumbing"
 pubDate: 2026-10-17
-updatedDate: 2026-10-17
+updatedDate: 2026-11-14
 author: "Editorial Team"
 readingTime: 6
 featuredImageAlt: "An outdoor tap with a hose removed and a frost-proof sillcock body sloping downward from the valve seat inside the wall"
@@ -52,6 +52,8 @@ An outdoor tap leaks for the same reason an indoor one does — a worn seal — 
 | Frost-free (frost-proof) sillcock | Long body, sloping down toward the inside; the handle is often at a slight angle | The valve seat sits inside the heated space, and the body drains out when closed |
 
 If you have a standard bib in a [freezing](/fix-it/maintenance/prevent-frozen-pipes/) climate, the winter routine below matters a great deal. If you have a frost-free one, the routine is much simpler — but only if the hose is removed.
+
+**What a freeze actually costs:** water damage and freezing claims are among the most common homeowner losses in the United States. The Insurance Information Institute records about 1.5 of them per 100 insured homes each year — roughly one home in 67 — at an average payout of $15,400 across 2019 to 2023. Only wind and hail claims are more frequent, at 2.8 per 100 homes.
 
 ## Step 0: Identify the Leak
 
@@ -116,6 +118,8 @@ If water sprays from it when you run the tap, that is a symptom it has failed.
 
 Remove every hose before the first freeze. A hose left attached traps water in the tap body and prevents the frost-free design from draining. A frost-free sillcock with a hose on it can freeze and burst exactly like a standard one.
 
+The scale of that mistake is easy to underrate. State Farm reported more than 20,000 frozen-pipe and winter water claims and over $628 million in paid losses between January 2024 and June 2025 — an average above $30,000 per claim on its own book.
+
 Drain the hose, coil it, and store it.
 
 ## Step 7: Shut Off and Drain the Supply
@@ -146,7 +150,7 @@ Open the indoor valve slowly and check for leaks at the tap, and check indoors a
 
 **If you find a leak inside the wall, turn the supply off immediately.** That is a burst from winter freezing, and it is a bigger job than the drip you started with.
 
-## Why This Works
+## Why the Drip and the Freeze Are Separate Repairs
 
 The leak and the freeze are governed by different mechanisms, which is why fixing one does not fix the other.
 
@@ -156,7 +160,7 @@ The freeze is a containment problem. Water occupies more volume as ice, and in a
 
 That is also why leaving a hose attached defeats both. A hose holds water in the body and blocks the drain path, so a frost-free sillcock performs no better than a standard one. The hose, not the tap, is the variable that matters most in that case.
 
-## What NOT to Do
+## Eight Mistakes That Cost You the Tap
 
 **Do not leave hoses attached over winter.** This is the most common cause of a burst outdoor tap, including on frost-free models.
 
@@ -174,6 +178,11 @@ That is also why leaving a hose attached defeats both. A hose holds water in the
 
 **Do not assume a frost-free tap cannot freeze.** With a hose attached, it can.
 
+## Sources
+
+- Insurance Information Institute, *Homeowners and Renters Insurance Facts + Statistics* — water damage and freezing claim frequency (1.5 per 100 insured homes, 2019–2023) and average payout ($15,400); wind and hail frequency (2.8 per 100). <https://www.iii.org/fact-statistic/facts-statistics-homeowners-and-renters-insurance>
+- State Farm Newsroom, frozen pipe and winter water damage release, February 2025 — 20,000+ claims and $628 million in paid losses, January 2024 to June 2025.
+
 ## FAQ
 
 **Should I leave the outdoor tap open or closed in winter?**
@@ -189,7 +198,7 @@ Usually the hose coupling's rubber washer, not the tap. Replace the washer in th
 The body is noticeably longer and slopes downward from outside to inside, and the valve seat sits well inside the wall rather than at the spout.
 
 **What temperature should I worry about?**
-Any sustained freeze. The combination that causes bursts is freezing temperature plus trapped water — both matter.
+Two conditions have to line up, and temperature alone is not one of them. Water has to be sitting in a section that cannot drain, and it has to stay cold long enough to freeze solid. A hard night on a drained, shut-off line does nothing; the same night on a live line with a hose attached can split the body.
 
 **Is a burst outdoor tap an emergency?**
 Once you discover it, shut off the supply to it. Water entering a wall cavity does damage quickly.
@@ -198,4 +207,4 @@ Once you discover it, shut off the supply to it. Water entering a wall cavity do
 Yes, but shut off the indoor supply first and do not leave water in the line afterwards. Repairing and then winterising in the same visit is the sensible order.
 
 **How much does a tap cover actually help?**
-It provides real additional protection for a standard bib, particularly in a sheltered location. It is not a substitute for shutting off and draining.
+It provides real additional protection for a standard bib, particularly in a sheltered location. It is not a substitute for shutting off and draining. Against an average freezing claim of $15,400, a cover that costs less than a takeaway meal is the cheapest item in the whole winter routine.

@@ -10,7 +10,7 @@ secondaryKeywords:
 category: "Organize"
 subcategory: "Closet"
 pubDate: 2026-10-14
-updatedDate: 2026-10-14
+updatedDate: 2026-11-14
 author: "Editorial Team"
 readingTime: 9
 featuredImageAlt: "Compact accordion file with labeled sections, a shredder, and a small document box on a desk"
@@ -84,35 +84,37 @@ This is the table most homes are missing. Print it and keep it with the files.
 
 | Document | Keep for | Where |
 |---|---|---|
-| **Tax returns** | **7 years** (or per your jurisdiction) | Fireproof box |
-| **Tax supporting documents** (W-2s, 1099s, receipts) | 7 years | With the return |
+| **Tax returns** | **3 years** from filing, in the ordinary case (see the IRS schedule below) | Fireproof box |
+| **Tax supporting documents** (W-2s, 1099s, receipts) | As long as the return they support | With the return |
 | **Pay stubs** | 1 year (or until you reconcile with the W-2) | Financial file |
 | **Bank statements** | 1 year, unless needed for taxes | Financial file |
-| **Credit card statements** | 1 year; 7 if tax-related | Financial file |
+| **Credit card statements** | 1 year; longer if tax-related | Financial file |
 | **Utility bills** | 1 year (or until the next one proves payment) | Financial file |
-| **Mortgage documents** | Life of the loan + 7 years after payoff | Fireproof box |
+| **Mortgage documents** | Life of the loan, plus 3 years after payoff | Fireproof box |
 | **Property deeds and titles** | **Permanently** | Fireproof box |
 | **Vehicle titles** | **Permanently** (while you own it) | Fireproof box |
-| **Insurance policies** | Life of policy + 7 years | Fireproof box |
+| **Insurance policies** | Life of policy, plus 3 years | Fireproof box |
 | **Medical records** | 5 years minimum; longer for major events | Reference file |
-| **Employment contracts** | 7 years after leaving the job | Fireproof box |
+| **Employment contracts** | 3 years after leaving the job | Fireproof box |
 | **Warranties and receipts** | Life of warranty | Reference file |
-| **Investment statements** | Until you sell + 7 years | Financial file |
-| **Retirement account statements** | Until you withdraw + 7 years | Financial file |
+| **Investment statements** | Until you sell, plus 3 years | Financial file |
+| **Retirement account statements** | Until you withdraw, plus 3 years | Financial file |
 | **Birth, marriage, death certificates** | **Permanently** | Fireproof box |
 | **Social Security cards, passports** | **Permanently** | Fireproof box |
-| **Home improvement records** | Life of ownership + 7 years | Fireproof box |
+| **Home improvement records** | Life of ownership, plus 3 years | Fireproof box |
 | **Loan payoff letters** | **Permanently** | Fireproof box |
 
-**Why 7 years is the common default for tax documents:** it reflects the period during which most tax authorities can audit or assess. Some jurisdictions differ, and it is worth confirming your local rule once.
+**Why 3 years, not 7:** the IRS period of limitations for assessing tax on a filed return is generally **3 years** from the filing date. It stretches to **6 years** only if you left out income worth more than 25% of the gross income on the return, and to **7 years** only for a claim based on a bad-debt deduction or a loss from worthless securities. If no return was filed, or a fraudulent one was, there is no limit at all. Employment tax records have their own rule: at least 4 years after the tax was due or paid, whichever is later.
+
+That means "keep everything seven years" is not a safe simplification — it is wrong in both directions. It makes people hold ordinary receipts three years longer than needed, and it makes the genuine long-tail cases look the same as the routine ones. The one figure that really does run to seven years is narrow: worthless securities and bad-debt claims.
 
 **The exceptions worth noting:**
 
 - **Keep property and ownership documents permanently.** These establish ownership and cannot be recreated.
 - **Keep the loan payoff letter permanently.** It is your only proof that a loan was satisfied, and it is surprisingly hard to obtain later.
-- **Home improvement records are worth keeping for the life of ownership** because they add to your cost basis, which reduces capital gains tax when you sell.
+- **Keep records for anything you own until you dispose of it.** The IRS ties property records to the year of disposal, not to a fixed count of years, because you need the basis to work out gain or loss when you sell. Home improvement records fall in this group: they add to your cost basis, which reduces capital gains tax when you sell.
 
-The retention schedule is what decides which of these folders ever leaves the house. For the table itself — how long each record type actually has to stay — see [which home records to keep](/organize/closet/home-records-retention/).
+For how long each record type has to stay, and which ones carry a different rule in your state, see [which home records to keep](/organize/closet/home-records-retention/).
 
 ---
 
@@ -193,7 +195,7 @@ The pile grows because unopened mail lands on a counter. Cut it off at arrival.
 
 ---
 
-## Why This Works
+## Why Deferring the Decision Is the Whole Problem
 
 Paper clutter is a **decision-deferral** problem. Every piece of paper represents a decision — keep, act, or discard — and deferring the decision is what creates the pile. A retention schedule removes the need to decide, because the answer is already written down.
 
@@ -205,14 +207,14 @@ The retention schedule itself is calibrated to **how long a record can be demand
 
 ---
 
-## What NOT to Do
+## Twelve Mistakes That Rebuild the Pile
 
 | Common mistake | Why it fails | Do this instead |
 |---|---|---|
 | Keeping everything "just in case" | Nothing gets discarded and the pile grows | Apply the retention schedule |
 | Sorting one paper at a time | Decision fatigue, very slow | Timed passes sorted by type |
 | Creating a "to shred" pile | It is just a new, smaller pile | Shred immediately |
-| Keeping tax returns indefinitely | Wasteful but harmless — yet it displaces real files | 7 years, then shred |
+| Keeping tax returns indefinitely | Wasteful, and it displaces real files | 3 years from filing, then shred |
 | Shredding ownership documents | Can never be recreated | Permanent, fireproof box |
 | Storing originals in an accordion file | Vulnerable to fire and water | Fireproof box for permanent documents |
 | Scanning everything | Slow, and digital clutter replaces paper clutter | Scan what you will actually retrieve |
@@ -224,10 +226,15 @@ The retention schedule itself is calibrated to **how long a record can be demand
 
 ---
 
+## Sources
+
+- Internal Revenue Service, *How long should I keep records?* — period of limitations for income tax returns (3 years; 6 years where unreported income exceeds 25% of gross income; 7 years for worthless securities or bad-debt claims; no limit where no return or a fraudulent return was filed) and the 4-year rule for employment tax records. <https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records>
+- Internal Revenue Service, *Topic no. 305, Recordkeeping* — the same periods stated for assessment and refund claims, plus the rule that property records run until the year of disposal. <https://www.irs.gov/taxtopics/tc305>
+
 ## Frequently Asked Questions
 
 **How long should I keep tax returns?**
-Seven years is the common default, matching the period most tax authorities can audit or assess. Confirm your local rule once. Keep supporting documents — W-2s, 1099s, deduction receipts — with the return for the same period.
+Three years from filing, in the ordinary case. That is the IRS period of limitations for assessing additional tax. It becomes six years if you left out income worth more than 25% of gross income, seven only for a bad-debt or worthless-securities claim, and unlimited if no return was filed or the return was fraudulent. Keep supporting documents — W-2s, 1099s, deduction receipts — for as long as the return they back up.
 
 **What documents should I keep permanently?**
 Birth, marriage, and death certificates; passports and Social Security cards; property deeds and vehicle titles; mortgage payoff letters; and any document establishing ownership. These cannot be recreated, so they belong in a fireproof box.
@@ -242,7 +249,7 @@ Anything with an account number, Social Security number, signature, or personal 
 For most documents, yes — but not for originals you must present physically. Keep deeds, titles, certificates, and passports as physical originals. Also make sure your scan is backed up in two places, or you have simply moved the risk.
 
 **How do I handle paperwork for a deceased relative?**
-Keep the will, death certificate, and estate documents permanently. Keep tax returns and financial records for at least 7 years, and confirm with an estate attorney for anything unusual. Do not discard anything until the estate is fully settled.
+Keep the will, death certificate, and estate documents permanently. Keep tax returns and financial records for at least 3 years from the filing date, and longer if the estate is still open or a return was never filed. Confirm with an estate attorney for anything unusual, and do not discard anything until the estate is fully settled.
 
 **What about warranties and manuals?**
 Keep warranties for the life of the warranty, and staple the receipt to the warranty. For manuals, download the PDF from the manufacturer and discard the booklet. Most manuals are available online.

@@ -11,7 +11,7 @@ secondaryKeywords:
 category: "Fix It"
 subcategory: "Plumbing"
 pubDate: 2026-10-17
-updatedDate: 2026-10-17
+updatedDate: 2026-11-14
 author: "Editorial Team"
 readingTime: 6
 featuredImageAlt: "A water hammer arrestor fitted vertically on a supply line beside a washing machine shut-off valve"
@@ -71,11 +71,15 @@ This is a five-minute test that determines whether the whole problem is upstream
 
 Screw a **water pressure gauge** onto an outdoor tap — usually a hose-thread gauge from a hardware store — and read it.
 
-**Typical residential pressure is around 40 to 60 psi.** Above about 80 psi is high, and many plumbing components are rated for a maximum around 80.
+**Where the number 80 comes from:** it is not a rule of thumb. Section 604.8 of the International Plumbing Code caps static pressure at 80 psi anywhere in the distribution system and requires a pressure-reducing valve where the supply exceeds it. Section 604.7 sets the floor at 15 psi at a fixture supply outlet. Between those two numbers sits a wide band that works, and the EPA's WaterSense programme suggests setting a PRV in the middle of it, at 45 to 60 psi.
+
+**Typical residential pressure lands around 40 to 60 psi.** Above 80 psi the code has already decided you have a problem, and it is not a comfort problem — it is component life. Every solder joint, washing machine hose, appliance inlet valve, and toilet fill valve sees that pressure permanently.
 
 If your pressure is high, that is the root cause. A **pressure-reducing valve** on the main supply fixes it and also extends the life of every appliance, valve, and flexible hose in the house.
 
 **If you have high pressure, fit a PRV before doing anything else.** Arresting the symptom while leaving the pressure high means you will keep damaging things.
+
+**One consequence people miss:** a PRV is a one-way device, so fitting it turns the house into a closed system. Section 607.3 of the same code requires thermal expansion control on the water heater's cold supply, downstream of any check valve, PRV, or backflow preventer, sized so that pressure stays under the 604.8 ceiling. Without it, every heating cycle pushes expanded water against a system that no longer has anywhere to send it, and the water heater's relief valve starts weeping. If the house has no expansion tank, price one at the same time — retrofitting it later costs a second visit.
 
 If your pressure is normal, continue.
 
@@ -125,7 +129,7 @@ Close each offending fixture quickly and listen.
 
 **Also check for new leaks** at anything you disturbed, and confirm flexible supply lines to the washing machine are in good condition — high pressure and water hammer both shorten their life, and a burst washing machine hose is one of the most damaging household failures there is.
 
-## Why This Works
+## Why Each Fix Touches a Different Link in the Chain
 
 The bang is energy that has to go somewhere. A moving column of water carries momentum; when it stops suddenly, that momentum converts into a pressure spike. If the spike is large, or if the pipe is free to move, you hear it.
 
@@ -139,7 +143,7 @@ An arrestor absorbs the spike locally. It gives the moving water somewhere to go
 
 The diagnostic order follows from cause-and-effect: correct the system-wide cause first, then the mechanical mounting, then the local absorption. Doing it in the reverse order means fitting arrestors to a house that is still over-pressured.
 
-## What NOT to Do
+## Seven Things That Keep the Bang
 
 **Do not fit arrestors before checking the pressure.** If pressure is high, that is the cause, and arrestors only mask it.
 
@@ -155,6 +159,11 @@ The diagnostic order follows from cause-and-effect: correct the system-wide caus
 
 **Do not fit a PRV without checking whether one already exists.** Many houses have one, and it may simply be failing or set wrong.
 
+## Sources
+
+- International Code Council, *International Plumbing Code* §604.7 (minimum 15 psi at a fixture supply outlet), §604.8 (maximum 80 psi static; pressure-reducing valve required above it), and §607.3 (thermal expansion control where the cold supply passes a check valve, PRV, or backflow preventer). <https://codes.iccsafe.org/content/IPC2021P2>
+- US Environmental Protection Agency, WaterSense — recommended pressure-reducing valve setting of 45 to 60 psi, and the note that fitting a PRV creates a closed system. <https://www.epa.gov/watersense>
+
 ## FAQ
 
 **Is water hammer dangerous?**
@@ -164,7 +173,7 @@ The noise is not, but repeated pressure spikes stress joints, valves, and flexib
 Appliance solenoid valves close in a fraction of a second, far faster than a tap you turn by hand. That abrupt stop creates the sharpest spike.
 
 **What pressure is too high?**
-Above roughly 80 psi is high for residential plumbing, and many components are rated near that. Around 40 to 60 psi is a typical target.
+Above 80 psi static, and that is a code threshold rather than an opinion: IPC 604.8 requires a pressure-reducing valve at that point. WaterSense suggests a PRV setting between 45 and 60 psi, which is comfortably inside the band. The code minimum at a fixture is 15 psi (IPC 604.7), so there is a lot of room between "works" and "too high".
 
 **Do I need a plumber to fit a PRV?**
 It involves the main supply and usually some pipework, so many people have it done. The diagnosis — measuring pressure — you can do yourself in minutes.

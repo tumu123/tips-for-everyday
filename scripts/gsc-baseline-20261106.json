@@ -1,0 +1,34 @@
+{
+  "_说明": "GSC 汇总基线，用于与后续快照对比。数据来源：Search Console API，站点属性 sc-domain:tips-for-everyday.com",
+  "拉取时间": "2026-11-06T20:16+08:00",
+  "站点属性": "sc-domain:tips-for-everyday.com",
+  "sitemap": {
+    "主sitemap": "https://tips-for-everyday.com/sitemap-index.xml",
+    "提交时间": "2026-10-21T06:00:49Z",
+    "最后下载": "2026-11-05T19:55:10Z",
+    "URL数": 291,
+    "错误": 0,
+    "告警": 0,
+    "历史遗留": [
+      { "path": "https://www.tips-for-everyday.com/sitemap-post/1.xml", "提交": "2023-04-26", "URL数": 434 },
+      { "path": "https://www.tips-for-everyday.com/sitemaps.xml", "提交": "2023-04-26", "错误": 1 }
+    ]
+  },
+  "区间汇总": {
+    "28天": { "区间": "2026-10-06~2026-11-03", "点击": 0, "展示": 324, "有展示页面数": 158 },
+    "90天": { "区间": "2026-08-05~2026-11-03", "点击": 0, "展示": 1282, "有展示页面数": 171, "不同查询数": 261 },
+    "450天": { "区间": "2025-08-10~2026-11-03", "点击": 7, "展示": 3006, "有展示页面数": 183 }
+  },
+  "索引抽检": [
+    { "url": "https://tips-for-everyday.com/", "verdict": "PASS", "coverage": "Submitted and indexed", "lastCrawl": "2026-11-03T09:22:31Z" },
+    { "url": "https://tips-for-everyday.com/home-hacks/cleaning/clean-microwave-easily/", "verdict": "PASS", "coverage": "Submitted and indexed", "lastCrawl": "2026-10-20T02:02:40Z" },
+    { "url": "https://tips-for-everyday.com/pest-control/rodents/mice-in-the-walls/", "verdict": "PASS", "coverage": "Submitted and indexed", "lastCrawl": "2026-10-29T06:23:34Z" },
+    { "url": "https://tips-for-everyday.com/organize/laundry/", "verdict": "PASS", "coverage": "Submitted and indexed", "lastCrawl": "2026-10-21T06:50:15Z" }
+  ],
+  "旧站": {
+    "Wayback记录URL数": 1602,
+    "旧站特征": "WordPress，采集/拼接式标题，含 123-2/ 类自动草稿残留",
+    "当前状态": "全部 404，_redirects 未配置任何旧路径处置",
+    "GSC中仍承接展示的旧URL数": 121
+  }
+}
