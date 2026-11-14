@@ -10,7 +10,7 @@ secondaryKeywords:
 category: "Organize"
 subcategory: "Laundry"
 pubDate: 2026-10-19
-updatedDate: 2026-10-19
+updatedDate: 2026-11-14
 author: "Editorial Team"
 readingTime: 10
 featuredImageAlt: "A narrow laundry room with a sorting hamper beside the washer, a folding counter over the machines, and detergent on a shallow shelf above"
@@ -95,7 +95,7 @@ Two practical details: leave a 1-inch gap at the back for hoses and cords, and u
 
 If you have a top-loading washer, the counter cannot span both machines. Put a narrow shelf over the dryer only, and accept that the washer lid is not a surface.
 
-A machine that only fails on big loads is telling you about vibration rather than the motor — [diagnosing a washer that shakes or will not spin](/fix-it/appliances/washer-wont-spin-or-walks/) covers what that points to.
+A machine that only fails on big loads is telling you about vibration rather than the motor. For the distinction between an unbalanced load and a failed suspension, see [diagnosing a washer that shakes or will not spin](/fix-it/appliances/washer-wont-spin-or-walks/).
 
 ## Step 5: Solve drying before you need it
 
@@ -159,13 +159,32 @@ A laundry room fails slowly and then all at once. Ten minutes once a month preve
 - Clear the sorting bins completely — a bin that is never empty becomes a permanent resident.
 - Sweep behind and under the machines; that is where the missing socks live.
 
-## Why This Works
+## The Dryer Duct Decides Where the Dryer Can Go
+
+Most laundry layouts are planned around the machines and the plumbing, and the duct is treated as an afterthought — a hose that will reach wherever the dryer ends up. It is the other way round. The duct has a hard length limit, and a room that ignores it produces a dryer that takes two cycles to dry a load and eventually a lint fire.
+
+The 2021 International Residential Code sets the rules in Section M1502:
+
+- **35 feet maximum** developed length, measured from where the transition duct connects to the outlet terminal. The transition duct itself does not count toward the 35 feet (M1502.4.6.1).
+- **Every fitting consumes length from that budget.** A 4-inch radius mitered 90-degree elbow costs **5 feet**; a 4-inch radius mitered 45-degree elbow costs **2 feet 6 inches**; smooth 6-inch radius elbows cost 1 foot each. Two 90s and a 45 in a tight basement run eat 12 feet 6 inches before a single straight section is measured (Table M1502.4.6.1).
+- **The duct must be 4 inches nominal, metal, at least 0.0157 inch thick (No. 28 gage), with a smooth interior** (M1502.4.1). The accordion foil hose sold as "dryer vent" is not a substitute for the run — it is only permitted as the transition.
+- **The transition duct is capped at 8 feet, must be a single length listed to UL 2158A, and cannot be concealed inside a wall** (M1502.4.3).
+- **Booster fans are prohibited** (M1502.4.5). If the run is too long, the fix is a shorter run or a listed duct power ventilator, not an inline fan.
+- **The outdoor termination needs a backdraft damper and must not have a screen** (M1502.3). A screen at the cap collects lint, and lint at the cap is how the whole run gets restricted.
+
+**How to check your own room before you rearrange it:** count the elbows between the dryer and the outside cap, multiply by the equivalent lengths above, add the straight runs, and compare to 35 feet. If you exceed it, the code requires a permanent label near the connection stating the actual equivalent length (M1502.4.7) — which tells you the installer knew, and that the appliance is working against a handicap you inherited.
+
+This is also why the dryer belongs on the outside wall if there is any choice at all. Every foot of straight run and every elbow you avoid buys back budget that you will otherwise spend on a longer monthly lint routine.
+
+---
+
+## Why Flow Beats Storage
 
 The room is organized around movement rather than around categories of objects. Every stage of the work has a designated landing place, so no stage's output ends up on a surface that belongs to another stage. That is what stops the pile from forming — not more storage, but fewer collisions.
 
 The secondary effect is that each stage becomes visible. When folding has a defined surface and the exit basket has a defined spot, a full basket reads as "unfinished work" instead of "normal." Visible flow is what makes the system self-maintaining.
 
-## What NOT to Do
+## Eight Habits That Rebuild the Pile
 
 | Mistake | Why it fails | Instead |
 |---|---|---|
@@ -176,7 +195,11 @@ The secondary effect is that each stage becomes visible. When folding has a defi
 | Storing backstock detergent in the room | Turns a work surface into a warehouse | One open bottle; backstock elsewhere |
 | Using the folding counter as a shelf | Folding moves to the bed and never returns | Nothing stored on the counter, no exceptions |
 | Stacking clean clothes on the dryer | Heat and vibration wrinkle them and they stay for days | A basket with a same-day exit rule |
-| Ignoring the dryer vent | Lint buildup is a fire risk, not just an efficiency loss | Vacuum the housing monthly, check the hose |
+| Ignoring the dryer vent | Lint buildup is a fire risk, not just an efficiency loss | Vacuum the housing monthly, check the duct length |
+
+## Sources
+
+- International Code Council, *2021 International Residential Code*, Chapter 15, Sections M1502.3, M1502.4.1, M1502.4.3, M1502.4.5, M1502.4.6.1, M1502.4.7 and Table M1502.4.6.1 — dryer exhaust duct limited to 35 feet developed length excluding the transition duct, with equivalent-length deductions of 5 feet per 4-inch radius mitered 90-degree elbow and 2 feet 6 inches per 45-degree elbow; 4-inch nominal metal duct of at least 0.0157 inch; transition duct limited to 8 feet and listed to UL 2158A; booster fans prohibited; termination requires a backdraft damper and no screen. <https://codes.iccsafe.org/content/IRC2021P2/chapter-15-exhaust-systems>
 
 ## Frequently Asked Questions
 
@@ -207,3 +230,7 @@ Give it a container with a capacity limit and a rule that it must leave the room
 **Is it worth putting a counter over the washer and dryer?**
 
 Yes, if the machines are front-loading and side by side. It creates pretreatment space, a landing zone for wet loads, and a folding surface in one move, and it costs less than a cabinet. Skip it with top-loaders, where the lid needs clearance, and skip it if the counter would be deeper than 27 inches, since you will not be able to reach the shelf above.
+
+**How long can a dryer vent run be?**
+
+35 feet of developed length, measured from the transition duct connection to the outdoor cap, and every fitting comes out of that budget: 5 feet per 4-inch radius 90-degree elbow, 2 feet 6 inches per 45-degree elbow. The flexible transition duct behind the machine is separate, capped at 8 feet, and does not count toward the 35. A run longer than the limit needs a permanent label stating its equivalent length.

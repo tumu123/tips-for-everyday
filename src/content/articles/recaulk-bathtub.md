@@ -10,7 +10,7 @@ secondaryKeywords:
 category: "Fix It"
 subcategory: "Home Repair"
 pubDate: 2026-10-15
-updatedDate: 2026-10-15
+updatedDate: 2026-11-14
 author: "Editorial Team"
 readingTime: 9
 featuredImageAlt: "New bead of silicone caulk being smoothed along a bathtub edge"
@@ -76,6 +76,10 @@ This matters more than people expect, because the wrong product fails quickly in
 | Paintable caulk | Only for trim outside the wet zone | Not for the tub-to-wall joint |
 
 **Choose 100% silicone for the tub.** It's harder to apply smoothly than acrylic, but it's the only common product that holds up to daily water exposure.
+
+**The tube tells you which standard it meets, and that is a better guide than the front label.** Elastomeric sealants are specified under **ASTM C920**, which classifies them by joint movement capability: Class 12.5, 25, 35, 50, and 100/50, where the number is the percentage of the joint width the cured bead can move in each direction. A tube marked C920 Class 25 is rated to stretch and compress by a quarter of the joint width; Class 50, by half.
+
+Latex and siliconized-acrylic sealants live under a **separate standard, ASTM C834**, which grades them by type and low-temperature flexibility and defines **no movement class at all**. So a tube marked only C834 makes no claim about accommodating movement — and a tub-to-wall joint is nothing but movement. Look for the C920 line printed on the tube, next to the type (S), grade (NS), and class.
 
 **Colour:** white and clear are standard. Clear works where the surrounding surfaces differ in colour; white matches white tubs and tile. Almond and grey are available for non-white fixtures.
 
@@ -157,7 +161,9 @@ Use a caulk smoothing tool, a spoon, or a gloved finger. Two methods work well:
 
 **Do not use the shower or bath until the caulk is water-ready.** Products differ, so read the tube. Running water over caulk that hasn't cured washes it out and ruins the job.
 
-**Ventilate well.** Silicone gives off acetic acid while curing — that vinegar smell is normal. Open a window and run the extractor fan.
+**Ventilate well.** Acid-cure silicone releases acetic acid as it cures — that vinegar smell is normal and it dissipates. Open a window and run the extractor fan.
+
+**But the smell is also a warning about the substrate.** Acetic acid attacks metal plating and is aggressive toward polished stone and concrete. Around chrome, brushed nickel, bronze fixtures, marble sills, or a stone surround, use a **neutral-cure** silicone instead: it crosslinks by releasing alcohol or an oxime rather than acid, so it bonds to porous and acid-sensitive materials without dulling them. Neutral-cure costs a few dollars more and is slightly slower to skin over, which is the whole trade. Read the tube back for "neutral" or "low odour"; if it smells of vinegar when you open it, it is acid-cure.
 
 ---
 
@@ -172,20 +178,20 @@ Use a caulk smoothing tool, a spoon, or a gloved finger. Two methods work well:
 | Bead is lumpy and uneven | Inconsistent gun speed or pressure | Remove and redo; tape the edges |
 | Won't cure | Product expired, or applied to a wet surface | Remove and redo with fresh product on a dry surface |
 
-The position of the stain narrows the source to a handful of suspects — [reading a water stain on a ceiling](/fix-it/home-repair/water-stain-on-ceiling/) covers that map, plus the order that stops it coming back.
+The position of the stain narrows the source to a handful of suspects. For the map from stain shape to source, and the order that stops it coming back, see [reading a water stain on a ceiling](/fix-it/home-repair/water-stain-on-ceiling/).
 
 ---
 
 ## Making It Last
 
-- **Run the extractor fan during and after every shower** — the biggest factor in preventing mildew
+- **Run the extractor fan during and after every shower** — the biggest factor in preventing mildew. The 2021 International Residential Code sets the minimum bathroom exhaust capacity at **50 cfm intermittent or 20 cfm continuous**, measured at 0.25 inch of static pressure (Table M1505.4.4). A fan that is quieter than a conversation is usually moving far less than 50 cfm, and a fan rated 50 cfm in a duct that is too long or too narrow is not delivering 50 cfm at the grille. Leave it running 20 minutes after the shower, not 30 seconds.
 - **Squeegee or wipe the tub surround** after use. Caulk that stays dry lasts dramatically longer
 - **Check the bead annually** and repair small sections before they become full failures
 - **Don't let shampoo or soap sit on the caulk line** — residue feeds mildew
 
 ---
 
-## Why This Works
+## Why Silicone Bonds Where Acrylic Pulls Away
 
 **Silicone bonds to clean substrate, not to itself.** Cured silicone has a low-energy surface that new silicone adheres to poorly. Any remaining film acts as a release layer, so the new bead lifts away as a continuous strip. Full removal isn't fussiness — it's the mechanism.
 
@@ -197,7 +203,7 @@ The position of the stain narrows the source to a handful of suspects — [readi
 
 ---
 
-## What NOT to Do
+## Eight Ways a Bead Fails Early
 
 | Mistake | What happens | Do this instead |
 |---|---|---|
@@ -212,6 +218,14 @@ The position of the stain narrows the source to a handful of suspects — [readi
 
 ---
 
+## Sources
+
+- ASTM International, *C920-18 Standard Specification for Elastomeric Joint Sealants* — sealants are classified as type S or M, grade P or NS, and class 100/50, 50, 35, 25, or 12.5, with the class expressing joint movement capability. <https://www.astm.org/c0920-18.html>
+- ASTM International, *C834-17 Standard Specification for Latex Sealants* — latex sealants are classified by type OP or C and grade −18°C, 0°C, or NF, with no movement class defined. <https://www.astm.org/c0834-17.html>
+- International Code Council, *2021 International Residential Code*, Chapter 15, Table M1505.4.4 — minimum local exhaust of 50 cfm intermittent or 20 cfm continuous for bathrooms, measured at 0.25 inch water column. <https://codes.iccsafe.org/content/IRC2021P2/chapter-15-exhaust-systems>
+
+---
+
 ## Frequently Asked Questions
 **Why fill the tub with water before caulking?**
 A tub sinks slightly under the weight of water. Caulking with it empty means the bead gets stretched the first time it's used and tears away.
@@ -223,7 +237,7 @@ Usually 24 hours, but check the specific product — formulations differ. Full c
 No. It won't bond. Remove the old bead completely, including the residue film, and wipe with alcohol before applying.
 
 **What type of caulk should I use?**
-100% silicone, mildew-resistant, bathroom grade. Acrylic latex is not suitable for constant water exposure.
+100% silicone, mildew-resistant, bathroom grade — and check for an ASTM C920 class rating on the tube. Acrylic latex is specified under ASTM C834 instead, which defines no joint movement capability at all, which is exactly the property a tub joint needs.
 
 **How do I get a straight bead?**
 Tape both edges of the joint with painter's tape, apply in one continuous motion, tool it, then remove the tape while still wet.
@@ -232,7 +246,7 @@ Tape both edges of the joint with painter's tape, apply in one continuous motion
 Usually persistent moisture and poor ventilation. Use a mildew-resistant product, run the extractor fan, and dry the surround after each use.
 
 **What's the vinegar smell?**
-Normal — silicone releases acetic acid as it cures. Ventilate well; it dissipates.
+Normal for acid-cure silicone — it releases acetic acid as it crosslinks. It dissipates with ventilation. If you are sealing against chrome, brushed nickel, marble, or any stone, switch to a neutral-cure silicone: acid is aggressive toward metal plating and polished stone.
 
 **Should I remove caulk between the tub and the floor?**
 Yes, and replace it if it has failed. That joint also keeps water out of the subfloor.
