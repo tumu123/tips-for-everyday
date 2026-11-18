@@ -1,12 +1,12 @@
 ---
-title: "How to Batch Cook Without Wasting Food (or a Whole Sunday)"
-description: "Batch cooking saves money through decision elimination and ingredient utilisation, not bulk discounts. Here is what freezes well, what does not, and how to plan portions that actually get eaten."
-primaryKeyword: "batch cooking save money"
+title: "Bulk Cooking on Sundays: How Batch Cooking Saves Money"
+description: "Bulk cooking saves money through decision elimination and ingredient utilisation, not bulk discounts. Here is what freezes well and how to plan portions that get eaten."
+primaryKeyword: "saving money by bulk cooking on sundays"
 secondaryKeywords:
+  - "batch cooking save money"
   - "meal prep for beginners"
   - "what freezes well batch cooking"
-  - "batch cooking mistakes"
-  - "freeze meals flat freezer bags"
+  - "bulk cooking on a budget"
   - "how much batch cooking saves"
 category: "Save Money"
 subcategory: "Groceries"

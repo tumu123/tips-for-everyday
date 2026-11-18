@@ -50,6 +50,8 @@ So the sequence is fixed, and the order matters. **Find the source, dry the asse
 
 **A stain with a defined edge and a tidemark** — a darker ring around the perimeter — has happened more than once. Each ring marks a separate wetting event. That's a repeating leak, not a one-off.
 
+If the stain rings a ceiling light fixture, check whether the fixture also moves in its plate — for that repair, see [how to fix a wobbly ceiling fixture](/fix-it/home-repair/fix-loose-ceiling-fixture/). Movement and staining have separate causes, and the sequence matters: trace the water first, then service the fixture.
+
 ---
 
 ## Step 2: The Ceiling Itself Tells You the Volume

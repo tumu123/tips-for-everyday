@@ -1,11 +1,11 @@
 ---
-title: "How to Quiet Squeaky Floors (Without Pulling Up Boards)"
-description: "Floor squeaks come from movement between wood, subfloor, and fasteners. Here is how to find the exact spot and fix it from above — through carpet, hardwood, or from below."
-primaryKeyword: "quiet squeaky floors"
+title: "How to Fix a Squeaky Floorboard (Without Pulling Up Boards)"
+description: "Squeaky floorboards come from movement between wood, subfloor, and fasteners. Here is how to fix a squeaky floor from above, through carpet or hardwood, or from below."
+primaryKeyword: "how to fix a squeaky floorboard"
 secondaryKeywords:
   - "how to fix squeaky hardwood floors"
+  - "how to fix squeaky hardwood floors from below"
   - "squeaky floor under carpet fix"
-  - "floor squeak repair from above"
   - "why do floors squeak"
 category: "Fix It"
 subcategory: "Home Repair"

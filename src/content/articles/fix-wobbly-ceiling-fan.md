@@ -152,7 +152,7 @@ If no blade adjustment helps, look at how the fan is attached.
 
 **If the box isn't fan-rated, or if it moves, stop using the fan.** Have an electrician install a proper fan brace — this typically goes up through the ceiling and braces between joists. It's not an expensive job and it removes a real hazard.
 
-**This is the most common problem in older homes**, where a fan has been fitted into an existing light-fixture box. Those boxes are rated for a few pounds of fixture, not for a moving fan.
+**This is the most common problem in older homes**, where a fan has been fitted into an existing light-fixture box. Those boxes are rated for a few pounds of fixture, not for a moving fan. A fixed fixture shares the same weak point — for a dome or flush mount that rocks in its plate, see [how to fix a wobbly ceiling fixture](/fix-it/home-repair/fix-loose-ceiling-fixture/).
 
 ---
 

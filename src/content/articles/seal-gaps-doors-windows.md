@@ -100,7 +100,7 @@ This is the most-skipped step and the most common cause of weatherstripping that
 6. **Do not compress the strip flat.** It should just touch when the door closes. Over-compression makes the door hard to latch and wears the strip quickly.
 7. **For foam,** leave it slightly proud so the door compresses it — but check the door still latches without slamming.
 
-**Fit also to the hinge side**, which is commonly missed. The hinge-side gap is often the largest one in the frame.
+**Fit also to the hinge side**, which is commonly missed. The hinge-side gap is often the largest one in the frame. If the door squeaks every time it swings while you are testing the fit, see [squeaky door hinge repair](/fix-it/home-repair/fix-squeaky-door-hinge/).
 
 ---
 
