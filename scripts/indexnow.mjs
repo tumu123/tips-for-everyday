@@ -19,7 +19,29 @@ if (!paths.length) {
   process.exit(1);
 }
 
-const urlList = paths.map((p) => `https://${HOST}${p.startsWith('/') ? p : `/${p}`}`);
+// Git Bash 会把以 / 开头的参数改写成 Windows 盘符路径（C:/.../Git/fix-it/...）。
+// 用 dist 顶层目录反推合法路由段，把参数截断到真正的路由起点。
+import fs from 'node:fs';
+const TOP = new Set(
+  fs.readdirSync('dist', { withFileTypes: true })
+    .filter((d) => d.isDirectory() && !d.name.startsWith('_'))
+    .map((d) => d.name)
+);
+
+function normalize(p) {
+  let s = p.replace(/\\/g, '/');
+  const m = s.match(/^https?:\/\/[^/]+(\/.*)$/);
+  if (m) s = m[1];
+  const segs = s.split('/').filter(Boolean);
+  const i = segs.findIndex((seg) => TOP.has(seg));
+  if (i === -1) {
+    console.error(`✗ 无法识别路由段: ${p}`);
+    process.exit(1);
+  }
+  return '/' + segs.slice(i).join('/') + (s.endsWith('/') ? '/' : '');
+}
+
+const urlList = paths.map((p) => `https://${HOST}${normalize(p)}`);
 
 const body = {
   host: HOST,
