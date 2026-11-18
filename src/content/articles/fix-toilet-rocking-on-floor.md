@@ -1,6 +1,6 @@
 ---
 title: "How to Fix a Toilet That Rocks on the Floor"
-description: "A rocking toilet is not cosmetic — the movement breaks the wax seal and lets water and sewer gas past. Here is how to find the actual cause and shim it correctly."
+description: "A rocking toilet destroys the wax seal and lets water and sewer gas past. Here is how to pull it, inspect the flange, and reset it level once and for all."
 primaryKeyword: "toilet rocks on floor"
 secondaryKeywords:
   - "how to shim a toilet"

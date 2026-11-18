@@ -1,6 +1,6 @@
 ---
 title: "Time-of-Use Electricity: Cheaper for Your House or Not?"
-description: "A TOU plan is a bet on your evening usage. The break-even is roughly a third of your kWh in the peak window. How to check your own hourly shape before switching."
+description: "Time-of-use pricing bets that you can shift enough usage out of peak hours. Here is the break-even line, how to get your own number, and who usually loses."
 primaryKeyword: "time of use electricity plan"
 secondaryKeywords:
   - "should I switch to time of use"

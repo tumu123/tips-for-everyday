@@ -1,6 +1,6 @@
 ---
 title: "How to Store Bananas, Avocados and Tomatoes"
-description: "These three ripen on ethylene gas, which means you can speed them up or slow them down on purpose. Here is how to control each, and why the fridge helps some and hurts others."
+description: "Bananas, avocados, and tomatoes ripen on ethylene gas they produce themselves. Here is how to slow one down, speed another up, and time the fridge right."
 primaryKeyword: "store bananas avocados"
 secondaryKeywords:
   - "how to ripen avocados faster"

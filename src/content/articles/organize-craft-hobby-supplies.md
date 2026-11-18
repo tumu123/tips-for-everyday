@@ -1,6 +1,6 @@
 ---
 title: "How to Organize Craft and Hobby Supplies"
-description: "Materials store neatly in boxes. Unfinished projects do not, which is why craft rooms fill up. Organize by project first, and keep only two or three active at once."
+description: "Craft supplies store easily; unfinished projects are what fill the room. Here is how to cap projects in boxes and store yarn, fabric, paint, and paper."
 primaryKeyword: "how to organize craft supplies"
 secondaryKeywords:
   - "craft room storage ideas"

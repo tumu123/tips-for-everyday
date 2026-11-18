@@ -1,6 +1,6 @@
 ---
 title: "Cockroaches in an Apartment: Why Spraying Makes It Worse"
-description: "German cockroaches scatter when you spray them, and in a shared building your unit is only part of the problem. Here is the bait method that actually works and what to ask your landlord."
+description: "German cockroaches scatter when sprayed, and in a shared building your unit is only part of it. Here is how to identify, monitor, bait, and seal routes."
 primaryKeyword: "cockroaches in apartment"
 secondaryKeywords:
   - "how to get rid of german cockroaches"

@@ -1,6 +1,6 @@
 ---
 title: "How to Protect Outdoor Furniture in Summer"
-description: "Sun, rain, and humidity destroy outdoor furniture differently depending on the material. Here is what each type needs — and what actually causes most summer damage."
+description: "Outdoor furniture fails when UV breaks the finish and moisture works in. Here is how to treat each material, handle the cushions, and cover it correctly."
 primaryKeyword: "protect outdoor furniture"
 secondaryKeywords:
   - "how to protect patio furniture from sun"

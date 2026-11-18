@@ -1,6 +1,6 @@
 ---
 title: "How to Do a Home Energy Audit Yourself"
-description: "You can find most of your home's energy waste from your own utility bills and a two-hour walkthrough. Here is the sequence, ranked by what it typically saves."
+description: "Generic energy checklists are not ranked and not derived from your bills. Here is how to read usage first, price each load, and hunt standby draw properly."
 primaryKeyword: "diy home energy audit"
 secondaryKeywords:
   - "home energy audit checklist"

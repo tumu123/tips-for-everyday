@@ -1,6 +1,6 @@
 ---
 title: "How to Store Onions, Potatoes and Garlic So They Last Months"
-description: "Onions, potatoes and garlic look like they belong together, but each one spoils for a different reason. Store them apart, in the right dark, dry, cool spot, and they last months."
+description: "Onions, potatoes, and garlic look like they belong together but spoil for different reasons. Here is how to store each one, and why a shared basket fails."
 primaryKeyword: "store onions potatoes garlic"
 secondaryKeywords:
   - "should onions and potatoes be stored together"

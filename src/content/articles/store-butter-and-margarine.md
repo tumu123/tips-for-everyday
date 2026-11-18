@@ -1,6 +1,6 @@
 ---
 title: "How to Store Butter (Fridge vs Counter vs Freezer)"
-description: "Salted, unsalted and cultured butter each have a different clock, and margarine is a different product entirely. Where each one belongs, how long it keeps, and when the counter is safe."
+description: "Salted, unsalted, and cultured butter each have a different clock, and margarine is another product. Here is how to store, freeze, and clarify each one."
 primaryKeyword: "how to store butter"
 secondaryKeywords:
   - "can you leave butter out at room temperature"

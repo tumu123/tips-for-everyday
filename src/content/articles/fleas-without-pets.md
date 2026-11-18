@@ -1,6 +1,6 @@
 ---
 title: "Fleas in a House With No Pets: Where They Come From and Why They Keep Hatching"
-description: "A house with no cat or dog can still have fleas, and the reason is almost never a new arrival. The pupa in its cocoon waits for vibration — which is you, coming home."
+description: "A house with no pets can still have fleas, usually from a previous tenant or a crawlspace animal. Here is how to find the source and break the cycle fast."
 primaryKeyword: "fleas in house no pets"
 secondaryKeywords:
   - "why do i have fleas without pets"

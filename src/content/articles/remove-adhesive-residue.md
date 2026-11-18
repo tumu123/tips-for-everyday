@@ -1,6 +1,6 @@
 ---
 title: "How to Remove Adhesive Residue from Any Surface"
-description: "Sticky residue from labels, tape, and stickers comes off with the right solvent for each surface. Here is the matching table and the method that avoids damage."
+description: "Label glue, packing tape, and foam tape need different solvents, and the wrong one damages the surface. Here is how to match each solvent to its surface."
 primaryKeyword: "remove sticky residue"
 secondaryKeywords:
   - "how to remove adhesive residue"

@@ -1,6 +1,6 @@
 ---
 title: "Rat or Mouse? How to Read the Droppings Before You Set Anything"
-description: "Length and shape settle the species, and the species decides the trap, the gap size, and the urgency. A ruler and a pair of gloves will answer more than a spray."
+description: "Droppings settle the species, which decides the trap, the gap size, and the urgency. Here is the one measurement that matters, plus the common impostors."
 primaryKeyword: "rat droppings vs mouse droppings"
 secondaryKeywords:
   - "how to identify rodent droppings"

@@ -1,6 +1,6 @@
 ---
 title: "How to Organize a Medicine Cabinet Safely"
-description: "The bathroom is the worst room in the house for medicine: hot, humid, and reachable by children. Safety constraints come before tidiness, and they change the layout."
+description: "The bathroom is the worst place in the house for medicine: hot, humid, child-height. Here is how to store it locked, grouped, and reviewed twice a year."
 primaryKeyword: "how to organize a medicine cabinet"
 secondaryKeywords:
   - "where should you store medicine"

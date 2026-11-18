@@ -1,6 +1,6 @@
 ---
 title: "How to Remove Hard Water Rings From a Toilet Bowl"
-description: "Scale and urine stone are different deposits needing opposite chemistry, and the glaze scratches permanently. Here is how to tell them apart and remove each without dulling the bowl."
+description: "Scale and urine stone need opposite chemistry, and abrasion scratches the glaze for good. Here is how to identify which ring you have and dissolve it."
 primaryKeyword: "remove hard water ring toilet"
 secondaryKeywords:
   - "toilet bowl ring won't come off"

@@ -1,6 +1,6 @@
 ---
 title: "Bulk Cooking on Sundays: How Batch Cooking Saves Money"
-description: "Bulk cooking saves money through decision elimination and ingredient utilisation, not bulk discounts. Here is what freezes well and how to plan portions that get eaten."
+description: "Bulk cooking on a Sunday saves money through fewer decisions and less waste, not discounts. Here is how to plan portions and freeze so nothing is lost."
 primaryKeyword: "saving money by bulk cooking on sundays"
 secondaryKeywords:
   - "batch cooking save money"

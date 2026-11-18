@@ -123,7 +123,7 @@ export const CATEGORIES = {
   'pest-control': {
     title: 'Pest Control',
     description:
-      'Identify what is living in your house and stop it without a fogger or a service contract. Species first, then the source, then the method — including when to call someone.',
+      'Identify what is living in your house and stop it without a fogger or a service contract. Species first, then the source, then the method, then the call.',
     subcategories: ['Insects', 'Rodents'],
   },
   seasonal: {
@@ -188,7 +188,7 @@ export const SUBCATEGORY_DESCRIPTIONS: Record<string, string> = {
   Maintenance:
     'Seasonal and annual maintenance that prevents expensive repairs — home checklists, frozen pipe prevention, and water heater care.',
   Plumbing:
-    'Diagnose and fix common plumbing problems yourself — running toilets, leaks, and clogs — without a service call.',
+    'Diagnose and fix the common plumbing failures yourself — running toilets, dripping valves, slow drains, and leaks — before you pay for a service call.',
   // Pest Control
   Insects:
     'Identify the bug before you treat it — fruit flies, ants, silverfish, spiders, and pantry moths — with the breeding site that keeps them coming back.',

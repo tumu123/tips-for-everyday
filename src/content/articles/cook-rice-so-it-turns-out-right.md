@@ -1,6 +1,6 @@
 ---
 title: "How to Cook Rice So It Turns Out Right Every Time"
-description: "Rice fails for three reasons: the wrong water ratio for that particular grain, lifting the lid, and skipping the rest. Here is the sequence that works, plus how to rescue a batch."
+description: "Rice fails on water ratio for that grain, a lifted lid, or no rest after heat. Here is how to match water, rinse, soak, and rest before you open the pot."
 primaryKeyword: "how to cook rice"
 secondaryKeywords:
   - "rice to water ratio"

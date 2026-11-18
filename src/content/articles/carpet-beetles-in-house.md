@@ -1,6 +1,6 @@
 ---
 title: "Carpet Beetles: The Larvae Do the Damage, Not the Beetle"
-description: "Those small mottled beetles on the windowsill are harmless. The larvae in the dust under the furniture are not. Here is how to confirm which one you actually have."
+description: "The mottled beetles on the windowsill are harmless; the larvae in dust are not. Here is how to confirm larvae, inspect five reservoirs, and steam first."
 primaryKeyword: "carpet beetles in house"
 secondaryKeywords:
   - "carpet beetle larvae in carpet"

@@ -1,6 +1,6 @@
 ---
 title: "Why Your Washer Won't Spin (or Walks Across the Floor)"
-description: "A washer that won't spin and one that dances across the laundry room often share the same cause. Here is how to tell load imbalance from suspension failure."
+description: "A washer that will not spin is usually refusing rather than broken. Here is how to separate the symptoms, balance the load, and check the lid switch first."
 primaryKeyword: "washing machine won't spin"
 secondaryKeywords:
   - "washer walking across floor"

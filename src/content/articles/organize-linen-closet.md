@@ -1,6 +1,6 @@
 ---
 title: "How to Organize a Linen Closet So Sheets Stay Matched"
-description: "Linens are stored as sets, not pieces, and their volume changes with how you fold them. A workable linen closet is built around three sets per bed and shallow shelves."
+description: "A linen closet fails the moment you cannot find a matching set. Here is how to purge by set, measure the depth, and fold so the stack stays a proper stack."
 primaryKeyword: "how to organize a linen closet"
 secondaryKeywords:
   - "linen closet organization ideas"

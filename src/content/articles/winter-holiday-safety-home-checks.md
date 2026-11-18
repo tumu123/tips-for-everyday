@@ -1,6 +1,6 @@
 ---
 title: "Holiday Safety Checks: Lights, Trees, Candles, Heaters"
-description: "December stacks four fire risks into one room: strings of lights, a drying tree, open candles, and a space heater. Each has a specific failure and a specific fix."
+description: "December stacks four ignition sources into one room: light strands, a drying tree, candles, and a heater. Here is how to site, test, and load each safely."
 primaryKeyword: "holiday home safety checks"
 secondaryKeywords:
   - "christmas tree fire safety"

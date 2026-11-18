@@ -1,6 +1,6 @@
 ---
 title: "Buying Refurbished Appliances: What the Warranty Covers"
-description: "Four different products get sold as refurbished, and the warranty is where they differ. What is covered, what is excluded, and the discount that makes it worth the risk."
+description: "Refurbished covers four different products with four different warranties. Here is how to tell which one you are buying before the discount convinces you."
 primaryKeyword: "refurbished appliances"
 secondaryKeywords:
   - "refurbished appliance warranty"

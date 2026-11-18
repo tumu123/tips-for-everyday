@@ -1,6 +1,6 @@
 ---
 title: "LED vs Incandescent: The Real Payback With the Numbers"
-description: "LED bulbs usually pay for themselves in one to two years — but only in the fixtures you actually use. Here is the calculation, including the cases where it's not worth it."
+description: "LED bulbs pay back in twelve to twenty-four months in fixtures used three hours a day. In a closet, payback runs past ten years. Here is the math for both."
 primaryKeyword: "LED vs incandescent cost"
 secondaryKeywords:
   - "how much do LED bulbs save"

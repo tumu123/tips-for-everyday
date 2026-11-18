@@ -1,6 +1,6 @@
 ---
 title: "What Temperature Should Your Water Heater Be Set To?"
-description: "The standard 120°F advice is a compromise between scald risk, bacterial growth, and energy cost. Here is the tradeoff, and why a mixing valve lets you stop compromising."
+description: "The 120°F advice is a compromise between scald risk, bacteria, and energy cost. Here is what is being traded away, and how to store hot and deliver warm."
 primaryKeyword: "water heater temperature setting"
 secondaryKeywords:
   - "best water heater temperature"

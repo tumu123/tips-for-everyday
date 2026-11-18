@@ -1,6 +1,6 @@
 ---
 title: "How to Clean an Oven Without the Self-Clean Cycle"
-description: "Self-clean runs the cavity to around 500°F, which is hard on door latches, electronics and nearby cabinets. Here are the manual methods ranked by what they actually dissolve."
+description: "Self-clean runs the cavity past 800°F, which is hard on latches, electronics, and cabinets. Here are the baking soda, steam, and caustic methods, ranked."
 primaryKeyword: "clean oven without self clean"
 secondaryKeywords:
   - "how to clean oven with baking soda"

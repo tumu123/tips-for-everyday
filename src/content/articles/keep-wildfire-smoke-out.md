@@ -1,6 +1,6 @@
 ---
 title: "How to Keep Wildfire Smoke Out of Your House"
-description: "Smoke particles are small enough to pass through a closed window gap and a cheap filter. Sealing, recirculation, and one clean room do more than a house full of purifiers."
+description: "Wildfire smoke runs 0.1 to 1 micron, small enough to pass a closed window gap. Here is how to seal the house, recirculate, and size a purifier by CADR."
 primaryKeyword: "how to keep wildfire smoke out of house"
 secondaryKeywords:
   - "smoke inside house air quality"
