@@ -1,0 +1,65 @@
+# 在美国节点跑 AdSense 广告诊断（GitHub Actions）
+#
+# runner 是 GitHub 的 Azure us-east 机房，出口在美国。
+# 在 Actions 页面点 "Run workflow"、分支选 source 即可；
+# 第一行会打印出口 IP，用来证明跑在哪里。
+#
+# 注意：必须检出 source 分支——scripts/ 和 ad-check.mjs 只在源码分支上。
+
+name: ad-check-us
+
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: '空格分隔的页面列表'
+        required: false
+        default: >-
+          https://tips-for-everyday.com/fix-it/appliances/refrigerator-not-cold-freezer-fine/
+          https://tips-for-everyday.com/fix-it/appliances/dishwasher-leaves-water-in-bottom/
+          https://tips-for-everyday.com/kitchen-tips/equipment/
+          https://tips-for-everyday.com/
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: source
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: 出口位置
+        run: |
+          echo "::group::ipinfo"
+          curl -s https://ipinfo.io/json || true
+          echo "::endgroup::"
+
+      - name: 安装 playwright 与 chromium
+        run: |
+          npm i --no-save playwright
+          npx playwright install --with-deps chromium
+
+      - name: 逐个页面诊断
+        run: |
+          set -o pipefail
+          for u in ${{ inputs.urls }}; do
+            echo ""
+            echo "########## $u ##########"
+            node scripts/ad-check.mjs "$u" 2>&1 | tee -a result.txt
+          done
+
+      - name: 写入摘要
+        if: always()
+        run: |
+          {
+            echo "## 美国节点广告诊断"
+            echo ""
+            echo '```'
+            cat result.txt 2>/dev/null || echo '(无输出)'
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
