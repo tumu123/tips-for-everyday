@@ -1,6 +1,6 @@
 ---
 title: "How to Return to Routine After the Holidays"
-description: "Post-holiday recovery is mostly about resetting four things: sleep, clutter, food, and spending. Here is the order that makes it stick."
+description: "The week after the holidays is hard for structural reasons: sleep, house, food, and spending all shift at once. Reset them in that order, one at a time."
 primaryKeyword: "return to routine after holidays"
 secondaryKeywords:
   - "how to get back to routine after christmas"

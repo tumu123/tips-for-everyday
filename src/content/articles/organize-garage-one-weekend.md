@@ -1,6 +1,6 @@
 ---
 title: "How to Organize a Garage in One Weekend"
-description: "A garage is a zoning problem, not a storage problem. Here is the two-day plan that gets a car back inside and everything off the floor."
+description: "A garage fails from missing zones, not missing shelves. Empty and sort on day one, build wall and ceiling storage on day two, and get the car back in."
 primaryKeyword: "organize garage"
 secondaryKeywords:
   - "garage organization weekend"

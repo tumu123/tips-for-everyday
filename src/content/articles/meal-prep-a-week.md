@@ -1,6 +1,6 @@
 ---
 title: "How to Meal Prep a Week Without Eating the Same Thing"
-description: "Prepping five identical boxes is why meal prep fails by Thursday. Prep components instead, and ten meals come out of two and a half hours."
+description: "Five identical boxes are why meal prep dies by Thursday. Prep components instead — proteins, grains, versatile vegetables — and build ten different meals."
 primaryKeyword: "how to meal prep for the week"
 secondaryKeywords:
   - "meal prep without eating the same thing"

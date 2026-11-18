@@ -1,6 +1,6 @@
 ---
 title: "How to Fix a Garbage Disposal That Leaks"
-description: "A disposal leaks from one of three places, and each one needs a different repair. Here is how to find the source before you buy anything."
+description: "A disposal can leak from the top flange or either side connection, and each takes a different repair. Find the exact source before you buy a single part."
 primaryKeyword: "garbage disposal leaking"
 secondaryKeywords:
   - "disposal leaking from bottom"

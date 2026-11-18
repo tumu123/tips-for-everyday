@@ -1,6 +1,6 @@
 ---
 title: "How to Clean Grout and Keep It White Longer"
-description: "Grout is porous cement, so stains go inside it. Here is the oxygen bleach method that lifts them, plus how to seal grout so it stays white."
+description: "Grout is porous cement, so stains sink into it instead of sitting on top. Oxygen bleach lifts them out, and sealing after keeps them from coming back."
 primaryKeyword: "clean grout"
 secondaryKeywords:
   - "how to clean grout lines"

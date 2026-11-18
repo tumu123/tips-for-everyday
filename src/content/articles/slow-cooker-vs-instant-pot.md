@@ -1,6 +1,6 @@
 ---
 title: "Slow Cooker vs Instant Pot: Which One You'll Actually Use"
-description: "The choice is not about features. It is about what time of day you start cooking, and whether you will be there when it finishes."
+description: "The choice is a schedule question, not a feature list: when you start cooking, and whether you are home when it finishes. Three simple questions decide it."
 primaryKeyword: "slow cooker vs instant pot"
 secondaryKeywords:
   - "which is better slow cooker or pressure cooker"

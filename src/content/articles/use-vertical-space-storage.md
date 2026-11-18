@@ -1,6 +1,6 @@
 ---
 title: "How to Use Vertical Space for Storage in Small Homes"
-description: "Vertical storage is not about going higher. It is about matching height to retrieval cost, and accepting that the top shelf needs a stool."
+description: "Vertical storage works by matching height to retrieval cost: prime band at eye level, high band for rare items, and a step stool for anything above that."
 primaryKeyword: "vertical storage small home"
 secondaryKeywords:
   - "vertical storage ideas"

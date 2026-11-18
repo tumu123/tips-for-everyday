@@ -1,6 +1,6 @@
 ---
 title: "How to Remove Ink Stains from Fabric"
-description: "Ink is not one stain. Ballpoint, gel, and fountain pen ink need different solvents — here is how to tell them apart and treat each one."
+description: "Ballpoint, gel, and fountain pen inks need different solvents, and the wrong one sets the stain permanently. Identify the ink, blot, treat, then launder."
 primaryKeyword: "remove ink stains"
 secondaryKeywords:
   - "how to get pen ink out of clothes"

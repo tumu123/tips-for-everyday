@@ -1,6 +1,6 @@
 ---
 title: "How to Set Up a Functional Home Office in a Corner"
-description: "A corner desk fails on depth, not on square footage. Here is how to size it, light it, and make it disappear when the workday ends."
+description: "A corner desk fails on depth, not on floor space. Size the desk to the corner, light it from the window side, and make it vanish when the workday ends."
 primaryKeyword: "corner home office setup"
 secondaryKeywords:
   - "small home office ideas"

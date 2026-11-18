@@ -1,6 +1,6 @@
 ---
 title: "How to Clean Carpet Without Renting a Machine"
-description: "Rental extractors fail for one reason: too much water left in the pad. Here is the low-moisture method that dries in hours instead of days."
+description: "Rental extractors fail by leaving too much water in the pad. The low-moisture method dries in hours instead of days, and skips the $40 rental entirely."
 primaryKeyword: "how to clean carpet without a machine"
 secondaryKeywords:
   - "clean carpet without renting a machine"

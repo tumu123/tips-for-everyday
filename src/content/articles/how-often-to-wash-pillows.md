@@ -1,6 +1,6 @@
 ---
 title: "How Often to Wash Pillows (and How to Do It)"
-description: "A pillow gains about 10% of its weight in two years. The filling decides the method — and memory foam should never go near water."
+description: "A two-year-old pillow weighs about ten percent more than new, from sweat, skin cells, and dust mites. Frequency depends on the filling; foam never soaks."
 primaryKeyword: "how often to wash pillows"
 secondaryKeywords:
   - "can you wash pillows in the washing machine"

@@ -1,6 +1,6 @@
 ---
 title: "How to Replace a Shower Head"
-description: "Two different thread types are involved, and mixing them up is why new shower heads leak. Here is the correct prep for each."
+description: "Two thread types meet at the shower arm, and mixing them up is what causes the drip. Clean the old threads, tape the right direction, and hand-tighten."
 primaryKeyword: "replace shower head"
 secondaryKeywords:
   - "how to install a shower head"

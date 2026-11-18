@@ -1,6 +1,6 @@
 ---
 title: "How to Clean a Coffee Maker That Makes Bad Coffee"
-description: "Bad coffee usually isn't scale — it's rancid oil, old grounds, or a wet machine. Here is how to identify which, and what to do about each."
+description: "Bad coffee usually isn't scale — it is rancid oils, old grounds, or a machine that never dries out. Diagnose the flavor first, then clean the right part."
 primaryKeyword: "clean coffee maker"
 secondaryKeywords:
   - "why does my coffee taste bitter"

@@ -1,6 +1,6 @@
 ---
 title: "How to Fix a Clogged Shower Drain"
-description: "A shower clog is hair bound with soap scum, not grease. That is why drain cleaner rarely works and a plastic strip usually does."
+description: "A shower clog is hair bound with soap scum, which is the reason chemical drain cleaner fails and a barbed plastic strip usually pulls the whole clog out."
 primaryKeyword: "unclog shower drain"
 secondaryKeywords:
   - "shower drain clogged with hair"

@@ -1,6 +1,6 @@
 ---
 title: "How to Remove Hard Water Buildup From Faucets and Showerheads"
-description: "Scrubbing at calcium does not work. Soaking it does. Here are the acid strengths, the dwell times, and the finish that cannot be saved."
+description: "Scrubbing calcium never works; soaking it does. The right acid and dwell times, the aerator trick, and the finishes that must never touch vinegar at all."
 primaryKeyword: "how to remove hard water buildup"
 secondaryKeywords:
   - "remove hard water from showerhead"

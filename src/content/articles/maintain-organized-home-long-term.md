@@ -1,6 +1,6 @@
 ---
 title: "How to Maintain an Organized Home Long-Term"
-description: "Organization does not fail from lack of discipline. It fails when maintenance costs more than the mess. Here is how to lower the cost."
+description: "Organization fails when maintenance costs more than the mess. Cut volume, move each home to the point of use, and treat capacity as a limit, not a target."
 primaryKeyword: "stay organized home"
 secondaryKeywords:
   - "keep house organized long term"

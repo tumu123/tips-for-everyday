@@ -1,6 +1,6 @@
 ---
 title: "Cheap Ways to Insulate Windows and Doors for Winter"
-description: "Most winter heat loss is air leakage, not conduction. Here is how to find the leaks first, then seal them for very little money."
+description: "Winter heat loss is mostly air leakage, not glass conduction. Find and seal the leaks first, then add film — in that order, and for very little money."
 primaryKeyword: "cheap window insulation"
 secondaryKeywords:
   - "insulate windows for winter"

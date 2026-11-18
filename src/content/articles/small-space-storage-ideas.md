@@ -1,6 +1,6 @@
 ---
 title: "Small Space Storage Ideas That Actually Work"
-description: "Small homes are short on floor area, not on volume. Here are the four places storage actually comes from, ranked by how much they return."
+description: "Small homes are short on used volume, not floor area. The four places storage comes from — walls, doors, above furniture, and under it — ranked by return."
 primaryKeyword: "small space storage"
 secondaryKeywords:
   - "small apartment storage ideas"

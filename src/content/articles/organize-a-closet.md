@@ -1,6 +1,6 @@
 ---
 title: "How to Organize a Closet You Never Want to Reorganize"
-description: "Most closets fail because they mix seasonal, daily, and rarely used items on the same rod. Here is the zone system that holds up for years."
+description: "Most closets fail by mixing seasonal, daily, and rarely worn items on one rod. Zone by frequency, fix the hangers, and claim the vertical space above."
 primaryKeyword: "how to organize a closet"
 secondaryKeywords:
   - "closet organization system"

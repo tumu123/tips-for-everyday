@@ -1,6 +1,6 @@
 ---
 title: "How to Organize Your Fridge for Less Food Waste"
-description: "Your fridge has temperature zones, and the crisper humidity settings almost nobody adjusts control where each item should actually go."
+description: "Most fridges are organized by shape, which is why produce rots in the crisper. Learn the real temperature zones, humidity settings, and ethylene pairings."
 primaryKeyword: "organize fridge"
 secondaryKeywords:
   - "fridge temperature zones"

@@ -1,6 +1,6 @@
 ---
 title: "Household Items Worth Reusing (and the Ones That Aren't)"
-description: "Some reuse ideas genuinely save money. Others are internet folklore that wastes your time. Here is the honest split, organized by material."
+description: "About half of internet reuse advice works; the other half grows mold in a closet. The honest split by material, from glass jars down to plastic bottles."
 primaryKeyword: "reuse household items"
 secondaryKeywords:
   - "what to reuse at home"

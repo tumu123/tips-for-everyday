@@ -1,6 +1,6 @@
 ---
 title: "Which Kitchen Gadgets Earn Their Drawer Space"
-description: "Purchase price is the smallest cost. Counter space and minutes of washing per use decide which gadgets survive the first year."
+description: "The price tag is the smallest cost of a kitchen gadget. Counter space and washing minutes per use decide which ones earn their drawer and which never do."
 primaryKeyword: "kitchen gadgets worth buying"
 secondaryKeywords:
   - "useless kitchen gadgets"

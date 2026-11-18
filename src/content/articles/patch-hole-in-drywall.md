@@ -1,6 +1,6 @@
 ---
 title: "How to Patch a Hole in Drywall (Two Sizes of Repair)"
-description: "Small holes and large holes need completely different methods. Here is how to patch either one so the repair disappears under paint."
+description: "Small, medium, and large drywall holes need three different repairs. Pick the right method by hole size, then sand, prime, and match texture invisibly."
 primaryKeyword: "how to patch drywall"
 secondaryKeywords:
   - "drywall repair small hole"

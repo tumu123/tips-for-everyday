@@ -1,6 +1,6 @@
 ---
 title: "How to Tell If Food Has Gone Bad (Without Guessing)"
-description: "The smell test, the mold rule, and the specific signs that mean discard. A practical guide to judging food safety without relying on dates."
+description: "The date on the package is an estimate; your senses are evidence. Four checks to run in order, the mold rule, and the foods where inspection is not enough."
 primaryKeyword: "how to tell if food is bad"
 secondaryKeywords:
   - "food spoilage signs"

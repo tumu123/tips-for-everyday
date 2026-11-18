@@ -1,6 +1,6 @@
 ---
 title: "How to Stop Reusable Bags From Taking Over"
-description: "Reusable bags arrive free and never leave. One hook, a hard cap of six, and a fold that compresses ten bags into one is the whole solution."
+description: "Reusable bags arrive free and never leave. Set a hard cap, fold flat instead of stuffing, and store them where you leave the house, not where you shop."
 primaryKeyword: "how to store reusable bags"
 secondaryKeywords:
   - "how many reusable bags do you need"

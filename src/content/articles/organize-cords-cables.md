@@ -1,6 +1,6 @@
 ---
 title: "How to Organize Cords and Cables at Home"
-description: "The hard part is not coiling cables. It is knowing which cable goes with which device, and not damaging them while storing them."
+description: "An organized pile of unlabeled cables is functionally identical to a mess. Label before unplugging, sort into three piles, coil loosely, then route them."
 primaryKeyword: "organize cables home"
 secondaryKeywords:
   - "cord organization ideas"

@@ -1,6 +1,6 @@
 ---
 title: "How to Stop a Door from Slamming"
-description: "First find out whether the door moves on its own. A door that swings by itself is a level problem, and no doorstop will fix it properly."
+description: "Two different problems get called a slamming door, and a stopper fixes only one of them. Check hinges and level first, then a bumper, stop, or closer."
 primaryKeyword: "stop door slamming"
 secondaryKeywords:
   - "door slams shut by itself"

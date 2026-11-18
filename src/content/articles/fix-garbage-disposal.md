@@ -1,6 +1,6 @@
 ---
 title: "How to Fix a Garbage Disposal That Won't Run"
-description: "Most disposal failures are a tripped overload or a jammed impeller. Both are fixable in minutes — but never with your hand in the unit."
+description: "Most failures are a tripped overload or a jammed impeller, both fixable in minutes with the reset button and a pair of tongs — never with a hand inside."
 primaryKeyword: "garbage disposal not working"
 secondaryKeywords:
   - "garbage disposal reset button"

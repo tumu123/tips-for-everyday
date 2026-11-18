@@ -1,6 +1,6 @@
 ---
 title: "How to Store Food So You Stop Throwing It Away"
-description: "The average household throws away a quarter of the food it buys. These storage rules are what actually change that number."
+description: "Food waste is mostly a storage problem, not a discipline problem. Fix the fridge zones, store produce the way it wants, and run a weekly eat-first meal."
 primaryKeyword: "store food to reduce waste"
 secondaryKeywords:
   - "how to make food last longer"

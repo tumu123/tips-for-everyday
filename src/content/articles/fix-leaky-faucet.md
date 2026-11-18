@@ -1,6 +1,6 @@
 ---
 title: "How to Fix a Leaky Faucet: Identify Your Type First"
-description: "The old advice to replace the washer only applies to one faucet design. Here is how to tell which type you have, and what each one needs."
+description: "Just replace the washer only fits compression taps. Identify your design — cartridge, ball, ceramic disc, or compression — then make the right repair."
 primaryKeyword: "fix leaky faucet"
 secondaryKeywords:
   - "how to stop a dripping tap"

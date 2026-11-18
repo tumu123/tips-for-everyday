@@ -1,6 +1,6 @@
 ---
 title: "How to Organize Under the Sink (and Keep It That Way)"
-description: "Under-sink cabinets are dark, damp, and full of pipes. Here is the system that uses the space properly and keeps cleaning supplies visible."
+description: "Under-sink cabinets fight back with pipes, poor light, and damp. A two-tier sliding drawer, door hooks, and a lined floor make the worst space usable."
 primaryKeyword: "organize under sink"
 secondaryKeywords:
   - "under sink storage ideas"

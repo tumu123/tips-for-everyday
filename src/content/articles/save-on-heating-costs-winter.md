@@ -1,6 +1,6 @@
 ---
 title: "How to Save on Heating Costs This Winter"
-description: "Heating is usually the largest energy line in a winter home. Here is where the loss actually happens, ranked by how much each fix returns."
+description: "Heating is the largest energy line in a cold-climate home. Where the heat actually escapes, and a ranked list of fixes ordered by what each one returns."
 primaryKeyword: "save on heating costs"
 secondaryKeywords:
   - "lower heating bill winter"

@@ -1,6 +1,6 @@
 ---
 title: "Why Your Dishwasher Leaves Water in the Bottom"
-description: "A little water is designed in. A puddle is not. Here is how to tell them apart, and the four places a standing pool actually comes from."
+description: "A little standing water is by design; a real puddle is not. How to tell them apart, and trace the pool to the filter, pump, drain hose, or check valve."
 primaryKeyword: "dishwasher not draining"
 secondaryKeywords:
   - "water in bottom of dishwasher"

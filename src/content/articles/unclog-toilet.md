@@ -1,6 +1,6 @@
 ---
 title: "How to Unclog a Toilet Without Making It Worse"
-description: "Shut off the water first, then use the right plunger the right way. Here is the sequence, including what never to put in a toilet."
+description: "Stop the water before you plunge — the step everyone skips. Then flange plunger technique, hot water and dish soap, and a toilet auger if it is needed."
 primaryKeyword: "how to unclog a toilet"
 secondaryKeywords:
   - "toilet plunger technique"

@@ -1,6 +1,6 @@
 ---
 title: "How Long Food Actually Lasts: The Shelf Life Guide"
-description: "Expiration dates are not safety dates. Here are the real fridge, freezer, and pantry windows for the foods people throw away too early."
+description: "Expiration dates are quality estimates, not safety deadlines. The real fridge, freezer, and pantry windows for the foods people throw away far too early."
 primaryKeyword: "how long food lasts"
 secondaryKeywords:
   - "food shelf life chart"

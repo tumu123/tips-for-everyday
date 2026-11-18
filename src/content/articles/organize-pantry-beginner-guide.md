@@ -1,6 +1,6 @@
 ---
 title: "How to Organize a Pantry When You Have No Pantry"
-description: "If your food storage is spread across three cabinets and a hallway shelf, this is the zone system that turns it into a working pantry."
+description: "A pantry is a system, not a room. Five zones, backstock moved out of the kitchen, vertical storage, and decanting only what is genuinely worth decanting."
 primaryKeyword: "organize pantry without pantry"
 secondaryKeywords:
   - "small kitchen food storage"

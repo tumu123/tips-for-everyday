@@ -1,6 +1,6 @@
 ---
 title: "Air Dry vs Dryer: What Actually Costs Less"
-description: "A real cost comparison of line drying versus machine drying, including the energy, the wear on clothes, and the time it genuinely takes."
+description: "Line drying saves real money, though less than most estimates claim — the bigger win is that clothes wear out more slowly. Here is the honest full math."
 primaryKeyword: "air dry vs dryer cost"
 secondaryKeywords:
   - "does line drying save money"
