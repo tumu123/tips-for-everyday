@@ -30,3 +30,6 @@ https://www.tips-for-everyday.com/* https://tips-for-everyday.com/:splat 301
 /kitchen-tips https://tips-for-everyday.com/kitchen-tips/ 301
 /fix-it https://tips-for-everyday.com/fix-it/ 301
 /seasonal https://tips-for-everyday.com/seasonal/ 301
+
+# 常见 sitemap 探测路径（Bingbot 直接试 /sitemap.xml）
+/sitemap.xml  /sitemap-index.xml  301

@@ -1,6 +1,6 @@
 ---
 title: "How to Fix Scratches in Hardwood Floors"
-description: "Floor scratch repair depends on whether your finish is a surface film or a penetrating oil. Here is how to tell, and what each finish allows."
+description: "Floor scratch repair depends on whether the finish is a surface film or a penetrating oil. Here is how to tell, and what each finish allows you to repair."
 primaryKeyword: "fix hardwood floor scratches"
 secondaryKeywords:
   - "how to repair scratched wood floor"

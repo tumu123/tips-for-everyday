@@ -1,6 +1,6 @@
 ---
 title: "How to Remove Scratches From Wood Furniture"
-description: "Most scratches are in the finish, not the wood. Here is how to tell the difference, and the right treatment for each depth of damage."
+description: "Most furniture scratches sit in the finish, not the wood. Here is how to tell the difference, and the right treatment for each depth without refinishing."
 primaryKeyword: "remove scratches from wood furniture"
 secondaryKeywords:
   - "fix scratched wood table"
