@@ -1,6 +1,6 @@
 ---
 title: "House Centipedes: The Case for Not Killing the Thing on Your Wall"
-description: "It is a predator that eats cockroaches, silverfish, and spiders, it needs damp to survive, and it will die on its own in a dry house. Killing it usually makes the other pests worse."
+description: "It is a predator that eats cockroaches, silverfish, and spiders, it needs damp to survive, and it dies in a dry house. Killing it makes other pests worse."
 primaryKeyword: "house centipede"
 secondaryKeywords:
   - "are house centipedes dangerous"

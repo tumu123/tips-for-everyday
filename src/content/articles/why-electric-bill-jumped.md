@@ -1,6 +1,6 @@
 ---
 title: "Why This Month's Electric Bill Jumped"
-description: "Isolate the cause in three steps: separate rate from usage, normalize for weather and billing days, then find the load that changed. Most jumps are one appliance."
+description: "Isolate the cause in three steps: separate rate from usage, normalize for weather and billing days, then find the load that changed. Usually one appliance."
 primaryKeyword: "why did my electric bill go up"
 secondaryKeywords:
   - "electric bill doubled suddenly"

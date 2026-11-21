@@ -1,6 +1,6 @@
 ---
 title: "How to Declutter Without Regret: A Room-by-Room Guide"
-description: "Decluttering regret comes from two different sources and needs two different tests. Here is the room order and the decision rules that avoid both."
+description: "Decluttering regret comes from two different sources and needs two different tests. Here is the room order and the decision rules that avoid both kinds."
 primaryKeyword: "how to declutter"
 secondaryKeywords:
   - "declutter without regret"

@@ -1,6 +1,6 @@
 ---
 title: "How to Fix Cracked or Crumbling Grout"
-description: "Most grout repair fails because the grout was not the problem. Here is how to tell whether you need new grout, new caulk, or a substrate fix."
+description: "Most grout repair fails because the grout was not the problem. Here is how to tell whether you need new grout, new caulk, or a substrate fix underneath."
 primaryKeyword: "how to fix cracked grout"
 secondaryKeywords:
   - "regrout tile"

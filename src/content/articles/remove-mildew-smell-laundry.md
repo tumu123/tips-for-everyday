@@ -1,6 +1,6 @@
 ---
 title: "How to Remove Mildew Smell from Laundry"
-description: "Musty laundry is a bacterial and fungal problem, not a detergent problem. Here is how to kill the smell at its source and stop it coming back."
+description: "Musty laundry is a bacterial and fungal problem, not a detergent problem. Here is how to kill the smell at its source and stop it coming back for good."
 primaryKeyword: "remove mildew smell from laundry"
 secondaryKeywords:
   - "musty smell clothes"

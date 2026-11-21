@@ -1,6 +1,6 @@
 ---
 title: "How to Organize Pots and Pans (and Their Lids)"
-description: "Nested pans hide everything but the top one, and lids end up in a pile. Here is a cabinet setup that keeps every size reachable in one motion."
+description: "Nested pans hide everything but the top one, and lids end up in a pile. Here is a cabinet setup that keeps every size and lid reachable in one motion."
 primaryKeyword: "how to organize pots and pans"
 secondaryKeywords:
   - "pot lid storage ideas"

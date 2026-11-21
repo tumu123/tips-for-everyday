@@ -1,6 +1,6 @@
 ---
 title: "A Home Reset for the New Year (That Isn't a Declutter)"
-description: "January is the right month to audit the house as a machine: filters, alarms, consumables, repairs, and the paperwork that closes out the year."
+description: "January is the right month to audit the house as a machine: filters, alarms, consumables, repairs, and the paperwork that closes out the year properly."
 primaryKeyword: "new year home reset"
 secondaryKeywords:
   - "january home maintenance checklist"

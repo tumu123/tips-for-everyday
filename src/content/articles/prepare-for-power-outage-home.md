@@ -1,6 +1,6 @@
 ---
 title: "How to Prepare Your Home for a Power Outage"
-description: "Outages damage a house on a schedule: food at four hours, the basement at eight, pipes at twenty-four. Prep means knowing which hours cost money."
+description: "Outages damage a house on a schedule: food at four hours, the basement at eight, pipes at twenty-four. Prep means knowing which hours actually cost money."
 primaryKeyword: "how to prepare for a power outage"
 secondaryKeywords:
   - "power outage checklist"

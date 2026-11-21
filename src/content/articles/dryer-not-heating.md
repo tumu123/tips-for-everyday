@@ -1,6 +1,6 @@
 ---
 title: "Why Your Dryer Won't Heat (and the Vent Question)"
-description: "A dryer that tumbles cold is usually one of five things — and one of them is a fire risk. Here is how to tell which, by heat source and symptom."
+description: "A dryer that tumbles cold is usually one of five things — and one of them is a fire risk. Here is how to tell which, by heat source, vent, and symptom."
 primaryKeyword: "dryer not heating"
 secondaryKeywords:
   - "dryer runs but no heat"

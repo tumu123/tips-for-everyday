@@ -1,6 +1,6 @@
 ---
 title: "How to Seal Gaps Around Doors and Windows"
-description: "Sealing the wrong gap wastes the whole afternoon. Here is how to find where air actually leaks, and which of the four materials each gap needs."
+description: "Sealing the wrong gap wastes the whole afternoon. Here is how to find where air actually leaks, and which of the four sealing materials each gap needs."
 primaryKeyword: "seal door gaps"
 secondaryKeywords:
   - "weatherstripping doors windows"

@@ -1,6 +1,6 @@
 ---
 title: "How to Remove Red Wine Stains: What Works and What Doesn't"
-description: "Red wine is tannin plus dye plus acid. Salt, baking soda, and even white wine have real chemistry behind them — here is what actually works, ranked."
+description: "Red wine is tannin plus dye plus acid. Salt, baking soda, and even white wine have real chemistry behind them — here is what works, ranked by surface."
 primaryKeyword: "remove red wine stain"
 secondaryKeywords:
   - "how to get red wine out of carpet"

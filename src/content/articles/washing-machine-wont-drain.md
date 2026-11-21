@@ -1,6 +1,6 @@
 ---
 title: "Why Your Washer Won't Drain (and Where the Blockage Is)"
-description: "Standing water in the drum almost always has one of four causes. Here is how to find which one in the right order, without flooding the floor."
+description: "Standing water in the drum almost always has one of four causes. Here is how to find which one in the right order, without flooding the laundry floor."
 primaryKeyword: "washing machine won't drain"
 secondaryKeywords:
   - "washer full of water"

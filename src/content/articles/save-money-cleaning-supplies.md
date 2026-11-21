@@ -1,6 +1,6 @@
 ---
 title: "How to Cut Your Cleaning Supply Spending in Half"
-description: "You probably own six products that do the same job. Here is how to calculate unit cost, spot the overlap, and know which cleaners are actually worth buying."
+description: "You probably own six products that do the same job. Here is how to calculate unit cost, spot the overlap, and decide which cleaners are worth buying today."
 primaryKeyword: "save money on cleaning supplies"
 secondaryKeywords:
   - "cheap cleaning supplies"

@@ -1,6 +1,6 @@
 ---
 title: "How to Organize Cleaning Supplies (One Caddy, Two Zones)"
-description: "Most homes have cleaning products scattered across four rooms and three duplicates. Here is the two-zone system that fixes it in an afternoon."
+description: "Most homes keep cleaning products across four rooms and three duplicates. Here is the two-zone system that fixes it in an afternoon, without buying more."
 primaryKeyword: "organize cleaning supplies"
 secondaryKeywords:
   - "cleaning caddy organization"

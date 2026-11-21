@@ -1,6 +1,6 @@
 ---
 title: "How to Fix a Sticking Door (Not by Sanding)"
-description: "Most sticking doors are a hinge or humidity problem, not a size problem. Diagnose first, then fix it without removing material you cannot put back."
+description: "Most sticking doors are a hinge or humidity problem, not a size problem. Diagnose first, then fix it without removing material you cannot put back later."
 primaryKeyword: "fix sticking door"
 secondaryKeywords:
   - "door rubs against frame"

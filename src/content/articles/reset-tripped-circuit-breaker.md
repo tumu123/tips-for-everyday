@@ -1,6 +1,6 @@
 ---
 title: "How to Reset a Tripped Circuit Breaker Safely"
-description: "Pushing the breaker back is the easy part. Knowing why it tripped — overload, short circuit, or ground fault — is what keeps it from happening again."
+description: "Pushing the breaker back is the easy part of it. Knowing why it tripped — overload, short circuit, or ground fault — is what keeps it from happening again."
 primaryKeyword: "reset circuit breaker"
 secondaryKeywords:
   - "breaker keeps tripping"

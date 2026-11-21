@@ -1,6 +1,6 @@
 ---
 title: "How to Create a Drop Zone at Your Entryway"
-description: "Clutter spreads because nothing catches it at the door. A drop zone is a legal place to put things down — with a capacity limit and a weekly empty."
+description: "Clutter spreads because nothing catches it at the door. A drop zone is a legal place to put things down — with a capacity limit and a weekly empty-out."
 primaryKeyword: "entryway drop zone"
 secondaryKeywords:
   - "mudroom organization ideas"

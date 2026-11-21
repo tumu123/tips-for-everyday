@@ -1,6 +1,6 @@
 ---
 title: "How to Cut Your Cell Phone Bill Without Losing Coverage"
-description: "Most phone bills are 40% device payment and add-ons, not service. Here is how to split the bill, judge an MVNO honestly, and keep the coverage you actually use."
+description: "Most phone bills are 40% device payment and add-ons, not service. Here is how to split the bill, judge an MVNO, and keep the coverage you actually use."
 primaryKeyword: "cut cell phone bill"
 secondaryKeywords:
   - "cheapest cell phone plan"

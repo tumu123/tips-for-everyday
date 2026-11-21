@@ -1,6 +1,6 @@
 ---
 title: "How to Organize Tools Without a Workshop"
-description: "Most homes do not need a tool wall, they need three tiers: what you use monthly, what you use yearly, and what you must own but hope never to touch."
+description: "Most homes do not need a tool wall, they need three tiers: what you use monthly, what you use yearly, and what you must own but hope never to have to use."
 primaryKeyword: "how to organize tools without a workshop"
 secondaryKeywords:
   - "tool storage ideas for small spaces"

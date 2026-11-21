@@ -1,6 +1,6 @@
 ---
 title: "What to Do With Kids' Artwork and School Papers"
-description: "A child brings home 500 to 1,000 sheets a year. No storage system survives that volume, so the work is deciding what to keep, not how to file it all."
+description: "A child brings home 500 to 1,000 sheets a year. No storage system survives that volume, so the work is deciding what to keep, not how to file all of it."
 primaryKeyword: "what to do with kids artwork and school papers"
 secondaryKeywords:
   - "how to store kids artwork"

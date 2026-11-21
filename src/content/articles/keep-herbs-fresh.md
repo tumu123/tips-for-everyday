@@ -1,6 +1,6 @@
 ---
 title: "How to Keep Fresh Herbs Alive for Weeks"
-description: "Herbs split into hardy and tender groups, and one standard storage method ruins half of them. Here is how to sort them and keep each group fresh."
+description: "Herbs split into hardy and tender groups, and one standard storage method ruins half of them. Here is how to sort them and keep each group fresh longest."
 primaryKeyword: "keep herbs fresh"
 secondaryKeywords:
   - "how to store fresh cilantro"

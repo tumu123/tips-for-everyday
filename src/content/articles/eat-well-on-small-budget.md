@@ -1,6 +1,6 @@
 ---
 title: "How to Eat Well on a Small Grocery Budget"
-description: "The biggest leak in most food budgets is not expensive ingredients — it's food that gets bought and thrown away. Here is how to fix that first."
+description: "The biggest leak in food budgets is not expensive ingredients — it is food that gets bought and thrown away. Here is how to fix that first, before coupons."
 primaryKeyword: "eat well on a budget"
 secondaryKeywords:
   - "cheap healthy meals"

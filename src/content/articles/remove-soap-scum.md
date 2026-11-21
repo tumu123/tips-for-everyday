@@ -1,6 +1,6 @@
 ---
 title: "How to Remove Soap Scum Without Harsh Chemicals"
-description: "Soap scum is a calcium salt, not dirt. Here is why vinegar works on it, the order of operations that matters, and what to do on stone surfaces."
+description: "Soap scum is a calcium salt, not dirt. Here is why vinegar works on it, the order of operations that matters, and what to do instead on stone surfaces."
 primaryKeyword: "remove soap scum"
 secondaryKeywords:
   - "soap scum remover"

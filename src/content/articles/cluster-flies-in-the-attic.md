@@ -1,6 +1,6 @@
 ---
 title: "Cluster Flies in the Attic: Why They Come Inside and Why Spraying Makes It Worse"
-description: "These are not houseflies. Their larvae parasitize earthworms, they breed nowhere in your home, and the only real damage is what their corpses feed. Close the gaps before late September."
+description: "These are not houseflies. Larvae parasitize earthworms, they breed nowhere in your home, and the damage is what their corpses feed. Close the gaps early."
 primaryKeyword: "cluster flies"
 secondaryKeywords:
   - "cluster flies in attic"

@@ -1,6 +1,6 @@
 ---
 title: "How to Extend the Life of Your Appliances (Save $100s)"
-description: "Most appliances fail from neglect, not wear. Here is the maintenance schedule that adds years of life, organized by appliance and time required."
+description: "Most appliances fail from neglect, not wear. Here is the maintenance schedule that adds years of life, organized by appliance, with the time required."
 primaryKeyword: "make appliances last longer"
 secondaryKeywords:
   - "appliance maintenance schedule"

@@ -1,6 +1,6 @@
 ---
 title: "How to Clean a Cutting Board (Wood and Plastic)"
-description: "Wood and plastic boards need different care. Here is how to clean, sanitize, and deodorize each one, and how to tell when a board must be replaced."
+description: "Wood and plastic boards need different care. Here is how to clean, sanitize, and deodorize each one, and when a cutting board must finally be replaced."
 primaryKeyword: "how to clean a cutting board"
 secondaryKeywords:
   - "clean wooden cutting board"

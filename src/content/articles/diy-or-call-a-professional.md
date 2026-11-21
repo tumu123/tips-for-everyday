@@ -1,6 +1,6 @@
 ---
 title: "DIY or Call a Pro? A Rule for 20 Common Repairs"
-description: "Don't decide by difficulty. Decide by what happens if you get it wrong — the cost of the mistake, not the skill required. Here is the test, applied to 20 jobs."
+description: "Don't decide by difficulty. Decide by what happens if you get it wrong — the cost of the mistake, not the skill needed. Here is the test, across 20 jobs."
 primaryKeyword: "diy or call a professional"
 secondaryKeywords:
   - "what home repairs can I do myself"

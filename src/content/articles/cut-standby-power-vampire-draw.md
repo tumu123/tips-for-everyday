@@ -1,6 +1,6 @@
 ---
 title: "Vampire Power: What Standby Draw Actually Costs (And What Doesn't)"
-description: "Standby power is real but badly misreported. Here is which devices draw watts when off, how to measure your own for free, and why unplugging phone chargers is pointless."
+description: "Standby power is real but badly misreported. Here is which devices draw watts when off, how to measure your own for free, and what is not worth unplugging."
 primaryKeyword: "vampire power standby draw"
 secondaryKeywords:
   - "how much does standby power cost"

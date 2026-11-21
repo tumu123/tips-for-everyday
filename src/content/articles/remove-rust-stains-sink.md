@@ -1,6 +1,6 @@
 ---
 title: "How to Remove Rust Stains from Sinks and Tubs"
-description: "Rust stains on porcelain are metal transfer marks, not corrosion of the tub itself. Here is the acid and pumice method that lifts them safely."
+description: "Rust stains on porcelain are metal transfer marks, not corrosion of the tub itself. Here is the acid and pumice method that lifts them safely and quickly."
 primaryKeyword: "remove rust stains sink"
 secondaryKeywords:
   - "how to remove rust stains from bathtub"

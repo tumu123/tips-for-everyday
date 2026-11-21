@@ -1,6 +1,6 @@
 ---
 title: "The 10-Minute Daily Reset That Keeps a House Tidy"
-description: "A house does not become messy in one day, and it cannot be fixed in one day. Here is the nightly 10-minute reset that stops clutter from compounding."
+description: "A house does not become messy in one day, and it cannot be fixed in one day. Here is the nightly 10-minute reset that stops clutter compounding daily."
 primaryKeyword: "daily house reset"
 secondaryKeywords:
   - "10 minute tidy routine"

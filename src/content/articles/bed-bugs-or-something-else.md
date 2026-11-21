@@ -1,6 +1,6 @@
 ---
 title: "Bed Bugs or Something Else? The Evidence That Settles It"
-description: "Bites cannot identify a bed bug — half the people bitten never react. Here are the four pieces of physical evidence that can, and the twelve-minute inspection that finds them."
+description: "Bites cannot identify a bed bug — half the people bitten never react. Here are the four pieces of evidence that can, and the inspection that finds them."
 primaryKeyword: "bed bugs or something else"
 secondaryKeywords:
   - "how to check for bed bugs"

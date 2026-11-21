@@ -1,6 +1,6 @@
 ---
 title: "How to Keep Ginger, Garlic and Fresh Chilies Usable"
-description: "Ginger dries out, garlic sprouts and chilies mold — three different failures that need three different setups, plus the cases where the freezer is genuinely the better answer."
+description: "Ginger dries out, garlic sprouts, and chilies mold — three different failures needing three different setups, plus the cases where freezing is better."
 primaryKeyword: "how to store ginger and garlic"
 secondaryKeywords:
   - "how to keep ginger fresh"

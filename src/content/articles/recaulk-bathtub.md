@@ -1,6 +1,6 @@
 ---
 title: "How to Recaulk a Bathtub So It Actually Lasts"
-description: "Most recaulking fails because old caulk wasn't fully removed, or because the tub was empty when it was applied. Here is the sequence that holds up."
+description: "Most recaulking fails because old caulk wasn't fully removed, or because the tub was empty when it was applied. Here is the sequence that holds up well."
 primaryKeyword: "how to recaulk a bathtub"
 secondaryKeywords:
   - "bathtub caulk removal"

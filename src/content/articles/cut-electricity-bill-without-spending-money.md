@@ -1,6 +1,6 @@
 ---
 title: "15 Ways to Cut Your Electricity Bill Without Spending Money"
-description: "Lower your electric bill with 15 free changes — water heater settings, air sealing, thermostat setbacks, and more. Ranked by typical annual savings."
+description: "Lower your electric bill with 15 free changes — water heater settings, air sealing, and thermostat setbacks — ranked by typical annual savings for a home."
 primaryKeyword: "reduce electricity bill"
 secondaryKeywords:
   - "lower electric bill free"

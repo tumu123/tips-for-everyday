@@ -1,6 +1,6 @@
 ---
 title: "How to Clean a Cast Iron Skillet Without Ruining It"
-description: "Soap does not strip seasoning — that myth came from lye soap. Here is the correct wash-dry-oil routine and why rushing any one step causes rust."
+description: "Soap does not strip seasoning — that myth came from lye soap. Here is the correct wash-dry-oil routine and why rushing any one of the steps causes rust."
 primaryKeyword: "clean cast iron skillet"
 secondaryKeywords:
   - "can you use soap on cast iron"

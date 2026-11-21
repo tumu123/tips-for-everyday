@@ -1,6 +1,6 @@
 ---
 title: "How to Store Coffee Beans So They Stop Going Stale"
-description: "Coffee goes stale from oxidation, not age. Here is why the fridge is the worst place for it, and the two cases where freezing beans actually helps."
+description: "Coffee goes stale from oxidation, not age. Here is why the fridge is the worst place for it, and the two cases where freezing the beans actually helps."
 primaryKeyword: "store coffee beans"
 secondaryKeywords:
   - "how long do coffee beans last"

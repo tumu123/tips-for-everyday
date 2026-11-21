@@ -1,6 +1,6 @@
 ---
 title: "Squirrels in the Attic: Find the Entry Before You Close Anything"
-description: "Seal a hole in spring or late summer and you can trap a litter inside to die. Here is the order that avoids that, and why foam is the wrong material."
+description: "Seal a hole in spring or late summer and you can trap a litter inside to die. Here is the order that avoids that, and why foam is the wrong material here."
 primaryKeyword: "squirrels in the attic"
 secondaryKeywords:
   - "how to get rid of squirrels in attic"

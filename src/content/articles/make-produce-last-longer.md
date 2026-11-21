@@ -1,6 +1,6 @@
 ---
 title: "How to Make Produce Last Longer in the Fridge"
-description: "Ethylene, humidity, and airflow decide how long produce keeps. Here is the setup that adds days to greens, berries, and herbs without any special equipment."
+description: "Ethylene, humidity, and airflow decide how long produce keeps. Here is the setup that adds days to greens, berries, and herbs without special equipment."
 primaryKeyword: "make produce last longer"
 secondaryKeywords:
   - "keep vegetables fresh longer"

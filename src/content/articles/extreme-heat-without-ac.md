@@ -1,6 +1,6 @@
 ---
 title: "How to Keep a House Safe in Extreme Heat Without AC"
-description: "Comfort and danger are different problems. Once indoor heat passes the point where a fan stops helping, the plan changes from cooling the house to protecting the people in it."
+description: "Comfort and danger are different problems. Once indoor heat passes the point where a fan stops helping, the plan shifts from cooling to protecting people."
 primaryKeyword: "how to stay cool without air conditioning"
 secondaryKeywords:
   - "dangerous indoor temperature"

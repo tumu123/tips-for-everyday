@@ -1,6 +1,6 @@
 ---
 title: "How to Wash Curtains Without Shrinking Them"
-description: "Most curtains are not dry-clean-only, and most shrinkage comes from heat rather than water. Here is the fabric test that decides the method."
+description: "Most curtains are not dry-clean-only, and most shrinkage comes from heat rather than water. Here is the fabric test that decides which method you use."
 primaryKeyword: "how to wash curtains"
 secondaryKeywords:
   - "how to wash curtains without shrinking"

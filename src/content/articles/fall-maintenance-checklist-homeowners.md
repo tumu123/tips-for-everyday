@@ -1,6 +1,6 @@
 ---
 title: "Fall Maintenance Checklist for Homeowners"
-description: "The fall tasks that must happen before the first freeze — sequenced by deadline, with what each one protects and what it costs if you skip it."
+description: "The fall tasks that must happen before the first freeze — sequenced by deadline, with what each one protects and what it costs if you skip it for a week."
 primaryKeyword: "fall maintenance checklist"
 secondaryKeywords:
   - "fall home maintenance checklist for homeowners"

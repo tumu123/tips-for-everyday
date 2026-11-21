@@ -1,6 +1,6 @@
 ---
 title: "The First Frost Checklist"
-description: "Frost is usually forecast 24 to 48 hours out, which is just enough time to save the garden, the hose bibs, and the plants you cannot replace. Order matters more than effort."
+description: "Frost is usually forecast 24 to 48 hours out, just enough time to save the garden, the hose bibs, and the plants you cannot replace. Order matters more."
 primaryKeyword: "first frost checklist"
 secondaryKeywords:
   - "how to protect plants from frost"

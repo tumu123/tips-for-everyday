@@ -1,6 +1,6 @@
 ---
 title: "Should You Kill the Spiders in Your Basement?"
-description: "Most basement spiders are unpaid pest control, and spraying them backfires. Here is how to tell which few species change the answer before you spray."
+description: "Most basement spiders are unpaid pest control, and spraying them backfires. Here is how to tell which few species change the answer, before you spray."
 primaryKeyword: "spiders in the basement"
 secondaryKeywords:
   - "are basement spiders dangerous"

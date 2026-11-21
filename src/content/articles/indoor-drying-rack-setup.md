@@ -1,6 +1,6 @@
 ---
 title: "Indoor Drying Without the Damp: A Setup That Handles the Water"
-description: "One load of laundry releases about five pounds of water into the air. Here is the arithmetic, where it goes, and how to set up racks that dry clothes without fogging the windows."
+description: "One load of laundry releases about five pounds of water into the air. Here is the arithmetic, where it goes, and how to set up racks that dry clothes."
 primaryKeyword: "indoor drying clothes without damp"
 secondaryKeywords:
   - "drying rack placement"

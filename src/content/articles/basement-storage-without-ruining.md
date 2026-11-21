@@ -1,6 +1,6 @@
 ---
 title: "How to Store Things in a Basement Without Ruining Them"
-description: "Basements do not destroy things by flooding. They do it slowly, with humidity, wicking, and condensation on cold concrete. Here is the storage method that survives."
+description: "Basements do not destroy things by flooding. They do it slowly, with humidity, wicking, and condensation on cold concrete. Here is the method that works."
 primaryKeyword: "basement storage"
 secondaryKeywords:
   - "how to keep basement storage dry"

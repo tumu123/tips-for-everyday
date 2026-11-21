@@ -1,6 +1,6 @@
 ---
 title: "How to Keep Bugs Out of the House in Summer"
-description: "Most indoor bug problems are entry-point problems, not cleanliness problems. Here is how to find every gap, why sprays fail, and what actually keeps insects out."
+description: "Most indoor bug problems are entry-point problems, not cleanliness problems. Here is how to find every gap, why sprays fail, and what actually does work."
 primaryKeyword: "keep bugs out of house"
 secondaryKeywords:
   - "how to keep insects out of home"

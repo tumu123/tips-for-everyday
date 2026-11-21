@@ -1,6 +1,6 @@
 ---
 title: "How to Prevent Frozen Pipes (and What to Do If They Freeze)"
-description: "A frozen pipe that bursts causes some of the most expensive damage in a home. Here is how to prevent it, how to thaw safely, and when to call a professional."
+description: "A frozen pipe that bursts causes some of the most expensive damage in a home. Here is how to prevent it, how to thaw safely, and when to call for help."
 primaryKeyword: "prevent frozen pipes"
 secondaryKeywords:
   - "how to thaw frozen pipes"

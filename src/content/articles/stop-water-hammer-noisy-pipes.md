@@ -1,6 +1,6 @@
 ---
 title: "How to Stop Banging Pipes (Water Hammer)"
-description: "The bang after you shut off a tap is a pressure wave, not a clog. Here is how to find out which of the three causes you have and what each one needs."
+description: "The bang after you shut off a tap is a pressure wave, not a clog. Here is how to find which of the three causes you have and what each one needs to fix it."
 primaryKeyword: "stop water hammer"
 secondaryKeywords:
   - "banging pipes when turning off water"

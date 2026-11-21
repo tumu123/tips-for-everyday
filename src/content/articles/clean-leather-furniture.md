@@ -1,6 +1,6 @@
 ---
 title: "How to Clean Leather Furniture Without Drying It Out"
-description: "Leather is skin, not fabric — it has a narrow cleaning window. Here is how to identify your leather type first, then handle water marks, body oil and cracking differently."
+description: "Leather is skin, not fabric — it has a small cleaning window. Identify the leather type first, then handle water marks, body oil, and cracking differently."
 primaryKeyword: "clean leather furniture"
 secondaryKeywords:
   - "how to clean leather couch"

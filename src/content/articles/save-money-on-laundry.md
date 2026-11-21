@@ -1,6 +1,6 @@
 ---
 title: "How to Save Money on Laundry Without Noticing"
-description: "Laundry costs more than most people realize — energy, water, detergent, and worn-out clothes. Here are the changes with no noticeable downside."
+description: "Laundry costs more than most people realize — energy, water, detergent, and worn-out clothes. Here are the changes that matter, ranked by what they save."
 primaryKeyword: "save money on laundry"
 secondaryKeywords:
   - "reduce laundry costs"

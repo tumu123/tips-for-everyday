@@ -1,6 +1,6 @@
 ---
 title: "Which Cookware Material for Which Job"
-description: "Copper conducts heat six times faster than stainless steel, and that single number explains why one pan is for searing and another for sauce."
+description: "Copper conducts heat six times faster than stainless steel, and that single number explains why one pan is for searing and another is for a slow sauce."
 primaryKeyword: "cookware material guide"
 secondaryKeywords:
   - "which pan for which job"

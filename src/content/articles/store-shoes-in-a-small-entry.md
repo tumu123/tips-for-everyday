@@ -1,6 +1,6 @@
 ---
 title: "How to Store Shoes When You Have No Entry Closet"
-description: "A shoe pile at the door is a capacity problem, not a discipline problem. Estimate the real pairs, check the depth, and split current from stored."
+description: "A shoe pile at the door is a capacity problem, not a discipline problem. Estimate the real pairs, check the depth, and split current from stored pairs."
 primaryKeyword: "how to store shoes without a closet"
 secondaryKeywords:
   - "small entryway shoe storage ideas"

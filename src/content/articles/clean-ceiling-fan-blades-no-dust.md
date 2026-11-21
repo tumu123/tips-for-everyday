@@ -1,6 +1,6 @@
 ---
 title: "How to Clean Ceiling Fan Blades Without Dusting the Whole Room"
-description: "Fan dust is electrostatically stuck and comes off in sheets. Enclosing each blade before you wipe it keeps the dust in the bag instead of on your furniture."
+description: "Fan dust is electrostatically stuck and comes off in sheets. Enclosing each blade before you wipe keeps the dust in the bag, not on your furniture at all."
 primaryKeyword: "clean ceiling fan blades"
 secondaryKeywords:
   - "ceiling fan dust pillowcase method"

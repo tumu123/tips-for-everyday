@@ -1,6 +1,6 @@
 ---
 title: "How to Store Sentimental Items Without Keeping Everything"
-description: "Once you have decided what to keep, the question becomes how to keep it so it survives. Paper, fabric, photos and metal each fail in a different way."
+description: "Once you have decided what to keep, the question becomes how to keep it so it survives. Paper, fabric, photos, and metal each fail in a different way."
 primaryKeyword: "how to store sentimental items"
 secondaryKeywords:
   - "how to store old photos"

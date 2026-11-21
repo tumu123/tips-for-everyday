@@ -1,6 +1,6 @@
 ---
 title: "How to Find Moisture Problems Before They Become Mold"
-description: "Mold needs 48 hours of sustained damp. Finding the moisture in that window is the whole game — here is where to look and what the numbers mean."
+description: "Mold needs 48 hours of sustained damp. Finding the moisture inside that window is the whole game — here is where to look first and what the numbers mean."
 primaryKeyword: "find moisture problems in house"
 secondaryKeywords:
   - "home humidity too high"

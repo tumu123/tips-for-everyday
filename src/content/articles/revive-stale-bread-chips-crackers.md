@@ -1,6 +1,6 @@
 ---
 title: "How to Revive Stale Bread, Chips and Crackers"
-description: "Stale bread is not dried out — the starch has recrystallized, and that process is reversible. Here is what actually works, and what only seems to."
+description: "Stale bread is not dried out — the starch has recrystallized, and that process is reversible. Here is what actually works, and what only seems to work."
 primaryKeyword: "revive stale bread"
 secondaryKeywords:
   - "how to make stale bread soft again"

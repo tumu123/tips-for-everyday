@@ -14,7 +14,7 @@ export const SITE = {
   title: 'Tips for Everyday',
   tagline: 'Practical answers to everyday problems at home.',
   description:
-    'Practical, step-by-step answers to everyday household problems — cleaning, organizing, fixing, and saving money. No fluff, just methods that work.',
+    'Practical, step-by-step answers to everyday household problems — cleaning, organizing, fixing, and saving money. No fluff, only methods you can follow.',
 
   // ---- 上线前替换 ----
   adsenseClient: 'ca-pub-4150144052388028', // AdSense 发布商 ID（已填）
@@ -93,19 +93,19 @@ export const CATEGORIES = {
   'home-hacks': {
     title: 'Home Hacks',
     description:
-      'Cleaning methods, stain removal, and appliance care that actually work. Every guide includes specific ratios, dwell times, and the mistakes to avoid.',
+      'Cleaning methods, stain removal, and appliance care that actually work. Each guide gives the ratios, dwell times, and mistakes that cost you the result.',
     subcategories: ['Cleaning', 'Laundry', 'Fabrics', 'Appliances', 'Stains'],
   },
   'save-money': {
     title: 'Save Money',
     description:
-      'No-cost and low-cost ways to cut household bills — electricity, water, groceries, and home maintenance. Ranked by typical annual savings.',
+      'No-cost and low-cost ways to cut household bills — electricity, water, groceries, and maintenance — ranked by the typical annual saving each one returns.',
     subcategories: ['Groceries', 'Bills', 'Big Decisions', 'Shopping'],
   },
   organize: {
     title: 'Organize',
     description:
-      'Practical home organization systems for kitchens, closets, small spaces, and paperwork — designed to stay organized long term.',
+      'Home organization for kitchens, closets, small spaces, and paperwork — built around how often you use things, so the whole system outlives the first week.',
     subcategories: ['Kitchen', 'Closet', 'Small Spaces', 'Laundry', 'Home Systems'],
   },
   'kitchen-tips': {
@@ -117,7 +117,7 @@ export const CATEGORIES = {
   'fix-it': {
     title: 'Fix It',
     description:
-      'Fix common household problems yourself — plumbing, doors, walls, and small repairs — without calling a professional for jobs that take minutes.',
+      'Fix common household problems yourself — plumbing, doors, walls, and small repairs — with symptom-first diagnosis before you call anyone or buy a part.',
     subcategories: ['Home Repair', 'Maintenance', 'Plumbing', 'Appliances'],
   },
   'pest-control': {
@@ -129,7 +129,7 @@ export const CATEGORIES = {
   seasonal: {
     title: 'Seasonal & Holiday',
     description:
-      'Season-by-season home checklists, prep timelines, and holiday guides — what to do now so the next season does not catch you unprepared.',
+      'Season-by-season home checklists, prep timelines, and holiday guides — what to do now so the next season does not catch you unprepared and cost you more.',
     subcategories: ['Seasons', 'Holidays'],
   },
 };
@@ -143,62 +143,62 @@ export const CATEGORIES = {
 export const SUBCATEGORY_DESCRIPTIONS: Record<string, string> = {
   // 栏目级覆盖（同名子栏目分属不同栏目时使用）
   'organize/Laundry':
-    'A laundry room or laundry closet organized around the work flow — sorting, washing, drying, and folding each with a place, so nothing doubles back.',
+    'A laundry room or closet organized around the work flow — sorting, washing, drying, and folding, each with a place, so nothing doubles back on itself.',
   'fix-it/Appliances':
     'Diagnose machines that stopped working — water heaters, washers, dryers, fridges, and dishwashers — symptom first, so you know what it is before you pay anyone.',
   // Home Hacks
   Cleaning:
-    'Deep-clean guides for floors, grout, mattresses, and hard surfaces — with the specific ratios, dwell times, and order of operations that get results.',
+    'Deep-clean guides for floors, grout, mattresses, and hard surfaces, with the ratios, dwell times, and order of operations that actually get the result.',
   Laundry:
-    'Laundry that works: a laundry room laid out so the work flows, plus care guides for stains, odors, delicates, and the machines themselves.',
+    'Laundry that works: a room laid out so the work flows, plus care for stains, odors, delicates, wool, silk, and the machines that do the washing itself.',
   Fabrics:
-    'Curtains, carpets, pillows, and duvets — the soft furnishings that hold dust and odor but never go in a normal wash cycle, with the fabric test that decides the method.',
+    'Curtains, carpets, pillows, and duvets — soft furnishings that hold dust and odor but never go in a normal wash, plus the test that picks the right method.',
   Appliances:
     'Keep appliances clean and running longer — washing machines, range hoods, kettles, and stainless steel — with maintenance that prevents expensive failures.',
   Stains:
-    'Stain removal for grease, rust, mold, adhesive, wine, coffee, and pet accidents — matched to the surface and the chemistry of each stain.',
+    'Stain removal for grease, rust, mold, adhesive, wine, coffee, and pet accidents — matched to the surface and to the chemistry behind every single stain.',
   // Save Money
   Groceries:
-    'Spend less on food without coupons: smarter shopping, food storage that prevents waste, and buying decisions that cut the monthly grocery bill.',
+    'Spend less on food without clipping coupons: smarter shopping, storage that prevents waste, and buying decisions that keep the monthly grocery bill lower.',
   Bills:
-    'Cut electricity, water, and laundry costs with no-cost and low-cost changes — each one explained with what it actually saves.',
+    'Cut electricity, water, and laundry costs with no-cost and low-cost changes, each explained with what it actually saves on a typical annual household bill.',
   'Big Decisions':
-    'The purchases and claims that run into thousands: solar, heating systems, insurance claims, and property tax appeals — with the payback math and the questions that actually decide it.',
+    'The purchases and claims that run into thousands — solar, heating, insurance claims, and property tax appeals — with the payback math that decides them.',
   Shopping:
-    'Buy better and replace less often: how to judge when an appliance is worth repairing, and how to extend the life of what you already own.',
+    'Buy better and replace less often: how to judge when an appliance is worth repairing, and how to extend the life of what you already own at home today.',
   // Organize
   Kitchen:
-    'Kitchen organization that holds up in a working kitchen — no-pantry zone layouts, cookware storage, and counter surfaces you can actually cook on.',
+    'Kitchen organization that holds up in a working kitchen: no-pantry zone layouts, cookware storage, and counter surfaces you can actually cook a meal on.',
   Closet:
-    'Closet, wardrobe, and paper organization that holds up over time — zoning by frequency, seasonal storage, and document retention rules.',
+    'Closet, wardrobe, and paperwork organization that lasts — zoning by frequency of use, seasonal storage, and document retention rules that stop the pile.',
   'Small Spaces':
-    'Make tight spaces functional — under-sink cabinets, small kitchens, and storage that uses vertical space instead of buying more bins.',
+    'Make tight spaces work: under-sink cabinets, small kitchens, and storage that uses the volume you already have instead of buying another set of bins first.',
   'Home Systems':
-    'Organize the recurring systems of a home — cleaning supplies, household stock, and the routines that keep them from drifting back into clutter.',
+    'Organize the recurring systems of a home — cleaning supplies, household stock, tools, and the routines that keep each of them from drifting into clutter.',
   // Kitchen Tips
   'Food Storage':
-    'How long food actually lasts, how to store it so it keeps, and how to tell when it has genuinely gone bad — with real shelf-life windows.',
+    'How long food actually lasts, how to store it so it keeps, and how to tell when it has genuinely gone bad — with real shelf-life windows for each food.',
   'Cooking Hacks':
-    'Kitchen techniques worth knowing: keeping produce fresh, sharpening knives, and cleaning and caring for the tools you cook with.',
+    'Kitchen techniques worth knowing: keeping produce fresh, sharpening knives, and cleaning and caring for the tools you cook with every single day at home.',
   Equipment:
-    'What each kitchen machine actually does, which pans suit which job, and which gadgets earn their drawer space — buying decisions and safe-use limits rather than feature lists.',
+    'What each kitchen machine does, which pan suits which job, and which gadgets earn their drawer — buying decisions and use limits, not feature lists at all.',
   // Fix It
   'Home Repair':
-    'Fix sticking doors, squeaky hinges and floors, and drywall holes yourself — with the diagnosis-first approach that avoids unnecessary damage.',
+    'Fix sticking doors, squeaky hinges and floors, and drywall holes yourself, with the diagnosis-first approach that avoids damage you then have to repair.',
   Maintenance:
-    'Seasonal and annual maintenance that prevents expensive repairs — home checklists, frozen pipe prevention, and water heater care.',
+    'Seasonal and annual maintenance that prevents expensive repairs: home checklists, frozen pipe prevention, and water heater care before the tank fails.',
   Plumbing:
     'Diagnose and fix the common plumbing failures yourself — running toilets, dripping valves, slow drains, and leaks — before you pay for a service call.',
   // Pest Control
   Insects:
-    'Identify the bug before you treat it — fruit flies, ants, silverfish, spiders, and pantry moths — with the breeding site that keeps them coming back.',
+    'Identify the bug before you treat it — fruit flies, ants, silverfish, spiders, and pantry moths — then find the breeding site that keeps it coming back.',
   Rodents:
-    'Find out whether mice or rats are inside, where they are getting in, and how to close the building against them before winter.',
+    'Find out whether mice or rats are inside, where they are getting in, and how to close the building against them before winter makes the problem urgent.',
   // Seasonal & Holiday
   Seasons:
     'Season-by-season home checklists — spring cleaning, storm prep, fall maintenance, and winterizing — sequenced in the order the work actually needs doing.',
   Holidays:
-    'Holiday prep without the panic: hosting timelines, guest rooms on short notice, decoration storage, and getting back to routine afterward.',
+    'Holiday prep without the panic: hosting timelines, guest rooms on short notice, decoration storage, and getting back to routine in the days afterwards.',
 };
 
 /** 子栏目 → 所属主栏目 的反查映射 */

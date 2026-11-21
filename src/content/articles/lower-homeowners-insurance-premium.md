@@ -1,6 +1,6 @@
 ---
 title: "How to Lower Your Homeowners Insurance Premium (Without Cutting Coverage)"
-description: "Insurance premiums are set by a few actuarial variables. Here is which ones you control, why discounts rarely apply themselves, and where a higher deductible helps versus backfires."
+description: "Insurance premiums are set by a few variables. Here is which ones you control, why discounts rarely apply themselves, and where a higher deductible helps."
 primaryKeyword: "lower homeowners insurance premium"
 secondaryKeywords:
   - "reduce home insurance cost"

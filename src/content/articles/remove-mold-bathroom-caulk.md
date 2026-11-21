@@ -1,6 +1,6 @@
 ---
 title: "How to Remove Mold from Bathroom Caulk"
-description: "Black mold in caulk is growing in the silicone itself, not on it. Here is the bleach method that reaches it, and how to tell when the caulk must be replaced."
+description: "Black mold in caulk is growing in the silicone itself, not on it. Here is the bleach method that reaches it, and when the caulk must be replaced entirely."
 primaryKeyword: "remove mold from caulk"
 secondaryKeywords:
   - "black mold bathroom caulk"

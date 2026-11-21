@@ -1,6 +1,6 @@
 ---
 title: "Solar Panels: What the Payback Actually Looks Like"
-description: "Ignore the 25-year savings figure. Here is the four-number calculation that decides solar payback, and where the quote's assumptions usually break."
+description: "Ignore the 25-year savings figure. Here is the four-number calculation that decides solar payback, and where a quote's assumptions usually break down."
 primaryKeyword: "solar panel payback"
 secondaryKeywords:
   - "how long until solar pays for itself"

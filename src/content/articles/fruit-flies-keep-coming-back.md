@@ -1,6 +1,6 @@
 ---
 title: "Why Fruit Flies Keep Coming Back (and How to End the Cycle)"
-description: "A trap catches the adults you can see. The flies you cannot see are the ones breeding in a drain, a bin liner, or a bag of onions. Here is how to find the source first."
+description: "A trap catches the adults you can see. The ones you cannot see are breeding in a drain, a bin liner, or a bag of onions. Here is how to find the source."
 primaryKeyword: "why fruit flies keep coming back"
 secondaryKeywords:
   - "how to get rid of fruit flies"

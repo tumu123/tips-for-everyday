@@ -1,6 +1,6 @@
 ---
 title: "How to Clean a Microwave Without Scrubbing"
-description: "Microwave mess is baked-on protein and polymerised fat, not ordinary dirt. Steam softens it in minutes; scrubbing removes the finish instead. Here is the sequence that works."
+description: "Microwave mess is baked-on protein and polymerised fat, not ordinary dirt. Steam softens it in minutes; scrubbing removes the finish. Here is the sequence."
 primaryKeyword: "clean microwave without scrubbing"
 secondaryKeywords:
   - "how to clean microwave with vinegar"

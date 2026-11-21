@@ -1,6 +1,6 @@
 ---
 title: "How to Keep a Real Christmas Tree Fresh"
-description: "A cut tree dies from water uptake failure, not age. Here is how the seal forms, why a fresh cut matters, and what actually keeps needles on."
+description: "A cut tree dies from water uptake failure, not age. Here is how the seal forms, why a fresh cut matters, and what actually keeps needles on the branches."
 primaryKeyword: "keep christmas tree fresh"
 secondaryKeywords:
   - "how to make christmas tree last longer"

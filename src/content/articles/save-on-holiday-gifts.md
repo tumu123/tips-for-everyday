@@ -1,6 +1,6 @@
 ---
 title: "How to Save on Holiday Gifts Without Looking Cheap"
-description: "Cheap-looking gifts come from a few specific mistakes, not from spending less. Here is what actually makes a gift feel considered, and what to cut."
+description: "Cheap-looking gifts come from a few specific mistakes, not from spending less. Here is what actually makes a gift feel considered, and what to cut from it."
 primaryKeyword: "save money on holiday gifts"
 secondaryKeywords:
   - "cheap christmas gift ideas"

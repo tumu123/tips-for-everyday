@@ -1,6 +1,6 @@
 ---
 title: "How to Organize Paperwork at Home (Without a Filing Cabinet)"
-description: "Paper accumulates because nobody defined what to keep and for how long. Here is the four-folder system, the retention schedule, and what to shred."
+description: "Paper accumulates because nobody defined what to keep and for how long. Here is the four-folder system, the retention schedule, and what to shred and when."
 primaryKeyword: "organize paperwork at home"
 secondaryKeywords:
   - "how long to keep documents"

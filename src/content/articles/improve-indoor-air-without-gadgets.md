@@ -1,6 +1,6 @@
 ---
 title: "How to Improve Indoor Air Without Buying a Gadget"
-description: "An air purifier cleans air that should not have been dirty. Here are the four layers that cost nothing — and where a filter is genuinely the answer."
+description: "An air purifier cleans air that should not have been dirty. Here are the four layers that cost nothing — and where a filter is genuinely the right answer."
 primaryKeyword: "how to improve indoor air quality"
 secondaryKeywords:
   - "improve indoor air without purifier"

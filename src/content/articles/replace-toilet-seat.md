@@ -1,6 +1,6 @@
 ---
 title: "How to Replace a Toilet Seat"
-description: "Two things go wrong: the old bolts will not budge, and the new one gets overtightened until the porcelain cracks. Here is how to avoid both."
+description: "Two things go wrong: the old bolts will not budge, and the new seat gets overtightened until the porcelain cracks. Here is how to avoid both, in order."
 primaryKeyword: "replace toilet seat"
 secondaryKeywords:
   - "how to remove a toilet seat"

@@ -1,6 +1,6 @@
 ---
 title: "How to Get Burnt Food Off a Stovetop"
-description: "Burnt-on sugar and grease need different treatments. Here is how to identify which you have, and the right removal method for each stovetop surface."
+description: "Burnt-on sugar and grease need different treatments. Here is how to identify which you have, and the right removal method for each stovetop surface type."
 primaryKeyword: "burnt food stovetop"
 secondaryKeywords:
   - "clean burnt on grease"

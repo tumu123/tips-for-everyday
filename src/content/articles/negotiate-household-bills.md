@@ -1,6 +1,6 @@
 ---
 title: "Which Bills You Can Actually Negotiate (and the Script to Use)"
-description: "Some bills are negotiable and some are regulated. Here is the difference, the specific scripts that work, and what to do when the first answer is no."
+description: "Some bills are negotiable and some are regulated. Here is the difference, the specific scripts that work, and what to say when the first answer is no."
 primaryKeyword: "negotiate household bills"
 secondaryKeywords:
   - "lower internet bill script"

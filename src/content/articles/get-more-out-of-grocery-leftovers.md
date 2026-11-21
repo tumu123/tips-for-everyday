@@ -1,6 +1,6 @@
 ---
 title: "How to Turn Leftovers Into Actual Meals"
-description: "Leftovers get skipped because the second serving is the same food in the same shape. Change the carrier, the temperature or the cuisine, and the same ingredient becomes a different dinner."
+description: "Leftovers get skipped because the second serving looks like the first. Change the carrier, temperature, or cuisine, and the same food becomes a new dinner."
 primaryKeyword: "what to do with leftovers"
 secondaryKeywords:
   - "how to use up leftover chicken"

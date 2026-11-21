@@ -1,6 +1,6 @@
 ---
 title: "What an Air Fryer Actually Does (and What It Can't)"
-description: "It is a small convection oven with a very fast fan, and that single fact explains everything it does well and every complaint people have about it."
+description: "It is a small convection oven with a very fast fan, and that one fact explains everything it does well and every complaint people have about it, and why."
 primaryKeyword: "what does an air fryer do"
 secondaryKeywords:
   - "air fryer vs convection oven"

@@ -1,6 +1,6 @@
 ---
 title: "How to Sharpen Kitchen Knives (Without Ruining Them)"
-description: "A dull knife is dangerous, not just annoying. Here is the difference between honing and sharpening, and the method that keeps an edge for years."
+description: "A dull knife is dangerous, not just annoying. Here is the difference between honing and sharpening, and the method that keeps an edge for years of use."
 primaryKeyword: "how to sharpen kitchen knives"
 secondaryKeywords:
   - "honing vs sharpening knife"

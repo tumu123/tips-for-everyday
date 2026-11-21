@@ -1,6 +1,6 @@
 ---
 title: "How to Store Holiday Decorations So They Last"
-description: "Most decoration damage happens in storage, not in use. How to pack lights, ornaments, artificial trees, and wreaths so next December isn't a repair project."
+description: "Most decoration damage happens in storage, not in use. How to pack lights, ornaments, trees, and wreaths so next December is not another repair project."
 primaryKeyword: "store holiday decorations"
 secondaryKeywords:
   - "how to store christmas lights"

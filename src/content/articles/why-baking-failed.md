@@ -1,6 +1,6 @@
 ---
 title: "Why Your Baking Failed: A Diagnosis Chart"
-description: "Sank in the middle, tough, pale, or burnt outside and raw inside — each failure has one or two usual causes, and most of them are measurement."
+description: "Sank in the middle, tough, pale, or burnt outside and raw inside — each failure has one or two usual causes, and most of them are just measurement errors."
 primaryKeyword: "why did my cake sink"
 secondaryKeywords:
   - "why is my cake dense"

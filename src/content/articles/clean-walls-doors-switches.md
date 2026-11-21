@@ -1,6 +1,6 @@
 ---
 title: "How to Clean Walls, Doors and Light Switches"
-description: "Matte paint cannot be scrubbed — it polishes instead. Here is how the finish decides the method, and why some wall marks are not dirt at all."
+description: "Matte paint cannot be scrubbed — it polishes instead. Here is how the finish decides the method, and why some marks on the wall are not really dirt at all."
 primaryKeyword: "how to clean walls"
 secondaryKeywords:
   - "clean painted walls without removing paint"

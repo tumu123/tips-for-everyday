@@ -1,6 +1,6 @@
 ---
 title: "Safe Cooking Temperatures (and the Numbers People Get Wrong)"
-description: "Three different standards apply to poultry, ground meat, and whole cuts. Here are the real numbers, the rest times, and why pork is not 160 anymore."
+description: "Three different standards apply to poultry, ground meat, and whole cuts. Here are the real numbers, the rest times, and why pork is not 160°F anymore."
 primaryKeyword: "safe cooking temperatures"
 secondaryKeywords:
   - "what temperature is chicken done"

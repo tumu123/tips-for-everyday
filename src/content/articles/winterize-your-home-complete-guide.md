@@ -1,6 +1,6 @@
 ---
 title: "How to Winterize Your Home (Complete Guide)"
-description: "Winterizing is a sequence, not a list. Here is the order that prevents the three winter failure modes: frozen pipes, ice dams, and heat loss."
+description: "Winterizing is a sequence, not a list. Here is the order that prevents the three winter failure modes: frozen pipes, ice dams, and heat loss before winter."
 primaryKeyword: "winterize your home"
 secondaryKeywords:
   - "how to winterize a house"

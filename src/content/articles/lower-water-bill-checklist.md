@@ -1,6 +1,6 @@
 ---
 title: "How to Lower Your Water Bill: A Room-by-Room Checklist"
-description: "Toilets, showers, and leaks account for most household water waste. Here are the fixes ranked by gallons saved per dollar spent, room by room."
+description: "Toilets, showers, and leaks waste most household water. Here are the fixes ranked by gallons saved per dollar spent, room by room through a whole house."
 primaryKeyword: "lower water bill"
 secondaryKeywords:
   - "reduce water usage at home"

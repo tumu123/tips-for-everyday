@@ -1,6 +1,6 @@
 ---
 title: "How to Get Pet Hair Out of Everything"
-description: "Pet hair is a fiber-tangling problem, not a stain, so chemistry will not touch it. Here are the four tools that work and the order to use them."
+description: "Pet hair is a fiber-tangling problem, not a stain, so chemistry will not touch it. Here are the four tools that work and the order to use them in properly."
 primaryKeyword: "how to get pet hair out of carpet"
 secondaryKeywords:
   - "remove pet hair from furniture"

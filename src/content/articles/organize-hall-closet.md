@@ -1,6 +1,6 @@
 ---
 title: "How to Organize a Hall Closet for Maximum Use"
-description: "A hall closet is shallow, shared, and used under time pressure. Here is the vertical layout that matches the order you actually leave the house."
+description: "A hall closet is shallow, shared, and used under time pressure. Here is the vertical layout that matches the order you actually leave the house in daily."
 primaryKeyword: "organize hall closet"
 secondaryKeywords:
   - "entryway closet organization"

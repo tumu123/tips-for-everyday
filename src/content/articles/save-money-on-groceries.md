@@ -1,6 +1,6 @@
 ---
 title: "How to Save Money on Groceries Without Coupons"
-description: "Coupons save less than food waste costs. These are the structural changes — storage, planning, and unit pricing — that cut grocery bills 20-30%."
+description: "Coupons save less than food waste costs. These are the structural changes — storage, planning, and unit pricing — that cut grocery spending by 20-30%."
 primaryKeyword: "save money on groceries"
 secondaryKeywords:
   - "cut grocery bill"

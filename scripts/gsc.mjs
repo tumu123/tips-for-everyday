@@ -168,8 +168,8 @@ try {
     const dims = cmd === 'pages' ? ['page'] : (rest[1] ? rest[1].split(',') : ['query']);
     const t = await getToken();
     const body = {
-      startDate: dateStr(days + 3),
-      endDate: dateStr(3),
+      startDate: process.env.GSC_START || dateStr(days + 3),
+      endDate: process.env.GSC_END || dateStr(3),
       dimensions: dims,
       rowLimit: 1000,
       dataState: 'final',

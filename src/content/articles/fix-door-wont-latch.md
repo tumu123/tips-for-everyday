@@ -1,6 +1,6 @@
 ---
 title: "How to Fix a Door That Won't Latch"
-description: "A door that closes but won't stay shut is almost always a misaligned strike plate. Here is the diagnostic order, from the fix that works most often."
+description: "A door that closes but won't stay shut is almost always a misaligned strike plate. Here is the diagnostic order, starting with the most common fix first."
 primaryKeyword: "door won't latch"
 secondaryKeywords:
   - "door latch not catching"

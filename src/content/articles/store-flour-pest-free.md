@@ -1,6 +1,6 @@
 ---
 title: "How to Store Flour and Grains So Bugs Never Show Up"
-description: "Pantry moth eggs are usually already in the flour when you buy it. Here is why freezing new flour first works and why bay leaves do nothing."
+description: "Pantry moth eggs are usually already in the flour when you buy it. Here is why freezing each new bag first works, and why bay leaves do nothing at all."
 primaryKeyword: "store flour pest free"
 secondaryKeywords:
   - "pantry moths how to get rid of"

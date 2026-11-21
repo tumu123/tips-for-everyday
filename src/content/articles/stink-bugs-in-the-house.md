@@ -1,6 +1,6 @@
 ---
 title: "Stink Bugs Indoors: The One Trap That Works and the Spray That Doesn't"
-description: "They overwinter in your walls and stay active all winter, which makes them harder than the boxelder bugs they get confused with. Here is the light trap and the sealing that ends it."
+description: "They overwinter in your walls and stay active all winter, which makes them harder than boxelder bugs. Here is the light trap and sealing that ends it."
 primaryKeyword: "stink bugs in house"
 secondaryKeywords:
   - "brown marmorated stink bug"

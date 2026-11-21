@@ -1,6 +1,6 @@
 ---
 title: "How to Deep Clean Before Hosting Guests"
-description: "You do not need to clean the whole house. Here is the guest-facing zone, the order to work in, and the 90-minute version when you are short on time."
+description: "You do not need to clean the whole house. Here is the guest-facing zone, the order to work in, and the 90-minute version for when you are short on time."
 primaryKeyword: "deep clean before hosting guests"
 secondaryKeywords:
   - "how to clean house before guests"

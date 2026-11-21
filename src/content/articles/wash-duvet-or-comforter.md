@@ -1,6 +1,6 @@
 ---
 title: "How to Wash a Duvet or Comforter at Home"
-description: "It either fits in the drum or it does not, and no technique fixes that. Here is the size test, plus why dry cleaning is often worse for down."
+description: "It either fits in the drum or it does not, and no technique fixes that. Here is the size test, plus why dry cleaning is often worse for down than water."
 primaryKeyword: "how to wash a duvet"
 secondaryKeywords:
   - "how to wash a comforter"

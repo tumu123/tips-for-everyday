@@ -1,6 +1,6 @@
 ---
 title: "How to Appeal Your Property Tax Assessment"
-description: "Most homeowners never check the number the tax is calculated from. How to read the assessment, build comparable-sales evidence, and appeal without a lawyer."
+description: "Most homeowners never check the number the tax is calculated from. How to read the assessment, build comparable-sales evidence, and appeal it yourself."
 primaryKeyword: "appeal property tax assessment"
 secondaryKeywords:
   - "property tax assessment too high"

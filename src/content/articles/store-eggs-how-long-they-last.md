@@ -1,6 +1,6 @@
 ---
 title: "How to Store Eggs (and How Long They Really Last)"
-description: "Whether eggs belong in the fridge depends on whether the shell coating was washed off, and that varies by country. Here is how long each kind keeps."
+description: "Whether eggs belong in the fridge depends on whether the shell coating was washed off, and that varies by country. Here is how long each kind of egg keeps."
 primaryKeyword: "how to store eggs"
 secondaryKeywords:
   - "how long do eggs last in the fridge"

@@ -1,6 +1,6 @@
 ---
 title: "How to Actually Reduce Dust in Your Home"
-description: "Dusting treats a symptom. Here is where household dust actually comes from, which sources dominate, and why an air purifier cannot fix dust that has already settled."
+description: "Dusting treats a symptom. Here is where household dust actually comes from, which sources dominate, and why an air purifier cannot fix settled dust anyway."
 primaryKeyword: "reduce dust in home"
 secondaryKeywords:
   - "why is my house so dusty"

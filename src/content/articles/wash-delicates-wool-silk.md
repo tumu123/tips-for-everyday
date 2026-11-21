@@ -1,6 +1,6 @@
 ---
 title: "How to Wash Delicates, Wool, and Silk at Home"
-description: "Hand-wash and machine-wash methods for wool, silk, cashmere, and lace — with the temperature, detergent, and drying rules that prevent shrinking and damage."
+description: "Hand-wash and machine-wash methods for wool, silk, cashmere, and lace, with the temperature, detergent, and drying rules that prevent damage and shrinking."
 primaryKeyword: "how to wash delicates"
 secondaryKeywords:
   - "how to hand wash silk"

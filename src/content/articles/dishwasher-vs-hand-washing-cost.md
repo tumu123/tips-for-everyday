@@ -1,6 +1,6 @@
 ---
 title: "Dishwasher vs Hand Washing: Which Actually Costs Less?"
-description: "The answer depends almost entirely on how you wash by hand. Here is the water and energy maths for both, and the specific conditions under which hand washing genuinely wins."
+description: "The answer depends almost entirely on how you wash by hand. Here is the water and energy maths for both, plus the cases where hand washing genuinely wins."
 primaryKeyword: "dishwasher vs hand washing cost"
 secondaryKeywords:
   - "is a dishwasher cheaper than hand washing"

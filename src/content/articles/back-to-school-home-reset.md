@@ -1,6 +1,6 @@
 ---
 title: "Back-to-School Home Reset: The Week Before"
-description: "The school year rarely fails on the first morning. It fails in the entryway, the laundry basket, and the paperwork pile. Here is the week-before reset that fixes those."
+description: "The school year rarely fails on the first morning. It fails in the entryway, the laundry basket, and the paperwork pile. Here is the week-before reset."
 primaryKeyword: "back to school home reset"
 secondaryKeywords:
   - "back to school organization"

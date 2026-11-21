@@ -1,6 +1,6 @@
 ---
 title: "How to Remove Pet Urine Stains and Odor from Carpet"
-description: "Pet urine stains come back because urate crystals survive normal cleaning. Here's the enzymatic method that removes the stain, odor, and the padding underneath."
+description: "Pet urine stains come back because urate crystals survive normal cleaning. Here's the enzymatic method that removes the stain, the odor, and the padding."
 primaryKeyword: "pet urine carpet removal"
 secondaryKeywords:
   - "how to get pet urine out of carpet"

@@ -1,6 +1,6 @@
 ---
 title: "How to Prepare Your Home for a Winter Storm"
-description: "Winter storms damage houses in three ways: snow load, ice dams, and loss of heat. Each needs a different prep, and the order matters more than the shopping list."
+description: "Winter storms damage houses in three ways: snow load, ice dams, and loss of heat. Each needs different prep, and the order matters more than the list."
 primaryKeyword: "how to prepare your home for a winter storm"
 secondaryKeywords:
   - "winter storm preparation checklist"

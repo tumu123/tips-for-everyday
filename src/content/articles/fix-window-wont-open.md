@@ -1,6 +1,6 @@
 ---
 title: "How to Fix a Window That Won't Open"
-description: "A stuck window and a window that won't stay up are different problems. Here is how to identify your window type and what is actually jamming it."
+description: "A stuck window and a window that won't stay up are different problems. Here is how to identify your window type and what is actually jamming it in place."
 primaryKeyword: "window won't open"
 secondaryKeywords:
   - "stuck window fix"
